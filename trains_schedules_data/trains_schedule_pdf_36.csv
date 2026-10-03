@@ -1,0 +1,567 @@
+train_num,train_name,halt_station_name,departure_time
+22843,Bilaspu Buxar Express,,20:30
+22843,Bilaspu Buxar Express,Rourkela,00:55
+22843,Bilaspu Buxar Express,Tatanagar,03:50
+22843,Bilaspu Buxar Express,Purulia,05:43
+22843,Bilaspu Buxar Express,Asansol,07:45
+22843,Bilaspu Buxar Express,Chittaranjan,08:09
+22843,Bilaspu Buxar Express,Madhupur,08:52
+22843,Bilaspu Buxar Express,Jasidih,09:15
+22843,Bilaspu Buxar Express,Jhajha,10:30
+22843,Bilaspu Buxar Express,Kiul,11:06
+22843,Bilaspu Buxar Express,Mokama,11:51
+22843,Bilaspu Buxar Express,Patna,13:50
+22843,Bilaspu Buxar Express,Danapur,14:03
+22843,Bilaspu Buxar Express,None None Buxar Arr.,16:10
+12253,SMVT Bengaluru Bhagalpur Anga Express,Dankuni,00:06
+12253,SMVT Bengaluru Bhagalpur Anga Express,Asansol,02:31
+12253,SMVT Bengaluru Bhagalpur Anga Express,Madhupur,03:41
+12253,SMVT Bengaluru Bhagalpur Anga Express,Jasidih,04:20
+12253,SMVT Bengaluru Bhagalpur Anga Express,Kiul,06:50
+12253,SMVT Bengaluru Bhagalpur Anga Express,Jamalpur,07:39
+12253,SMVT Bengaluru Bhagalpur Anga Express,Bhagalpur,09:20
+13514,Hatia Asansol Express,Hatia,14:45
+13514,Hatia Asansol Express,Ranchi,15:05
+13514,Hatia Asansol Express,Hazaribagh Town,17:23
+13514,Hatia Asansol Express,Asansol,23:45
+13514,Hatia Asansol Express,Chittaranjan,22:50
+13514,Hatia Asansol Express,Madhupur,22:06
+18626,Hatia Purnia Court Express,Hatia,05:45
+18626,Hatia Purnia Court Express,Ranchi,06:05
+18626,Hatia Purnia Court Express,Muri,07:12
+18626,Hatia Purnia Court Express,Bokaro Steel City,08:30
+18626,Hatia Purnia Court Express,Chandrapura,09:17
+18626,Hatia Purnia Court Express,NSCB Gomoh,09:46
+18626,Hatia Purnia Court Express,Parasanath,10:00
+18626,Hatia Purnia Court Express,Gaya,13:20
+18626,Hatia Purnia Court Express,Mokama,17:03
+18626,Hatia Purnia Court Express,Rajendranagar d ,15:23
+18626,Hatia Purnia Court Express,Patna,15:15
+18183,tanag Buxar xpres,Tatanagar,07:55
+18183,tanag Buxar xpres,Purulia,09:47
+18183,tanag Buxar xpres,Asansol,12:10
+18183,tanag Buxar xpres,Chittaranjan,12:34
+18183,tanag Buxar xpres,Madhupur,13:30
+18183,tanag Buxar xpres,Jasidih,13:55
+18183,tanag Buxar xpres,Jhajha,15:05
+18183,tanag Buxar xpres,Kiul,16:06
+18183,tanag Buxar xpres,Mokama,17:04
+18183,tanag Buxar xpres,Rajendranagar d ,18:35
+18183,tanag Buxar xpres,Patna,19:00
+18183,tanag Buxar xpres,Danapur,19:25
+18183,tanag Buxar xpres,None None Buxar Arr.,22:55
+13320,Ranchi Dumka Express,Ranchi,12:55
+13320,Ranchi Dumka Express,Muri,13:55
+13320,Ranchi Dumka Express,Bokaro Steel City,15:20
+13320,Ranchi Dumka Express,Chandrapura,16:11
+13320,Ranchi Dumka Express,NSCB Gomoh,17:00
+13320,Ranchi Dumka Express,Dhanbad,18:10
+13320,Ranchi Dumka Express,Chittaranjan,19:16
+13320,Ranchi Dumka Express,Madhupur,20:06
+13320,Ranchi Dumka Express,Jasidih,21:05
+13320,Ranchi Dumka Express,Deoghar,21:25
+13320,Ranchi Dumka Express,Dumka,22:55
+15027,Sambalpur Gorakhpur Maurya Express,Durg,09:20
+15027,Sambalpur Gorakhpur Maurya Express,Rourkela,11:50
+15027,Sambalpur Gorakhpur Maurya Express,Hatia,16:00
+15027,Sambalpur Gorakhpur Maurya Express,Ranchi,16:25
+15027,Sambalpur Gorakhpur Maurya Express,Muri,17:35
+15027,Sambalpur Gorakhpur Maurya Express,Bokaro Steel City,19:35
+15027,Sambalpur Gorakhpur Maurya Express,Chandrapura,20:32
+15027,Sambalpur Gorakhpur Maurya Express,Dhanbad,22:00
+15027,Sambalpur Gorakhpur Maurya Express,Chittaranjan,23:20
+15027,Sambalpur Gorakhpur Maurya Express,Madhupur,00:13
+15027,Sambalpur Gorakhpur Maurya Express,Jasidih,00:54
+15027,Sambalpur Gorakhpur Maurya Express,Jhajha,02:00
+15027,Sambalpur Gorakhpur Maurya Express,Kiul,02:55
+13304,Ranchi Dhanbad Intercity Express,Ranchi,17:05
+13304,Ranchi Dhanbad Intercity Express,Muri,18:00
+13304,Ranchi Dhanbad Intercity Express,Bokaro Steel City,19:10
+13304,Ranchi Dhanbad Intercity Express,Chandrapura,20:08
+13304,Ranchi Dhanbad Intercity Express,Dhanbad,21:30
+13329,Dhanbad Patna Ganga Damodar Express,Dhanbad,23:20
+13329,Dhanbad Patna Ganga Damodar Express,NSCB Gomoh,23:59
+13329,Dhanbad Patna Ganga Damodar Express,Parasanath,00:13
+13329,Dhanbad Patna Ganga Damodar Express,Gaya,03:10
+13329,Dhanbad Patna Ganga Damodar Express,Patna,05:15
+18624,Hatia Islampur Express,Hatia,19:10
+18624,Hatia Islampur Express,Ranchi,19:35
+18624,Hatia Islampur Express,Muri,20:50
+18624,Hatia Islampur Express,Bokaro Steel City,22:05
+18624,Hatia Islampur Express,Chandrapura,22:51
+18624,Hatia Islampur Express,NSCB Gomoh,23:35
+18624,Hatia Islampur Express,Parasanath,23:49
+18624,Hatia Islampur Express,Gaya,04:00
+18624,Hatia Islampur Express,Rajendranagar d ,06:35
+18624,Hatia Islampur Express,Patna,06:27
+18624,Hatia Islampur Express,None None Buxar Arr.,09:05
+13287,Durg Ara South Bihar xpres,Durg,06:50
+13287,Durg Ara South Bihar xpres,Bilaspur,09:55
+13287,Durg Ara South Bihar xpres,Rourkela,15:20
+13287,Durg Ara South Bihar xpres,Tatanagar,18:45
+13287,Durg Ara South Bihar xpres,Purulia,21:20
+13287,Durg Ara South Bihar xpres,Asansol,00:15
+13287,Durg Ara South Bihar xpres,Chittaranjan,00:39
+13287,Durg Ara South Bihar xpres,Madhupur,01:23
+13287,Durg Ara South Bihar xpres,Jasidih,01:47
+13287,Durg Ara South Bihar xpres,Jhajha,03:10
+13287,Durg Ara South Bihar xpres,Kiul,04:00
+13287,Durg Ara South Bihar xpres,Mokama,04:47
+13287,Durg Ara South Bihar xpres,Rajendranagar d ,06:30
+13287,Durg Ara South Bihar xpres,Patna,06:50
+13287,Durg Ara South Bihar xpres,Danapur,07:20
+13287,Durg Ara South Bihar xpres,None None Buxar Arr.,09:30
+13403,Ranchi Bhagalpur Vananchal Express (via Andal),Ranchi,19:10
+13403,Ranchi Bhagalpur Vananchal Express (via Andal),Muri,20:05
+13403,Ranchi Bhagalpur Vananchal Express (via Andal),Bokaro Steel City,21:15
+13403,Ranchi Bhagalpur Vananchal Express (via Andal),Chandrapura,22:06
+13403,Ranchi Bhagalpur Vananchal Express (via Andal),Dhanbad,23:30
+13403,Ranchi Bhagalpur Vananchal Express (via Andal),Asansol,00:35
+13403,Ranchi Bhagalpur Vananchal Express (via Andal),Rampurhat,03:27
+13403,Ranchi Bhagalpur Vananchal Express (via Andal),Sahibganj,06:16
+13403,Ranchi Bhagalpur Vananchal Express (via Andal),Bhagalpur,08:15
+18622,Hatia Patna Patliputra Express,Hatia,22:00
+18622,Hatia Patna Patliputra Express,Ranchi,22:25
+18622,Hatia Patna Patliputra Express,Muri,23:25
+18622,Hatia Patna Patliputra Express,Bokaro Steel City,00:35
+18622,Hatia Patna Patliputra Express,Chandrapura,01:28
+18622,Hatia Patna Patliputra Express,Dhanbad,03:35
+18622,Hatia Patna Patliputra Express,Chittaranjan,04:52
+18622,Hatia Patna Patliputra Express,Madhupur,05:51
+18622,Hatia Patna Patliputra Express,Jasidih,06:29
+18622,Hatia Patna Patliputra Express,Jhajha,07:45
+18622,Hatia Patna Patliputra Express,Kiul,09:02
+18622,Hatia Patna Patliputra Express,Mokama,10:08
+18622,Hatia Patna Patliputra Express,Rajendranagar d ,12:10
+18622,Hatia Patna Patliputra Express,Patna,13:15
+18629,Ranchi Gorakhpur Express,Ranchi,16:50
+18629,Ranchi Gorakhpur Express,Muri,17:45
+18629,Ranchi Gorakhpur Express,Bokaro Steel City,19:30
+18629,Ranchi Gorakhpur Express,Chandrapura,20:23
+18629,Ranchi Gorakhpur Express,Dhanbad,21:50
+18629,Ranchi Gorakhpur Express,Chittaranjan,23:12
+18629,Ranchi Gorakhpur Express,Madhupur,23:53
+18629,Ranchi Gorakhpur Express,Jasidih,00:24
+18629,Ranchi Gorakhpur Express,Jhajha,01:40
+18629,Ranchi Gorakhpur Express,Kiul,02:30
+18629,Ranchi Gorakhpur Express,Mokama,03:03
+18629,Ranchi Gorakhpur Express,Patna,05:00
+20893,Tatanagar Patna Vande Bharat Express Via Bokoro,Tatanagar,05:25
+20893,Tatanagar Patna Vande Bharat Express Via Bokoro,Muri,07:10
+20893,Tatanagar Patna Vande Bharat Express Via Bokoro,Bokaro Steel City,08:00
+20893,Tatanagar Patna Vande Bharat Express Via Bokoro,NSCB Gomoh,08:55
+20893,Tatanagar Patna Vande Bharat Express Via Bokoro,Parasanath,09:05
+20893,Tatanagar Patna Vande Bharat Express Via Bokoro,Gaya,11:10
+20893,Tatanagar Patna Vande Bharat Express Via Bokoro,Patna,12:45
+13331,Dhanbad Patna Intercity Express,Dhanbad,08:05
+13331,Dhanbad Patna Intercity Express,Chittaranjan,09:20
+13331,Dhanbad Patna Intercity Express,Madhupur,10:17
+13331,Dhanbad Patna Intercity Express,Jasidih,10:55
+13331,Dhanbad Patna Intercity Express,Jhajha,12:30
+13331,Dhanbad Patna Intercity Express,Kiul,13:44
+13331,Dhanbad Patna Intercity Express,Mokama,14:32
+13331,Dhanbad Patna Intercity Express,Rajendranagar,16:20
+13331,Dhanbad Patna Intercity Express,Patna,17:30
+12366,Ranchi Patna Jan Shatabdi Express,Ranchi,14:25
+12366,Ranchi Patna Jan Shatabdi Express,Muri,15:25
+12366,Ranchi Patna Jan Shatabdi Express,Bokaro Steel,16:25
+12366,Ranchi Patna Jan Shatabdi Express,Chandrapura,17:09
+12366,Ranchi Patna Jan Shatabdi Express,NSCB Gomoh,17:45
+12366,Ranchi Patna Jan Shatabdi Express,Parasanath,17:58
+12366,Ranchi Patna Jan Shatabdi Express,Gaya,20:35
+12366,Ranchi Patna Jan Shatabdi Express,Patna,22:30
+18619,Ranchi Godda Express,Ranchi,21:05
+18619,Ranchi Godda Express,Muri,22:02
+18619,Ranchi Godda Express,Bokaro Steel,23:30
+18619,Ranchi Godda Express,Chandrapura,00:26
+18619,Ranchi Godda Express,Dhanbad,02:05
+18619,Ranchi Godda Express,Asansol,03:00
+18619,Ranchi Godda Express,Chittaranjan,03:12
+18619,Ranchi Godda Express,Madhupur,04:10
+18619,Ranchi Godda Express,Jasidih,05:35
+18619,Ranchi Godda Express,Deoghar,05:43
+18619,Ranchi Godda Express,Dumka,07:25
+18619,Ranchi Godda Express,Godda,09:25
+18603,Ranchi Godda Express,Ranchi,14:50
+18603,Ranchi Godda Express,Muri,15:50
+18603,Ranchi Godda Express,Bokaro Steel,17:15
+18603,Ranchi Godda Express,Chandrapura,18:03
+18603,Ranchi Godda Express,Dhanbad,19:10
+18603,Ranchi Godda Express,Chittaranjan,20:24
+18603,Ranchi Godda Express,Madhupur,21:18
+18603,Ranchi Godda Express,Jasidih,21:48
+18603,Ranchi Godda Express,Jhajha,22:40
+18603,Ranchi Godda Express,Kiul,00:30
+18603,Ranchi Godda Express,Jamalpur,01:35
+18603,Ranchi Godda Express,Bhagalpur,03:00
+18603,Ranchi Godda Express,Godda,06:20
+13015,Howrah Jamalpur Kavi Guru Express,Howrah,11:05
+13015,Howrah Jamalpur Kavi Guru Express,Rampurhat,15:30
+13015,Howrah Jamalpur Kavi Guru Express,Dumka,16:40
+13015,Howrah Jamalpur Kavi Guru Express,Jamalpur,21:35
+13015,Howrah Jamalpur Kavi Guru Express,Bhagalpur,19:56
+18105,Rourkela Jayanagar Express,Rourkela,16:35
+18105,Rourkela Jayanagar Express,Hatia,19:50
+18105,Rourkela Jayanagar Express,Ranchi,20:10
+18105,Rourkela Jayanagar Express,Muri,21:20
+18105,Rourkela Jayanagar Express,Bokaro Steel,22:35
+18105,Rourkela Jayanagar Express,Chandrapura,23:26
+18105,Rourkela Jayanagar Express,Dhanbad,00:45
+18105,Rourkela Jayanagar Express,Jasidih,03:04
+18105,Rourkela Jayanagar Express,Jhajha,04:25
+18105,Rourkela Jayanagar Express,Kiul,05:03
+17005,Hyderabad Raxaul Express,Durg,11:55
+17005,Hyderabad Raxaul Express,Bilaspur,14:40
+17005,Hyderabad Raxaul Express,Rourkela,19:33
+17005,Hyderabad Raxaul Express,Ranchi,23:00
+17005,Hyderabad Raxaul Express,Muri,00:05
+17005,Hyderabad Raxaul Express,Bokaro Steel,01:40
+17005,Hyderabad Raxaul Express,Dhanbad,03:50
+17005,Hyderabad Raxaul Express,Chittaranjan,05:04
+17005,Hyderabad Raxaul Express,Madhupur,06:03
+17005,Hyderabad Raxaul Express,Jasidih,06:41
+17005,Hyderabad Raxaul Express,Jhajha,08:05
+17007,Secundrabad Dharbanga Express,Durg,11:55
+17007,Secundrabad Dharbanga Express,Bilaspur,14:40
+17007,Secundrabad Dharbanga Express,Rourkela,19:33
+17007,Secundrabad Dharbanga Express,Ranchi,23:00
+17007,Secundrabad Dharbanga Express,Muri,00:05
+17007,Secundrabad Dharbanga Express,Bokaro Steel,01:40
+17007,Secundrabad Dharbanga Express,Dhanbad,03:50
+17007,Secundrabad Dharbanga Express,Chittaranjan,05:04
+17007,Secundrabad Dharbanga Express,Madhupur,06:03
+17007,Secundrabad Dharbanga Express,Jasidih,06:41
+17007,Secundrabad Dharbanga Express,Jhajha,08:05
+17007,Secundrabad Dharbanga Express,Kiul,08:51
+18640,Ranchi Ara Express,Ranchi,20:45
+18640,Ranchi Ara Express,Muri,21:45
+18640,Ranchi Ara Express,Bokaro Steel,23:10
+18640,Ranchi Ara Express,NSCB Gomoh,00:25
+18640,Ranchi Ara Express,Gaya,03:05
+18640,Ranchi Ara Express,Bhagalpur,08:10
+17321,Vasco De Gama Jasidih Express,Durg,11:55
+17321,Vasco De Gama Jasidih Express,Bilaspur,14:40
+17321,Vasco De Gama Jasidih Express,Rourkela,19:33
+17321,Vasco De Gama Jasidih Express,Hatia,22:35
+17321,Vasco De Gama Jasidih Express,Ranchi,23:00
+17321,Vasco De Gama Jasidih Express,Muri,00:05
+17321,Vasco De Gama Jasidih Express,Bokaro Steel,01:40
+17321,Vasco De Gama Jasidih Express,Chandrapura,02:21
+17321,Vasco De Gama Jasidih Express,Dhanbad,03:50
+17321,Vasco De Gama Jasidih Express,Chittaranjan,05:04
+17321,Vasco De Gama Jasidih Express,Madhupur,06:03
+17321,Vasco De Gama Jasidih Express,Jasidih,07:10
+13045,Howrah Deoghar Mayurakshi Express,Howrah,16:25
+13045,Howrah Deoghar Mayurakshi Express,Rampurhat,21:55
+13045,Howrah Deoghar Mayurakshi Express,Deoghar,00:35
+13045,Howrah Deoghar Mayurakshi Express,Dumka,23:13
+22350,Ranchi Patna Vande Bharat Express,Ranchi,16:15
+22350,Ranchi Patna Vande Bharat Express,Barkakana,17:35
+22350,Ranchi Patna Vande Bharat Express,Hazaribagh a Town,18:27
+22350,Ranchi Patna Vande Bharat Express,Gaya,20:50
+22350,Ranchi Patna Vande Bharat Express,Patna,22:10
+21895,Tatanagar Patna Vande Bharat Express Via Bokoro,Tatanagar,05:25
+21895,Tatanagar Patna Vande Bharat Express Via Bokoro,Muri,07:10
+21895,Tatanagar Patna Vande Bharat Express Via Bokoro,Bokaro Steel,08:00
+21895,Tatanagar Patna Vande Bharat Express Via Bokoro,NSCB Gomoh,08:55
+21895,Tatanagar Patna Vande Bharat Express Via Bokoro,Parasanath,09:07
+21895,Tatanagar Patna Vande Bharat Express Via Bokoro,Gaya,11:10
+21895,Tatanagar Patna Vande Bharat Express Via Bokoro,Patna,12:45
+21893,Tatanagar Patna Vande Bharat Express Via Barkakana,Tatanagar,05:25
+21893,Tatanagar Patna Vande Bharat Express Via Barkakana,Muri,07:10
+21893,Tatanagar Patna Vande Bharat Express Via Barkakana,Barkakana,08:35
+21893,Tatanagar Patna Vande Bharat Express Via Barkakana,Gaya,14:30
+21893,Tatanagar Patna Vande Bharat Express Via Barkakana,Patna,15:55
+22357,Lokmanya Tilak (T) Gaya Express,Durg,05:08
+22357,Lokmanya Tilak (T) Gaya Express,Bilaspur,07:45
+22357,Lokmanya Tilak (T) Gaya Express,Rourkela,12:00
+22357,Lokmanya Tilak (T) Gaya Express,Hatia,15:05
+22357,Lokmanya Tilak (T) Gaya Express,Ranchi,15:25
+22357,Lokmanya Tilak (T) Gaya Express,Barkakana,18:05
+22357,Lokmanya Tilak (T) Gaya Express,Hazaribagh a Town,19:12
+22357,Lokmanya Tilak (T) Gaya Express,Gaya,22:50
+19603,Daurai Godda Express,Jasidih,19:37
+19603,Daurai Godda Express,Deoghar,19:45
+19603,Daurai Godda Express,Jhajha,18:50
+19603,Daurai Godda Express,Kiul,16:50
+19603,Daurai Godda Express,Godda,22:20
+12254,Bhagalpur SMVB Anga Express,Bhagalpur,13:55
+12254,Bhagalpur SMVB Anga Express,Jamalpur,14:45
+12254,Bhagalpur SMVB Anga Express,Kiul,16:20
+12254,Bhagalpur SMVB Anga Express,Jasidih,18:03
+12254,Bhagalpur SMVB Anga Express,Madhupur,18:26
+12254,Bhagalpur SMVB Anga Express,Asansol,19:45
+12254,Bhagalpur SMVB Anga Express,Dankuni,22:30
+13319,Dumka Ranchi Express,Dumka,03:30
+13319,Dumka Ranchi Express,Deoghar,04:33
+13319,Dumka Ranchi Express,Jasidih,05:05
+13319,Dumka Ranchi Express,Madhupur,05:37
+13319,Dumka Ranchi Express,Chittaranjan d ,06:26
+13319,Dumka Ranchi Express,Dhanbad,08:37
+13319,Dumka Ranchi Express,NSCB Gomoh,09:25
+13319,Dumka Ranchi Express,Chandrapura,09:45
+13319,Dumka Ranchi Express,Bokaro Steel City,10:25
+13319,Dumka Ranchi Express,Muri,11:25
+13319,Dumka Ranchi Express,Ranchi,12:55
+18184,Buxar atanaga Express,Godda,03:30
+18184,Buxar atanaga Express,Danapur,05:30
+18184,Buxar atanaga Express,Patna,05:55
+18184,Buxar atanaga Express,Rajendranagar,06:03
+18184,Buxar atanaga Express,Mokama,07:40
+18184,Buxar atanaga Express,Kiul,08:55
+18184,Buxar atanaga Express,Jhajha d ,10:25
+18184,Buxar atanaga Express,Jasidih,11:02
+18184,Buxar atanaga Express,Madhupur,11:24
+18184,Buxar atanaga Express,Chittaranjan d ,12:16
+18184,Buxar atanaga Express,Asansol,13:35
+18184,Buxar atanaga Express,Purulia,15:05
+18184,Buxar atanaga Express,Tatanagar,18:00
+18625,Purnia Court Hatia Express,Patna,10:05
+18625,Purnia Court Hatia Express,Rajendranagar,09:33
+18625,Purnia Court Hatia Express,Mokama,07:51
+18625,Purnia Court Hatia Express,Gaya,13:00
+18625,Purnia Court Hatia Express,NSCB Gomoh,16:05
+18625,Purnia Court Hatia Express,Chandrapura,16:25
+18625,Purnia Court Hatia Express,Bokaro Steel City,17:15
+18625,Purnia Court Hatia Express,Muri,18:20
+18625,Purnia Court Hatia Express,Ranchi,19:45
+18625,Purnia Court Hatia Express,Hatia,21:00
+18621,Patna Hatia Patliputra Express,Patna,14:50
+18621,Patna Hatia Patliputra Express,Rajendranagar,14:58
+18621,Patna Hatia Patliputra Express,Mokama,16:43
+18621,Patna Hatia Patliputra Express,Kiul,17:48
+18621,Patna Hatia Patliputra Express,Jhajha d ,20:00
+18621,Patna Hatia Patliputra Express,Jasidih,20:46
+18621,Patna Hatia Patliputra Express,Madhupur,21:18
+18621,Patna Hatia Patliputra Express,Chittaranjan d ,22:08
+18621,Patna Hatia Patliputra Express,Dhanbad,00:17
+18621,Patna Hatia Patliputra Express,Chandrapura,01:18
+18621,Patna Hatia Patliputra Express,Bokaro Steel City,01:55
+18621,Patna Hatia Patliputra Express,Muri,02:55
+18621,Patna Hatia Patliputra Express,Ranchi,04:10
+18621,Patna Hatia Patliputra Express,Hatia,05:30
+13404,Bhagalpur Ranchi Vananchal Express (via Andal),Bhagalpur,19:05
+13404,Bhagalpur Ranchi Vananchal Express (via Andal),Sahibganj,20:33
+13404,Bhagalpur Ranchi Vananchal Express (via Andal),Rampurhat,23:26
+13404,Bhagalpur Ranchi Vananchal Express (via Andal),Asansol,02:46
+13404,Bhagalpur Ranchi Vananchal Express (via Andal),Dhanbad,04:23
+13404,Bhagalpur Ranchi Vananchal Express (via Andal),Chandrapura,05:22
+13404,Bhagalpur Ranchi Vananchal Express (via Andal),Bokaro Steel City,06:00
+13404,Bhagalpur Ranchi Vananchal Express (via Andal),Muri,06:55
+13404,Bhagalpur Ranchi Vananchal Express (via Andal),Ranchi,08:40
+13288,Ara Dur South Bihar Express,Godda,18:45
+13288,Ara Dur South Bihar Express,Danapur,19:40
+13288,Ara Dur South Bihar Express,Patna,20:10
+13288,Ara Dur South Bihar Express,Rajendranagar,20:23
+13288,Ara Dur South Bihar Express,Mokama,22:05
+13288,Ara Dur South Bihar Express,Kiul,22:56
+13288,Ara Dur South Bihar Express,Jhajha d ,00:30
+13288,Ara Dur South Bihar Express,Jasidih,01:07
+13288,Ara Dur South Bihar Express,Madhupur,01:33
+13288,Ara Dur South Bihar Express,Chittaranjan d ,02:18
+13288,Ara Dur South Bihar Express,Asansol,03:40
+13288,Ara Dur South Bihar Express,Purulia,05:25
+13288,Ara Dur South Bihar Express,Tatanagar,08:05
+13288,Ara Dur South Bihar Express,Rourkela,11:00
+13288,Ara Dur South Bihar Express,Bilaspur,17:45
+13288,Ara Dur South Bihar Express,Durg,20:40
+18623,Islampur Hatia Express,Godda,19:15
+18623,Islampur Hatia Express,Patna,21:25
+18623,Islampur Hatia Express,Rajendranagar,20:52
+18623,Islampur Hatia Express,Gaya,00:35
+18623,Islampur Hatia Express,NSCB Gomoh,03:20
+18623,Islampur Hatia Express,Chandrapura,04:02
+18623,Islampur Hatia Express,Bokaro Steel City,04:40
+18623,Islampur Hatia Express,Muri,05:42
+18623,Islampur Hatia Express,Ranchi,07:15
+18623,Islampur Hatia Express,Hatia,08:10
+15028,Gorakhpur Sambalpur Maurya Express,Kiul,20:05
+15028,Gorakhpur Sambalpur Maurya Express,Jhajha d ,22:05
+15028,Gorakhpur Sambalpur Maurya Express,Jasidih,22:46
+15028,Gorakhpur Sambalpur Maurya Express,Madhupur,23:15
+15028,Gorakhpur Sambalpur Maurya Express,Chittaranjan d ,00:10
+15028,Gorakhpur Sambalpur Maurya Express,Dhanbad,02:20
+15028,Gorakhpur Sambalpur Maurya Express,Chandrapura,03:32
+15028,Gorakhpur Sambalpur Maurya Express,Bokaro Steel City,04:10
+15028,Gorakhpur Sambalpur Maurya Express,Muri,05:20
+15028,Gorakhpur Sambalpur Maurya Express,Ranchi,06:40
+15028,Gorakhpur Sambalpur Maurya Express,Hatia,07:05
+15028,Gorakhpur Sambalpur Maurya Express,Rourkela,10:50
+15028,Gorakhpur Sambalpur Maurya Express,Bilaspur,14:40
+13330,Patna Dhanbad Ganga Damodar Express,Patna,23:20
+13330,Patna Dhanbad Ganga Damodar Express,Gaya,01:40
+13330,Patna Dhanbad Ganga Damodar Express,NSCB Gomoh,04:23
+13330,Patna Dhanbad Ganga Damodar Express,Dhanbad,05:20
+13303,Dhanbad Ranchi Intercity Express,Dhanbad,05:40
+13303,Dhanbad Ranchi Intercity Express,Chandrapura,06:34
+13303,Dhanbad Ranchi Intercity Express,Bokaro Steel City,07:05
+13303,Dhanbad Ranchi Intercity Express,Muri,08:05
+13303,Dhanbad Ranchi Intercity Express,Ranchi,10:00
+13332,Patna Dhanbad Intercity Express,Patna,08:30
+13332,Patna Dhanbad Intercity Express,Rajendranagar,08:38
+13332,Patna Dhanbad Intercity Express,Mokama,10:05
+13332,Patna Dhanbad Intercity Express,Kiul,10:55
+13332,Patna Dhanbad Intercity Express,Jhajha d ,12:50
+13332,Patna Dhanbad Intercity Express,Jasidih,13:28
+13332,Patna Dhanbad Intercity Express,Madhupur,13:53
+13332,Patna Dhanbad Intercity Express,Chittaranjan d ,14:46
+13332,Patna Dhanbad Intercity Express,Dhanbad,17:05
+12365,Patna Ranchi Jan Shatabdi Express,Patna,06:10
+12365,Patna Ranchi Jan Shatabdi Express,Gaya,08:15
+12365,Patna Ranchi Jan Shatabdi Express,NSCB Gomoh,10:30
+12365,Patna Ranchi Jan Shatabdi Express,Chandrapura,10:50
+12365,Patna Ranchi Jan Shatabdi Express,Bokaro Steel City,11:30
+12365,Patna Ranchi Jan Shatabdi Express,Muri,12:20
+12365,Patna Ranchi Jan Shatabdi Express,Ranchi,13:55
+18630,Gorakhpur Ranchi Express,Patna,21:50
+18630,Gorakhpur Ranchi Express,Mokama,23:13
+18630,Gorakhpur Ranchi Express,Kiul,00:01
+18630,Gorakhpur Ranchi Express,Jhajha d ,01:35
+18630,Gorakhpur Ranchi Express,Jasidih,02:09
+18630,Gorakhpur Ranchi Express,Madhupur,02:36
+18630,Gorakhpur Ranchi Express,Chittaranjan d ,03:23
+18630,Gorakhpur Ranchi Express,Dhanbad,05:05
+18630,Gorakhpur Ranchi Express,Chandrapura,06:20
+18630,Gorakhpur Ranchi Express,Bokaro Steel City,06:50
+18630,Gorakhpur Ranchi Express,Muri,07:45
+18630,Gorakhpur Ranchi Express,Ranchi,09:30
+20894,Patna Tatanagar Vande Bharat Express Via Bokoro,Patna,14:05
+20894,Patna Tatanagar Vande Bharat Express Via Bokoro,Gaya,15:30
+20894,Patna Tatanagar Vande Bharat Express Via Bokoro,NSCB Gomoh,17:56
+20894,Patna Tatanagar Vande Bharat Express Via Bokoro,Bokaro Steel City,18:27
+20894,Patna Tatanagar Vande Bharat Express Via Bokoro,Muri,19:20
+20894,Patna Tatanagar Vande Bharat Express Via Bokoro,Tatanagar,21:40
+18620,Godda Ranchi Express,,17:00
+18620,Godda Ranchi Express,Dumka,18:47
+18620,Godda Ranchi Express,Deoghar,19:48
+18620,Godda Ranchi Express,Jasidih,20:30
+18620,Godda Ranchi Express,Madhupur,20:57
+18620,Godda Ranchi Express,Chittaranjan,21:54
+18620,Godda Ranchi Express,Dhanbad,23:53
+18620,Godda Ranchi Express,Chandrapura,00:55
+18620,Godda Ranchi Express,Bokaro Steel City,01:25
+18620,Godda Ranchi Express,Muri,02:20
+18620,Godda Ranchi Express,,04:10
+22844,Buxar Bilaspu Express,,21:40
+22844,Buxar Bilaspu Express,Danapur,23:23
+22844,Buxar Bilaspu Express,Patna,00:10
+22844,Buxar Bilaspu Express,Mokama,01:22
+22844,Buxar Bilaspu Express,Kiul,01:48
+22844,Buxar Bilaspu Express,Jhajha,03:20
+22844,Buxar Bilaspu Express,Jasidih,03:53
+22844,Buxar Bilaspu Express,Madhupur,04:15
+22844,Buxar Bilaspu Express,Chittaranjan,04:55
+22844,Buxar Bilaspu Express,Asansol,06:05
+22844,Buxar Bilaspu Express,Purulia,07:32
+22844,Buxar Bilaspu Express,Tatanagar,09:55
+22844,Buxar Bilaspu Express,Rourkela,12:15
+22844,Buxar Bilaspu Express,Bilaspur,17:20
+18604,Godda Ranchi Express,,14:10
+18604,Godda Ranchi Express,Bhagalpur,17:01
+18604,Godda Ranchi Express,Jamalpur,18:07
+18604,Godda Ranchi Express,Kiul,19:45
+18604,Godda Ranchi Express,Jhajha,21:10
+18604,Godda Ranchi Express,Jasidih,21:47
+18604,Godda Ranchi Express,Madhupur,22:15
+18604,Godda Ranchi Express,Chittaranjan,23:00
+18604,Godda Ranchi Express,Dhanbad,01:20
+18604,Godda Ranchi Express,Chandrapura,02:10
+18604,Godda Ranchi Express,Bokaro Steel City,02:50
+18604,Godda Ranchi Express,Muri,03:50
+18604,Godda Ranchi Express,,06:00
+13016,Jamalpur Howrah Kavi Guru Express,Bhagalpur,07:55
+13016,Jamalpur Howrah Kavi Guru Express,Jamalpur,06:25
+13016,Jamalpur Howrah Kavi Guru Express,Dumka,11:12
+13016,Jamalpur Howrah Kavi Guru Express,Rampurhat,12:18
+13016,Jamalpur Howrah Kavi Guru Express,Howrah,16:30
+18106,Jaynagar Rourkela Express,Kiul,01:01
+18106,Jaynagar Rourkela Express,Jhajha,02:20
+18106,Jaynagar Rourkela Express,Jasidih,02:54
+18106,Jaynagar Rourkela Express,Dhanbad,06:00
+18106,Jaynagar Rourkela Express,Chandrapura,07:00
+18106,Jaynagar Rourkela Express,Bokaro Steel City,07:40
+18106,Jaynagar Rourkela Express,Muri,08:35
+18106,Jaynagar Rourkela Express,Ranchi,09:45
+18106,Jaynagar Rourkela Express,Hatia,10:05
+18106,Jaynagar Rourkela Express,Rourkela,15:00
+18639,Ara Ranchi Express,,09:30
+18639,Ara Ranchi Express,Gaya,13:55
+18639,Ara Ranchi Express,NSCB Gomoh,16:22
+18639,Ara Ranchi Express,Bokaro Steel City,17:40
+18639,Ara Ranchi Express,Muri,18:32
+18639,Ara Ranchi Express,,20:45
+17006,Raxaul Hyderabad Express,Jhajha,12:25
+17006,Raxaul Hyderabad Express,Jasidih,13:00
+17006,Raxaul Hyderabad Express,Madhupur,13:27
+17006,Raxaul Hyderabad Express,Chittaranjan,14:22
+17006,Raxaul Hyderabad Express,Dhanbad,16:20
+17006,Raxaul Hyderabad Express,Bokaro Steel City,18:05
+17006,Raxaul Hyderabad Express,Muri,19:00
+17006,Raxaul Hyderabad Express,Ranchi,20:20
+17006,Raxaul Hyderabad Express,Rourkela,00:07
+17006,Raxaul Hyderabad Express,Bilaspur,04:50
+17006,Raxaul Hyderabad Express,Durg,07:20
+17008,Darbhanga Secunderabad Express,Kiul,10:38
+17008,Darbhanga Secunderabad Express,Jhajha,12:25
+17008,Darbhanga Secunderabad Express,Jasidih,13:00
+17008,Darbhanga Secunderabad Express,Madhupur,13:27
+17008,Darbhanga Secunderabad Express,Chittaranjan,14:22
+17008,Darbhanga Secunderabad Express,Dhanbad,16:20
+17008,Darbhanga Secunderabad Express,Bokaro Steel City,18:05
+17008,Darbhanga Secunderabad Express,Muri,19:00
+17008,Darbhanga Secunderabad Express,Ranchi,20:20
+17008,Darbhanga Secunderabad Express,Rourkela,00:07
+17008,Darbhanga Secunderabad Express,Bilaspur,04:50
+17008,Darbhanga Secunderabad Express,Durg,07:20
+13513,Asansol Hatia Express,Madhupur,05:25
+13513,Asansol Hatia Express,Chittaranjan,04:32
+13513,Asansol Hatia Express,Asansol,04:10
+13513,Asansol Hatia Express,Hzaribagh Town,10:17
+13513,Asansol Hatia Express,Ranchi,13:05
+13513,Asansol Hatia Express,Hatia,14:00
+17322,Jasidih Vasco De Gama Express,Jasidih,13:10
+17322,Jasidih Vasco De Gama Express,Madhupur,13:32
+17322,Jasidih Vasco De Gama Express,Chittaranjan,14:22
+17322,Jasidih Vasco De Gama Express,Dhanbad,16:20
+17322,Jasidih Vasco De Gama Express,Chandrapura,17:20
+17322,Jasidih Vasco De Gama Express,Bokaro Steel City,18:05
+17322,Jasidih Vasco De Gama Express,Muri,19:00
+17322,Jasidih Vasco De Gama Express,Ranchi,20:15
+17322,Jasidih Vasco De Gama Express,Hatia,20:35
+17322,Jasidih Vasco De Gama Express,Rourkela,00:07
+17322,Jasidih Vasco De Gama Express,Bilaspur,04:50
+17322,Jasidih Vasco De Gama Express,Durg,07:20
+13046,Deoghar Howrah Mayurakshi Express,Dumka,04:06
+13046,Deoghar Howrah Mayurakshi Express,Deoghar,03:15
+13046,Deoghar Howrah Mayurakshi Express,Rampurhat,05:20
+13046,Deoghar Howrah Mayurakshi Express,Howrah,11:35
+22349,Patna Ranchi Vande Bharat Express,Patna,07:00
+22349,Patna Ranchi Vande Bharat Express,Gaya,08:30
+22349,Patna Ranchi Vande Bharat Express,Hzaribagh Town,10:41
+22349,Patna Ranchi Vande Bharat Express,Barkakana,11:45
+22349,Patna Ranchi Vande Bharat Express,,13:05
+22358,Gaya Lokmanya Tilak (T) Express,Gaya,19:05
+22358,Gaya Lokmanya Tilak (T) Express,Hzaribagh Town,21:22
+22358,Gaya Lokmanya Tilak (T) Express,Barkakana,22:25
+22358,Gaya Lokmanya Tilak (T) Express,Ranchi,23:55
+22358,Gaya Lokmanya Tilak (T) Express,Hatia,00:15
+22358,Gaya Lokmanya Tilak (T) Express,Rourkela,03:15
+22358,Gaya Lokmanya Tilak (T) Express,Bilaspur,08:15
+22358,Gaya Lokmanya Tilak (T) Express,Durg,11:00
+21896,Patna Tatanagar Vande Bharat Express Via Bokoro,Patna,16:45
+21896,Patna Tatanagar Vande Bharat Express Via Bokoro,Gaya,18:15
+21896,Patna Tatanagar Vande Bharat Express Via Bokoro,NSCB Gomoh,20:27
+21896,Patna Tatanagar Vande Bharat Express Via Bokoro,Bokaro Steel City,21:00
+21896,Patna Tatanagar Vande Bharat Express Via Bokoro,Muri,21:55
+21896,Patna Tatanagar Vande Bharat Express Via Bokoro,Tatanagar,23:55
+21894,Patna Tatanagar Vande Bharat Express Via Barkakana,Patna,13:20
+21894,Patna Tatanagar Vande Bharat Express Via Barkakana,Gaya,14:40
+21894,Patna Tatanagar Vande Bharat Express Via Barkakana,Barkakana,20:55
+21894,Patna Tatanagar Vande Bharat Express Via Barkakana,Muri,21:42
+21894,Patna Tatanagar Vande Bharat Express Via Barkakana,Tatanagar,23:55
+19604,Godda Daurai Express,Godda,05:00
+19604,Godda Daurai Express,Kiul,08:55
+19604,Godda Daurai Express,Jhajha,08:05
+19604,Godda Daurai Express,Deoghar,06:23
+19604,Godda Daurai Express,Jasidih,06:41
+19604,Godda Daurai Express,Gaya,13:25

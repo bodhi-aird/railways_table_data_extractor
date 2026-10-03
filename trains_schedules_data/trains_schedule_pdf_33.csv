@@ -1,0 +1,574 @@
+train_num,train_name,halt_station_name,departure_time
+15054,Gomti Nagar Chhapra Express,Lucknow Jn.,21:45
+15054,Gomti Nagar Chhapra Express,Ayodhya Cantt,00:55
+15054,Gomti Nagar Chhapra Express,Ayodhya Dham,01:18
+15054,Gomti Nagar Chhapra Express,Shahganj,03:10
+15054,Gomti Nagar Chhapra Express,Varanasi,06:25
+15054,Gomti Nagar Chhapra Express,Ballia,09:05
+15054,Gomti Nagar Chhapra Express,Chhapra,11:15
+11123,Gwalior Barauni Express,Gwalior,12:05
+11123,Gwalior Barauni Express,Virangana Laxmibai Jhansi,14:00
+11123,Gwalior Barauni Express,Kanpur Central,19:00
+11123,Gwalior Barauni Express,Unnao,19:28
+11123,Gwalior Barauni Express,Lucknow Jn.,20:45
+11123,Gwalior Barauni Express,Barabanki,21:30
+11123,Gwalior Barauni Express,Gonda,23:05
+11123,Gwalior Barauni Express,Mankapur,23:34
+11123,Gwalior Barauni Express,Basti,00:34
+11123,Gwalior Barauni Express,Gorakhpur,02:25
+11123,Gwalior Barauni Express,Siwan,04:50
+11123,Gwalior Barauni Express,Chhapra,06:35
+11123,Gwalior Barauni Express,Muzaffarpur,09:20
+11123,Gwalior Barauni Express,Barauni,12:55
+15046,Okha Gorakhpur Express,Ahmedabad,08:15
+15046,Okha Gorakhpur Express,Anand,09:33
+15046,Okha Gorakhpur Express,Chhayapuri,10:15
+15046,Okha Gorakhpur Express,Godhra,11:30
+15046,Okha Gorakhpur Express,Ratlam,14:15
+15046,Okha Gorakhpur Express,Nagda,15:05
+15046,Okha Gorakhpur Express,Ujjain,16:15
+15046,Okha Gorakhpur Express,Ujjain,16:15
+15046,Okha Gorakhpur Express,Maksi,17:30
+15046,Okha Gorakhpur Express,Guna,21:15
+15046,Okha Gorakhpur Express,Bina,00:25
+15046,Okha Gorakhpur Express,Virangana Laxmibai Jhansi,03:23
+15046,Okha Gorakhpur Express,Gwalior,04:42
+15046,Okha Gorakhpur Express,Agra Cantt.,06:40
+15046,Okha Gorakhpur Express,Tundla,07:55
+15046,Okha Gorakhpur Express,Etawah,09:12
+15046,Okha Gorakhpur Express,Kanpur Central,11:35
+15046,Okha Gorakhpur Express,Aishbagh,13:25
+15046,Okha Gorakhpur Express,Barabanki,14:40
+15046,Okha Gorakhpur Express,Gonda,15:50
+15046,Okha Gorakhpur Express,Basti,17:15
+15046,Okha Gorakhpur Express,Gorakhpur,18:55
+11463,Somnath Jabalpur Express (via Itarsi),Ahmedabad,18:35
+11463,Somnath Jabalpur Express (via Itarsi),Nadiad,19:32
+11463,Somnath Jabalpur Express (via Itarsi),Anand,19:47
+11463,Somnath Jabalpur Express (via Itarsi),Chhayapuri,20:26
+11463,Somnath Jabalpur Express (via Itarsi),Godhra,21:35
+11463,Somnath Jabalpur Express (via Itarsi),Dahod,22:25
+11463,Somnath Jabalpur Express (via Itarsi),Ratlam,00:45
+11463,Somnath Jabalpur Express (via Itarsi),Nagda,01:35
+11463,Somnath Jabalpur Express (via Itarsi),Ujjain,02:40
+11463,Somnath Jabalpur Express (via Itarsi),Ujjain,02:40
+11463,Somnath Jabalpur Express (via Itarsi),Maksi,03:32
+11463,Somnath Jabalpur Express (via Itarsi),Bhopal,07:00
+11465,Somnath Jabalpur Express (via Bina),Ahmedabad,18:35
+11465,Somnath Jabalpur Express (via Bina),Nadiad,19:32
+11465,Somnath Jabalpur Express (via Bina),Anand,19:47
+11465,Somnath Jabalpur Express (via Bina),Chhayapuri,20:26
+11465,Somnath Jabalpur Express (via Bina),Godhra,21:35
+11465,Somnath Jabalpur Express (via Bina),Dahod,22:25
+11465,Somnath Jabalpur Express (via Bina),Ratlam,00:45
+11465,Somnath Jabalpur Express (via Bina),Nagda,01:35
+11465,Somnath Jabalpur Express (via Bina),Ujjain,02:40
+11465,Somnath Jabalpur Express (via Bina),Ujjain,02:40
+11465,Somnath Jabalpur Express (via Bina),Maksi,03:32
+11465,Somnath Jabalpur Express (via Bina),Bhopal,07:00
+11465,Somnath Jabalpur Express (via Bina),Bina,09:35
+19309,Gandhi- nagar Indore Shanti Express,Gandhinagar,18:00
+19309,Gandhi- nagar Indore Shanti Express,Ahmedabad,19:10
+19309,Gandhi- nagar Indore Shanti Express,Nadiad,20:04
+19309,Gandhi- nagar Indore Shanti Express,Anand,20:22
+19309,Gandhi- nagar Indore Shanti Express,Chhayapuri,21:22
+19309,Gandhi- nagar Indore Shanti Express,Godhra,22:35
+19309,Gandhi- nagar Indore Shanti Express,Dahod,23:32
+19309,Gandhi- nagar Indore Shanti Express,Ratlam,01:40
+19309,Gandhi- nagar Indore Shanti Express,Nagda,02:50
+19309,Gandhi- nagar Indore Shanti Express,Ujjain,03:50
+19309,Gandhi- nagar Indore Shanti Express,Indore,05:50
+19165,Ahmedabad Darbhanga Sabarmati Express,Ahmedabad,23:10
+19165,Ahmedabad Darbhanga Sabarmati Express,Nadiad,23:57
+19165,Ahmedabad Darbhanga Sabarmati Express,Anand,00:12
+19165,Ahmedabad Darbhanga Sabarmati Express,Chhayapuri,00:57
+19165,Ahmedabad Darbhanga Sabarmati Express,Godhra,02:07
+19165,Ahmedabad Darbhanga Sabarmati Express,Dahod,02:57
+19165,Ahmedabad Darbhanga Sabarmati Express,Ratlam,04:55
+19165,Ahmedabad Darbhanga Sabarmati Express,Nagda,05:45
+19165,Ahmedabad Darbhanga Sabarmati Express,Ujjain,07:00
+19165,Ahmedabad Darbhanga Sabarmati Express,Ujjain,07:00
+19165,Ahmedabad Darbhanga Sabarmati Express,Maksi,07:55
+19165,Ahmedabad Darbhanga Sabarmati Express,Guna,12:10
+19165,Ahmedabad Darbhanga Sabarmati Express,Bina,15:35
+19165,Ahmedabad Darbhanga Sabarmati Express,Virangana Laxmibai Jhansi,17:48
+19165,Ahmedabad Darbhanga Sabarmati Express,Kanpur Central,23:30
+19165,Ahmedabad Darbhanga Sabarmati Express,Unnao,23:58
+19165,Ahmedabad Darbhanga Sabarmati Express,Lucknow Jn.,01:10
+19165,Ahmedabad Darbhanga Sabarmati Express,Barabanki,01:48
+19165,Ahmedabad Darbhanga Sabarmati Express,Ayodhya Cantt,03:35
+19165,Ahmedabad Darbhanga Sabarmati Express,Ayodhya Dham,03:53
+19165,Ahmedabad Darbhanga Sabarmati Express,Shahganj,06:40
+19165,Ahmedabad Darbhanga Sabarmati Express,Azamgarh,08:05
+19165,Ahmedabad Darbhanga Sabarmati Express,Mau,09:00
+19165,Ahmedabad Darbhanga Sabarmati Express,Ballia,10:30
+19165,Ahmedabad Darbhanga Sabarmati Express,Chhapra,13:30
+19165,Ahmedabad Darbhanga Sabarmati Express,Muzaffarpur,16:05
+19167,Ahmedabad Varanasi City Sabarmati Express,Ahmedabad,23:10
+19167,Ahmedabad Varanasi City Sabarmati Express,Nadiad,23:57
+19167,Ahmedabad Varanasi City Sabarmati Express,Anand,00:12
+19167,Ahmedabad Varanasi City Sabarmati Express,Chhayapuri,00:57
+19167,Ahmedabad Varanasi City Sabarmati Express,Godhra,02:07
+19167,Ahmedabad Varanasi City Sabarmati Express,Dahod,02:57
+19167,Ahmedabad Varanasi City Sabarmati Express,Ratlam,04:55
+19167,Ahmedabad Varanasi City Sabarmati Express,Nagda,05:45
+19167,Ahmedabad Varanasi City Sabarmati Express,Ujjain,07:00
+19167,Ahmedabad Varanasi City Sabarmati Express,Ujjain,07:00
+19167,Ahmedabad Varanasi City Sabarmati Express,Maksi,07:55
+19167,Ahmedabad Varanasi City Sabarmati Express,Guna,12:10
+19167,Ahmedabad Varanasi City Sabarmati Express,Bina,15:35
+19167,Ahmedabad Varanasi City Sabarmati Express,Virangana Laxmibai Jhansi,17:48
+19167,Ahmedabad Varanasi City Sabarmati Express,Kanpur Central,23:30
+19167,Ahmedabad Varanasi City Sabarmati Express,Unnao,23:58
+19167,Ahmedabad Varanasi City Sabarmati Express,Lucknow Jn.,01:10
+19167,Ahmedabad Varanasi City Sabarmati Express,Barabanki,01:48
+19167,Ahmedabad Varanasi City Sabarmati Express,Ayodhya Cantt,03:35
+19167,Ahmedabad Varanasi City Sabarmati Express,Ayodhya Dham,03:53
+19167,Ahmedabad Varanasi City Sabarmati Express,Shahganj,05:50
+19167,Ahmedabad Varanasi City Sabarmati Express,Varanasi,09:40
+21125,Ratlam Bhind Express,Ratlam,17:25
+21125,Ratlam Bhind Express,Indore,19:50
+21125,Ratlam Bhind Express,Ujjain,21:55
+21125,Ratlam Bhind Express,Maksi,23:20
+21125,Ratlam Bhind Express,Guna,03:05
+21125,Ratlam Bhind Express,Gwalior,07:42
+21125,Ratlam Bhind Express,Bhind,09:50
+11125,Ratlam Gwalior Express,Ratlam,17:25
+11125,Ratlam Gwalior Express,Indore,19:50
+11125,Ratlam Gwalior Express,Ujjain,21:55
+11125,Ratlam Gwalior Express,Maksi,23:20
+11125,Ratlam Gwalior Express,Guna,03:05
+11125,Ratlam Gwalior Express,Gwalior,07:37
+22969,Okha Banaras uper Fa Express,Ahmedabad,23:15
+22969,Okha Banaras uper Fa Express,Anand,00:27
+22969,Okha Banaras uper Fa Express,Chhayapuri,01:15
+22969,Okha Banaras uper Fa Express,Ratlam,05:30
+22969,Okha Banaras uper Fa Express,Nagda,06:25
+22969,Okha Banaras uper Fa Express,Agra Fort,15:00
+22969,Okha Banaras uper Fa Express,Tundla,16:35
+22969,Okha Banaras uper Fa Express,Kanpur Central,19:25
+22969,Okha Banaras uper Fa Express,Mau,02:00
+12941,Bhavanagar Asansol Parasnath Express,Ahmedabad,23:15
+12941,Bhavanagar Asansol Parasnath Express,Nadiad,00:09
+12941,Bhavanagar Asansol Parasnath Express,Chhayapuri,01:15
+12941,Bhavanagar Asansol Parasnath Express,Ratlam,05:30
+12941,Bhavanagar Asansol Parasnath Express,Nagda,06:25
+12941,Bhavanagar Asansol Parasnath Express,Agra Fort,15:00
+12941,Bhavanagar Asansol Parasnath Express,Tundla,16:45
+12941,Bhavanagar Asansol Parasnath Express,Kanpur Central,19:35
+15270,Sabarmati Muzaffarpur Jan Sadharan Express,Sabarmati,18:10
+15270,Sabarmati Muzaffarpur Jan Sadharan Express,Agra Fort,09:40
+15270,Sabarmati Muzaffarpur Jan Sadharan Express,Tundla,10:45
+15270,Sabarmati Muzaffarpur Jan Sadharan Express,Kanpur Central,14:10
+15270,Sabarmati Muzaffarpur Jan Sadharan Express,Lucknow Jn.,15:45
+15270,Sabarmati Muzaffarpur Jan Sadharan Express,Gonda,17:45
+15270,Sabarmati Muzaffarpur Jan Sadharan Express,Basti,19:04
+15270,Sabarmati Muzaffarpur Jan Sadharan Express,Gorakhpur,21:00
+15270,Sabarmati Muzaffarpur Jan Sadharan Express,Siwan,23:00
+15270,Sabarmati Muzaffarpur Jan Sadharan Express,Chhapra,00:50
+15270,Sabarmati Muzaffarpur Jan Sadharan Express,Muzaffarpur,03:50
+19623,Madar Darbhanga- Amrit Bharat Express,Unnao,08:50
+19623,Madar Darbhanga- Amrit Bharat Express,Barabanki,11:20
+19201,Bhavnagar Ayodhya Cantt Express,Tundla,10:55
+19201,Bhavnagar Ayodhya Cantt Express,Kanpur Central,14:10
+19201,Bhavnagar Ayodhya Cantt Express,Lucknow Jn.,15:45
+19201,Bhavnagar Ayodhya Cantt Express,Barabanki,16:26
+19201,Bhavnagar Ayodhya Cantt Express,Ayodhya Cantt,18:30
+12937,Gandhidham Howrah Express,Gandhidham,18:25
+12937,Gandhidham Howrah Express,Ahmedabad,23:15
+12937,Gandhidham Howrah Express,Chhayapuri,01:15
+12937,Gandhidham Howrah Express,Ratlam,05:30
+12937,Gandhidham Howrah Express,Agra Fort IDH,15:00
+12937,Gandhidham Howrah Express,Tundla,16:35
+12937,Gandhidham Howrah Express,Kanpur Central,19:35
+15667,Gandhidham Kamakhya Express,Gandhidham,14:05
+15667,Gandhidham Kamakhya Express,Ahmedabad,21:40
+15667,Gandhidham Kamakhya Express,Chhayapuri,23:40
+15667,Gandhidham Kamakhya Express,Dahod,01:28
+15667,Gandhidham Kamakhya Express,Ratlam,03:25
+15667,Gandhidham Kamakhya Express,Agra Fort IDH,12:50
+15667,Gandhidham Kamakhya Express,Tundla,14:10
+15667,Gandhidham Kamakhya Express,Kanpur Central,19:10
+15667,Gandhidham Kamakhya Express,L Jn u cknow / Lucknow,21:00
+19053,Surat Muzaffarpur Express,Surat,07:35
+19053,Surat Muzaffarpur Express,Vadodara,09:32
+19053,Surat Muzaffarpur Express,Dahod,12:22
+19053,Surat Muzaffarpur Express,Ratlam,14:15
+19053,Surat Muzaffarpur Express,Nagda,15:05
+19053,Surat Muzaffarpur Express,Ujjain,16:15
+19053,Surat Muzaffarpur Express,Ujjain,16:15
+19053,Surat Muzaffarpur Express,Maksi,17:30
+19053,Surat Muzaffarpur Express,Guna,21:15
+19053,Surat Muzaffarpur Express,Bina,00:25
+19053,Surat Muzaffarpur Express,Virangana Laxmibai,03:23
+19053,Surat Muzaffarpur Express,Gwalior,04:42
+19053,Surat Muzaffarpur Express,Agra Cantt.,06:40
+19053,Surat Muzaffarpur Express,Tundla,07:55
+19053,Surat Muzaffarpur Express,Kanpur Central,11:45
+19053,Surat Muzaffarpur Express,L Jn u cknow / Lucknow,13:45
+19053,Surat Muzaffarpur Express,Ayodhya Cantt,16:35
+19053,Surat Muzaffarpur Express,Ayodhya Dham,17:00
+19053,Surat Muzaffarpur Express,Shahganj,20:50
+19053,Surat Muzaffarpur Express,Azamgarh,21:45
+19053,Surat Muzaffarpur Express,Mau,22:35
+19053,Surat Muzaffarpur Express,Ballia,23:50
+19053,Surat Muzaffarpur Express,Chhapra,01:35
+19053,Surat Muzaffarpur Express,Muzaffarpur,04:30
+15084,Farrukhabad Chhapra Utsarg Express,Farrukhabad,14:30
+15084,Farrukhabad Chhapra Utsarg Express,Kanpur Anwarganj,17:17
+15084,Farrukhabad Chhapra Utsarg Express,Kanpur Central,17:50
+15084,Farrukhabad Chhapra Utsarg Express,Unnao,18:23
+15084,Farrukhabad Chhapra Utsarg Express,Aishbagh,19:40
+15084,Farrukhabad Chhapra Utsarg Express,Barabanki,20:52
+15084,Farrukhabad Chhapra Utsarg Express,Ayodhya Cantt,22:35
+15084,Farrukhabad Chhapra Utsarg Express,Ayodhya Dham,22:53
+15084,Farrukhabad Chhapra Utsarg Express,Shahganj,02:40
+15084,Farrukhabad Chhapra Utsarg Express,Azamgarh,03:30
+15084,Farrukhabad Chhapra Utsarg Express,Mau,04:30
+15084,Farrukhabad Chhapra Utsarg Express,Ballia,06:05
+15084,Farrukhabad Chhapra Utsarg Express,Chhapra,08:25
+12180,Agra Fort Lucknow Intercity Express,Agra Fort IDH,06:31
+12180,Agra Fort Lucknow Intercity Express,Tundla,07:12
+12180,Agra Fort Lucknow Intercity Express,Etawah,08:20
+12180,Agra Fort Lucknow Intercity Express,Kanpur Central,10:45
+12180,Agra Fort Lucknow Intercity Express,Unnao,11:18
+12180,Agra Fort Lucknow Intercity Express,L Jn u cknow / Lucknow,12:25
+11903,Virangana Laxmibai Jhansi Etawah Express,Virangana Laxmibai,17:15
+11903,Virangana Laxmibai Jhansi Etawah Express,Gwalior,19:05
+11903,Virangana Laxmibai Jhansi Etawah Express,Bhind,20:52
+11903,Virangana Laxmibai Jhansi Etawah Express,Etawah,22:00
+19319,Veraval Indore Mahamana Express,Ahmedabad,06:40
+19319,Veraval Indore Mahamana Express,Godhra d ,10:10
+19319,Veraval Indore Mahamana Express,Ratlam,12:45
+19319,Veraval Indore Mahamana Express,Ujjain,14:55
+19319,Veraval Indore Mahamana Express,Indore,17:05
+19339,Dahod Bhopal Express,Dahod,05:40
+19339,Dahod Bhopal Express,Ratlam,08:15
+19339,Dahod Bhopal Express,Nagda,09:30
+19339,Dahod Bhopal Express,Ujjain,11:05
+19339,Dahod Bhopal Express,Maksi,11:57
+19339,Dahod Bhopal Express,Bhopal,16:10
+19341,Nagda Bina Express,Nagda,11:10
+19341,Nagda Bina Express,Ujjain,12:35
+19341,Nagda Bina Express,Maksi,13:40
+19341,Nagda Bina Express,Guna,17:50
+19341,Nagda Bina Express,Bina,21:40
+22468,Gandhinagar Capital Varanasi Express,Gandhinagar,23:15
+22468,Gandhinagar Capital Varanasi Express,Ahmedabad,00:10
+22468,Gandhinagar Capital Varanasi Express,Anand,01:06
+22468,Gandhinagar Capital Varanasi Express,Chhayapuri,01:42
+22468,Gandhinagar Capital Varanasi Express,Godhra d ,02:50
+22468,Gandhinagar Capital Varanasi Express,Ratlam,05:15
+22468,Gandhinagar Capital Varanasi Express,Ujjain,07:05
+22468,Gandhinagar Capital Varanasi Express,Virangana Laxmibai,14:13
+22468,Gandhinagar Capital Varanasi Express,Kanpur Central,17:45
+20961,Udhna Banara Expres,Nadiad,07:25
+20961,Udhna Banara Expres,Vadodara,09:20
+20961,Udhna Banara Expres,Ratlam,13:05
+20961,Udhna Banara Expres,Nagda,13:55
+20961,Udhna Banara Expres,Ujjain,15:15
+20961,Udhna Banara Expres,Maksi,16:32
+20961,Udhna Banara Expres,Guna,20:15
+20961,Udhna Banara Expres,Gwalior,00:50
+20961,Udhna Banara Expres,Bhind,02:12
+20961,Udhna Banara Expres,Etawah,03:40
+20961,Udhna Banara Expres,Kanpur Central,05:35
+20961,Udhna Banara Expres,Mau,10:50
+19811,Kota Etawah Express,Guna,05:00
+19811,Kota Etawah Express,Gwalior,09:15
+19811,Kota Etawah Express,Bhind,10:50
+19811,Kota Etawah Express,Etawah,12:45
+9525,Hapa Naharlagun Special,Maksi,16:32
+9525,Hapa Naharlagun Special,Guna,20:15
+9525,Hapa Naharlagun Special,Gwalior,00:50
+9525,Hapa Naharlagun Special,Bhind,02:32
+9525,Hapa Naharlagun Special,Etawah,03:37
+9525,Hapa Naharlagun Special,Kanpur Central,05:30
+9525,Hapa Naharlagun Special,Prayagraj,08:35
+15053,Chhapra Gomti Nagar Express,Chhapra,19:35
+15053,Chhapra Gomti Nagar Express,Ballia,20:40
+15053,Chhapra Gomti Nagar Express,Varanasi,23:50
+15053,Chhapra Gomti Nagar Express,Shahganj,01:30
+15053,Chhapra Gomti Nagar Express,Ayodhya Dham,03:50
+15053,Chhapra Gomti Nagar Express,Ayodhya Cantt.,04:25
+15053,Chhapra Gomti Nagar Express,Lucknow Jn.,07:55
+11126,Gwalior Ratlam Express,Gwalior,19:50
+11126,Gwalior Ratlam Express,Guna,00:05
+11126,Gwalior Ratlam Express,Maksi,04:17
+11126,Gwalior Ratlam Express,Ujjain,05:17
+11126,Gwalior Ratlam Express,Indore,07:25
+11126,Gwalior Ratlam Express,Ratlam,10:00
+21126,Bhind Ratlam Express,Bhind,17:20
+21126,Bhind Ratlam Express,Gwalior,19:50
+21126,Bhind Ratlam Express,Guna,00:05
+21126,Bhind Ratlam Express,Maksi,04:17
+21126,Bhind Ratlam Express,Ujjain,05:17
+21126,Bhind Ratlam Express,Indore,07:25
+21126,Bhind Ratlam Express,Ratlam,10:00
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Muzaffarpur,07:08
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Chhapra,09:50
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Ballia,11:05
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Mau,12:50
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Azamgarh,13:50
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Shahganj,16:25
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Ayodhya Dham,18:24
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Ayodhya Cantt.,18:55
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Barabanki,21:03
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Lucknow Jn.,23:10
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Unnao,00:22
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Kanpur Central,01:05
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Virangana Laxmibai,04:53
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Bina,08:40
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Guna,10:55
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Maksi,15:47
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Ujjain,16:45
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Ujjain,16:45
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Nagda,17:45
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Ratlam,18:35
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Dahod,20:04
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Godhra,21:40
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Chhayapuri,22:26
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Anand,23:08
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Nadiad,23:24
+19166,Darbhanga Ahmeda- bad Sabarma- ti Express,Ahmedabad,00:55
+19168,Varanasi City Ahmedabad Sabarmati Express,Varanasi city,14:05
+19168,Varanasi City Ahmedabad Sabarmati Express,Varanasi,14:30
+19168,Varanasi City Ahmedabad Sabarmati Express,Shahganj,16:35
+19168,Varanasi City Ahmedabad Sabarmati Express,Ayodhya Dham,18:24
+19168,Varanasi City Ahmedabad Sabarmati Express,Ayodhya Cantt.,18:55
+19168,Varanasi City Ahmedabad Sabarmati Express,Barabanki,21:03
+19168,Varanasi City Ahmedabad Sabarmati Express,Lucknow Jn.,23:10
+19168,Varanasi City Ahmedabad Sabarmati Express,Unnao,00:22
+19168,Varanasi City Ahmedabad Sabarmati Express,Kanpur Central,01:05
+19168,Varanasi City Ahmedabad Sabarmati Express,Virangana Laxmibai,04:53
+19168,Varanasi City Ahmedabad Sabarmati Express,Bina,08:40
+19168,Varanasi City Ahmedabad Sabarmati Express,Guna,10:55
+19168,Varanasi City Ahmedabad Sabarmati Express,Maksi,15:47
+19168,Varanasi City Ahmedabad Sabarmati Express,Ujjain,16:45
+19168,Varanasi City Ahmedabad Sabarmati Express,Ujjain,16:45
+19168,Varanasi City Ahmedabad Sabarmati Express,Nagda,17:45
+19168,Varanasi City Ahmedabad Sabarmati Express,Ratlam,18:35
+19168,Varanasi City Ahmedabad Sabarmati Express,Dahod,20:04
+19168,Varanasi City Ahmedabad Sabarmati Express,Godhra,21:40
+19168,Varanasi City Ahmedabad Sabarmati Express,Chhayapuri,22:26
+19168,Varanasi City Ahmedabad Sabarmati Express,Anand,23:08
+19168,Varanasi City Ahmedabad Sabarmati Express,Nadiad,23:24
+19168,Varanasi City Ahmedabad Sabarmati Express,Ahmedabad,00:55
+11466,Jabalpur Somnath Express (via Bina),Bina,17:50
+11466,Jabalpur Somnath Express (via Bina),Bhopal,20:10
+11466,Jabalpur Somnath Express (via Bina),Maksi,23:01
+11466,Jabalpur Somnath Express (via Bina),Ujjain,23:59
+11466,Jabalpur Somnath Express (via Bina),Ujjain,23:55
+11466,Jabalpur Somnath Express (via Bina),Nagda,01:05
+11466,Jabalpur Somnath Express (via Bina),Ratlam,01:55
+11466,Jabalpur Somnath Express (via Bina),Dahod,03:24
+11466,Jabalpur Somnath Express (via Bina),Godhra,04:52
+11466,Jabalpur Somnath Express (via Bina),Chhayapuri,05:48
+11466,Jabalpur Somnath Express (via Bina),Anand,06:29
+11466,Jabalpur Somnath Express (via Bina),Nadiad,06:45
+11466,Jabalpur Somnath Express (via Bina),Ahmedabad,08:10
+11464,Jabalpur Somnath Express (via Itarsi),Bhopal,20:10
+11464,Jabalpur Somnath Express (via Itarsi),Maksi,23:01
+11464,Jabalpur Somnath Express (via Itarsi),Ujjain,23:59
+11464,Jabalpur Somnath Express (via Itarsi),Ujjain,23:55
+11464,Jabalpur Somnath Express (via Itarsi),Nagda,01:05
+11464,Jabalpur Somnath Express (via Itarsi),Ratlam,01:55
+11464,Jabalpur Somnath Express (via Itarsi),Dahod,03:24
+11464,Jabalpur Somnath Express (via Itarsi),Godhra,04:52
+11464,Jabalpur Somnath Express (via Itarsi),Chhayapuri,05:48
+11464,Jabalpur Somnath Express (via Itarsi),Anand,06:29
+11464,Jabalpur Somnath Express (via Itarsi),Nadiad,06:45
+11464,Jabalpur Somnath Express (via Itarsi),Ahmedabad,08:10
+12938,Howrah Gand- hidham Express,Kanpur Central,14:10
+12938,Howrah Gand- hidham Express,Tundla,17:25
+12938,Howrah Gand- hidham Express,Agra Fort,18:20
+12938,Howrah Gand- hidham Express,Ratlam,03:15
+12938,Howrah Gand- hidham Express,Chhayapuri,06:45
+12938,Howrah Gand- hidham Express,Ahmedabad,09:05
+12938,Howrah Gand- hidham Express,Gandhidham,14:15
+11124,Barauni Gwalior Mail,Kms,18:45
+11124,Barauni Gwalior Mail,Muzaffarpur,21:30
+11124,Barauni Gwalior Mail,Chhapra,00:35
+11124,Barauni Gwalior Mail,Siwan,01:30
+11124,Barauni Gwalior Mail,Gorakhpur,04:45
+11124,Barauni Gwalior Mail,Basti,05:55
+11124,Barauni Gwalior Mail,Mankapur,06:56
+11124,Barauni Gwalior Mail,Gonda,07:40
+11124,Barauni Gwalior Mail,Barabanki,09:45
+11124,Barauni Gwalior Mail,Lucknow Jn.,10:55
+11124,Barauni Gwalior Mail,Unnao,12:05
+11124,Barauni Gwalior Mail,Kanpur Central,12:45
+11124,Barauni Gwalior Mail,Virangana Laxmibai a Jhansi,17:30
+11124,Barauni Gwalior Mail,Gwalior,20:30
+15045,Gorakhpur Okha Express,Gorakhpur,04:55
+15045,Gorakhpur Okha Express,Basti,06:00
+15045,Gorakhpur Okha Express,Gonda,07:25
+15045,Gorakhpur Okha Express,Barabanki,09:00
+15045,Gorakhpur Okha Express,Aishbagh,10:25
+15045,Gorakhpur Okha Express,Kanpur Central,12:55
+15045,Gorakhpur Okha Express,Etawah,14:25
+15045,Gorakhpur Okha Express,Tundla,15:45
+15045,Gorakhpur Okha Express,Agra Cantt.,16:35
+15045,Gorakhpur Okha Express,Gwalior,18:29
+15045,Gorakhpur Okha Express,Virangana Laxmibai,20:33
+15045,Gorakhpur Okha Express,Bina,23:55
+15045,Gorakhpur Okha Express,Guna,01:55
+15045,Gorakhpur Okha Express,Maksi,06:52
+15045,Gorakhpur Okha Express,Ujjain,08:30
+15045,Gorakhpur Okha Express,Ujjain,08:30
+15045,Gorakhpur Okha Express,Nagda,09:40
+15045,Gorakhpur Okha Express,Ratlam,10:30
+15045,Gorakhpur Okha Express,Godhra,13:22
+15045,Gorakhpur Okha Express,Chhayapuri,14:10
+15045,Gorakhpur Okha Express,Anand,16:19
+15045,Gorakhpur Okha Express,Ahmedabad,17:45
+19054,Muzaffar- pur Surat Express,Muzaffarpur,20:10
+19054,Muzaffar- pur Surat Express,Chhapra,22:50
+19054,Muzaffar- pur Surat Express,Ballia,00:05
+19054,Muzaffar- pur Surat Express,Mau,01:15
+19054,Muzaffar- pur Surat Express,Azamgarh,02:10
+19054,Muzaffar- pur Surat Express,Shahganj,04:00
+19054,Muzaffar- pur Surat Express,Ayodhya Dham,05:32
+19054,Muzaffar- pur Surat Express,Ayodhya Cantt.,06:05
+19054,Muzaffar- pur Surat Express,Lucknow Jn.,09:45
+19054,Muzaffar- pur Surat Express,Kanpur Central,12:55
+19054,Muzaffar- pur Surat Express,Tundla,15:45
+19054,Muzaffar- pur Surat Express,Agra Cantt.,16:35
+19054,Muzaffar- pur Surat Express,Gwalior,18:29
+19054,Muzaffar- pur Surat Express,Virangana Laxmibai,20:33
+19054,Muzaffar- pur Surat Express,Bina,23:55
+19054,Muzaffar- pur Surat Express,Guna,01:55
+19054,Muzaffar- pur Surat Express,Maksi,06:52
+19054,Muzaffar- pur Surat Express,Ujjain,08:30
+19054,Muzaffar- pur Surat Express,Ujjain,08:30
+19054,Muzaffar- pur Surat Express,Nagda,09:37
+19054,Muzaffar- pur Surat Express,Ratlam,10:30
+19054,Muzaffar- pur Surat Express,Dahod,11:54
+19054,Muzaffar- pur Surat Express,Vadodara,14:30
+19054,Muzaffar- pur Surat Express,Surat,16:55
+15668,Kamakhya Gand- hidham Express,Lucknow Jn.,17:00
+15668,Kamakhya Gand- hidham Express,Kanpur Central,19:25
+15668,Kamakhya Gand- hidham Express,Tundla,22:55
+15668,Kamakhya Gand- hidham Express,Agra Fort,23:45
+15668,Kamakhya Gand- hidham Express,Ratlam,07:55
+15668,Kamakhya Gand- hidham Express,Dahod,09:19
+15668,Kamakhya Gand- hidham Express,Chhayapuri,11:21
+15668,Kamakhya Gand- hidham Express,Ahmedabad,13:50
+15668,Kamakhya Gand- hidham Express,Gandhidham,21:20
+19310,Indore Gandhinagar Shanti Express,Indore,23:00
+19310,Indore Gandhinagar Shanti Express,Ujjain,00:20
+19310,Indore Gandhinagar Shanti Express,Nagda,01:16
+19310,Indore Gandhinagar Shanti Express,Ratlam,02:15
+19310,Indore Gandhinagar Shanti Express,Dahod,03:46
+19310,Indore Gandhinagar Shanti Express,Godhra,05:17
+19310,Indore Gandhinagar Shanti Express,Chhayapuri,06:12
+19310,Indore Gandhinagar Shanti Express,Anand,06:55
+19310,Indore Gandhinagar Shanti Express,Nadiad,07:12
+19310,Indore Gandhinagar Shanti Express,Ahmedabad,08:30
+19310,Indore Gandhinagar Shanti Express,Gandhinagar,09:45
+19202,Ayodhya Cantt Bhavnagar Express,Ayodhya Cantt.,22:30
+19202,Ayodhya Cantt Bhavnagar Express,Barabanki,00:08
+19202,Ayodhya Cantt Bhavnagar Express,Lucknow Jn.,01:40
+19202,Ayodhya Cantt Bhavnagar Express,Kanpur Central,03:30
+19202,Ayodhya Cantt Bhavnagar Express,Tundla,06:50
+19202,Ayodhya Cantt Bhavnagar Express,Agra Fort,07:40
+22970,Banaras kha Sup st Expre,Gonda,21:45
+22970,Banaras kha Sup st Expre,Kanpur Central,03:30
+22970,Banaras kha Sup st Expre,Tundla,06:50
+22970,Banaras kha Sup st Expre,Agra Fort,07:40
+22970,Banaras kha Sup st Expre,Nagda,15:42
+22970,Banaras kha Sup st Expre,Ratlam,16:35
+22970,Banaras kha Sup st Expre,Chhayapuri,20:01
+22970,Banaras kha Sup st Expre,Anand,21:34
+22970,Banaras kha Sup st Expre,Ahmedabad,22:45
+12942,Asansol Bhavnagar Parasnath Express,Kanpur Central,08:10
+12942,Asansol Bhavnagar Parasnath Express,Tundla,11:55
+12942,Asansol Bhavnagar Parasnath Express,Agra Fort,12:40
+12942,Asansol Bhavnagar Parasnath Express,Nagda,21:12
+12942,Asansol Bhavnagar Parasnath Express,Ratlam,21:55
+12942,Asansol Bhavnagar Parasnath Express,Dahod,23:23
+12942,Asansol Bhavnagar Parasnath Express,Chhayapuri,01:26
+12942,Asansol Bhavnagar Parasnath Express,Nadiad,02:28
+12942,Asansol Bhavnagar Parasnath Express,Ahmedabad,03:35
+15269,uzaffarp Sabarmat n Sadhar Express,Muzaffarpur,21:20
+15269,uzaffarp Sabarmat n Sadhar Express,Chhapra,00:25
+15269,uzaffarp Sabarmat n Sadhar Express,Siwan,01:15
+15269,uzaffarp Sabarmat n Sadhar Express,Gorakhpur,04:20
+15269,uzaffarp Sabarmat n Sadhar Express,Basti,05:19
+15269,uzaffarp Sabarmat n Sadhar Express,Gonda,06:55
+15269,uzaffarp Sabarmat n Sadhar Express,Lucknow Jn.,10:40
+15269,uzaffarp Sabarmat n Sadhar Express,Kanpur Central,12:55
+15269,uzaffarp Sabarmat n Sadhar Express,Tundla,15:45
+15269,uzaffarp Sabarmat n Sadhar Express,Agra Fort,16:45
+15269,uzaffarp Sabarmat n Sadhar Express,Anand,06:45
+15083,Chhapra Farrukhabad Utsarg Express,Chhapra,18:00
+15083,Chhapra Farrukhabad Utsarg Express,Ballia,19:30
+15083,Chhapra Farrukhabad Utsarg Express,Mau,21:30
+15083,Chhapra Farrukhabad Utsarg Express,Azamgarh,22:40
+15083,Chhapra Farrukhabad Utsarg Express,Shahganj,00:55
+15083,Chhapra Farrukhabad Utsarg Express,Ayodhya Dham,03:04
+15083,Chhapra Farrukhabad Utsarg Express,Ayodhya Cantt.,03:35
+15083,Chhapra Farrukhabad Utsarg Express,Barabanki,06:00
+15083,Chhapra Farrukhabad Utsarg Express,Aishbagh,07:33
+15083,Chhapra Farrukhabad Utsarg Express,Unnao,08:33
+15083,Chhapra Farrukhabad Utsarg Express,Kanpur Central,09:35
+15083,Chhapra Farrukhabad Utsarg Express,Kanpur Anwar Ganj,09:50
+15083,Chhapra Farrukhabad Utsarg Express,Farrukhabad,12:45
+12179,Lucknow Agra Fort Intercity Express,Lucknow Jn.,15:55
+12179,Lucknow Agra Fort Intercity Express,Kanpur Central,17:20
+12179,Lucknow Agra Fort Intercity Express,Etawah,19:20
+12179,Lucknow Agra Fort Intercity Express,Tundla,20:50
+12179,Lucknow Agra Fort Intercity Express,Agra Fort,21:49
+11904,Etawah Virangana Laxmibai Jhansi Express,Etawah,05:00
+11904,Etawah Virangana Laxmibai Jhansi Express,Bhind,05:41
+11904,Etawah Virangana Laxmibai Jhansi Express,Gwalior,08:10
+11904,Etawah Virangana Laxmibai Jhansi Express,Virangana Laxmibai Jhansi,10:15
+19320,Indore Veraval Mahamana Express,Ujjain,23:45
+19320,Indore Veraval Mahamana Express,Indore,22:20
+19320,Indore Veraval Mahamana Express,Ujjain,23:45
+19320,Indore Veraval Mahamana Express,Ratlam,01:35
+19320,Indore Veraval Mahamana Express,Godhra,04:37
+19320,Indore Veraval Mahamana Express,Ahmedabad,08:00
+19340,Bhopal Dahod Express,Bhopal,12:35
+19340,Bhopal Dahod Express,Maksi,15:52
+19340,Bhopal Dahod Express,Ujjain,16:55
+19340,Bhopal Dahod Express,Nagda,18:30
+19340,Bhopal Dahod Express,Ratlam,20:10
+19340,Bhopal Dahod Express,Dahod,23:30
+19342,Bina Nagda Express,Bina,07:20
+19342,Bina Nagda Express,Guna,10:30
+19342,Bina Nagda Express,Maksi,14:52
+19342,Bina Nagda Express,Ujjain,15:55
+19342,Bina Nagda Express,Nagda,17:30
+22467,Banaras Gandhinagar SF Express,Unnao,20:45
+22467,Banaras Gandhinagar SF Express,Virangana Laxmibai Jhansi,00:43
+22467,Banaras Gandhinagar SF Express,Bina,02:40
+22467,Banaras Gandhinagar SF Express,Ujjain,07:15
+22467,Banaras Gandhinagar SF Express,Ratlam,08:50
+22467,Banaras Gandhinagar SF Express,Godhra,11:25
+22467,Banaras Gandhinagar SF Express,Chhayapuri,12:11
+22467,Banaras Gandhinagar SF Express,Anand,12:45
+22467,Banaras Gandhinagar SF Express,Ahmedabad,14:20
+22467,Banaras Gandhinagar SF Express,Gandhinagar,15:20
+20962,Udhna Banara Expres,Mankapur,17:50
+20962,Udhna Banara Expres,Unnao,22:40
+20962,Udhna Banara Expres,Etawah,00:55
+20962,Udhna Banara Expres,Bhind,01:31
+20962,Udhna Banara Expres,Gwalior,04:10
+20962,Udhna Banara Expres,Guna,07:50
+20962,Udhna Banara Expres,Maksi,11:42
+20962,Udhna Banara Expres,Ujjain,12:45
+20962,Udhna Banara Expres,Nagda,13:50
+20962,Udhna Banara Expres,Ratlam,14:40
+20962,Udhna Banara Expres,Vadodara,18:47
+20962,Udhna Banara Expres,Chhayapuri,20:50
+19812,Kota Etawah Express,Etawah,17:00
+19812,Kota Etawah Express,Bhind,17:45
+19812,Kota Etawah Express,Gwalior,20:40
+19812,Kota Etawah Express,Guna,02:05
+9526,Naharlagun Hapa Special,Kanpur Central,19:50
+9526,Naharlagun Hapa Special,Etawah,22:35
+9526,Naharlagun Hapa Special,Bhind,23:27
+9526,Naharlagun Hapa Special,Gwalior,01:25
+9526,Naharlagun Hapa Special,Guna,05:05
+9526,Naharlagun Hapa Special,Maksi,08:20

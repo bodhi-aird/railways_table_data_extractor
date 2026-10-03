@@ -1,0 +1,516 @@
+train_num,train_name,halt_station_name,departure_time
+15202,Bagaha Patliputra Express,Bagaha,04:10
+15202,Bagaha Patliputra Express,Narkatiaganj,05:05
+15202,Bagaha Patliputra Express,Betiah,05:47
+15202,Bagaha Patliputra Express,Sagauli,06:15
+15202,Bagaha Patliputra Express,Sagauli,06:15
+15202,Bagaha Patliputra Express,Bapudham Motihari,06:42
+15202,Bagaha Patliputra Express,Chakia,07:14
+15202,Bagaha Patliputra Express,Muzaffarpur,08:50
+15202,Bagaha Patliputra Express,Hajipur,10:13
+15202,Bagaha Patliputra Express,Patliputra,11:25
+12558,Anand Vihar Muzaffarpur Sapt Kranti Express,Gorakhpur,03:50
+12558,Anand Vihar Muzaffarpur Sapt Kranti Express,Kaptanganj,04:38
+12558,Anand Vihar Muzaffarpur Sapt Kranti Express,Siswabazar,05:01
+12558,Anand Vihar Muzaffarpur Sapt Kranti Express,Bagaha,06:04
+12558,Anand Vihar Muzaffarpur Sapt Kranti Express,Narkatiaganj,06:57
+12558,Anand Vihar Muzaffarpur Sapt Kranti Express,Betiah,07:28
+12558,Anand Vihar Muzaffarpur Sapt Kranti Express,Sagauli,07:48
+12558,Anand Vihar Muzaffarpur Sapt Kranti Express,Sagauli,07:48
+12558,Anand Vihar Muzaffarpur Sapt Kranti Express,Bapudham Motihari,08:25
+12558,Anand Vihar Muzaffarpur Sapt Kranti Express,Chakia,09:00
+12558,Anand Vihar Muzaffarpur Sapt Kranti Express,Muzaffarpur,11:05
+15568,Anand Vihar (T)- Bapudham Motihari Amrit Bharat Express,Gorakhpur,04:10
+15568,Anand Vihar (T)- Bapudham Motihari Amrit Bharat Express,Kaptanganj,04:55
+15568,Anand Vihar (T)- Bapudham Motihari Amrit Bharat Express,Siswabazar,05:25
+15568,Anand Vihar (T)- Bapudham Motihari Amrit Bharat Express,Bagaha,06:59
+15568,Anand Vihar (T)- Bapudham Motihari Amrit Bharat Express,Narkatiaganj,07:50
+15568,Anand Vihar (T)- Bapudham Motihari Amrit Bharat Express,Betiah,09:15
+15568,Anand Vihar (T)- Bapudham Motihari Amrit Bharat Express,Sagauli,09:42
+15568,Anand Vihar (T)- Bapudham Motihari Amrit Bharat Express,Sagauli,09:42
+15568,Anand Vihar (T)- Bapudham Motihari Amrit Bharat Express,Bapudham Motihari,10:45
+13022,Raxaul Howrah Mithila Express,Raxaul,10:10
+13022,Raxaul Howrah Mithila Express,Sagauli,11:10
+13022,Raxaul Howrah Mithila Express,Bapudham Motihari,11:33
+13022,Raxaul Howrah Mithila Express,Chakia,12:13
+13022,Raxaul Howrah Mithila Express,Muzaffarpur,13:35
+15212,Amritsar Darbhanga Jan Nayak Express,Gorakhpur,16:35
+15212,Amritsar Darbhanga Jan Nayak Express,Kaptanganj,17:23
+15212,Amritsar Darbhanga Jan Nayak Express,Siswabazar,17:58
+15212,Amritsar Darbhanga Jan Nayak Express,Bagaha,19:05
+15212,Amritsar Darbhanga Jan Nayak Express,Narkatiaganj,20:00
+15212,Amritsar Darbhanga Jan Nayak Express,Betiah,20:37
+15212,Amritsar Darbhanga Jan Nayak Express,Sagauli,21:01
+15212,Amritsar Darbhanga Jan Nayak Express,Sagauli,21:01
+15212,Amritsar Darbhanga Jan Nayak Express,Bapudham Motihari,21:35
+15212,Amritsar Darbhanga Jan Nayak Express,Chakia,22:11
+15212,Amritsar Darbhanga Jan Nayak Express,Muzaffarpur,23:35
+15052,Gorakhpur Kolkata Express,Gorakhpur,10:10
+15052,Gorakhpur Kolkata Express,Kaptanganj,10:55
+15052,Gorakhpur Kolkata Express,Siswabazar,11:20
+15052,Gorakhpur Kolkata Express,Bagaha,12:37
+15052,Gorakhpur Kolkata Express,Narkatiaganj,13:30
+15052,Gorakhpur Kolkata Express,Betiah,14:03
+15052,Gorakhpur Kolkata Express,Sagauli,14:25
+15052,Gorakhpur Kolkata Express,Sagauli,14:25
+15052,Gorakhpur Kolkata Express,Bapudham Motihari,14:45
+15052,Gorakhpur Kolkata Express,Chakia,15:30
+15052,Gorakhpur Kolkata Express,Muzaffarpur,17:00
+15002,Dehradun Muzaffarpur Express,Gorakhpur,08:05
+15002,Dehradun Muzaffarpur Express,Kaptanganj,08:50
+15002,Dehradun Muzaffarpur Express,Siswabazar,09:18
+15002,Dehradun Muzaffarpur Express,Bagaha,11:07
+15002,Dehradun Muzaffarpur Express,Narkatiaganj,12:15
+15002,Dehradun Muzaffarpur Express,Betiah,12:48
+15002,Dehradun Muzaffarpur Express,Sagauli,13:13
+15002,Dehradun Muzaffarpur Express,Sagauli,13:13
+15002,Dehradun Muzaffarpur Express,Bapudham Motihari,13:45
+15002,Dehradun Muzaffarpur Express,Chakia,14:23
+15002,Dehradun Muzaffarpur Express,Muzaffarpur,16:30
+15216,Narkatiaganj Muzaffarpur Express,Narkatiaganj,13:55
+15216,Narkatiaganj Muzaffarpur Express,Betiah,14:37
+15216,Narkatiaganj Muzaffarpur Express,Sagauli,15:06
+15216,Narkatiaganj Muzaffarpur Express,Sagauli,15:06
+15216,Narkatiaganj Muzaffarpur Express,Bapudham Motihari,15:28
+15216,Narkatiaganj Muzaffarpur Express,Chakia,16:00
+15216,Narkatiaganj Muzaffarpur Express,Muzaffarpur,17:50
+15274,Anand Vihar (T) Raxaul Satyagraha Express,Gorakhpur,10:30
+15274,Anand Vihar (T) Raxaul Satyagraha Express,Kaptanganj,11:25
+15274,Anand Vihar (T) Raxaul Satyagraha Express,Siswabazar,12:03
+15274,Anand Vihar (T) Raxaul Satyagraha Express,Bagaha,13:32
+15274,Anand Vihar (T) Raxaul Satyagraha Express,Narkatiaganj,14:32
+15274,Anand Vihar (T) Raxaul Satyagraha Express,Betiah,15:10
+15274,Anand Vihar (T) Raxaul Satyagraha Express,Sagauli,15:39
+15274,Anand Vihar (T) Raxaul Satyagraha Express,Raxaul,17:35
+19269,Porbandar Muzaffarpur Express,Gorakhpur,10:55
+19269,Porbandar Muzaffarpur Express,Siswabazar,12:36
+19269,Porbandar Muzaffarpur Express,Bagaha,14:17
+19269,Porbandar Muzaffarpur Express,Narkatiaganj,15:10
+19269,Porbandar Muzaffarpur Express,Betiah,15:45
+19269,Porbandar Muzaffarpur Express,Sagauli,16:06
+19269,Porbandar Muzaffarpur Express,Sagauli,16:06
+19269,Porbandar Muzaffarpur Express,Bapudham Motihari,16:27
+19269,Porbandar Muzaffarpur Express,Chakia,16:55
+19269,Porbandar Muzaffarpur Express,Muzaffarpur,19:25
+15530,nand Vihar ( rsa Jansad Express,Gorakhpur,15:00
+15530,nand Vihar ( rsa Jansad Express,Kaptanganj,15:53
+15530,nand Vihar ( rsa Jansad Express,Bagaha,17:23
+15530,nand Vihar ( rsa Jansad Express,Narkatiaganj,18:20
+15530,nand Vihar ( rsa Jansad Express,Betiah,19:00
+15530,nand Vihar ( rsa Jansad Express,Sagauli,19:23
+15530,nand Vihar ( rsa Jansad Express,Sagauli,19:23
+15530,nand Vihar ( rsa Jansad Express,Bapudham Motihari,19:43
+15530,nand Vihar ( rsa Jansad Express,Chakia,21:18
+15530,nand Vihar ( rsa Jansad Express,Muzaffarpur,22:08
+15530,nand Vihar ( rsa Jansad Express,Hajipur,03:00
+19037,Bandra ( arauni Av Expres,Gorakhpur,11:35
+19037,Bandra ( arauni Av Expres,Kaptanganj,12:20
+19037,Bandra ( arauni Av Expres,Siswabazar,13:18
+19037,Bandra ( arauni Av Expres,Bagaha,14:35
+19037,Bandra ( arauni Av Expres,Narkatiaganj,16:00
+19037,Bandra ( arauni Av Expres,Betiah,16:43
+19037,Bandra ( arauni Av Expres,Sagauli,17:08
+19037,Bandra ( arauni Av Expres,Sagauli,17:08
+19037,Bandra ( arauni Av Expres,Bapudham Motihari,17:30
+19037,Bandra ( arauni Av Expres,Chakia,18:15
+19037,Bandra ( arauni Av Expres,Muzaffarpur,20:30
+19037,Bandra ( arauni Av Expres,Patliputra,23:10
+14015,Raxaul Anand Vihar (T) Sadhbhavna Express,Raxaul,22:55
+14015,Raxaul Anand Vihar (T) Sadhbhavna Express,Sagauli,23:55
+14015,Raxaul Anand Vihar (T) Sadhbhavna Express,Bapudham Motihari,00:15
+14015,Raxaul Anand Vihar (T) Sadhbhavna Express,Chakia,00:48
+14015,Raxaul Anand Vihar (T) Sadhbhavna Express,Muzaffarpur,03:45
+14015,Raxaul Anand Vihar (T) Sadhbhavna Express,Hajipur,04:45
+15558,Anand Vihar (T) Darbhanga Amrit Bharat Express,Bagaha,06:57
+15558,Anand Vihar (T) Darbhanga Amrit Bharat Express,Narkatiaganj,07:50
+15558,Anand Vihar (T) Darbhanga Amrit Bharat Express,Raxaul,08:42
+15558,Anand Vihar (T) Darbhanga Amrit Bharat Express,Sitamarhi,10:15
+15558,Anand Vihar (T) Darbhanga Amrit Bharat Express,Darbhanga,12:05
+14012,Anand Vihar (T) Radhikapuri Express,Gorakhpur,14:40
+14012,Anand Vihar (T) Radhikapuri Express,Kaptanganj,15:51
+14012,Anand Vihar (T) Radhikapuri Express,Narkatiaganj,18:25
+14012,Anand Vihar (T) Radhikapuri Express,Betiah,19:00
+14012,Anand Vihar (T) Radhikapuri Express,Sagauli,19:23
+14012,Anand Vihar (T) Radhikapuri Express,Sagauli,19:23
+14012,Anand Vihar (T) Radhikapuri Express,Bapudham Motihari,19:43
+14012,Anand Vihar (T) Radhikapuri Express,Chakia,20:30
+15562,Gomati Nagar Darbhanga Amrit Bharat,Gorakhpur,15:25
+15562,Gomati Nagar Darbhanga Amrit Bharat,Kaptanganj,16:17
+15562,Gomati Nagar Darbhanga Amrit Bharat,Bagaha,18:20
+15562,Gomati Nagar Darbhanga Amrit Bharat,Narkatiaganj,19:20
+15562,Gomati Nagar Darbhanga Amrit Bharat,Raxaul,20:20
+15562,Gomati Nagar Darbhanga Amrit Bharat,Sitamarhi,22:15
+15562,Gomati Nagar Darbhanga Amrit Bharat,Darbhanga,00:45
+19623,Madar Darbhanga Amrit Bharat Express,Gorakhpur,16:00
+19623,Madar Darbhanga Amrit Bharat Express,Kaptanganj,16:55
+19623,Madar Darbhanga Amrit Bharat Express,Bagaha,18:18
+19623,Madar Darbhanga Amrit Bharat Express,Narkatiaganj,19:25
+19623,Madar Darbhanga Amrit Bharat Express,Raxaul,20:20
+19623,Madar Darbhanga Amrit Bharat Express,Sitamarhi,22:15
+19623,Madar Darbhanga Amrit Bharat Express,Darbhanga,00:45
+26502,Gorakhpur Patliputra Vande Bharat Express,Gorakhpur,05:40
+26502,Gorakhpur Patliputra Vande Bharat Express,Kaptanganj,06:24
+26502,Gorakhpur Patliputra Vande Bharat Express,Bagaha,07:30
+26502,Gorakhpur Patliputra Vande Bharat Express,Narkatiaganj,08:08
+26502,Gorakhpur Patliputra Vande Bharat Express,Betiah,08:36
+26502,Gorakhpur Patliputra Vande Bharat Express,Sagauli,08:54
+26502,Gorakhpur Patliputra Vande Bharat Express,Sagauli,08:54
+26502,Gorakhpur Patliputra Vande Bharat Express,Bapudham Motihari,09:20
+26502,Gorakhpur Patliputra Vande Bharat Express,Muzaffarpur,10:55
+26502,Gorakhpur Patliputra Vande Bharat Express,Hajipur,11:45
+26502,Gorakhpur Patliputra Vande Bharat Express,Patliputra,12:45
+15654,Jammu Tawi Guwahati Amarnath Express,Gorakhpur,20:50
+15654,Jammu Tawi Guwahati Amarnath Express,Kaptanganj,21:45
+15654,Jammu Tawi Guwahati Amarnath Express,Siswabazar,22:11
+15654,Jammu Tawi Guwahati Amarnath Express,Bagaha,23:19
+15654,Jammu Tawi Guwahati Amarnath Express,Narkatiaganj,00:15
+15654,Jammu Tawi Guwahati Amarnath Express,Betiah,00:48
+15654,Jammu Tawi Guwahati Amarnath Express,Sagauli,01:10
+15654,Jammu Tawi Guwahati Amarnath Express,Sagauli,01:10
+15654,Jammu Tawi Guwahati Amarnath Express,Bapudham Motihari,01:30
+15654,Jammu Tawi Guwahati Amarnath Express,Chakia,01:55
+15654,Jammu Tawi Guwahati Amarnath Express,Muzaffarpur,03:15
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Raxaul,15:45
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Sagauli,16:53
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Bapudham Motihari,17:12
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Chakia,17:41
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Muzaffarpur,20:00
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Hajipur,21:05
+14112,Prayagraj Muzaffarpur Express,Gorakhpur,12:00
+14112,Prayagraj Muzaffarpur Express,Kaptanganj,12:38
+14112,Prayagraj Muzaffarpur Express,Siswabazar,13:01
+14112,Prayagraj Muzaffarpur Express,Bagaha,14:15
+14112,Prayagraj Muzaffarpur Express,Narkatiaganj,15:10
+14112,Prayagraj Muzaffarpur Express,Betiah,15:41
+14112,Prayagraj Muzaffarpur Express,Sagauli,16:05
+14112,Prayagraj Muzaffarpur Express,Sagauli,16:05
+14112,Prayagraj Muzaffarpur Express,Bapudham Motihari,16:25
+14112,Prayagraj Muzaffarpur Express,Chakia,16:50
+14112,Prayagraj Muzaffarpur Express,Muzaffarpur,18:10
+12212,Anand Vihar (T) Muzaffarpur Garib Rath Express,Gorakhpur,10:55
+12212,Anand Vihar (T) Muzaffarpur Garib Rath Express,Bagaha,14:17
+12212,Anand Vihar (T) Muzaffarpur Garib Rath Express,Narkatiaganj,15:10
+12212,Anand Vihar (T) Muzaffarpur Garib Rath Express,Betiah,15:41
+12212,Anand Vihar (T) Muzaffarpur Garib Rath Express,Sagauli,16:05
+12212,Anand Vihar (T) Muzaffarpur Garib Rath Express,Sagauli,16:05
+12212,Anand Vihar (T) Muzaffarpur Garib Rath Express,Bapudham Motihari,16:25
+12212,Anand Vihar (T) Muzaffarpur Garib Rath Express,Chakia,16:50
+12212,Anand Vihar (T) Muzaffarpur Garib Rath Express,Muzaffarpur,19:25
+14048,Delhi Sitamarhi- Amrit Bharat Express,Gorakhpur,03:20
+14048,Delhi Sitamarhi- Amrit Bharat Express,Kaptanganj,04:10
+14048,Delhi Sitamarhi- Amrit Bharat Express,Bagaha,06:30
+14048,Delhi Sitamarhi- Amrit Bharat Express,Narkatiaganj,07:20
+14048,Delhi Sitamarhi- Amrit Bharat Express,Raxaul,08:15
+14048,Delhi Sitamarhi- Amrit Bharat Express,Sitamarhi,10:45
+15656,Katra Kamakhya Express,Gorakhpur,04:30
+15656,Katra Kamakhya Express,Kaptanganj,05:18
+15656,Katra Kamakhya Express,Narkatiaganj,07:15
+15656,Katra Kamakhya Express,Betiah,07:43
+15656,Katra Kamakhya Express,Sagauli,08:01
+15656,Katra Kamakhya Express,Raxaul,08:42
+15656,Katra Kamakhya Express,Sitamarhi,10:11
+15656,Katra Kamakhya Express,Darbhanga,13:30
+22552,Jalandhar city Darbhanga Antyodaya Super Fast Express,Gorakhpur,04:30
+22552,Jalandhar city Darbhanga Antyodaya Super Fast Express,Narkatiaganj,07:15
+22552,Jalandhar city Darbhanga Antyodaya Super Fast Express,Betiah,07:43
+22552,Jalandhar city Darbhanga Antyodaya Super Fast Express,Sagauli,08:01
+22552,Jalandhar city Darbhanga Antyodaya Super Fast Express,Raxaul,08:40
+22552,Jalandhar city Darbhanga Antyodaya Super Fast Express,Sitamarhi,10:11
+22552,Jalandhar city Darbhanga Antyodaya Super Fast Express,Darbhanga,12:05
+14010,Anand Vihar (T) Bapudham Motihari Champaran Satyagrah Expess,Gorakhpur,15:00
+14010,Anand Vihar (T) Bapudham Motihari Champaran Satyagrah Expess,Kaptanganj,15:53
+14010,Anand Vihar (T) Bapudham Motihari Champaran Satyagrah Expess,Bagaha,17:24
+14010,Anand Vihar (T) Bapudham Motihari Champaran Satyagrah Expess,Narkatiaganj,18:25
+14010,Anand Vihar (T) Bapudham Motihari Champaran Satyagrah Expess,Betiah,19:00
+14010,Anand Vihar (T) Bapudham Motihari Champaran Satyagrah Expess,Sagauli,19:23
+14010,Anand Vihar (T) Bapudham Motihari Champaran Satyagrah Expess,Sagauli,19:23
+14010,Anand Vihar (T) Bapudham Motihari Champaran Satyagrah Expess,Bapudham Motihari,20:10
+15706,Delhi Katihar Champaran Humsafar Express,Gorakhpur,06:25
+15706,Delhi Katihar Champaran Humsafar Express,Siswabazar,07:27
+15706,Delhi Katihar Champaran Humsafar Express,Bagaha,08:22
+15706,Delhi Katihar Champaran Humsafar Express,Narkatiaganj,09:15
+15706,Delhi Katihar Champaran Humsafar Express,Betiah,09:43
+15706,Delhi Katihar Champaran Humsafar Express,Sagauli,09:59
+15706,Delhi Katihar Champaran Humsafar Express,Sagauli,09:59
+15706,Delhi Katihar Champaran Humsafar Express,Bapudham Motihari,10:21
+15706,Delhi Katihar Champaran Humsafar Express,Chakia,10:58
+15706,Delhi Katihar Champaran Humsafar Express,Muzaffarpur,13:00
+15515,Narkatiaganj Danapur Express,Narkatiaganj,03:20
+15515,Narkatiaganj Danapur Express,Sagauli,05:05
+15515,Narkatiaganj Danapur Express,Raxaul,06:00
+15515,Narkatiaganj Danapur Express,Sitamarhi,08:05
+15515,Narkatiaganj Danapur Express,Muzaffarpur,09:50
+15515,Narkatiaganj Danapur Express,Hajipur,10:55
+15515,Narkatiaganj Danapur Express,Patliputra,12:20
+15515,Narkatiaganj Danapur Express,Danapur,12:45
+15556,Bapudham Motihari Patliputra Intercity Express,Bapudham Motihari,06:00
+15556,Bapudham Motihari Patliputra Intercity Express,Chakia,06:32
+15556,Bapudham Motihari Patliputra Intercity Express,Muzaffarpur,07:40
+15556,Bapudham Motihari Patliputra Intercity Express,Hajipur,08:35
+15556,Bapudham Motihari Patliputra Intercity Express,Patliputra,09:30
+15501,Raxaul Jogbani Express,Raxaul,12:40
+15501,Raxaul Jogbani Express,Sitamarhi,14:53
+15501,Raxaul Jogbani Express,Darbhanga,17:05
+15501,Raxaul Jogbani Express,Jhanjharpur,17:49
+15501,Raxaul Jogbani Express,Jogbani,22:30
+14628,Chaherta Saharsa Amrit Bharat Express,Gorakhpur,04:05
+14628,Chaherta Saharsa Amrit Bharat Express,Kaptanganj,02:43
+13021,Howrah Raxaul Mithila Express,Muzaffarpur,04:55
+13021,Howrah Raxaul Mithila Express,Chakia,05:57
+13021,Howrah Raxaul Mithila Express,Bapudham Motihari,06:33
+13021,Howrah Raxaul Mithila Express,Sagauli,07:35
+13021,Howrah Raxaul Mithila Express,Raxaul,09:15
+19038,Barauni Bandra (T) Avadh Express,Muzaffarpur,09:40
+19038,Barauni Bandra (T) Avadh Express,Chakia,10:38
+19038,Barauni Bandra (T) Avadh Express,Bapudham Motihari,11:11
+19038,Barauni Bandra (T) Avadh Express,Sagauli,11:29
+19038,Barauni Bandra (T) Avadh Express,Sagauli,11:29
+19038,Barauni Bandra (T) Avadh Express,Betiah,11:53
+19038,Barauni Bandra (T) Avadh Express,Narkatiaganj,13:00
+19038,Barauni Bandra (T) Avadh Express,Bagaha,13:40
+19038,Barauni Bandra (T) Avadh Express,Siswabazar,15:22
+19038,Barauni Bandra (T) Avadh Express,Kaptanganj,15:50
+19038,Barauni Bandra (T) Avadh Express,Gorakhpur,17:18
+15653,Guwahati Jammu Tawi Amarnath Express,Muzaffarpur,06:50
+15653,Guwahati Jammu Tawi Amarnath Express,Chakia,07:56
+15653,Guwahati Jammu Tawi Amarnath Express,Bapudham Motihari,08:27
+15653,Guwahati Jammu Tawi Amarnath Express,Sagauli,08:51
+15653,Guwahati Jammu Tawi Amarnath Express,Sagauli,08:51
+15653,Guwahati Jammu Tawi Amarnath Express,Betiah,09:09
+15653,Guwahati Jammu Tawi Amarnath Express,Narkatiaganj,10:00
+15653,Guwahati Jammu Tawi Amarnath Express,Bagaha,10:51
+15653,Guwahati Jammu Tawi Amarnath Express,Siswabazar,12:06
+15653,Guwahati Jammu Tawi Amarnath Express,Kaptanganj,12:40
+15653,Guwahati Jammu Tawi Amarnath Express,Gorakhpur,13:55
+15655,amakhya Katra Express,Darbhanga,03:55
+15655,amakhya Katra Express,Sitamarhi,05:07
+15655,amakhya Katra Express,Raxaul,06:45
+15655,amakhya Katra Express,Sagauli,07:13
+15655,amakhya Katra Express,Betiah,07:38
+15655,amakhya Katra Express,Narkatiaganj,10:00
+15655,amakhya Katra Express,Kaptanganj,12:40
+15655,amakhya Katra Express,Gorakhpur,14:40
+15273,Raxaul Anand Vihar (T) Satyagraha Express,Raxaul,08:40
+15273,Raxaul Anand Vihar (T) Satyagraha Express,Sagauli,09:08
+15273,Raxaul Anand Vihar (T) Satyagraha Express,Betiah,09:41
+15273,Raxaul Anand Vihar (T) Satyagraha Express,Narkatiaganj,10:50
+15273,Raxaul Anand Vihar (T) Satyagraha Express,Bagaha,11:45
+15273,Raxaul Anand Vihar (T) Satyagraha Express,Siswabazar,13:31
+15273,Raxaul Anand Vihar (T) Satyagraha Express,Kaptanganj,14:05
+15273,Raxaul Anand Vihar (T) Satyagraha Express,Gorakhpur,15:35
+15215,Muzaffarpur Narkatiaganj Express,Muzaffarpur,07:35
+15215,Muzaffarpur Narkatiaganj Express,Chakia,08:35
+15215,Muzaffarpur Narkatiaganj Express,Bapudham Motihari,09:18
+15215,Muzaffarpur Narkatiaganj Express,Sagauli,09:43
+15215,Muzaffarpur Narkatiaganj Express,Sagauli,09:43
+15215,Muzaffarpur Narkatiaganj Express,Betiah,10:13
+15215,Muzaffarpur Narkatiaganj Express,Narkatiaganj,11:30
+12557,Muzaffarpur Anand Vihar (T) Sapt Kranti Express,Muzaffarpur,11:35
+12557,Muzaffarpur Anand Vihar (T) Sapt Kranti Express,Chakia,12:34
+12557,Muzaffarpur Anand Vihar (T) Sapt Kranti Express,Bapudham Motihari,13:07
+12557,Muzaffarpur Anand Vihar (T) Sapt Kranti Express,Sagauli,13:34
+12557,Muzaffarpur Anand Vihar (T) Sapt Kranti Express,Sagauli,13:34
+12557,Muzaffarpur Anand Vihar (T) Sapt Kranti Express,Betiah,13:56
+12557,Muzaffarpur Anand Vihar (T) Sapt Kranti Express,Narkatiaganj,14:55
+12557,Muzaffarpur Anand Vihar (T) Sapt Kranti Express,Bagaha,15:50
+12557,Muzaffarpur Anand Vihar (T) Sapt Kranti Express,Siswabazar,16:53
+12557,Muzaffarpur Anand Vihar (T) Sapt Kranti Express,Kaptanganj,17:28
+12557,Muzaffarpur Anand Vihar (T) Sapt Kranti Express,Gorakhpur,18:40
+15211,Darbhanga Amritsar Jan Nayak Express,Muzaffarpur,20:20
+15211,Darbhanga Amritsar Jan Nayak Express,Chakia,21:23
+15211,Darbhanga Amritsar Jan Nayak Express,Bapudham Motihari,21:59
+15211,Darbhanga Amritsar Jan Nayak Express,Sagauli,22:24
+15211,Darbhanga Amritsar Jan Nayak Express,Sagauli,22:24
+15211,Darbhanga Amritsar Jan Nayak Express,Betiah,22:48
+15211,Darbhanga Amritsar Jan Nayak Express,Narkatiaganj,23:30
+15211,Darbhanga Amritsar Jan Nayak Express,Bagaha,00:20
+15211,Darbhanga Amritsar Jan Nayak Express,Siswabazar,01:45
+15211,Darbhanga Amritsar Jan Nayak Express,Kaptanganj,01:55
+15211,Darbhanga Amritsar Jan Nayak Express,Gorakhpur,03:50
+15529,Saharsa Anand Vihar (T) Jansadharan Express,Patliputra,14:30
+15529,Saharsa Anand Vihar (T) Jansadharan Express,Muzaffarpur,20:05
+15529,Saharsa Anand Vihar (T) Jansadharan Express,Chakia,20:54
+15529,Saharsa Anand Vihar (T) Jansadharan Express,Bapudham Motihari,21:25
+15529,Saharsa Anand Vihar (T) Jansadharan Express,Sagauli,21:43
+15529,Saharsa Anand Vihar (T) Jansadharan Express,Sagauli,21:43
+15529,Saharsa Anand Vihar (T) Jansadharan Express,Betiah,22:01
+15529,Saharsa Anand Vihar (T) Jansadharan Express,Narkatiaganj,22:55
+15529,Saharsa Anand Vihar (T) Jansadharan Express,Bagaha,23:40
+15529,Saharsa Anand Vihar (T) Jansadharan Express,Kaptanganj,01:15
+15529,Saharsa Anand Vihar (T) Jansadharan Express,Gorakhpur,02:40
+15001,Muzaffarpur Dehradun Express,Muzaffarpur,14:00
+15001,Muzaffarpur Dehradun Express,Chakia,14:56
+15001,Muzaffarpur Dehradun Express,Bapudham Motihari,15:32
+15001,Muzaffarpur Dehradun Express,Sagauli,15:59
+15001,Muzaffarpur Dehradun Express,Sagauli,15:59
+15001,Muzaffarpur Dehradun Express,Betiah,16:20
+15001,Muzaffarpur Dehradun Express,Narkatiaganj,17:15
+15001,Muzaffarpur Dehradun Express,Bagaha,18:20
+15001,Muzaffarpur Dehradun Express,Siswabazar,19:35
+15001,Muzaffarpur Dehradun Express,Kaptanganj,19:55
+15001,Muzaffarpur Dehradun Express,Gorakhpur,21:15
+19270,Muzaffarpur Porbandar Express,Muzaffarpur,15:15
+19270,Muzaffarpur Porbandar Express,Chakia,16:11
+19270,Muzaffarpur Porbandar Express,Bapudham Motihari,16:40
+19270,Muzaffarpur Porbandar Express,Sagauli,17:08
+19270,Muzaffarpur Porbandar Express,Sagauli,17:08
+19270,Muzaffarpur Porbandar Express,Betiah,17:28
+19270,Muzaffarpur Porbandar Express,Narkatiaganj,18:25
+19270,Muzaffarpur Porbandar Express,Bagaha,19:07
+19270,Muzaffarpur Porbandar Express,Siswabazar,20:35
+19270,Muzaffarpur Porbandar Express,Gorakhpur,22:20
+14016,Anand Vihar (T) Raxaul Sadhbhavna Express,Hajipur,15:48
+14016,Anand Vihar (T) Raxaul Sadhbhavna Express,Muzaffarpur,18:15
+14016,Anand Vihar (T) Raxaul Sadhbhavna Express,Chakia,19:14
+14016,Anand Vihar (T) Raxaul Sadhbhavna Express,Bapudham Motihari,19:45
+14016,Anand Vihar (T) Raxaul Sadhbhavna Express,Sagauli,20:40
+14016,Anand Vihar (T) Raxaul Sadhbhavna Express,Raxaul,22:00
+15557,Darbhanga Anand Vihar (T) Amrit Bharat Express,Darbhanga,15:00
+15557,Darbhanga Anand Vihar (T) Amrit Bharat Express,Sitamarhi,16:15
+15557,Darbhanga Anand Vihar (T) Amrit Bharat Express,Raxaul,17:50
+15557,Darbhanga Anand Vihar (T) Amrit Bharat Express,Narkatiaganj,19:25
+15557,Darbhanga Anand Vihar (T) Amrit Bharat Express,Bagaha,20:40
+14011,Radhikapuri Anand Vihar (T) Express,Muzaffarpur,18:50
+14011,Radhikapuri Anand Vihar (T) Express,Bapudham Motihari,20:15
+14011,Radhikapuri Anand Vihar (T) Express,Sagauli,20:40
+14011,Radhikapuri Anand Vihar (T) Express,Sagauli,20:40
+14011,Radhikapuri Anand Vihar (T) Express,Betiah,21:00
+14011,Radhikapuri Anand Vihar (T) Express,Narkatiaganj,22:00
+14011,Radhikapuri Anand Vihar (T) Express,Kaptanganj,00:54
+14011,Radhikapuri Anand Vihar (T) Express,Gorakhpur,03:00
+14627,Saharsa Chaherta mrit Bhara Express,Muzaffarpur,13:00
+14627,Saharsa Chaherta mrit Bhara Express,Sitamarhi,19:05
+14627,Saharsa Chaherta mrit Bhara Express,Raxaul,22:00
+14627,Saharsa Chaherta mrit Bhara Express,Narkatiaganj,23:15
+14627,Saharsa Chaherta mrit Bhara Express,Siswabazar,02:15
+14627,Saharsa Chaherta mrit Bhara Express,Kaptanganj,02:43
+14627,Saharsa Chaherta mrit Bhara Express,Gorakhpur,04:05
+15567,Bapudham Motihari Anand Vihar (T) Amrit Bharat Express,Bapudham Motihari,08:00
+15567,Bapudham Motihari Anand Vihar (T) Amrit Bharat Express,Sagauli,08:20
+15567,Bapudham Motihari Anand Vihar (T) Amrit Bharat Express,Sagauli,08:20
+15567,Bapudham Motihari Anand Vihar (T) Amrit Bharat Express,Betiah,08:40
+15567,Bapudham Motihari Anand Vihar (T) Amrit Bharat Express,Narkatiaganj,10:00
+15567,Bapudham Motihari Anand Vihar (T) Amrit Bharat Express,Bagaha,10:53
+15567,Bapudham Motihari Anand Vihar (T) Amrit Bharat Express,Siswabazar,12:08
+15567,Bapudham Motihari Anand Vihar (T) Amrit Bharat Express,Kaptanganj,12:40
+15567,Bapudham Motihari Anand Vihar (T) Amrit Bharat Express,Gorakhpur,15:00
+19624,Darbhanga Madar Amrit Bharat Express,Darbhanga,04:15
+19624,Darbhanga Madar Amrit Bharat Express,Sitamarhi,05:35
+19624,Darbhanga Madar Amrit Bharat Express,Raxaul,07:30
+19624,Darbhanga Madar Amrit Bharat Express,Narkatiaganj,09:25
+19624,Darbhanga Madar Amrit Bharat Express,Bagaha,10:20
+19624,Darbhanga Madar Amrit Bharat Express,Kaptanganj,12:35
+19624,Darbhanga Madar Amrit Bharat Express,Gorakhpur,15:00
+14047,Sitamarhi Delhi Amrit Bharat Express,Sitamarhi,22:20
+14047,Sitamarhi Delhi Amrit Bharat Express,Raxaul,00:15
+14047,Sitamarhi Delhi Amrit Bharat Express,Narkatiaganj,01:30
+14047,Sitamarhi Delhi Amrit Bharat Express,Bagaha,02:28
+14047,Sitamarhi Delhi Amrit Bharat Express,Gorakhpur,23:25
+26501,Patliputra Gorakhpur Vande Bharat Express,Patliputra,15:30
+26501,Patliputra Gorakhpur Vande Bharat Express,Hajipur,16:10
+26501,Patliputra Gorakhpur Vande Bharat Express,Muzaffarpur,17:05
+26501,Patliputra Gorakhpur Vande Bharat Express,Bapudham Motihari,17:24
+26501,Patliputra Gorakhpur Vande Bharat Express,Sagauli,18:32
+26501,Patliputra Gorakhpur Vande Bharat Express,Sagauli,18:32
+26501,Patliputra Gorakhpur Vande Bharat Express,Betiah,18:53
+26501,Patliputra Gorakhpur Vande Bharat Express,Narkatiaganj,19:40
+26501,Patliputra Gorakhpur Vande Bharat Express,Bagaha,20:13
+26501,Patliputra Gorakhpur Vande Bharat Express,Kaptanganj,21:38
+26501,Patliputra Gorakhpur Vande Bharat Express,Gorakhpur,22:30
+15201,Patliputa Bagaha Express,Patliputra,17:05
+15201,Patliputa Bagaha Express,Hajipur,17:57
+15201,Patliputa Bagaha Express,Muzaffarpur,19:45
+15201,Patliputa Bagaha Express,Chakia,20:43
+15201,Patliputa Bagaha Express,Bapudham Motihari,21:16
+15201,Patliputa Bagaha Express,Sagauli,21:38
+15201,Patliputa Bagaha Express,Sagauli,21:38
+15201,Patliputa Bagaha Express,Betiah,22:03
+15201,Patliputa Bagaha Express,Narkatiaganj,00:15
+15201,Patliputa Bagaha Express,Bagaha,01:50
+15051,Kolkata Gorakhpur Express,Muzaffarpur,01:20
+15051,Kolkata Gorakhpur Express,Chakia,02:24
+15051,Kolkata Gorakhpur Express,Bapudham Motihari,02:53
+15051,Kolkata Gorakhpur Express,Sagauli,03:22
+15051,Kolkata Gorakhpur Express,Sagauli,03:22
+15051,Kolkata Gorakhpur Express,Betiah,03:45
+15051,Kolkata Gorakhpur Express,Narkatiaganj,04:37
+15051,Kolkata Gorakhpur Express,Bagaha,05:07
+15051,Kolkata Gorakhpur Express,Siswabazar,06:32
+15051,Kolkata Gorakhpur Express,Kaptanganj,07:00
+15051,Kolkata Gorakhpur Express,Gorakhpur,08:10
+15268,Lokmanya Tilak ( T) Raxaul Antyodaya Express,Hajipur,02:25
+15268,Lokmanya Tilak ( T) Raxaul Antyodaya Express,Muzaffarpur,04:00
+15268,Lokmanya Tilak ( T) Raxaul Antyodaya Express,Chakia,04:59
+15268,Lokmanya Tilak ( T) Raxaul Antyodaya Express,Bapudham Motihari,05:34
+15268,Lokmanya Tilak ( T) Raxaul Antyodaya Express,Sagauli,06:30
+15268,Lokmanya Tilak ( T) Raxaul Antyodaya Express,Raxaul,07:45
+14111,uzaffarpur Prayagraj Express,Muzaffarpur,19:30
+14111,uzaffarpur Prayagraj Express,Chakia,20:26
+14111,uzaffarpur Prayagraj Express,Bapudham Motihari,20:51
+14111,uzaffarpur Prayagraj Express,Sagauli,21:10
+14111,uzaffarpur Prayagraj Express,Sagauli,21:10
+14111,uzaffarpur Prayagraj Express,Betiah,21:40
+14111,uzaffarpur Prayagraj Express,Narkatiaganj,22:25
+14111,uzaffarpur Prayagraj Express,Bagaha,23:07
+14111,uzaffarpur Prayagraj Express,Siswabazar,00:24
+14111,uzaffarpur Prayagraj Express,Kaptanganj,00:48
+14111,uzaffarpur Prayagraj Express,Gorakhpur,01:50
+12211,Muzaffarpur Anand Vihar (T) Garib Rath Express,Muzaffarpur,15:15
+12211,Muzaffarpur Anand Vihar (T) Garib Rath Express,Chakia,16:11
+12211,Muzaffarpur Anand Vihar (T) Garib Rath Express,Bapudham Motihari,16:40
+12211,Muzaffarpur Anand Vihar (T) Garib Rath Express,Sagauli,17:08
+12211,Muzaffarpur Anand Vihar (T) Garib Rath Express,Sagauli,17:08
+12211,Muzaffarpur Anand Vihar (T) Garib Rath Express,Betiah,17:28
+12211,Muzaffarpur Anand Vihar (T) Garib Rath Express,Narkatiaganj,18:25
+12211,Muzaffarpur Anand Vihar (T) Garib Rath Express,Bagaha,19:05
+12211,Muzaffarpur Anand Vihar (T) Garib Rath Express,Gorakhpur,22:20
+22551,Darbhanga Jalandhar City Antyodaya Super Fast Express,Darbhanga,03:25
+22551,Darbhanga Jalandhar City Antyodaya Super Fast Express,Sitamarhi,04:28
+22551,Darbhanga Jalandhar City Antyodaya Super Fast Express,Raxaul,06:00
+22551,Darbhanga Jalandhar City Antyodaya Super Fast Express,Sagauli,06:26
+22551,Darbhanga Jalandhar City Antyodaya Super Fast Express,Betiah,06:44
+22551,Darbhanga Jalandhar City Antyodaya Super Fast Express,Narkatiaganj,07:35
+22551,Darbhanga Jalandhar City Antyodaya Super Fast Express,Gorakhpur,10:50
+14009,Bapudham Motihari Anand Vihar (T) Champaran Satyagrah Express,Bapudham Motihari,21:20
+14009,Bapudham Motihari Anand Vihar (T) Champaran Satyagrah Express,Sagauli,21:43
+14009,Bapudham Motihari Anand Vihar (T) Champaran Satyagrah Express,Sagauli,21:43
+14009,Bapudham Motihari Anand Vihar (T) Champaran Satyagrah Express,Betiah,22:01
+14009,Bapudham Motihari Anand Vihar (T) Champaran Satyagrah Express,Narkatiaganj,22:55
+14009,Bapudham Motihari Anand Vihar (T) Champaran Satyagrah Express,Bagaha,23:45
+14009,Bapudham Motihari Anand Vihar (T) Champaran Satyagrah Express,Kaptanganj,01:15
+14009,Bapudham Motihari Anand Vihar (T) Champaran Satyagrah Express,Gorakhpur,02:40
+15705,Katihar Delhi Champaran Humsafar Express,Muzaffarpur,12:50
+15705,Katihar Delhi Champaran Humsafar Express,Chakia,13:40
+15705,Katihar Delhi Champaran Humsafar Express,Bapudham Motihari,14:17
+15705,Katihar Delhi Champaran Humsafar Express,Sagauli,14:42
+15705,Katihar Delhi Champaran Humsafar Express,Sagauli,14:42
+15705,Katihar Delhi Champaran Humsafar Express,Betiah,15:03
+15705,Katihar Delhi Champaran Humsafar Express,Narkatiaganj,16:20
+15705,Katihar Delhi Champaran Humsafar Express,Bagaha,17:11
+15705,Katihar Delhi Champaran Humsafar Express,Siswabazar,18:29
+15705,Katihar Delhi Champaran Humsafar Express,Gorakhpur,20:35
+15516,Danapur Narkatiaganj Express,Danapur,14:30
+15516,Danapur Narkatiaganj Express,Patliputra,14:45
+15516,Danapur Narkatiaganj Express,Hajipur,15:35
+15516,Danapur Narkatiaganj Express,Muzaffarpur,17:25
+15516,Danapur Narkatiaganj Express,Sitamarhi,18:45
+15516,Danapur Narkatiaganj Express,Raxaul,21:05
+15516,Danapur Narkatiaganj Express,Sagauli,22:00
+15516,Danapur Narkatiaganj Express,Narkatiaganj,00:45
+15555,Bapudham Motihari Patliputra Intercity Express,Patliputra,19:00
+15555,Bapudham Motihari Patliputra Intercity Express,Hajipur,19:45
+15555,Bapudham Motihari Patliputra Intercity Express,Muzaffarpur,21:00
+15555,Bapudham Motihari Patliputra Intercity Express,Chakia,21:57
+15555,Bapudham Motihari Patliputra Intercity Express,Bapudham Motihari,22:45
+15502,Jogbani Raxaul Express,Jogbani,23:45
+15502,Jogbani Raxaul Express,Jhanjharpur,03:58
+15502,Jogbani Raxaul Express,Darbhanga,06:55
+15502,Jogbani Raxaul Express,Sitamarhi,08:33
+15502,Jogbani Raxaul Express,Raxaul,11:15
+15561,Gomti Nagar Darbhanga Anand Vihar (T) Amrit Bharat Express,Darbhanga,15:00
+15561,Gomti Nagar Darbhanga Anand Vihar (T) Amrit Bharat Express,Sitamarhi,16:15
+15561,Gomti Nagar Darbhanga Anand Vihar (T) Amrit Bharat Express,Raxaul,17:50
+15561,Gomti Nagar Darbhanga Anand Vihar (T) Amrit Bharat Express,Narkatiaganj,19:25
+15561,Gomti Nagar Darbhanga Anand Vihar (T) Amrit Bharat Express,Bagaha,20:40
+15561,Gomti Nagar Darbhanga Anand Vihar (T) Amrit Bharat Express,Kaptanganj,22:00
+15561,Gomti Nagar Darbhanga Anand Vihar (T) Amrit Bharat Express,Gorakhpur,23:25

@@ -1,0 +1,584 @@
+train_num,train_name,halt_station_name,departure_time
+12521,Barauni Ernakulam Jn. Raptisagar Express,Chhapra,03:05
+12521,Barauni Ernakulam Jn. Raptisagar Express,Gorakhpur,06:40
+12521,Barauni Ernakulam Jn. Raptisagar Express,Aishbagh Jn.,11:45
+12521,Barauni Ernakulam Jn. Raptisagar Express,Kanpur,13:17
+12521,Barauni Ernakulam Jn. Raptisagar Express,Virangna Laxmibai,16:53
+12521,Barauni Ernakulam Jn. Raptisagar Express,Bhopal,21:00
+12521,Barauni Ernakulam Jn. Raptisagar Express,Itarsi,22:50
+12521,Barauni Ernakulam Jn. Raptisagar Express,Nagpur,04:00
+12521,Barauni Ernakulam Jn. Raptisagar Express,Balharshah,07:40
+12521,Barauni Ernakulam Jn. Raptisagar Express,Warangal,11:20
+12521,Barauni Ernakulam Jn. Raptisagar Express,Vijayawada,15:30
+12521,Barauni Ernakulam Jn. Raptisagar Express,Gudur,19:50
+12521,Barauni Ernakulam Jn. Raptisagar Express,Dr MGR Chennai,23:10
+12521,Barauni Ernakulam Jn. Raptisagar Express,Katpadi,01:10
+12589,Gorakhpur- Cherlapalli Express,Gorakhpur,06:40
+12589,Gorakhpur- Cherlapalli Express,Aishbagh Jn.,11:45
+12589,Gorakhpur- Cherlapalli Express,Kanpur,13:17
+12589,Gorakhpur- Cherlapalli Express,Virangna Laxmibai,16:53
+12589,Gorakhpur- Cherlapalli Express,Bhopal,21:00
+12589,Gorakhpur- Cherlapalli Express,Itarsi,22:50
+12589,Gorakhpur- Cherlapalli Express,Nagpur,04:00
+12589,Gorakhpur- Cherlapalli Express,Balharshah,07:40
+12589,Gorakhpur- Cherlapalli Express,Kazipet,11:05
+12589,Gorakhpur- Cherlapalli Express,Secunderabad,13:30
+12591,Gorakhpur Yesvantpur Express,Aishbagh Jn.,11:45
+12591,Gorakhpur Yesvantpur Express,Kanpur,13:17
+12591,Gorakhpur Yesvantpur Express,Virangna Laxmibai,16:53
+12591,Gorakhpur Yesvantpur Express,Bhopal,21:00
+12591,Gorakhpur Yesvantpur Express,Itarsi,22:50
+12591,Gorakhpur Yesvantpur Express,Nagpur,04:00
+12591,Gorakhpur Yesvantpur Express,Balharshah,07:40
+12591,Gorakhpur Yesvantpur Express,Kazipet,11:05
+12591,Gorakhpur Yesvantpur Express,Secunderabad,13:20
+12591,Gorakhpur Yesvantpur Express,Yesvantpur,02:30
+12160,Jabalpur Amarvati Express,Jabalpur,21:20
+12160,Jabalpur Amarvati Express,Itarsi,01:25
+12160,Jabalpur Amarvati Express,Nagpur,06:30
+12160,Jabalpur Amarvati Express,Balharshah,09:50
+16094,Lucknow Jn. Chennai Express,Lucknow,16:20
+16094,Lucknow Jn. Chennai Express,Kanpur,17:55
+16094,Lucknow Jn. Chennai Express,Virangna Laxmibai,21:25
+16094,Lucknow Jn. Chennai Express,Bhopal,03:05
+16094,Lucknow Jn. Chennai Express,Itarsi,04:50
+16094,Lucknow Jn. Chennai Express,Nagpur,09:50
+16094,Lucknow Jn. Chennai Express,Balharshah,13:45
+16094,Lucknow Jn. Chennai Express,Warangal,16:20
+16094,Lucknow Jn. Chennai Express,Vijayawada,20:50
+16094,Lucknow Jn. Chennai Express,Gudur,04:05
+16094,Lucknow Jn. Chennai Express,Dr MGR Chennai,07:00
+12670,Chhapra-Dr MGR Chennai Ganga Kaveri Express,Chhapra,21:00
+12670,Chhapra-Dr MGR Chennai Ganga Kaveri Express,Varanasi,01:20
+12670,Chhapra-Dr MGR Chennai Ganga Kaveri Express,Prayagraj,04:30
+12670,Chhapra-Dr MGR Chennai Ganga Kaveri Express,Satna,07:00
+12670,Chhapra-Dr MGR Chennai Ganga Kaveri Express,Katni,08:20
+12670,Chhapra-Dr MGR Chennai Ganga Kaveri Express,Jabalpur,10:10
+12670,Chhapra-Dr MGR Chennai Ganga Kaveri Express,Itarsi,13:35
+12670,Chhapra-Dr MGR Chennai Ganga Kaveri Express,Nagpur,18:20
+12670,Chhapra-Dr MGR Chennai Ganga Kaveri Express,Balharshah,22:10
+12670,Chhapra-Dr MGR Chennai Ganga Kaveri Express,Warangal,01:25
+12670,Chhapra-Dr MGR Chennai Ganga Kaveri Express,Vijayawada,05:20
+12670,Chhapra-Dr MGR Chennai Ganga Kaveri Express,Gudur,09:45
+12670,Chhapra-Dr MGR Chennai Ganga Kaveri Express,Dr MGR Chennai,12:10
+12296,Danapur SMVT Bengaluru Sangamitra Express,Danapur,20:15
+12296,Danapur SMVT Bengaluru Sangamitra Express,Pt Deen Dayal,23:20
+12296,Danapur SMVT Bengaluru Sangamitra Express,Prayagraj Cheoki,01:40
+12296,Danapur SMVT Bengaluru Sangamitra Express,Satna,04:40
+12296,Danapur SMVT Bengaluru Sangamitra Express,Katni,05:55
+12296,Danapur SMVT Bengaluru Sangamitra Express,Jabalpur,07:40
+12296,Danapur SMVT Bengaluru Sangamitra Express,Itarsi,11:50
+12296,Danapur SMVT Bengaluru Sangamitra Express,Nagpur,16:25
+12296,Danapur SMVT Bengaluru Sangamitra Express,Balharshah,20:10
+12296,Danapur SMVT Bengaluru Sangamitra Express,Warangal,23:05
+12296,Danapur SMVT Bengaluru Sangamitra Express,Vijayawada,03:00
+12296,Danapur SMVT Bengaluru Sangamitra Express,Gudur,07:25
+12296,Danapur SMVT Bengaluru Sangamitra Express,Perambur,09:45
+12296,Danapur SMVT Bengaluru Sangamitra Express,Katpadi,11:50
+12296,Danapur SMVT Bengaluru Sangamitra Express,Sir M Vishves- a varaya Terminal,16:10
+22351,Saharsa SMVT Bengaluru Express,Barauni,13:35
+22351,Saharsa SMVT Bengaluru Express,Patliputra,20:05
+22351,Saharsa SMVT Bengaluru Express,Danapur,20:28
+22351,Saharsa SMVT Bengaluru Express,Pt Deen Dayal,23:50
+22351,Saharsa SMVT Bengaluru Express,Prayagraj Cheoki,02:10
+22351,Saharsa SMVT Bengaluru Express,Satna,04:55
+22351,Saharsa SMVT Bengaluru Express,Katni,06:15
+22351,Saharsa SMVT Bengaluru Express,Jabalpur,08:00
+22351,Saharsa SMVT Bengaluru Express,Itarsi,12:45
+22351,Saharsa SMVT Bengaluru Express,Nagpur,17:20
+22351,Saharsa SMVT Bengaluru Express,Balharshah,21:10
+22351,Saharsa SMVT Bengaluru Express,Warangal,00:10
+22351,Saharsa SMVT Bengaluru Express,Vijayawada,03:55
+22351,Saharsa SMVT Bengaluru Express,Gudur,08:05
+22351,Saharsa SMVT Bengaluru Express,Perambur,10:20
+22351,Saharsa SMVT Bengaluru Express,Katpadi,12:20
+22351,Saharsa SMVT Bengaluru Express,Sir M Vishves- a varaya Terminal,16:35
+12577,Darbhanga Mysuru Bagmati Express,Patna,20:20
+12577,Darbhanga Mysuru Bagmati Express,Danapur,20:33
+12577,Darbhanga Mysuru Bagmati Express,Pt Deen Dayal,23:50
+12577,Darbhanga Mysuru Bagmati Express,Prayagraj Cheoki,02:10
+12577,Darbhanga Mysuru Bagmati Express,Satna,04:55
+12577,Darbhanga Mysuru Bagmati Express,Katni,06:15
+12577,Darbhanga Mysuru Bagmati Express,Jabalpur,08:00
+12577,Darbhanga Mysuru Bagmati Express,Itarsi,12:45
+12577,Darbhanga Mysuru Bagmati Express,Nagpur,17:20
+12577,Darbhanga Mysuru Bagmati Express,Balharshah,21:10
+12577,Darbhanga Mysuru Bagmati Express,Warangal,00:10
+12577,Darbhanga Mysuru Bagmati Express,Vijayawada,03:55
+12577,Darbhanga Mysuru Bagmati Express,Gudur,08:05
+12577,Darbhanga Mysuru Bagmati Express,Perambur,10:20
+12577,Darbhanga Mysuru Bagmati Express,Katpadi,12:20
+12577,Darbhanga Mysuru Bagmati Express,KSR Bengaluru,17:05
+12577,Darbhanga Mysuru Bagmati Express,Mysore,20:00
+16602,Jogbani Erode Amrit Bharat Express,Barauni,21:35
+16602,Jogbani Erode Amrit Bharat Express,Patliputra,00:50
+16602,Jogbani Erode Amrit Bharat Express,Pt Deen Dayal,05:20
+16602,Jogbani Erode Amrit Bharat Express,Prayagraj Cheoki,08:30
+16602,Jogbani Erode Amrit Bharat Express,Manikpur,11:20
+16602,Jogbani Erode Amrit Bharat Express,Satna,13:10
+16602,Jogbani Erode Amrit Bharat Express,Katni,15:00
+16602,Jogbani Erode Amrit Bharat Express,Jabalpur,16:40
+16602,Jogbani Erode Amrit Bharat Express,Itarsi,22:25
+16602,Jogbani Erode Amrit Bharat Express,Nagpur,03:50
+16602,Jogbani Erode Amrit Bharat Express,Balharshah,07:10
+16602,Jogbani Erode Amrit Bharat Express,Vijayawada,14:50
+16602,Jogbani Erode Amrit Bharat Express,Gudur,20:05
+16602,Jogbani Erode Amrit Bharat Express,Perambur,22:50
+12540,Lucknow Yesvantpur Express,Lucknow,20:25
+12540,Lucknow Yesvantpur Express,Prayagraj,01:35
+12540,Lucknow Yesvantpur Express,Satna,04:25
+12540,Lucknow Yesvantpur Express,Jabalpur,07:05
+12540,Lucknow Yesvantpur Express,Itarsi,11:00
+12540,Lucknow Yesvantpur Express,Nagpur,15:25
+12540,Lucknow Yesvantpur Express,Balharshah,19:10
+12540,Lucknow Yesvantpur Express,Warangal,22:50
+12540,Lucknow Yesvantpur Express,Vijayawada,02:10
+12540,Lucknow Yesvantpur Express,Perambur,09:10
+12540,Lucknow Yesvantpur Express,Katpadi,11:05
+12540,Lucknow Yesvantpur Express,Yesvantpur,15:45
+11046,Dhanbad Chhatrapati Shahu Maharaj (T) Deekshabhoomi Express,Dhanbad,10:20
+11046,Dhanbad Chhatrapati Shahu Maharaj (T) Deekshabhoomi Express,Gaya,13:30
+11046,Dhanbad Chhatrapati Shahu Maharaj (T) Deekshabhoomi Express,Pt Deen Dayal,17:10
+11046,Dhanbad Chhatrapati Shahu Maharaj (T) Deekshabhoomi Express,Prayagraj Cheoki,19:27
+11046,Dhanbad Chhatrapati Shahu Maharaj (T) Deekshabhoomi Express,Satna,22:00
+11046,Dhanbad Chhatrapati Shahu Maharaj (T) Deekshabhoomi Express,Katni,23:15
+11046,Dhanbad Chhatrapati Shahu Maharaj (T) Deekshabhoomi Express,Jabalpur,00:50
+11046,Dhanbad Chhatrapati Shahu Maharaj (T) Deekshabhoomi Express,Itarsi,04:30
+11046,Dhanbad Chhatrapati Shahu Maharaj (T) Deekshabhoomi Express,Nagpur,09:45
+22670,Patna Ernakulam Express,Patna,16:30
+22670,Patna Ernakulam Express,Pt Deen Dayal,20:05
+22670,Patna Ernakulam Express,Varanasi,21:05
+22670,Patna Ernakulam Express,Prayagraj,00:35
+22670,Patna Ernakulam Express,Satna,03:25
+22670,Patna Ernakulam Express,Katni,04:40
+22670,Patna Ernakulam Express,Jabalpur,06:20
+22670,Patna Ernakulam Express,Itarsi,10:25
+22670,Patna Ernakulam Express,Nagpur,15:10
+22670,Patna Ernakulam Express,Balharshah,18:55
+22670,Patna Ernakulam Express,Warangal,21:50
+22670,Patna Ernakulam Express,Vijayawada,02:00
+22670,Patna Ernakulam Express,Gudur,06:30
+22670,Patna Ernakulam Express,Perambur,09:10
+22670,Patna Ernakulam Express,Katpadi,11:05
+12194,Jabalpur Yesvantpur Express,Jabalpur,06:50
+12194,Jabalpur Yesvantpur Express,Itarsi,10:25
+12194,Jabalpur Yesvantpur Express,Nagpur,15:10
+12194,Jabalpur Yesvantpur Express,Balharshah,18:55
+12194,Jabalpur Yesvantpur Express,Kazipet,22:05
+12194,Jabalpur Yesvantpur Express,Yesvantpur,13:30
+22684,Lucknow Yesvantpur Express,Lucknow,18:40
+22684,Lucknow Yesvantpur Express,Prayagraj,00:45
+22684,Lucknow Yesvantpur Express,Satna,03:25
+22684,Lucknow Yesvantpur Express,Katni,04:40
+22684,Lucknow Yesvantpur Express,Jabalpur,06:20
+22684,Lucknow Yesvantpur Express,Itarsi,10:25
+22684,Lucknow Yesvantpur Express,Nagpur,15:10
+22684,Lucknow Yesvantpur Express,Balharshah,18:55
+22684,Lucknow Yesvantpur Express,Kazipet,22:05
+22684,Lucknow Yesvantpur Express,Yesvantpur,13:20
+12792,Danapur Secun- derabad Express,Danapur,12:15
+12792,Danapur Secun- derabad Express,Pt Deen Dayal,15:50
+12792,Danapur Secun- derabad Express,Varanasi,17:00
+12792,Danapur Secun- derabad Express,Prayagraj,20:00
+12792,Danapur Secun- derabad Express,Satna,23:20
+12792,Danapur Secun- derabad Express,Katni,00:30
+12792,Danapur Secun- derabad Express,Jabalpur,01:55
+12792,Danapur Secun- derabad Express,Itarsi,05:50
+12792,Danapur Secun- derabad Express,Nagpur,11:05
+12792,Danapur Secun- derabad Express,Balharshah,15:00
+12792,Danapur Secun- derabad Express,Kazipet,18:25
+12792,Danapur Secun- derabad Express,Secunderabad,21:30
+17609,Patna Purna Express,Patna,07:00
+17609,Patna Purna Express,Pt Deen Dayal,10:25
+17609,Patna Purna Express,Prayagraj Cheoki,13:27
+17609,Patna Purna Express,Satna,16:50
+17609,Patna Purna Express,Katni,18:10
+17609,Patna Purna Express,Jabalpur,19:35
+17609,Patna Purna Express,Itarsi,00:10
+17609,Patna Purna Express,Nagpur,04:40
+22536,Banaras Rames- waram Express,Banaras,20:00
+22536,Banaras Rames- waram Express,Prayagraj,22:40
+22536,Banaras Rames- waram Express,Satna,02:05
+22536,Banaras Rames- waram Express,Katni,03:30
+22536,Banaras Rames- waram Express,Jabalpur,05:00
+22536,Banaras Rames- waram Express,Itarsi,09:00
+22536,Banaras Rames- waram Express,Nagpur,13:30
+22536,Banaras Rames- waram Express,Balharshah,17:10
+22536,Banaras Rames- waram Express,Warangal,20:35
+22536,Banaras Rames- waram Express,Vijayawada,00:30
+22536,Banaras Rames- waram Express,Gudur,04:50
+22536,Banaras Rames- waram Express,Chennai Egmore,08:25
+12389,Gaya Dr MGR Chennai Central Express,Gaya,05:30
+12389,Gaya Dr MGR Chennai Central Express,Pt Deen Dayal,08:30
+12389,Gaya Dr MGR Chennai Central Express,Prayagraj Cheoki,10:27
+12389,Gaya Dr MGR Chennai Central Express,Satna,13:25
+12389,Gaya Dr MGR Chennai Central Express,Katni,14:35
+12389,Gaya Dr MGR Chennai Central Express,Jabalpur,16:05
+12389,Gaya Dr MGR Chennai Central Express,Balharshah,02:10
+12389,Gaya Dr MGR Chennai Central Express,Warangal,05:35
+12389,Gaya Dr MGR Chennai Central Express,Vijayawada,08:55
+12389,Gaya Dr MGR Chennai Central Express,MGR Chennai,16:20
+22353,Patna SMVT Bengaluru Humsafar Express,Patna,20:20
+22353,Patna SMVT Bengaluru Humsafar Express,Pt Deen Dayal,23:50
+22353,Patna SMVT Bengaluru Humsafar Express,Prayagraj Cheoki,02:10
+22353,Patna SMVT Bengaluru Humsafar Express,Satna,04:55
+22353,Patna SMVT Bengaluru Humsafar Express,Katni,06:15
+22353,Patna SMVT Bengaluru Humsafar Express,Jabalpur,08:00
+22353,Patna SMVT Bengaluru Humsafar Express,Itarsi,12:45
+22353,Patna SMVT Bengaluru Humsafar Express,Nagpur,17:20
+22353,Patna SMVT Bengaluru Humsafar Express,Balharshah,21:10
+22353,Patna SMVT Bengaluru Humsafar Express,Warangal,00:10
+22353,Patna SMVT Bengaluru Humsafar Express,Vijayawada,03:55
+22353,Patna SMVT Bengaluru Humsafar Express,Gudur,08:05
+22353,Patna SMVT Bengaluru Humsafar Express,Perambur,10:20
+22353,Patna SMVT Bengaluru Humsafar Express,Katpadi,12:20
+22353,Patna SMVT Bengaluru Humsafar Express,Sir M Vishvesvaraya a Terminal,16:35
+22614,Ayodhya Cantt. Rameswaram Shraddha Sethu Express,Prayagraj,05:20
+22614,Ayodhya Cantt. Rameswaram Shraddha Sethu Express,Satna,08:25
+22614,Ayodhya Cantt. Rameswaram Shraddha Sethu Express,Jabalpur,10:55
+22614,Ayodhya Cantt. Rameswaram Shraddha Sethu Express,Itarsi,14:30
+22614,Ayodhya Cantt. Rameswaram Shraddha Sethu Express,Nagpur,19:10
+22614,Ayodhya Cantt. Rameswaram Shraddha Sethu Express,Balharshah,22:50
+22614,Ayodhya Cantt. Rameswaram Shraddha Sethu Express,Warangal,02:15
+22614,Ayodhya Cantt. Rameswaram Shraddha Sethu Express,Vijayawada,05:55
+22614,Ayodhya Cantt. Rameswaram Shraddha Sethu Express,Gudur,10:40
+22614,Ayodhya Cantt. Rameswaram Shraddha Sethu Express,Chennai Egmore,13:45
+16368,Banaras Kanniya- kumari Weekly Kashi Tamil Express,Banaras,16:20
+16368,Banaras Kanniya- kumari Weekly Kashi Tamil Express,Prayagraj Cheoki,19:27
+16368,Banaras Kanniya- kumari Weekly Kashi Tamil Express,Balharshah,12:45
+16368,Banaras Kanniya- kumari Weekly Kashi Tamil Express,Warangal,16:20
+16368,Banaras Kanniya- kumari Weekly Kashi Tamil Express,Vijayawada,20:40
+16368,Banaras Kanniya- kumari Weekly Kashi Tamil Express,Perambur,03:30
+5074,Lalkuan KSR Bengaluru Special,Virangna Laxmibai,03:55
+5074,Lalkuan KSR Bengaluru Special,Itarsi,09:40
+5074,Lalkuan KSR Bengaluru Special,Nagpur,14:35
+5074,Lalkuan KSR Bengaluru Special,Balharshah,18:40
+5074,Lalkuan KSR Bengaluru Special,Warangal,21:50
+5074,Lalkuan KSR Bengaluru Special,Vijayawada,01:45
+5074,Lalkuan KSR Bengaluru Special,Gudur,06:30
+5074,Lalkuan KSR Bengaluru Special,Renigunta,08:25
+5074,Lalkuan KSR Bengaluru Special,Katpadi,10:30
+5074,Lalkuan KSR Bengaluru Special,KSR Bengaluru,15:25
+2198,Jabalpur Coimbatore Special,Jabalpur,23:50
+2198,Jabalpur Coimbatore Special,Itarsi,03:45
+15293,Muzaffarpur Charlapalli Amrit Bharat Express,Muzaffarpur,11:25
+15293,Muzaffarpur Charlapalli Amrit Bharat Express,Patliputra,13:15
+15293,Muzaffarpur Charlapalli Amrit Bharat Express,Danapur,13:30
+15293,Muzaffarpur Charlapalli Amrit Bharat Express,Pt Deen Dayal,18:30
+15293,Muzaffarpur Charlapalli Amrit Bharat Express,Prayagraj Cheoki,20:40
+15293,Muzaffarpur Charlapalli Amrit Bharat Express,Satna,01:10
+15293,Muzaffarpur Charlapalli Amrit Bharat Express,Katni,02:20
+15293,Muzaffarpur Charlapalli Amrit Bharat Express,Jabalpur,03:50
+15293,Muzaffarpur Charlapalli Amrit Bharat Express,Itarsi,08:10
+15293,Muzaffarpur Charlapalli Amrit Bharat Express,Nagpur,12:35
+15293,Muzaffarpur Charlapalli Amrit Bharat Express,Balharshah,17:25
+15293,Muzaffarpur Charlapalli Amrit Bharat Express,Kazipet,20:10
+15293,Muzaffarpur Charlapalli Amrit Bharat Express,Secunderabad,23:50
+19802,Danapur Sogariya Express,Pt Deen Dayal,16:05
+19802,Danapur Sogariya Express,Prayagraj Cheoki,18:22
+19802,Danapur Sogariya Express,Satna,22:00
+19802,Danapur Sogariya Express,Katni,00:50
+15125,Banaras Patna Jan Shatabdi Express,Banaras,06:20
+15125,Banaras Patna Jan Shatabdi Express,Varanasi,06:35
+15125,Banaras Patna Jan Shatabdi Express,P U t p a D d e h e y n a y D a a J y n a l,07:35
+15125,Banaras Patna Jan Shatabdi Express,Danapur,10:18
+15125,Banaras Patna Jan Shatabdi Express,Patna,11:20
+16093,Chennai Lucknow Jn. Express,M Ce G n R tr C al hennai,05:10
+16093,Chennai Lucknow Jn. Express,Gudur,07:30
+16093,Chennai Lucknow Jn. Express,Vijayawada,14:20
+16093,Chennai Lucknow Jn. Express,Warangal,17:20
+16093,Chennai Lucknow Jn. Express,Balharshah,22:40
+16093,Chennai Lucknow Jn. Express,Nagpur,02:15
+16093,Chennai Lucknow Jn. Express,Itarsi,07:50
+16093,Chennai Lucknow Jn. Express,Bhopal,09:40
+16093,Chennai Lucknow Jn. Express,V Jh ir a a n n s g i na Laxmibai,14:13
+16093,Chennai Lucknow Jn. Express,Kanpur Central,18:30
+16093,Chennai Lucknow Jn. Express,Lucknow,20:20
+17610,Purna Patna Express,Nagpur,00:25
+17610,Purna Patna Express,Itarsi,05:10
+17610,Purna Patna Express,Jabalpur,08:35
+17610,Purna Patna Express,Katni,09:55
+17610,Purna Patna Express,Satna,11:40
+17610,Purna Patna Express,Prayagraj Cheoki,15:45
+17610,Purna Patna Express,P U t p a D d e h e y n a y D a a J y n a l,19:40
+17610,Purna Patna Express,Patna,23:15
+12578,Mysuru Darbhanga Bagmati Express,Mysore,10:30
+12578,Mysuru Darbhanga Bagmati Express,KSR Bengaluru,13:50
+12578,Mysuru Darbhanga Bagmati Express,Jolarpettai,16:40
+12578,Mysuru Darbhanga Bagmati Express,Katpadi,17:50
+12578,Mysuru Darbhanga Bagmati Express,Perambur,19:35
+12578,Mysuru Darbhanga Bagmati Express,Gudur,22:05
+12578,Mysuru Darbhanga Bagmati Express,Vijayawada,02:35
+12578,Mysuru Darbhanga Bagmati Express,Warangal,05:25
+12578,Mysuru Darbhanga Bagmati Express,Balharshah,10:00
+12578,Mysuru Darbhanga Bagmati Express,Nagpur,13:10
+12578,Mysuru Darbhanga Bagmati Express,Itarsi,18:50
+12578,Mysuru Darbhanga Bagmati Express,Jabalpur,22:40
+12578,Mysuru Darbhanga Bagmati Express,Katni,23:55
+12578,Mysuru Darbhanga Bagmati Express,Satna,01:10
+12578,Mysuru Darbhanga Bagmati Express,Prayagraj Cheoki,04:27
+12578,Mysuru Darbhanga Bagmati Express,P U t p a D d e h e y n a y D a a J y n a l,07:05
+12578,Mysuru Darbhanga Bagmati Express,Danapur,09:36
+12578,Mysuru Darbhanga Bagmati Express,Patna,10:05
+22352,SMVT Bengaluru Saharsa Express,S va ir r a M y a V i T s e h r v m e i s n - al,13:50
+22352,SMVT Bengaluru Saharsa Express,Jolarpettai,16:40
+22352,SMVT Bengaluru Saharsa Express,Katpadi,17:50
+22352,SMVT Bengaluru Saharsa Express,Perambur,19:35
+22352,SMVT Bengaluru Saharsa Express,Gudur,22:05
+22352,SMVT Bengaluru Saharsa Express,Vijayawada,02:35
+22352,SMVT Bengaluru Saharsa Express,Warangal,05:25
+22352,SMVT Bengaluru Saharsa Express,Balharshah,10:00
+22352,SMVT Bengaluru Saharsa Express,Nagpur,13:10
+22352,SMVT Bengaluru Saharsa Express,Itarsi,18:50
+22352,SMVT Bengaluru Saharsa Express,Jabalpur,22:40
+22352,SMVT Bengaluru Saharsa Express,Katni,23:55
+22352,SMVT Bengaluru Saharsa Express,Satna,01:10
+22352,SMVT Bengaluru Saharsa Express,Prayagraj Cheoki,04:27
+22352,SMVT Bengaluru Saharsa Express,P U t p a D d e h e y n a y D a a J y n a l,07:05
+22352,SMVT Bengaluru Saharsa Express,Danapur,09:36
+22352,SMVT Bengaluru Saharsa Express,Patliputra,10:00
+22352,SMVT Bengaluru Saharsa Express,Barauni,12:45
+22352,SMVT Bengaluru Saharsa Express,Muzaffarpur,17:20
+12295,SMVT Bengaluru Danapur Sangamitra Express,S va ir r a M y a V i T s e h r v m e i s n - al,09:15
+12295,SMVT Bengaluru Danapur Sangamitra Express,Jolarpettai,11:25
+12295,SMVT Bengaluru Danapur Sangamitra Express,Katpadi,12:50
+12295,SMVT Bengaluru Danapur Sangamitra Express,Perambur,14:40
+12295,SMVT Bengaluru Danapur Sangamitra Express,Gudur,17:15
+12295,SMVT Bengaluru Danapur Sangamitra Express,Vijayawada,21:40
+12295,SMVT Bengaluru Danapur Sangamitra Express,Warangal,00:35
+12295,SMVT Bengaluru Danapur Sangamitra Express,Balharshah,04:55
+12295,SMVT Bengaluru Danapur Sangamitra Express,Nagpur,08:40
+12295,SMVT Bengaluru Danapur Sangamitra Express,Itarsi,13:55
+12295,SMVT Bengaluru Danapur Sangamitra Express,Jabalpur,17:20
+12295,SMVT Bengaluru Danapur Sangamitra Express,Katni,18:40
+12295,SMVT Bengaluru Danapur Sangamitra Express,Satna,20:15
+12295,SMVT Bengaluru Danapur Sangamitra Express,Prayagraj Cheoki,23:45
+12295,SMVT Bengaluru Danapur Sangamitra Express,P U t p a D d e h e y n a y D a a J y n a l,04:05
+12295,SMVT Bengaluru Danapur Sangamitra Express,Danapur,07:40
+22669,Ernakulam Jn. Patna Jn. Express,Jolarpettai,09:40
+22669,Ernakulam Jn. Patna Jn. Express,Katpadi,10:50
+22669,Ernakulam Jn. Patna Jn. Express,Perambur,12:45
+22669,Ernakulam Jn. Patna Jn. Express,Vijayawada,20:10
+22669,Ernakulam Jn. Patna Jn. Express,Warangal,23:10
+22669,Ernakulam Jn. Patna Jn. Express,Balharshah,03:25
+22669,Ernakulam Jn. Patna Jn. Express,Nagpur,06:50
+22669,Ernakulam Jn. Patna Jn. Express,Itarsi,12:10
+22669,Ernakulam Jn. Patna Jn. Express,Jabalpur,15:25
+22669,Ernakulam Jn. Patna Jn. Express,Katni,16:35
+22669,Ernakulam Jn. Patna Jn. Express,Satna,17:55
+22669,Ernakulam Jn. Patna Jn. Express,Prayagraj,22:30
+22669,Ernakulam Jn. Patna Jn. Express,Varanasi,01:55
+22669,Ernakulam Jn. Patna Jn. Express,P U t p a D d e h e y n a y D a a J y n a l,03:00
+22669,Ernakulam Jn. Patna Jn. Express,Patna,06:25
+12791,Secunderabad Danapur Express,Secunderabad,09:25
+12791,Secunderabad Danapur Express,Kazipet,11:10
+12791,Secunderabad Danapur Express,Balharshah,15:10
+12791,Secunderabad Danapur Express,Nagpur,18:25
+12791,Secunderabad Danapur Express,Itarsi,23:45
+12791,Secunderabad Danapur Express,Jabalpur,03:05
+12791,Secunderabad Danapur Express,Katni,04:20
+12791,Secunderabad Danapur Express,Satna,05:40
+12791,Secunderabad Danapur Express,Prayagraj,10:15
+12791,Secunderabad Danapur Express,Varanasi,13:35
+12791,Secunderabad Danapur Express,P U t p a D d e h e y n a y D a a J y n a l,14:50
+12791,Secunderabad Danapur Express,Danapur,18:15
+12193,Yesvantpur Jabalpur Express,Yesvantpur,15:45
+12193,Yesvantpur Jabalpur Express,Kazipet,05:50
+12193,Yesvantpur Jabalpur Express,Balharshah,10:15
+12193,Yesvantpur Jabalpur Express,Nagpur,13:25
+12193,Yesvantpur Jabalpur Express,Itarsi,19:30
+12193,Yesvantpur Jabalpur Express,Jabalpur,23:10
+11045,Chhatrapati Shahu Maharaj (T)/ Dhanbad Deekshabhoomi Express,Nagpur,06:50
+11045,Chhatrapati Shahu Maharaj (T)/ Dhanbad Deekshabhoomi Express,Itarsi,12:10
+11045,Chhatrapati Shahu Maharaj (T)/ Dhanbad Deekshabhoomi Express,Jabalpur,15:25
+11045,Chhatrapati Shahu Maharaj (T)/ Dhanbad Deekshabhoomi Express,Katni,16:35
+11045,Chhatrapati Shahu Maharaj (T)/ Dhanbad Deekshabhoomi Express,Satna,17:55
+11045,Chhatrapati Shahu Maharaj (T)/ Dhanbad Deekshabhoomi Express,Prayagraj Cheoki,21:42
+11045,Chhatrapati Shahu Maharaj (T)/ Dhanbad Deekshabhoomi Express,P U t p a D d e h e y n a y D a a J y n a l,00:50
+11045,Chhatrapati Shahu Maharaj (T)/ Dhanbad Deekshabhoomi Express,Gaya,05:05
+11045,Chhatrapati Shahu Maharaj (T)/ Dhanbad Deekshabhoomi Express,Dhanbad,08:45
+2197,Coimbatore Jabalpur Special,Itarsi,05:10
+2197,Coimbatore Jabalpur Special,Jabalpur,08:45
+16601,Erode Jogbani Amrit Bharat Express,Jolarpettai,10:50
+16601,Erode Jogbani Amrit Bharat Express,Katpadi,12:05
+16601,Erode Jogbani Amrit Bharat Express,Perambur,13:50
+16601,Erode Jogbani Amrit Bharat Express,Gudur,16:50
+16601,Erode Jogbani Amrit Bharat Express,Vijayawada,21:25
+16601,Erode Jogbani Amrit Bharat Express,Balharshah,06:15
+16601,Erode Jogbani Amrit Bharat Express,Nagpur,10:00
+16601,Erode Jogbani Amrit Bharat Express,Itarsi,15:10
+16601,Erode Jogbani Amrit Bharat Express,Jabalpur,18:25
+16601,Erode Jogbani Amrit Bharat Express,Katni,20:00
+16601,Erode Jogbani Amrit Bharat Express,Satna,21:50
+16601,Erode Jogbani Amrit Bharat Express,Manikpur,23:37
+16601,Erode Jogbani Amrit Bharat Express,Prayagraj Cheoki,01:35
+16601,Erode Jogbani Amrit Bharat Express,P U t p a D d e h e y n a y D a a J y n a l,05:45
+16601,Erode Jogbani Amrit Bharat Express,Patliputra,09:25
+16601,Erode Jogbani Amrit Bharat Express,Barauni,12:15
+15294,Charlaplli Muzaffarpur Amrit Bharat,Secunderabad,03:55
+15294,Charlaplli Muzaffarpur Amrit Bharat,Kazipet,05:50
+15294,Charlaplli Muzaffarpur Amrit Bharat,Balharshah,10:25
+15294,Charlaplli Muzaffarpur Amrit Bharat,Nagpur,13:35
+15294,Charlaplli Muzaffarpur Amrit Bharat,Itarsi,19:40
+15294,Charlaplli Muzaffarpur Amrit Bharat,Jabalpur,23:40
+15294,Charlaplli Muzaffarpur Amrit Bharat,Katni,00:50
+15294,Charlaplli Muzaffarpur Amrit Bharat,Satna,02:10
+15294,Charlaplli Muzaffarpur Amrit Bharat,Prayagraj Cheoki,05:32
+15294,Charlaplli Muzaffarpur Amrit Bharat,P U t p a D d e h e y n a y D a a J y n a l,09:25
+15294,Charlaplli Muzaffarpur Amrit Bharat,Danapur,12:38
+15294,Charlaplli Muzaffarpur Amrit Bharat,Patliputra,13:10
+15294,Charlaplli Muzaffarpur Amrit Bharat,Muzaffarpur,16:00
+12512,Kochuveli Gorakhpur Raptisagar Express,Jolarpettai,19:45
+12512,Kochuveli Gorakhpur Raptisagar Express,Katpadi,20:55
+12512,Kochuveli Gorakhpur Raptisagar Express,MGR Chennai a Km Central,23:35
+12512,Kochuveli Gorakhpur Raptisagar Express,Gudur,01:15
+12512,Kochuveli Gorakhpur Raptisagar Express,Vijayawada,05:45
+12512,Kochuveli Gorakhpur Raptisagar Express,Warangal,08:50
+12512,Kochuveli Gorakhpur Raptisagar Express,Balharshah,12:45
+12512,Kochuveli Gorakhpur Raptisagar Express,Nagpur,16:35
+12512,Kochuveli Gorakhpur Raptisagar Express,Itarsi,22:05
+12512,Kochuveli Gorakhpur Raptisagar Express,Bhopal,23:45
+12512,Kochuveli Gorakhpur Raptisagar Express,Virangna Laxmibai,03:43
+12512,Kochuveli Gorakhpur Raptisagar Express,Kanpur Central,08:05
+12512,Kochuveli Gorakhpur Raptisagar Express,Aishbagh,09:50
+12512,Kochuveli Gorakhpur Raptisagar Express,Gonda,12:30
+12512,Kochuveli Gorakhpur Raptisagar Express,Gorakhpur,15:20
+12522,Ernakulam Barauni Raptisagar Express,Jolarpettai,19:45
+12522,Ernakulam Barauni Raptisagar Express,Katpadi,20:55
+12522,Ernakulam Barauni Raptisagar Express,MGR Chennai a Km Central,23:35
+12522,Ernakulam Barauni Raptisagar Express,Gudur,01:15
+12522,Ernakulam Barauni Raptisagar Express,Vijayawada,05:45
+12522,Ernakulam Barauni Raptisagar Express,Warangal,08:50
+12522,Ernakulam Barauni Raptisagar Express,Balharshah,12:45
+12522,Ernakulam Barauni Raptisagar Express,Nagpur,16:35
+12522,Ernakulam Barauni Raptisagar Express,Itarsi,22:05
+12522,Ernakulam Barauni Raptisagar Express,Bhopal,23:45
+12522,Ernakulam Barauni Raptisagar Express,Virangna Laxmibai,03:43
+12522,Ernakulam Barauni Raptisagar Express,Kanpur Central,08:05
+12522,Ernakulam Barauni Raptisagar Express,Aishbagh,09:50
+12522,Ernakulam Barauni Raptisagar Express,Gonda,12:30
+12522,Ernakulam Barauni Raptisagar Express,Gorakhpur,15:20
+12522,Ernakulam Barauni Raptisagar Express,Chhapra,19:25
+12592,Yes- vantpur Gorakhpur Express,Yesvantpur,17:15
+12592,Yes- vantpur Gorakhpur Express,Secunderabad,06:00
+12592,Yes- vantpur Gorakhpur Express,Kazipet,08:05
+12592,Yes- vantpur Gorakhpur Express,Balharshah,12:30
+12592,Yes- vantpur Gorakhpur Express,Nagpur,15:55
+12592,Yes- vantpur Gorakhpur Express,Itarsi,22:05
+12592,Yes- vantpur Gorakhpur Express,Bhopal,23:45
+12592,Yes- vantpur Gorakhpur Express,Virangna Laxmibai,03:43
+12592,Yes- vantpur Gorakhpur Express,Kanpur Central,08:05
+12592,Yes- vantpur Gorakhpur Express,Aishbagh,09:50
+12592,Yes- vantpur Gorakhpur Express,Gonda,12:30
+12592,Yes- vantpur Gorakhpur Express,Gorakhpur,15:20
+12590,Charlapalli Gorakhpur Express,Secunderabad,21:45
+12590,Charlapalli Gorakhpur Express,Kazipet,23:25
+12590,Charlapalli Gorakhpur Express,Balharshah,03:10
+12590,Charlapalli Gorakhpur Express,Nagpur,06:25
+12590,Charlapalli Gorakhpur Express,Itarsi,12:05
+12590,Charlapalli Gorakhpur Express,Bhopal,13:55
+12590,Charlapalli Gorakhpur Express,Virangna Laxmibai,18:03
+12590,Charlapalli Gorakhpur Express,Kanpur Central,23:10
+12590,Charlapalli Gorakhpur Express,Aishbagh,00:58
+12590,Charlapalli Gorakhpur Express,Gonda,03:40
+12590,Charlapalli Gorakhpur Express,Gorakhpur,06:45
+12159,Amravati Jabalpur Express,Warangal,16:45
+12159,Amravati Jabalpur Express,Nagpur,19:40
+12159,Amravati Jabalpur Express,Itarsi,01:45
+12159,Amravati Jabalpur Express,Jabalpur,05:50
+12390,Chennai Central Gaya Express,MGR Chennai a Km Central,09:15
+12390,Chennai Central Gaya Express,Vijayawada,15:50
+12390,Chennai Central Gaya Express,Warangal,19:00
+12390,Chennai Central Gaya Express,Balharshah,23:20
+12390,Chennai Central Gaya Express,Jabalpur,08:35
+12390,Chennai Central Gaya Express,Katni,09:55
+12390,Chennai Central Gaya Express,Satna,11:40
+12390,Chennai Central Gaya Express,Prayagraj Cheoki,15:40
+12390,Chennai Central Gaya Express,Pt Deen Dayal,19:40
+12390,Chennai Central Gaya Express,Gaya,22:50
+22535,Rameswaram Banaras Express,Chennai Egmore,13:15
+22535,Rameswaram Banaras Express,Gudur,15:35
+22535,Rameswaram Banaras Express,Vijayawada,20:10
+22535,Rameswaram Banaras Express,Warangal,23:10
+22535,Rameswaram Banaras Express,Balharshah,03:25
+22535,Rameswaram Banaras Express,Nagpur,06:50
+22535,Rameswaram Banaras Express,Itarsi,12:10
+22535,Rameswaram Banaras Express,Jabalpur,15:25
+22535,Rameswaram Banaras Express,Katni,16:35
+22535,Rameswaram Banaras Express,Satna,17:55
+22535,Rameswaram Banaras Express,Prayagraj,22:30
+22535,Rameswaram Banaras Express,Banaras,01:10
+12539,Yesvantpur Lucknow Express,Yesvantpur,13:30
+12539,Yesvantpur Lucknow Express,Jolarpettai,16:40
+12539,Yesvantpur Lucknow Express,Katpadi,17:50
+12539,Yesvantpur Lucknow Express,Perambur,19:35
+12539,Yesvantpur Lucknow Express,Vijayawada,02:35
+12539,Yesvantpur Lucknow Express,Warangal,05:25
+12539,Yesvantpur Lucknow Express,Balharshah,10:00
+12539,Yesvantpur Lucknow Express,Nagpur,13:10
+12539,Yesvantpur Lucknow Express,Itarsi,18:50
+12539,Yesvantpur Lucknow Express,Jabalpur,22:40
+12539,Yesvantpur Lucknow Express,Satna,01:10
+12539,Yesvantpur Lucknow Express,Prayagraj,05:05
+12539,Yesvantpur Lucknow Express,Lucknow,10:55
+22683,Yesvantpur Lucknow Express,Yesvantpur,23:40
+22683,Yesvantpur Lucknow Express,Kazipet,13:10
+22683,Yesvantpur Lucknow Express,Balharshah,17:15
+22683,Yesvantpur Lucknow Express,Nagpur,21:00
+22683,Yesvantpur Lucknow Express,Itarsi,02:10
+22683,Yesvantpur Lucknow Express,Jabalpur,06:00
+22683,Yesvantpur Lucknow Express,Katni,07:10
+22683,Yesvantpur Lucknow Express,Satna,08:30
+22683,Yesvantpur Lucknow Express,Prayagraj,13:00
+22683,Yesvantpur Lucknow Express,Lucknow,18:00
+22354,SMVT Bengaluru Patna Humsafar Express,Sir M Vishves- d varaya Terminal,13:50
+22354,SMVT Bengaluru Patna Humsafar Express,Jolarpettai,16:40
+22354,SMVT Bengaluru Patna Humsafar Express,Katpadi,17:50
+22354,SMVT Bengaluru Patna Humsafar Express,Perambur,19:35
+22354,SMVT Bengaluru Patna Humsafar Express,Gudur,22:05
+22354,SMVT Bengaluru Patna Humsafar Express,Vijayawada,02:35
+22354,SMVT Bengaluru Patna Humsafar Express,Warangal,05:25
+22354,SMVT Bengaluru Patna Humsafar Express,Balharshah,10:00
+22354,SMVT Bengaluru Patna Humsafar Express,Nagpur,13:10
+22354,SMVT Bengaluru Patna Humsafar Express,Itarsi,18:50
+22354,SMVT Bengaluru Patna Humsafar Express,Jabalpur,22:40
+22354,SMVT Bengaluru Patna Humsafar Express,Katni,23:55
+22354,SMVT Bengaluru Patna Humsafar Express,Satna,01:10
+22354,SMVT Bengaluru Patna Humsafar Express,Prayagraj Cheoki,04:27
+22354,SMVT Bengaluru Patna Humsafar Express,Pt Deen Dayal,07:05
+22354,SMVT Bengaluru Patna Humsafar Express,Patna,10:25
+22613,Rameswaram Ayodhya Cant. Shraddha Sethu Express,Chennai Egmore,13:15
+22613,Rameswaram Ayodhya Cant. Shraddha Sethu Express,Gudur,15:35
+22613,Rameswaram Ayodhya Cant. Shraddha Sethu Express,Vijayawada,20:10
+22613,Rameswaram Ayodhya Cant. Shraddha Sethu Express,Warangal,23:10
+22613,Rameswaram Ayodhya Cant. Shraddha Sethu Express,Balharshah,03:25
+22613,Rameswaram Ayodhya Cant. Shraddha Sethu Express,Nagpur,06:50
+22613,Rameswaram Ayodhya Cant. Shraddha Sethu Express,Itarsi,12:10
+22613,Rameswaram Ayodhya Cant. Shraddha Sethu Express,Jabalpur,15:25
+22613,Rameswaram Ayodhya Cant. Shraddha Sethu Express,Satna,17:55
+22613,Rameswaram Ayodhya Cant. Shraddha Sethu Express,Prayagraj,22:35
+16367,Kanniyakumari Banaras Weekly Kashi Tamil Express,Perambur,12:45
+16367,Kanniyakumari Banaras Weekly Kashi Tamil Express,Vijayawada,20:10
+16367,Kanniyakumari Banaras Weekly Kashi Tamil Express,Balharshah,04:00
+16367,Kanniyakumari Banaras Weekly Kashi Tamil Express,Jabalpur,13:15
+16367,Kanniyakumari Banaras Weekly Kashi Tamil Express,Katni,14:30
+16367,Kanniyakumari Banaras Weekly Kashi Tamil Express,Satna,16:00
+16367,Kanniyakumari Banaras Weekly Kashi Tamil Express,Prayagraj Cheoki,19:00
+16367,Kanniyakumari Banaras Weekly Kashi Tamil Express,Varanasi,23:35
+5073,KSR Bengaluru Lalkuan Special,KSR Bengaluru,07:15
+5073,KSR Bengaluru Lalkuan Special,Jolarpettai,10:20
+5073,KSR Bengaluru Lalkuan Special,Katpadi,11:35
+5073,KSR Bengaluru Lalkuan Special,Renigunta,13:50
+5073,KSR Bengaluru Lalkuan Special,Gudur,15:35
+5073,KSR Bengaluru Lalkuan Special,Vijayawada,20:10
+5073,KSR Bengaluru Lalkuan Special,Warangal,23:10
+5073,KSR Bengaluru Lalkuan Special,Balharshah,03:35
+5073,KSR Bengaluru Lalkuan Special,Nagpur,06:50
+5073,KSR Bengaluru Lalkuan Special,Itarsi,12:20
+5073,KSR Bengaluru Lalkuan Special,Virangna Laxmibai,20:50
+19801,Sogariya Danapur Express,KSR Bengaluru,12:45
+19801,Sogariya Danapur Express,Jabalpur,22:00
+19801,Sogariya Danapur Express,Satna,23:50
+19801,Sogariya Danapur Express,Prayagraj Cheoki,03:07
+19801,Sogariya Danapur Express,Pt Deen Dayal,06:50
+19801,Sogariya Danapur Express,Danapur,10:00

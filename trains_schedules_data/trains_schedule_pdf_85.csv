@@ -1,0 +1,403 @@
+train_num,train_name,halt_station_name,departure_time
+16305,Ernakulam Kannur Inter- city Express,Ernakulam Jn.,06:00
+16305,Ernakulam Kannur Inter- city Express,Aluva,06:22
+16305,Ernakulam Kannur Inter- city Express,Thrisur,07:16
+16305,Ernakulam Kannur Inter- city Express,Shoranur Jn.,08:10
+16305,Ernakulam Kannur Inter- city Express,Tirur,08:55
+16305,Ernakulam Kannur Inter- city Express,Kozhikode,09:50
+16305,Ernakulam Kannur Inter- city Express,Vadakara,10:30
+16305,Ernakulam Kannur Inter- city Express,Thalassery,10:55
+16305,Ernakulam Kannur Inter- city Express,Kannur,11:50
+16302,Thiruvanantha- puram Central Shoranur Ve- nad Express,Thiruvananthapuram Central,05:20
+16302,Thiruvanantha- puram Central Shoranur Ve- nad Express,Varkala Sivagiri,06:04
+16302,Thiruvanantha- puram Central Shoranur Ve- nad Express,Kollam Jn.,06:33
+16302,Thiruvanantha- puram Central Shoranur Ve- nad Express,Chengannur,07:41
+16302,Thiruvanantha- puram Central Shoranur Ve- nad Express,Kottayam,08:20
+16302,Thiruvanantha- puram Central Shoranur Ve- nad Express,Ernakulam Town,09:45
+16302,Thiruvanantha- puram Central Shoranur Ve- nad Express,Aluva,10:05
+16302,Thiruvanantha- puram Central Shoranur Ve- nad Express,Thrisur,11:07
+16302,Thiruvanantha- puram Central Shoranur Ve- nad Express,Shoranur Jn.,12:35
+12076,Thiruvanantha- puram Central Kozhikode Jan Shatabdi Express,Thiruvananthapuram Central,05:55
+12076,Thiruvanantha- puram Central Kozhikode Jan Shatabdi Express,Varkala Sivagiri,06:33
+12076,Thiruvanantha- puram Central Kozhikode Jan Shatabdi Express,Kollam Jn.,06:55
+12076,Thiruvanantha- puram Central Kozhikode Jan Shatabdi Express,Alappuzha,08:08
+12076,Thiruvanantha- puram Central Kozhikode Jan Shatabdi Express,Ernakulam Jn.,09:15
+12076,Thiruvanantha- puram Central Kozhikode Jan Shatabdi Express,Aluva,09:38
+12076,Thiruvanantha- puram Central Kozhikode Jan Shatabdi Express,Thrisur,10:25
+12076,Thiruvanantha- puram Central Kozhikode Jan Shatabdi Express,Shoranur Jn.,11:28
+12076,Thiruvanantha- puram Central Kozhikode Jan Shatabdi Express,Tirur,12:06
+12076,Thiruvanantha- puram Central Kozhikode Jan Shatabdi Express,Kozhikode,13:00
+16650,Kanniyakumari Mangaluru Parasuram Express,Kanniyakumari,03:45
+16650,Kanniyakumari Mangaluru Parasuram Express,Nagercoil Jn.,04:10
+16650,Kanniyakumari Mangaluru Parasuram Express,Thiruvananthapuram Central,06:15
+16650,Kanniyakumari Mangaluru Parasuram Express,Varkala Sivagiri,06:58
+16650,Kanniyakumari Mangaluru Parasuram Express,Kollam Jn.,07:25
+16650,Kanniyakumari Mangaluru Parasuram Express,Chengannur,08:36
+16650,Kanniyakumari Mangaluru Parasuram Express,Kottayam,09:20
+16650,Kanniyakumari Mangaluru Parasuram Express,Ernakulam Town,10:55
+16650,Kanniyakumari Mangaluru Parasuram Express,Aluva,11:29
+16650,Kanniyakumari Mangaluru Parasuram Express,Thrisur,12:40
+16650,Kanniyakumari Mangaluru Parasuram Express,Shoranur Jn.,14:05
+16650,Kanniyakumari Mangaluru Parasuram Express,Tirur,14:57
+16650,Kanniyakumari Mangaluru Parasuram Express,Kozhikode,17:00
+16650,Kanniyakumari Mangaluru Parasuram Express,Vadakara,17:37
+16650,Kanniyakumari Mangaluru Parasuram Express,Thalassery,18:03
+16650,Kanniyakumari Mangaluru Parasuram Express,Kannur,18:29
+16650,Kanniyakumari Mangaluru Parasuram Express,Kasaragod,19:58
+16650,Kanniyakumari Mangaluru Parasuram Express,Mangaluru Central,21:10
+16307,Alappuzha Kannur Express,Alappuzha,15:50
+16307,Alappuzha Kannur Express,Ernakulam Jn.,17:13
+16307,Alappuzha Kannur Express,Ernakulam Town,17:25
+16307,Alappuzha Kannur Express,Aluva,17:52
+16307,Alappuzha Kannur Express,Thrisur,18:58
+16307,Alappuzha Kannur Express,Shoranur Jn.,20:00
+16307,Alappuzha Kannur Express,Tirur,21:00
+16307,Alappuzha Kannur Express,Kozhikode,22:25
+16307,Alappuzha Kannur Express,Vadakara,23:03
+16307,Alappuzha Kannur Express,Thalassery,23:28
+16307,Alappuzha Kannur Express,Kannur,00:30
+16342,Thiruvanantha- puram Central Guruvayur Inter- city Express,Thiruvananthapuram Central,17:30
+16342,Thiruvanantha- puram Central Guruvayur Inter- city Express,Varkala Sivagiri,18:03
+16342,Thiruvanantha- puram Central Guruvayur Inter- city Express,Kollam Jn.,18:28
+16342,Thiruvanantha- puram Central Guruvayur Inter- city Express,Alappuzha,20:15
+16342,Thiruvanantha- puram Central Guruvayur Inter- city Express,Ernakulam Jn.,21:35
+16342,Thiruvanantha- puram Central Guruvayur Inter- city Express,Aluva,21:57
+16342,Thiruvanantha- puram Central Guruvayur Inter- city Express,Thrisur,23:20
+16342,Thiruvanantha- puram Central Guruvayur Inter- city Express,Guruvayur,00:15
+16304,Thiruvanantha- puram Central Ernakulam Vanchinad Express,Thiruvananthapuram Central,17:45
+16304,Thiruvanantha- puram Central Ernakulam Vanchinad Express,Varkala Sivagiri,18:31
+16304,Thiruvanantha- puram Central Ernakulam Vanchinad Express,Kollam Jn.,19:00
+16304,Thiruvanantha- puram Central Ernakulam Vanchinad Express,Chengannur,20:18
+16304,Thiruvanantha- puram Central Ernakulam Vanchinad Express,Kottayam,21:09
+16304,Thiruvanantha- puram Central Ernakulam Vanchinad Express,Ernakulam Jn.,22:55
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Thiruvananthapuram Central,18:40
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Varkala Sivagiri,19:32
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Kollam Jn.,20:03
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Chengannur,21:24
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Kottayam,22:15
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Ernakulam Town,23:55
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Aluva,00:35
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Thrisur,01:35
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Shoranur Jn.,02:40
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Tirur,03:25
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Kozhikode,04:45
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Vadakara,05:40
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Thalassery,06:10
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Kannur,06:40
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Kasaragod,08:25
+16629,Thiruvanantha- puram Central Mangaluru Mal- abar Express,Mangaluru Central,10:15
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Thiruvananthapuram Central,19:25
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Varkala Sivagiri,20:04
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Kollam Jn.,22:30
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Alappuzha,22:03
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Ernakulam Jn.,23:30
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Aluva,23:58
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Thrisur,00:50
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Shoranur Jn.,02:00
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Tirur,02:44
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Kozhikode,03:30
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Vadakara,04:00
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Thalassery,04:30
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Kannur,05:00
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Kasaragod,06:40
+16604,Thiruvanantha- puram Central Mangaluru Maveli Express,Mangaluru Central,08:15
+16347,Thiruvanantha- puram Central Mangaluru Express,Thiruvananthapuram Central,20:55
+16347,Thiruvanantha- puram Central Mangaluru Express,Varkala Sivagiri,21:45
+16347,Thiruvanantha- puram Central Mangaluru Express,Kollam Jn.,22:12
+16347,Thiruvanantha- puram Central Mangaluru Express,Chengannur,23:22
+16347,Thiruvanantha- puram Central Mangaluru Express,Kottayam,00:04
+16347,Thiruvanantha- puram Central Mangaluru Express,Ernakulam Town,01:10
+16347,Thiruvanantha- puram Central Mangaluru Express,Aluva,01:35
+16347,Thiruvanantha- puram Central Mangaluru Express,Thrisur,02:40
+16347,Thiruvanantha- puram Central Mangaluru Express,Shoranur Jn.,04:10
+16347,Thiruvanantha- puram Central Mangaluru Express,Tirur,05:00
+16347,Thiruvanantha- puram Central Mangaluru Express,Kozhikode,06:10
+16347,Thiruvanantha- puram Central Mangaluru Express,Vadakara,06:55
+16347,Thiruvanantha- puram Central Mangaluru Express,Thalassery,07:25
+16347,Thiruvanantha- puram Central Mangaluru Express,Kannur,08:00
+16347,Thiruvanantha- puram Central Mangaluru Express,Kasaragod,09:57
+16347,Thiruvanantha- puram Central Mangaluru Express,Mangaluru Central,11:20
+16127,Chennai Egmore Guruvayur Express,Kanniyakumari,22:50
+16127,Chennai Egmore Guruvayur Express,Thiruvananthapuram Central,00:25
+16127,Chennai Egmore Guruvayur Express,Varkala Sivagiri,01:07
+16127,Chennai Egmore Guruvayur Express,Kollam Jn.,01:35
+16127,Chennai Egmore Guruvayur Express,Alappuzha,03:00
+16127,Chennai Egmore Guruvayur Express,Ernakulam Jn.,04:50
+16127,Chennai Egmore Guruvayur Express,Ernakulam Town,05:00
+16127,Chennai Egmore Guruvayur Express,Aluva,05:22
+16127,Chennai Egmore Guruvayur Express,Thrisur,07:00
+16127,Chennai Egmore Guruvayur Express,Guruvayur,07:40
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Thiruvananthapuram Central,03:40
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Varkala Sivagiri,04:14
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Kollam Jn.,04:38
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Alappuzha,06:18
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Ernakulam Jn.,07:40
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Aluva,08:05
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Thrisur,09:00
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Shoranur Jn.,10:45
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Tirur,11:35
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Kozhikode,12:35
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Vadakara,13:20
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Thalassery,13:45
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Kannur,14:15
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Kasaragod,15:45
+16606,Thiruvananth- puram Central Mangaluru Ernad Express,Mangaluru Central,17:40
+12082,Thiruvanantha- puram Central Kannur Jan Sha- tabdi Express,Thiruvananthapuram Central,14:50
+12082,Thiruvanantha- puram Central Kannur Jan Sha- tabdi Express,Kollam Jn.,15:47
+12082,Thiruvanantha- puram Central Kannur Jan Sha- tabdi Express,Chengannur,16:45
+12082,Thiruvanantha- puram Central Kannur Jan Sha- tabdi Express,Kottayam,17:35
+12082,Thiruvanantha- puram Central Kannur Jan Sha- tabdi Express,Ernakulam Town,19:03
+12082,Thiruvanantha- puram Central Kannur Jan Sha- tabdi Express,Thrisur,20:20
+12082,Thiruvanantha- puram Central Kannur Jan Sha- tabdi Express,Shoranur Jn.,21:15
+12082,Thiruvanantha- puram Central Kannur Jan Sha- tabdi Express,Tirur,21:55
+12082,Thiruvanantha- puram Central Kannur Jan Sha- tabdi Express,Kozhikode,22:40
+12082,Thiruvanantha- puram Central Kannur Jan Sha- tabdi Express,Vadakara,23:15
+12082,Thiruvanantha- puram Central Kannur Jan Sha- tabdi Express,Thalassery,23:35
+12082,Thiruvanantha- puram Central Kannur Jan Sha- tabdi Express,Kannur,00:50
+16609,Thrisur Kannur Express,Thrisur,06:45
+16609,Thrisur Kannur Express,Shoranur Jn.,07:35
+16609,Thrisur Kannur Express,Tirur,08:47
+16609,Thrisur Kannur Express,Kozhikode,09:55
+16609,Thrisur Kannur Express,Vadakara,10:40
+16609,Thrisur Kannur Express,Thalassery,11:05
+16609,Thrisur Kannur Express,Kannur,12:30
+16366,Nagarcoil Kottyam Express,Nagercoil Jn.,13:00
+16366,Nagarcoil Kottyam Express,Thiruvananthapuram Central,14:35
+16366,Nagarcoil Kottyam Express,Varkala Sivagiri,15:50
+16366,Nagarcoil Kottyam Express,Kollam Jn.,17:25
+16366,Nagarcoil Kottyam Express,Chengannur,18:41
+16366,Nagarcoil Kottyam Express,Kottayam,19:45
+16327,Madurai Guruvayuur Express,Kollam Jn.,19:45
+16327,Madurai Guruvayuur Express,Chengannur,20:57
+16327,Madurai Guruvayuur Express,Kottayam,21:45
+16327,Madurai Guruvayuur Express,Ernakulam Town,23:25
+16327,Madurai Guruvayuur Express,Aluva,00:06
+16327,Madurai Guruvayuur Express,Thrisur,01:25
+16327,Madurai Guruvayuur Express,Guruvayur,02:10
+16310,Kayanku- lam Ernakulam Express,Thiruvananthapuram Central,15:20
+16310,Kayanku- lam Ernakulam Express,Chengannur,15:44
+16310,Kayanku- lam Ernakulam Express,Kottayam,16:25
+16310,Kayanku- lam Ernakulam Express,Ernakulam Jn.,17:50
+20632,Thiruvanantha- puram Central Mangalore Central Vande Bharat Express,Thiruvananthapuram Central,16:05
+20632,Thiruvanantha- puram Central Mangalore Central Vande Bharat Express,Kollam Jn.,16:55
+20632,Thiruvanantha- puram Central Mangalore Central Vande Bharat Express,Alappuzha,17:57
+20632,Thiruvanantha- puram Central Mangalore Central Vande Bharat Express,Ernakulam Jn.,18:45
+20632,Thiruvanantha- puram Central Mangalore Central Vande Bharat Express,Thrisur,19:58
+20632,Thiruvanantha- puram Central Mangalore Central Vande Bharat Express,Shoranur Jn.,20:32
+20632,Thiruvanantha- puram Central Mangalore Central Vande Bharat Express,Tirur,21:04
+20632,Thiruvanantha- puram Central Mangalore Central Vande Bharat Express,Kozhikode,21:34
+20632,Thiruvanantha- puram Central Mangalore Central Vande Bharat Express,Kannur,22:38
+20632,Thiruvanantha- puram Central Mangalore Central Vande Bharat Express,Kasaragod,23:48
+20632,Thiruvanantha- puram Central Mangalore Central Vande Bharat Express,Mangaluru Central,00:45
+20634,Thiruvanantha- puram Central Kasaragod Vande Bharat Express,Thiruvananthapuram Central,05:15
+20634,Thiruvanantha- puram Central Kasaragod Vande Bharat Express,Kollam Jn.,06:05
+20634,Thiruvanantha- puram Central Kasaragod Vande Bharat Express,Chengannur,06:53
+20634,Thiruvanantha- puram Central Kasaragod Vande Bharat Express,Kottayam,07:21
+20634,Thiruvanantha- puram Central Kasaragod Vande Bharat Express,Ernakulam Town,08:20
+20634,Thiruvanantha- puram Central Kasaragod Vande Bharat Express,Thrisur,09:23
+20634,Thiruvanantha- puram Central Kasaragod Vande Bharat Express,Shoranur Jn.,10:04
+20634,Thiruvanantha- puram Central Kasaragod Vande Bharat Express,Kozhikode,11:05
+20634,Thiruvanantha- puram Central Kasaragod Vande Bharat Express,Kannur,12:05
+20634,Thiruvanantha- puram Central Kasaragod Vande Bharat Express,Kasaragod,13:20
+16362,Velank- anni Er- nakulam Express,Kollam Jn.,08:15
+16362,Velank- anni Er- nakulam Express,Chengannur,09:28
+16362,Velank- anni Er- nakulam Express,Kottayam,10:10
+16362,Velank- anni Er- nakulam Express,Ernakulam Jn.,11:50
+16610,Mangaluru Central Kozhikode Express,Mangaluru Central,05:15
+16610,Mangaluru Central Kozhikode Express,Kasaragod,06:04
+16610,Mangaluru Central Kozhikode Express,Kannur,07:50
+16610,Mangaluru Central Kozhikode Express,Thalassery,08:27
+16610,Mangaluru Central Kozhikode Express,Vadakara,08:49
+16610,Mangaluru Central Kozhikode Express,Kozhikode,10:00
+12081,Kannur Thiru- vananthapu- ram Central Jan Shatabdi Express,Kannur,04:50
+12081,Kannur Thiru- vananthapu- ram Central Jan Shatabdi Express,Thalassery,05:10
+12081,Kannur Thiru- vananthapu- ram Central Jan Shatabdi Express,Vadakara,05:28
+12081,Kannur Thiru- vananthapu- ram Central Jan Shatabdi Express,Kozhikode,06:10
+12081,Kannur Thiru- vananthapu- ram Central Jan Shatabdi Express,Tirur,06:45
+12081,Kannur Thiru- vananthapu- ram Central Jan Shatabdi Express,Shoranur Jn.,07:35
+12081,Kannur Thiru- vananthapu- ram Central Jan Shatabdi Express,Thrisur,08:15
+12081,Kannur Thiru- vananthapu- ram Central Jan Shatabdi Express,Ernakulam Town,09:33
+12081,Kannur Thiru- vananthapu- ram Central Jan Shatabdi Express,Kottayam,10:28
+12081,Kannur Thiru- vananthapu- ram Central Jan Shatabdi Express,Chengannur,11:08
+12081,Kannur Thiru- vananthapu- ram Central Jan Shatabdi Express,Kollam Jn.,12:23
+12081,Kannur Thiru- vananthapu- ram Central Jan Shatabdi Express,Thiruvananthapuram Central,14:10
+16308,Kannur Alappuzha Express,Kannur,05:10
+16308,Kannur Alappuzha Express,Thalassery,05:30
+16308,Kannur Alappuzha Express,Vadakara,05:50
+16308,Kannur Alappuzha Express,Kozhikode,06:40
+16308,Kannur Alappuzha Express,Tirur,07:35
+16308,Kannur Alappuzha Express,Shoranur Jn.,08:45
+16308,Kannur Alappuzha Express,Thrisur,09:33
+16308,Kannur Alappuzha Express,Aluva,10:39
+16308,Kannur Alappuzha Express,Ernakulam Town,11:02
+16308,Kannur Alappuzha Express,Ernakulam Jn.,11:20
+16308,Kannur Alappuzha Express,Alappuzha,13:25
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Mangaluru Central,05:00
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Kasaragod,05:40
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Kannur,07:05
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Thalassery,07:25
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Vadakara,07:45
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Kozhikode,08:30
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Tirur,09:30
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Shoranur Jn.,10:50
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Thrisur,11:35
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Aluva,12:57
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Ernakulam Town,13:55
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Kottayam,15:28
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Chengannur,16:09
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Kollam Jn.,17:28
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Varkala Sivagiri,17:51
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Thiruvananthapuram Central,18:40
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Nagercoil Jn.,20:23
+16649,Mangaluru Kanniyaku- mari Parasur- am Express,Kanniyakumari,21:30
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Mangaluru Central,07:20
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Kasaragod,08:05
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Kannur,09:35
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Thalassery,09:55
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Vadakara,10:20
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Kozhikode,11:10
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Tirur,12:10
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Shoranur Jn.,13:30
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Thrisur,14:30
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Aluva,15:40
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Ernakulam Jn.,16:20
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Alappuzha,17:48
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Kollam Jn.,19:38
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Varkala Sivagiri,19:58
+16605,Mangaluru Thiruvanan- thapuram Central Ernad Express,Thiruvananthapuram Central,21:15
+12075,Kozhikode Thiruvanantha- puram Central Jan Shatabdi Express,Kozhikode,13:45
+12075,Kozhikode Thiruvanantha- puram Central Jan Shatabdi Express,Tirur,14:20
+12075,Kozhikode Thiruvanantha- puram Central Jan Shatabdi Express,Shoranur Jn.,15:00
+12075,Kozhikode Thiruvanantha- puram Central Jan Shatabdi Express,Thrisur,15:40
+12075,Kozhikode Thiruvanantha- puram Central Jan Shatabdi Express,Aluva,16:40
+12075,Kozhikode Thiruvanantha- puram Central Jan Shatabdi Express,Ernakulam Jn.,17:25
+12075,Kozhikode Thiruvanantha- puram Central Jan Shatabdi Express,Alappuzha,18:35
+12075,Kozhikode Thiruvanantha- puram Central Jan Shatabdi Express,Kollam Jn.,19:52
+12075,Kozhikode Thiruvanantha- puram Central Jan Shatabdi Express,Varkala Sivagiri,20:14
+12075,Kozhikode Thiruvanantha- puram Central Jan Shatabdi Express,Thiruvananthapuram Central,21:25
+16301,Shoranur Thiru- vananthapuram Central Venad Express,Shoranur Jn.,14:35
+16301,Shoranur Thiru- vananthapuram Central Venad Express,Thrisur,15:16
+16301,Shoranur Thiru- vananthapuram Central Venad Express,Aluva,16:20
+16301,Shoranur Thiru- vananthapuram Central Venad Express,Ernakulam Town,17:20
+16301,Shoranur Thiru- vananthapuram Central Venad Express,Kottayam,18:30
+16301,Shoranur Thiru- vananthapuram Central Venad Express,Chengannur,19:07
+16301,Shoranur Thiru- vananthapuram Central Venad Express,Kollam Jn.,20:18
+16301,Shoranur Thiru- vananthapuram Central Venad Express,Varkala Sivagiri,20:43
+16301,Shoranur Thiru- vananthapuram Central Venad Express,Thiruvananthapuram Central,22:00
+16306,Kannur Ernakulam Intercity Express,Kannur,14:50
+16306,Kannur Ernakulam Intercity Express,Thalassery,15:09
+16306,Kannur Ernakulam Intercity Express,Vadakara,15:30
+16306,Kannur Ernakulam Intercity Express,Kozhikode,16:10
+16306,Kannur Ernakulam Intercity Express,Tirur,16:51
+16306,Kannur Ernakulam Intercity Express,Shoranur Jn.,17:55
+16306,Kannur Ernakulam Intercity Express,Thrisur,18:35
+16306,Kannur Ernakulam Intercity Express,Aluva,19:35
+16306,Kannur Ernakulam Intercity Express,Ernakulam Town,20:00
+16306,Kannur Ernakulam Intercity Express,Ernakulam Jn.,20:50
+16128,Guruvayur Chennai Egmore Express,Guruvayur,23:15
+16128,Guruvayur Chennai Egmore Express,Thrisur,23:43
+16128,Guruvayur Chennai Egmore Express,Aluva,00:40
+16128,Guruvayur Chennai Egmore Express,Ernakulam Town,01:02
+16128,Guruvayur Chennai Egmore Express,Ernakulam Jn.,01:20
+16128,Guruvayur Chennai Egmore Express,Alappuzha,02:20
+16128,Guruvayur Chennai Egmore Express,Kollam Jn.,03:55
+16128,Guruvayur Chennai Egmore Express,Thiruvananthapuram Central,05:15
+16128,Guruvayur Chennai Egmore Express,Nagercoil Jn.,06:33
+16348,Mangaluru Thiruvanan- thapuram Central Express,Mangaluru Central,14:25
+16348,Mangaluru Thiruvanan- thapuram Central Express,Kasaragod,15:05
+16348,Mangaluru Thiruvanan- thapuram Central Express,Kannur,16:55
+16348,Mangaluru Thiruvanan- thapuram Central Express,Thalassery,17:15
+16348,Mangaluru Thiruvanan- thapuram Central Express,Vadakara,17:40
+16348,Mangaluru Thiruvanan- thapuram Central Express,Kozhikode,18:25
+16348,Mangaluru Thiruvanan- thapuram Central Express,Tirur,19:20
+16348,Mangaluru Thiruvanan- thapuram Central Express,Shoranur Jn.,20:40
+16348,Mangaluru Thiruvanan- thapuram Central Express,Thrisur,21:28
+16348,Mangaluru Thiruvanan- thapuram Central Express,Aluva,22:40
+16348,Mangaluru Thiruvanan- thapuram Central Express,Ernakulam Town,23:15
+16348,Mangaluru Thiruvanan- thapuram Central Express,Kottayam,00:28
+16348,Mangaluru Thiruvanan- thapuram Central Express,Chengannur,01:05
+16348,Mangaluru Thiruvanan- thapuram Central Express,Kollam Jn.,02:20
+16348,Mangaluru Thiruvanan- thapuram Central Express,Varkala Sivagiri,02:44
+16348,Mangaluru Thiruvanan- thapuram Central Express,Thiruvananthapuram Central,04:15
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Mangaluru Central,17:40
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Kasaragod,18:20
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Kannur,20:00
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Thalassery,20:20
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Vadakara,20:45
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Kozhikode,21:35
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Tirur,22:20
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Shoranur Jn.,23:20
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Thrisur,00:10
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Aluva,01:22
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Ernakulam Jn.,01:55
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Alappuzha,02:58
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Kollam Jn.,04:30
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Varkala Sivagiri,04:53
+16603,Mangaluru Thiru- vananthapuram Central Maveli Express,Thiruvananthapuram Central,06:20
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Mangaluru Central,18:15
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Kasaragod,19:10
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Kannur,20:55
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Thalassery,21:15
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Vadakara,21:40
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Kozhikode,22:30
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Tirur,23:25
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Shoranur Jn.,00:40
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Thrisur,01:28
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Aluva,02:28
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Ernakulam Town,03:05
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Kottayam,04:11
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Chengannur,04:52
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Kollam Jn.,06:23
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Varkala Sivagiri,06:48
+16630,Mangaluru Thiru- vananthapuram Central Malabar Express,Thiruvananthapuram Central,08:30
+16303,Ernakulam Thiruvanantha- puram Central Vanchinad Express,Ernakulam Jn.,05:10
+16303,Ernakulam Thiruvanantha- puram Central Vanchinad Express,Kottayam,06:23
+16303,Ernakulam Thiruvanantha- puram Central Vanchinad Express,Chengannur,07:03
+16303,Ernakulam Thiruvanantha- puram Central Vanchinad Express,Kollam Jn.,08:18
+16303,Ernakulam Thiruvanantha- puram Central Vanchinad Express,Varkala Sivagiri,08:46
+16303,Ernakulam Thiruvanantha- puram Central Vanchinad Express,Thiruvananthapuram Central,10:00
+16341,Guruvayur Thiru- vananthapuram Central Intercity Express,Guruvayur,03:25
+16341,Guruvayur Thiru- vananthapuram Central Intercity Express,Thrisur,03:52
+16341,Guruvayur Thiru- vananthapuram Central Intercity Express,Aluva,04:53
+16341,Guruvayur Thiru- vananthapuram Central Intercity Express,Ernakulam Jn.,05:20
+16341,Guruvayur Thiru- vananthapuram Central Intercity Express,Alappuzha,06:30
+16341,Guruvayur Thiru- vananthapuram Central Intercity Express,Kollam Jn.,08:08
+16341,Guruvayur Thiru- vananthapuram Central Intercity Express,Varkala Sivagiri,08:35
+16341,Guruvayur Thiru- vananthapuram Central Intercity Express,Thiruvananthapuram Central,09:40
+16309,Ernakulam Kayankulam Express,Ernakulam Jn.,08:45
+16309,Ernakulam Kayankulam Express,Kottayam,10:00
+16309,Ernakulam Kayankulam Express,Chengannur,10:38
+16309,Ernakulam Kayankulam Express,Kollam Jn.,11:35
+16328,Guruvayuur Madurai Express,Guruvayur,05:50
+16328,Guruvayuur Madurai Express,Thrisur,06:18
+16328,Guruvayuur Madurai Express,Aluva,07:24
+16328,Guruvayuur Madurai Express,Ernakulam Town,08:00
+16328,Guruvayuur Madurai Express,Kottayam,09:37
+16328,Guruvayuur Madurai Express,Chengannur,10:14
+16328,Guruvayuur Madurai Express,Kollam Jn.,12:00
+16361,rnakula elankan Express,Ernakulam Jn.,13:00
+16361,rnakula elankan Express,Kottayam,13:55
+16361,rnakula elankan Express,Chengannur,14:33
+16361,rnakula elankan Express,Kollam Jn.,16:35
+16361,rnakula elankan Express,Varkala Sivagiri,05:40
+20631,Mangalore Central Thiru- vananthapuram Central Vande Bharat Express,Mangaluru Central,06:25
+20631,Mangalore Central Thiru- vananthapuram Central Vande Bharat Express,Kasaragod,07:00
+20631,Mangalore Central Thiru- vananthapuram Central Vande Bharat Express,Kannur,07:57
+20631,Mangalore Central Thiru- vananthapuram Central Vande Bharat Express,Kozhikode,08:59
+20631,Mangalore Central Thiru- vananthapuram Central Vande Bharat Express,Tirur,09:24
+20631,Mangalore Central Thiru- vananthapuram Central Vande Bharat Express,Shoranur Jn.,10:00
+20631,Mangalore Central Thiru- vananthapuram Central Vande Bharat Express,Thrisur,10:35
+20631,Mangalore Central Thiru- vananthapuram Central Vande Bharat Express,Ernakulam Jn.,11:43
+20631,Mangalore Central Thiru- vananthapuram Central Vande Bharat Express,Alappuzha,12:35
+20631,Mangalore Central Thiru- vananthapuram Central Vande Bharat Express,Kollam Jn.,13:40
+20631,Mangalore Central Thiru- vananthapuram Central Vande Bharat Express,Thiruvananthapuram Central,15:05
+20633,Kasaragod Thiru- vananthapuram Central Vande Bharat Express,Kasaragod,14:30
+20633,Kasaragod Thiru- vananthapuram Central Vande Bharat Express,Kannur,15:30
+20633,Kasaragod Thiru- vananthapuram Central Vande Bharat Express,Kozhikode,16:30
+20633,Kasaragod Thiru- vananthapuram Central Vande Bharat Express,Shoranur Jn.,17:30
+20633,Kasaragod Thiru- vananthapuram Central Vande Bharat Express,Thrisur,18:03
+20633,Kasaragod Thiru- vananthapuram Central Vande Bharat Express,Ernakulam Town,19:15
+20633,Kasaragod Thiru- vananthapuram Central Vande Bharat Express,Kottayam,20:13
+20633,Kasaragod Thiru- vananthapuram Central Vande Bharat Express,Chengannur,20:46
+20633,Kasaragod Thiru- vananthapuram Central Vande Bharat Express,Kollam Jn.,21:34
+20633,Kasaragod Thiru- vananthapuram Central Vande Bharat Express,Thiruvananthapuram Central,22:40

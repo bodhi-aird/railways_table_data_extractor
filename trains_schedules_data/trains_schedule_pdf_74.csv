@@ -1,0 +1,311 @@
+train_num,train_name,halt_station_name,departure_time
+13282,Rajendra nagar New Tinsukia Express,New Jalpaiguri Jn.,00:20
+13282,Rajendra nagar New Tinsukia Express,New Coochbeher,03:10
+13282,Rajendra nagar New Tinsukia Express,New Bongaigaon,06:35
+13282,Rajendra nagar New Tinsukia Express,Goalpara Town,07:14
+13282,Rajendra nagar New Tinsukia Express,Kamakhya,10:10
+13282,Rajendra nagar New Tinsukia Express,Guwahati,10:40
+13282,Rajendra nagar New Tinsukia Express,Chapurmukh,12:22
+19305,DADN Kamakhya Express,New Jalpaiguri Jn.,02:25
+19305,DADN Kamakhya Express,Binnaguri,05:12
+19305,DADN Kamakhya Express,Hasimara,05:55
+19305,DADN Kamakhya Express,Alipurduar Jn.,06:45
+19305,DADN Kamakhya Express,New Bongaigaon,08:40
+19305,DADN Kamakhya Express,Kamakhya,12:30
+15622,Anand Vihar(T) Kamakhya Express,New Jalpaiguri Jn.,04:50
+15622,Anand Vihar(T) Kamakhya Express,New Mal Jn.,06:52
+15622,Anand Vihar(T) Kamakhya Express,Binnaguri,07:42
+15622,Anand Vihar(T) Kamakhya Express,Alipurduar Jn.,09:20
+15622,Anand Vihar(T) Kamakhya Express,New Bongaigaon,11:30
+15622,Anand Vihar(T) Kamakhya Express,Goalpara Town,12:14
+15622,Anand Vihar(T) Kamakhya Express,Kamakhya,15:30
+75741,Siiguri Dhubri Intercity Express,Siliguri,05:00
+75741,Siiguri Dhubri Intercity Express,New Mal Jn.,05:57
+75741,Siiguri Dhubri Intercity Express,Nagrakata,06:21
+75741,Siiguri Dhubri Intercity Express,Banarhat,06:42
+75741,Siiguri Dhubri Intercity Express,Dalgaon,07:03
+75741,Siiguri Dhubri Intercity Express,Madarihat,07:16
+75741,Siiguri Dhubri Intercity Express,Hasimara,07:39
+75741,Siiguri Dhubri Intercity Express,Hamiltonganj,07:48
+75741,Siiguri Dhubri Intercity Express,Kalchini,08:01
+75741,Siiguri Dhubri Intercity Express,Alipurduar Jn.,08:45
+75741,Siiguri Dhubri Intercity Express,New Coochbeher,09:30
+75741,Siiguri Dhubri Intercity Express,Dhubri,12:00
+13149,Sealdah Alipurduar Kanchan Kan- ya Express,Siliguri,08:40
+13149,Sealdah Alipurduar Kanchan Kan- ya Express,New Mal Jn.,09:35
+13149,Sealdah Alipurduar Kanchan Kan- ya Express,Banarhat,10:20
+13149,Sealdah Alipurduar Kanchan Kan- ya Express,Dalgaon,10:30
+13149,Sealdah Alipurduar Kanchan Kan- ya Express,Madarihat,11:00
+13149,Sealdah Alipurduar Kanchan Kan- ya Express,Hasimara,11:17
+13149,Sealdah Alipurduar Kanchan Kan- ya Express,Hamiltonganj,11:30
+13149,Sealdah Alipurduar Kanchan Kan- ya Express,Alipurduar Jn.,12:40
+22511,Lokmanya Ti- lak Kamakhya Karmabhoomi Express,New Jalpaiguri Jn.,04:50
+22511,Lokmanya Ti- lak Kamakhya Karmabhoomi Express,Siliguri,05:42
+22511,Lokmanya Ti- lak Kamakhya Karmabhoomi Express,Hasimara,08:30
+22511,Lokmanya Ti- lak Kamakhya Karmabhoomi Express,Alipurduar Jn.,09:20
+22511,Lokmanya Ti- lak Kamakhya Karmabhoomi Express,New Bongaigaon,11:30
+22511,Lokmanya Ti- lak Kamakhya Karmabhoomi Express,Kamakhya,15:30
+22503,Kanniyaku- mari Dibru- garh Vivek Express,New Jalpaiguri Jn.,23:55
+22503,Kanniyaku- mari Dibru- garh Vivek Express,New Coochbeher,02:25
+22503,Kanniyaku- mari Dibru- garh Vivek Express,New Bongaigaon,04:30
+22503,Kanniyaku- mari Dibru- garh Vivek Express,Goalpara Town,05:12
+22503,Kanniyaku- mari Dibru- garh Vivek Express,Guwahati,09:00
+13248,Ara-Kamakhya Capital Express,Siliguri,12:25
+13248,Ara-Kamakhya Capital Express,New Mal Jn.,13:32
+13248,Ara-Kamakhya Capital Express,Binnaguri,14:50
+13248,Ara-Kamakhya Capital Express,Dalgaon,15:05
+13248,Ara-Kamakhya Capital Express,Hasimara,15:32
+13248,Ara-Kamakhya Capital Express,Alipurduar Jn.,16:25
+13248,Ara-Kamakhya Capital Express,New Bongaigaon,18:20
+13248,Ara-Kamakhya Capital Express,Goalpara Town,19:00
+13248,Ara-Kamakhya Capital Express,Kamakhya,22:10
+15661,Ranchi Kama- khya Express,New Jalpaiguri Jn.,12:15
+15661,Ranchi Kama- khya Express,Siliguri,13:05
+15661,Ranchi Kama- khya Express,New Mal Jn.,14:32
+15661,Ranchi Kama- khya Express,Binnaguri,15:17
+15661,Ranchi Kama- khya Express,Hasimara,16:14
+15661,Ranchi Kama- khya Express,Alipurduar Jn.,17:35
+15661,Ranchi Kama- khya Express,New Bongaigaon,19:50
+15661,Ranchi Kama- khya Express,Goalpara Town,20:27
+15661,Ranchi Kama- khya Express,Kamakhya,23:55
+19615,UDZ Kama- khya Kavi Guru Express,New Jalpaiguri Jn.,13:45
+19615,UDZ Kama- khya Kavi Guru Express,Dalgaon,16:47
+19615,UDZ Kama- khya Kavi Guru Express,Alipurduar Jn.,18:30
+19615,UDZ Kama- khya Kavi Guru Express,New Bongaigaon,20:30
+19615,UDZ Kama- khya Kavi Guru Express,Goalpara Town,21:10
+19615,UDZ Kama- khya Kavi Guru Express,Kamakhya,00:10
+15484,Delhi Alipur- duar Sikkim Mahananda Express,Siliguri,14:45
+15484,Delhi Alipur- duar Sikkim Mahananda Express,New Mal Jn.,16:30
+15484,Delhi Alipur- duar Sikkim Mahananda Express,Nagrakata,16:50
+15484,Delhi Alipur- duar Sikkim Mahananda Express,Binnaguri,17:22
+15484,Delhi Alipur- duar Sikkim Mahananda Express,Dalgaon,17:35
+15484,Delhi Alipur- duar Sikkim Mahananda Express,Hasimara,18:22
+15484,Delhi Alipur- duar Sikkim Mahananda Express,Alipurduar Jn.,20:40
+15417,Alipurduar Jn Silghat Rajya Rani Express,Alipurduar Jn.,18:45
+15417,Alipurduar Jn Silghat Rajya Rani Express,New Coochbeher,19:15
+15417,Alipurduar Jn Silghat Rajya Rani Express,Dhubri,21:15
+15417,Alipurduar Jn Silghat Rajya Rani Express,New Bongaigaon,01:10
+15417,Alipurduar Jn Silghat Rajya Rani Express,Kamakhya,04:12
+15417,Alipurduar Jn Silghat Rajya Rani Express,Guwahati,04:35
+15417,Alipurduar Jn Silghat Rajya Rani Express,Chapurmukh,06:22
+15417,Alipurduar Jn Silghat Rajya Rani Express,Senchoa,07:18
+15417,Alipurduar Jn Silghat Rajya Rani Express,Silghat,08:55
+15767,Siliguri Jn. Ali- purduar Intercity Express,Siliguri,17:00
+15767,Siliguri Jn. Ali- purduar Intercity Express,Oodlabari,18:16
+15767,Siliguri Jn. Ali- purduar Intercity Express,New Mal Jn.,18:36
+15767,Siliguri Jn. Ali- purduar Intercity Express,Chalsa,18:47
+15767,Siliguri Jn. Ali- purduar Intercity Express,Nagrakata,19:06
+15767,Siliguri Jn. Ali- purduar Intercity Express,Banarhat,19:34
+15767,Siliguri Jn. Ali- purduar Intercity Express,Binnaguri,19:46
+15767,Siliguri Jn. Ali- purduar Intercity Express,Dalgaon,19:58
+15767,Siliguri Jn. Ali- purduar Intercity Express,Madarihat,20:16
+15767,Siliguri Jn. Ali- purduar Intercity Express,Hasimara,20:37
+15767,Siliguri Jn. Ali- purduar Intercity Express,Hamiltonganj,21:01
+15767,Siliguri Jn. Ali- purduar Intercity Express,Kalchini,21:16
+15767,Siliguri Jn. Ali- purduar Intercity Express,Alipurduar Jn.,22:40
+15643,Puri Kama khya Express,New Jalpaiguri Jn.,18:55
+15643,Puri Kama khya Express,Siliguri,19:35
+15643,Puri Kama khya Express,New Mal Jn.,20:57
+15643,Puri Kama khya Express,Alipurduar Jn.,23:40
+15643,Puri Kama khya Express,New Bongaigaon,01:40
+15643,Puri Kama khya Express,Goalpara Town,02:22
+15643,Puri Kama khya Express,Kamakhya,05:10
+13181,Kolkatta Silghat Town Kaziranga Express,New Jalpaiguri Jn.,18:55
+13181,Kolkatta Silghat Town Kaziranga Express,New Coochbeher,21:00
+13181,Kolkatta Silghat Town Kaziranga Express,New Bongaigaon,23:55
+13181,Kolkatta Silghat Town Kaziranga Express,Kamakhya,03:02
+13181,Kolkatta Silghat Town Kaziranga Express,Guwahati,03:35
+13181,Kolkatta Silghat Town Kaziranga Express,Chapurmukh,05:34
+13181,Kolkatta Silghat Town Kaziranga Express,Silghat,07:55
+15629,Tambaram Silghat Nagaon Express,New Jalpaiguri Jn.,13:10
+15629,Tambaram Silghat Nagaon Express,New Coochbeher,15:30
+15629,Tambaram Silghat Nagaon Express,New Bongaigaon,17:45
+15629,Tambaram Silghat Nagaon Express,Rangiya,20:05
+15629,Tambaram Silghat Nagaon Express,Kamakhya,21:55
+15629,Tambaram Silghat Nagaon Express,Guwahati,22:20
+15629,Tambaram Silghat Nagaon Express,Silghat,02:55
+22501,SMVB New Tinsukia Super Fast Express,New Jalpaiguri Jn.,20:55
+22501,SMVB New Tinsukia Super Fast Express,New Coochbeher,23:07
+22501,SMVB New Tinsukia Super Fast Express,New Bongaigaon,01:10
+22501,SMVB New Tinsukia Super Fast Express,Goalpara Town,01:52
+22501,SMVB New Tinsukia Super Fast Express,Guwahati,04:35
+15601,Dhubri Guwaha- ti Express,Dhubri,07:20
+15601,Dhubri Guwaha- ti Express,New Bongaigaon,11:00
+15601,Dhubri Guwaha- ti Express,Kamakhya,14:20
+15601,Dhubri Guwaha- ti Express,Guwahati,15:00
+15777,New Jalpaiguri Alipurdure Tourist Express,New Jalpaiguri Jn.,07:20
+15777,New Jalpaiguri Alipurdure Tourist Express,Siliguri,07:42
+15777,New Jalpaiguri Alipurdure Tourist Express,New Mal Jn.,09:02
+15777,New Jalpaiguri Alipurdure Tourist Express,Hasimara,11:32
+15777,New Jalpaiguri Alipurdure Tourist Express,Alipurduar Jn.,13:00
+15467,Siliguri Bamanhat Express,Siliguri,07:00
+15467,Siliguri Bamanhat Express,Oodlabari,07:58
+15467,Siliguri Bamanhat Express,New Mal Jn.,08:17
+15467,Siliguri Bamanhat Express,Nagrakata,08:45
+15467,Siliguri Bamanhat Express,Banarhat,09:07
+15467,Siliguri Bamanhat Express,Binnaguri,09:19
+15467,Siliguri Bamanhat Express,Hasimara,09:53
+15467,Siliguri Bamanhat Express,Alipurduar Jn.,11:25
+15467,Siliguri Bamanhat Express,New Coochbeher,12:00
+15467,Siliguri Bamanhat Express,Bamanhat,13:40
+15753,Alipurduar Guwahati Shifung Express,Alipurduar Jn.,04:05
+15753,Alipurduar Guwahati Shifung Express,New Bongaigaon,06:30
+15753,Alipurduar Guwahati Shifung Express,Rangiya,09:20
+15753,Alipurduar Guwahati Shifung Express,Kamakhya,10:32
+15753,Alipurduar Guwahati Shifung Express,Guwahati,11:30
+13247,Kamakhya- Ara Capital Express,Kamakhya,06:15
+13247,Kamakhya- Ara Capital Express,Goalpara Town,07:35
+13247,Kamakhya- Ara Capital Express,New Bongaigoan,08:45
+13247,Kamakhya- Ara Capital Express,Allipurduar Jn.,10:25
+13247,Kamakhya- Ara Capital Express,Hasimara,11:42
+13247,Kamakhya- Ara Capital Express,Dalgoan,12:12
+13247,Kamakhya- Ara Capital Express,Binnaguri,12:30
+13247,Kamakhya- Ara Capital Express,New Mal Jn.,13:12
+13247,Kamakhya- Ara Capital Express,Siliguri,15:40
+22502,New Tinsukia SMVT Bengal- uru Super Fast Express,Guwahati,05:10
+22502,New Tinsukia SMVT Bengal- uru Super Fast Express,Goalpara Town,07:05
+22502,New Tinsukia SMVT Bengal- uru Super Fast Express,New Bongaigoan,08:30
+22502,New Tinsukia SMVT Bengal- uru Super Fast Express,New Jalpaiguri Jn d Via BORA,14:15
+19306,Kamakhya DADN Express,Kamakhya,05:00
+19306,Kamakhya DADN Express,New Bongaigoan,07:40
+19306,Kamakhya DADN Express,Allipurduar Jn.,09:43
+19306,Kamakhya DADN Express,Hasimara,10:30
+19306,Kamakhya DADN Express,Binnaguri,11:07
+19306,Kamakhya DADN Express,New Mal Jn.,12:02
+19306,Kamakhya DADN Express,New Jalpaiguri Jn d Via BORA,14:00
+15621,Kama khya Anand Vihar (T) Express,Kamakhya,05:00
+15621,Kama khya Anand Vihar (T) Express,Goalpara Town,06:40
+15621,Kama khya Anand Vihar (T) Express,New Bongaigoan,07:40
+15621,Kama khya Anand Vihar (T) Express,Allipurduar Jn.,09:43
+15621,Kama khya Anand Vihar (T) Express,Binnaguri,11:07
+15621,Kama khya Anand Vihar (T) Express,New Mal Jn.,12:02
+15621,Kama khya Anand Vihar (T) Express,New Jalpaiguri Jn d Via BORA,14:00
+15768,Alipurduar Sili guri Intercity Express,Allipurduar Jn.,05:15
+15768,Alipurduar Sili guri Intercity Express,Kalchini d ,05:46
+15768,Alipurduar Sili guri Intercity Express,Hamiltonganj d ,05:55
+15768,Alipurduar Sili guri Intercity Express,Hasimara,06:15
+15768,Alipurduar Sili guri Intercity Express,Madarihat d ,06:33
+15768,Alipurduar Sili guri Intercity Express,Dalgoan,06:44
+15768,Alipurduar Sili guri Intercity Express,Binnaguri,06:53
+15768,Alipurduar Sili guri Intercity Express,Banarhat d ,07:05
+15768,Alipurduar Sili guri Intercity Express,Nagrakata d ,07:45
+15768,Alipurduar Sili guri Intercity Express,Chalsa d ,08:06
+15768,Alipurduar Sili guri Intercity Express,New Mal Jn.,08:16
+15768,Alipurduar Sili guri Intercity Express,Odlabari d ,08:28
+15768,Alipurduar Sili guri Intercity Express,Siliguri,10:15
+15483,Alipurduar Delhi Sikkim Mahananda Express,Allipurduar Jn.,10:30
+15483,Alipurduar Delhi Sikkim Mahananda Express,Hasimara,11:12
+15483,Alipurduar Delhi Sikkim Mahananda Express,Dalgoan,11:40
+15483,Alipurduar Delhi Sikkim Mahananda Express,Binnaguri,11:52
+15483,Alipurduar Delhi Sikkim Mahananda Express,Nagrakata d ,12:27
+15483,Alipurduar Delhi Sikkim Mahananda Express,New Mal Jn.,12:55
+15483,Alipurduar Delhi Sikkim Mahananda Express,Siliguri,14:45
+22504,Dibrugarh Kanniyakumari Vivek Express,Guwahati,06:55
+22504,Dibrugarh Kanniyakumari Vivek Express,Goalpara Town,09:02
+22504,Dibrugarh Kanniyakumari Vivek Express,New Bongaigoan,10:10
+22504,Dibrugarh Kanniyakumari Vivek Express,New Jalpaiguri Jn d Via BORA,15:45
+15662,Kama khya Ranchi Express,Kamakhya,12:00
+15662,Kama khya Ranchi Express,Goalpara Town,13:37
+15662,Kama khya Ranchi Express,New Bongaigoan,14:40
+15662,Kama khya Ranchi Express,Allipurduar Jn.,16:30
+15662,Kama khya Ranchi Express,Hasimara,17:32
+15662,Kama khya Ranchi Express,Binnaguri,18:25
+15662,Kama khya Ranchi Express,New Mal Jn.,19:30
+15662,Kama khya Ranchi Express,Siliguri,21:30
+15662,Kama khya Ranchi Express,New Jalpaiguri Jn d Via BORA,22:00
+75742,Dhubri Siliguri Intercity Ex- press,Dhubri,12:20
+75742,Dhubri Siliguri Intercity Ex- press,New Coochbeher,14:00
+75742,Dhubri Siliguri Intercity Ex- press,Allipurduar Jn.,14:35
+75742,Dhubri Siliguri Intercity Ex- press,Kalchini d ,15:06
+75742,Dhubri Siliguri Intercity Ex- press,Hamiltonganj d ,15:18
+75742,Dhubri Siliguri Intercity Ex- press,Hasimara,15:31
+75742,Dhubri Siliguri Intercity Ex- press,Madarihat d ,15:45
+75742,Dhubri Siliguri Intercity Ex- press,Dalgoan,16:00
+75742,Dhubri Siliguri Intercity Ex- press,Banarhat d ,16:41
+75742,Dhubri Siliguri Intercity Ex- press,Nagrakata d ,17:16
+75742,Dhubri Siliguri Intercity Ex- press,New Mal Jn.,17:56
+75742,Dhubri Siliguri Intercity Ex- press,Siliguri,21:15
+13150,Alipurduar Sealdah Kan- chan Kanya Express,Allipurduar Jn.,15:45
+13150,Alipurduar Sealdah Kan- chan Kanya Express,Hamiltonganj d ,16:15
+13150,Alipurduar Sealdah Kan- chan Kanya Express,Hasimara,16:35
+13150,Alipurduar Sealdah Kan- chan Kanya Express,Madarihat d ,16:52
+13150,Alipurduar Sealdah Kan- chan Kanya Express,Dalgoan,17:05
+13150,Alipurduar Sealdah Kan- chan Kanya Express,Banarhat d ,17:25
+13150,Alipurduar Sealdah Kan- chan Kanya Express,New Mal Jn.,18:10
+13150,Alipurduar Sealdah Kan- chan Kanya Express,Siliguri,19:50
+13281,Dibrugarh Rajendra nagar Express,Chaparmukh,14:36
+13281,Dibrugarh Rajendra nagar Express,Guwahati,17:15
+13281,Dibrugarh Rajendra nagar Express,Kamakhya,17:32
+13281,Dibrugarh Rajendra nagar Express,Goalpara Town,19:32
+13281,Dibrugarh Rajendra nagar Express,New Bongaigoan,20:50
+13281,Dibrugarh Rajendra nagar Express,New Coochbeher,23:00
+13281,Dibrugarh Rajendra nagar Express,New Jalpaiguri Jn d Via BORA,01:35
+15418,Silghat Alipur- duar Jn Rajya Rani Express,Silghat,18:00
+15418,Silghat Alipur- duar Jn Rajya Rani Express,Senchoa,19:05
+15418,Silghat Alipur- duar Jn Rajya Rani Express,Chaparmukh,19:42
+15418,Silghat Alipur- duar Jn Rajya Rani Express,Guwahati,22:10
+15418,Silghat Alipur- duar Jn Rajya Rani Express,Kamakhya,22:27
+15418,Silghat Alipur- duar Jn Rajya Rani Express,New Bongaigoan,01:25
+15418,Silghat Alipur- duar Jn Rajya Rani Express,Dhubri,04:50
+15418,Silghat Alipur- duar Jn Rajya Rani Express,Allipurduar Jn.,07:45
+22512,Kamakhya Lokmanya(T) Karmabhoomi Express,Kamakhya,18:00
+22512,Kamakhya Lokmanya(T) Karmabhoomi Express,New Bongaigoan,20:50
+22512,Kamakhya Lokmanya(T) Karmabhoomi Express,Allipurduar Jn.,22:45
+22512,Kamakhya Lokmanya(T) Karmabhoomi Express,Hasimara,23:45
+22512,Kamakhya Lokmanya(T) Karmabhoomi Express,Siliguri,03:02
+22512,Kamakhya Lokmanya(T) Karmabhoomi Express,New Jalpaiguri Jn.,03:35
+19616,Kamakhya Udaipur Kavi Guru Express,Kamakhya,18:30
+19616,Kamakhya Udaipur Kavi Guru Express,Goalpara Town d ,20:04
+19616,Kamakhya Udaipur Kavi Guru Express,New Bongaigoan,21:15
+19616,Kamakhya Udaipur Kavi Guru Express,Allipurduar Jn.,23:15
+19616,Kamakhya Udaipur Kavi Guru Express,Dalgoan d ,00:57
+19616,Kamakhya Udaipur Kavi Guru Express,New Jalpaiguri Jn.,04:05
+13182,Silghat Town Kolkatta Kaziranga Express,Silghat,13:50
+13182,Silghat Town Kolkatta Kaziranga Express,Chaparmukh,15:12
+13182,Silghat Town Kolkatta Kaziranga Express,Guwahati,17:25
+13182,Silghat Town Kolkatta Kaziranga Express,Kamakhya,17:42
+13182,Silghat Town Kolkatta Kaziranga Express,Goalpara Town d ,20:04
+13182,Silghat Town Kolkatta Kaziranga Express,New Bongaigoan,21:15
+13182,Silghat Town Kolkatta Kaziranga Express,New Coochbeher,23:35
+13182,Silghat Town Kolkatta Kaziranga Express,New Jalpaiguri Jn.,02:15
+15630,Silghat Tam- baram Nagaon Express,Silghat,10:50
+15630,Silghat Tam- baram Nagaon Express,Senchoa,12:02
+15630,Silghat Tam- baram Nagaon Express,Chaparmukh,12:30
+15630,Silghat Tam- baram Nagaon Express,Guwahati,14:50
+15630,Silghat Tam- baram Nagaon Express,Kamakhya,15:10
+15630,Silghat Tam- baram Nagaon Express,Rangiya,16:05
+15630,Silghat Tam- baram Nagaon Express,New Bongaigoan,17:50
+15630,Silghat Tam- baram Nagaon Express,New Coochbeher,21:00
+15630,Silghat Tam- baram Nagaon Express,New Jalpaiguri Jn.,23:50
+15644,Kamakhya Puri Express,Kamakhya,22:40
+15644,Kamakhya Puri Express,Goalpara Town d ,00:20
+15644,Kamakhya Puri Express,New Bongaigoan,01:25
+15644,Kamakhya Puri Express,Allipurduar Jn.,04:30
+15644,Kamakhya Puri Express,New Mal Jn d ,06:42
+15644,Kamakhya Puri Express,Siliguri,08:20
+15644,Kamakhya Puri Express,New Jalpaiguri Jn.,08:55
+15602,Guwahati Dhu- bri Express,Guwahati,22:45
+15602,Guwahati Dhu- bri Express,Kamakhya,23:08
+15602,Guwahati Dhu- bri Express,New Bongaigoan,02:10
+15602,Guwahati Dhu- bri Express,Dhubri,06:00
+15778,Alipurduar New Jalpaiguri Tourist Express,Allipurduar Jn.,14:00
+15778,Alipurduar New Jalpaiguri Tourist Express,Hasimara,14:52
+15778,Alipurduar New Jalpaiguri Tourist Express,New Mal Jn d ,16:57
+15778,Alipurduar New Jalpaiguri Tourist Express,Siliguri,18:37
+15778,Alipurduar New Jalpaiguri Tourist Express,New Jalpaiguri Jn.,19:40
+15468,Bamanhat Siliguri Express,Bamanhat,09:30
+15468,Bamanhat Siliguri Express,New Coochbeher,10:50
+15468,Bamanhat Siliguri Express,Allipurduar Jn.,11:25
+15468,Bamanhat Siliguri Express,Hasimara,12:30
+15468,Bamanhat Siliguri Express,Dalgoan d ,13:00
+15468,Bamanhat Siliguri Express,Binnaguri d ,13:11
+15468,Bamanhat Siliguri Express,Banarhat d ,13:30
+15468,Bamanhat Siliguri Express,Nagrakata d ,13:53
+15468,Bamanhat Siliguri Express,New Mal Jn d ,14:16
+15468,Bamanhat Siliguri Express,Odlabari d ,14:30
+15468,Bamanhat Siliguri Express,Siliguri,18:00
+15754,Guwahati Alipurduar Shifung Express,Guwahati,15:20
+15754,Guwahati Alipurduar Shifung Express,Kamakhya,15:37
+15754,Guwahati Alipurduar Shifung Express,Rangiya,16:35
+15754,Guwahati Alipurduar Shifung Express,New Bongaigoan,19:50
+15754,Guwahati Alipurduar Shifung Express,Allipurduar Jn.,22:20

@@ -1,0 +1,222 @@
+train_num,train_name,halt_station_name,departure_time
+20493,Madur Chan- digarh Expres,Nizamuddin,21:50
+20493,Madur Chan- digarh Expres,Ambala Cantt.,02:45
+20493,Madur Chan- digarh Expres,,03:30
+20493,Madur Chan- digarh Expres,Kalka,06:15
+20493,Madur Chan- digarh Expres,Chandigarh,06:53
+20493,Madur Chan- digarh Expres,Ambala Cantt.,07:38
+20493,Madur Chan- digarh Expres,Kurukshetra,08:10
+20493,Madur Chan- digarh Expres,Panipat,08:52
+20493,Madur Chan- digarh Expres,,10:15
+1298,Ajme Chan digar Garib R Expre,Bhiwani,01:15
+1298,Ajme Chan digar Garib R Expre,Rohtak,02:27
+1298,Ajme Chan digar Garib R Expre,Panipat,03:58
+1298,Ajme Chan digar Garib R Expre,Kurukshetra,04:48
+1298,Ajme Chan digar Garib R Expre,Ambala Cantt.,05:55
+1298,Ajme Chan digar Garib R Expre,Chandigarh,06:40
+1298,Ajme Chan digar Garib R Expre,Chandigarh,08:05
+1298,Ajme Chan digar Garib R Expre,Ambala Cantt.,08:55
+1298,Ajme Chan digar Garib R Expre,Nizamuddin,14:15
+12311,Howrah Kalka Netaji Express,Delhi,21:10
+12311,Howrah Kalka Netaji Express,Panipat,22:37
+12311,Howrah Kalka Netaji Express,Kurukshetra,23:28
+12311,Howrah Kalka Netaji Express,Ambala Cantt.,00:55
+12311,Howrah Kalka Netaji Express,Chandigarh,02:25
+12311,Howrah Kalka Netaji Express,Kalka,03:00
+12311,Howrah Kalka Netaji Express,Chandigarh,09:30
+12311,Howrah Kalka Netaji Express,Ambala Cantt.,10:20
+12311,Howrah Kalka Netaji Express,New Delhi,13:10
+12311,Howrah Kalka Netaji Express,Nizamuddin,13:23
+12005,New elhi Kalka Shatabdi Express,New Delhi,17:15
+12005,New elhi Kalka Shatabdi Express,Panipat,18:20
+12005,New elhi Kalka Shatabdi Express,Kurukshetra,19:02
+12005,New elhi Kalka Shatabdi Express,Ambala Cantt.,19:53
+12005,New elhi Kalka Shatabdi Express,Chandigarh,20:38
+12005,New elhi Kalka Shatabdi Express,Kalka,21:15
+12005,New elhi Kalka Shatabdi Express,Daulatpur Chowk,04:10
+12005,New elhi Kalka Shatabdi Express,KmAmb Andaura,04:27
+12005,New elhi Kalka Shatabdi Express,Una Himachal,05:00
+12005,New elhi Kalka Shatabdi Express,Nangaldam,05:22
+12005,New elhi Kalka Shatabdi Express,Chandigarh,07:43
+12005,New elhi Kalka Shatabdi Express,Ambala Cantt.,08:45
+12005,New elhi Kalka Shatabdi Express,Kurukshetra,09:16
+12005,New elhi Kalka Shatabdi Express,Panipat,10:04
+12005,New elhi Kalka Shatabdi Express,New Delhi,11:45
+12057,w Delhi aulatpur owk Jan hatabdi xpress,New Delhi,14:35
+12057,w Delhi aulatpur owk Jan hatabdi xpress,Panipat,15:53
+12057,w Delhi aulatpur owk Jan hatabdi xpress,Kurukshetra,16:44
+12057,w Delhi aulatpur owk Jan hatabdi xpress,Ambala Cantt.,18:07
+12057,w Delhi aulatpur owk Jan hatabdi xpress,Chandigarh,18:52
+12057,w Delhi aulatpur owk Jan hatabdi xpress,Nangaldam,21:05
+12057,w Delhi aulatpur owk Jan hatabdi xpress,Una Himachal,21:23
+12057,w Delhi aulatpur owk Jan hatabdi xpress,Amb Andaura,21:50
+12057,w Delhi aulatpur owk Jan hatabdi xpress,Daulatpur Chowk,22:15
+12057,w Delhi aulatpur owk Jan hatabdi xpress,Chandigarh,12:20
+12057,w Delhi aulatpur owk Jan hatabdi xpress,Ambala Cantt.,13:10
+12057,w Delhi aulatpur owk Jan hatabdi xpress,Kurukshetra,13:42
+12057,w Delhi aulatpur owk Jan hatabdi xpress,Panipat,14:34
+12057,w Delhi aulatpur owk Jan hatabdi xpress,New Delhi,16:35
+12217,ochuveli handigarh rala Sam- ark Kranti Express,Nizamuddin,05:35
+12217,ochuveli handigarh rala Sam- ark Kranti Express,New Delhi,06:25
+12217,ochuveli handigarh rala Sam- ark Kranti Express,Ambala Cantt.,09:10
+12217,ochuveli handigarh rala Sam- ark Kranti Express,Chandigarh,09:50
+12217,ochuveli handigarh rala Sam- ark Kranti Express,Kalka,17:45
+12217,ochuveli handigarh rala Sam- ark Kranti Express,Chandigarh,18:23
+12217,ochuveli handigarh rala Sam- ark Kranti Express,Ambala Cantt.,19:08
+12217,ochuveli handigarh rala Sam- ark Kranti Express,Kurukshetra,19:40
+12217,ochuveli handigarh rala Sam- ark Kranti Express,Panipat,20:24
+12217,ochuveli handigarh rala Sam- ark Kranti Express,New Delhi,21:50
+12925,ndra (T) mritsar aschim xpress,Nizamuddin,10:01
+12925,ndra (T) mritsar aschim xpress,New Delhi,11:05
+12925,ndra (T) mritsar aschim xpress,Panipat,12:25
+12925,ndra (T) mritsar aschim xpress,Kurukshetra,13:16
+12925,ndra (T) mritsar aschim xpress,Ambala Cantt.,14:40
+12925,ndra (T) mritsar aschim xpress,Chandigarh,15:32
+12925,ndra (T) mritsar aschim xpress,Kalka,23:55
+12925,ndra (T) mritsar aschim xpress,Chandigarh,01:25
+12925,ndra (T) mritsar aschim xpress,Ambala Cantt.,02:20
+12925,ndra (T) mritsar aschim xpress,Kurukshetra,02:52
+12925,ndra (T) mritsar aschim xpress,Panipat,03:43
+12925,ndra (T) mritsar aschim xpress,Delhi,06:15
+12011,ew Delhi Kalka Shatabdi Express,New Delhi,07:40
+12011,ew Delhi Kalka Shatabdi Express,Panipat,08:50
+12011,ew Delhi Kalka Shatabdi Express,Kurukshetra,09:32
+12011,ew Delhi Kalka Shatabdi Express,Ambala Cantt.,10:24
+12011,ew Delhi Kalka Shatabdi Express,Chandigarh,11:07
+12011,ew Delhi Kalka Shatabdi Express,Kalka,11:40
+12011,ew Delhi Kalka Shatabdi Express,Kalka,16:55
+12011,ew Delhi Kalka Shatabdi Express,Chandigarh,17:30
+12011,ew Delhi Kalka Shatabdi Express,Ambala Cantt.,18:25
+12011,ew Delhi Kalka Shatabdi Express,Kurukshetra,19:03
+12011,ew Delhi Kalka Shatabdi Express,Panipat,20:12
+12011,ew Delhi Kalka Shatabdi Express,Rohtak,22:10
+12011,ew Delhi Kalka Shatabdi Express,Bhiwani,23:25
+14795,Bhiwani Kalka Ekta Express,Bhiwani,04:20
+14795,Bhiwani Kalka Ekta Express,Rohtak,05:28
+14795,Bhiwani Kalka Ekta Express,Panipat,07:05
+14795,Bhiwani Kalka Ekta Express,Kurukshetra,08:14
+14795,Bhiwani Kalka Ekta Express,Ambala Cantt.,09:35
+14795,Bhiwani Kalka Ekta Express,Chandigarh,10:25
+14795,Bhiwani Kalka Ekta Express,Kalka,11:00
+14795,Bhiwani Kalka Ekta Express,Chandigarh,16:45
+14795,Bhiwani Kalka Ekta Express,Ambala Cantt.,17:35
+14795,Bhiwani Kalka Ekta Express,Kurukshetra,18:12
+14795,Bhiwani Kalka Ekta Express,Panipat,19:03
+14795,Bhiwani Kalka Ekta Express,Delhi,21:30
+14217,Prayagraj Sangam handigarh Unchahar Express,Delhi,04:15
+14217,Prayagraj Sangam handigarh Unchahar Express,Panipat,05:57
+14217,Prayagraj Sangam handigarh Unchahar Express,Kurukshetra,06:50
+14217,Prayagraj Sangam handigarh Unchahar Express,Ambala Cantt.,08:32
+14217,Prayagraj Sangam handigarh Unchahar Express,Chandigarh,09:15
+14217,Prayagraj Sangam handigarh Unchahar Express,Chandigarh,19:45
+14217,Prayagraj Sangam handigarh Unchahar Express,Ambala Cantt.,20:38
+14217,Prayagraj Sangam handigarh Unchahar Express,Kurukshetra,21:10
+14217,Prayagraj Sangam handigarh Unchahar Express,Panipat,22:20
+14217,Prayagraj Sangam handigarh Unchahar Express,Rohtak,23:50
+14217,Prayagraj Sangam handigarh Unchahar Express,Bhiwani,01:05
+22451,Bandra (T) Chandigarh Express,Panipat,11:32
+22451,Bandra (T) Chandigarh Express,Ambala Cantt.,13:30
+22451,Bandra (T) Chandigarh Express,Chandigarh,14:15
+22451,Bandra (T) Chandigarh Express,Chandigarh,05:40
+22451,Bandra (T) Chandigarh Express,Ambala Cantt.,06:30
+22451,Bandra (T) Chandigarh Express,Panipat,07:47
+22455,Sai Nagar Shirdi Kalka Express,Nizamuddin,06:30
+22455,Sai Nagar Shirdi Kalka Express,New Delhi,07:10
+22455,Sai Nagar Shirdi Kalka Express,Panipat,08:32
+22455,Sai Nagar Shirdi Kalka Express,Ambala Cantt.,10:50
+22455,Sai Nagar Shirdi Kalka Express,Chandigarh,11:32
+22455,Sai Nagar Shirdi Kalka Express,Kalka,12:10
+22455,Sai Nagar Shirdi Kalka Express,Kalka,17:20
+22455,Sai Nagar Shirdi Kalka Express,Chandigarh,18:07
+22455,Sai Nagar Shirdi Kalka Express,Ambala Cantt.,18:55
+22455,Sai Nagar Shirdi Kalka Express,Panipat,20:34
+22455,Sai Nagar Shirdi Kalka Express,New Delhi,22:25
+22455,Sai Nagar Shirdi Kalka Express,Nizamuddin,22:38
+14504,Katra Kalka Express,Chandigarh,04:40
+14504,Katra Kalka Express,Kalka,05:15
+14504,Katra Kalka Express,Kalka,19:35
+14504,Katra Kalka Express,Chandigarh,20:35
+22709,Hazur Sahib Nanded Ambandaura Express,New Delhi,10:25
+22709,Hazur Sahib Nanded Ambandaura Express,Panipat,11:32
+22709,Hazur Sahib Nanded Ambandaura Express,Ambala Cantt.,13:30
+22709,Hazur Sahib Nanded Ambandaura Express,Chandigarh,14:20
+22709,Hazur Sahib Nanded Ambandaura Express,Nangaldam,17:26
+22709,Hazur Sahib Nanded Ambandaura Express,Una Himachal,17:44
+22709,Hazur Sahib Nanded Ambandaura Express,Amb Andaura,18:10
+22709,Hazur Sahib Nanded Ambandaura Express,KmAmb Andaura,15:50
+22709,Hazur Sahib Nanded Ambandaura Express,Una Himachal,16:17
+22709,Hazur Sahib Nanded Ambandaura Express,Nangaldam,16:45
+22709,Hazur Sahib Nanded Ambandaura Express,Chandigarh,18:55
+22709,Hazur Sahib Nanded Ambandaura Express,Ambala Cantt.,19:45
+22709,Hazur Sahib Nanded Ambandaura Express,Panipat,20:58
+22709,Hazur Sahib Nanded Ambandaura Express,New Delhi,23:15
+22685,Yeshvantpur Chandigarh Karnataka Sampark Kran Express,Nizamuddin,11:31
+22685,Yeshvantpur Chandigarh Karnataka Sampark Kran Express,New Delhi,12:10
+22685,Yeshvantpur Chandigarh Karnataka Sampark Kran Express,Panipat,13:20
+22685,Yeshvantpur Chandigarh Karnataka Sampark Kran Express,Ambala Cantt.,15:05
+22685,Yeshvantpur Chandigarh Karnataka Sampark Kran Express,Chandigarh,15:45
+22685,Yeshvantpur Chandigarh Karnataka Sampark Kran Express,Chandigarh,03:35
+22685,Yeshvantpur Chandigarh Karnataka Sampark Kran Express,Ambala Cantt.,04:25
+22685,Yeshvantpur Chandigarh Karnataka Sampark Kran Express,Panipat,05:38
+22685,Yeshvantpur Chandigarh Karnataka Sampark Kran Express,New Delhi,08:15
+22685,Yeshvantpur Chandigarh Karnataka Sampark Kran Express,Nizamuddin,08:28
+12045,New Delhi Chandigarh Shatabdi Express,New Delhi,19:15
+12045,New Delhi Chandigarh Shatabdi Express,Ambala Cantt.,21:52
+12045,New Delhi Chandigarh Shatabdi Express,Chandigarh,22:35
+12045,New Delhi Chandigarh Shatabdi Express,Chandigarh,02:17
+12045,New Delhi Chandigarh Shatabdi Express,Ambala Cantt.,03:10
+12045,New Delhi Chandigarh Shatabdi Express,Panipat,04:17
+12045,New Delhi Chandigarh Shatabdi Express,New Delhi,06:10
+12045,New Delhi Chandigarh Shatabdi Express,Nizamuddin,06:23
+12449,Madgaon Chandigarh Goa Sampar Kranti Express,Nizamuddin,13:43
+12449,Madgaon Chandigarh Goa Sampar Kranti Express,New Delhi,14:25
+12449,Madgaon Chandigarh Goa Sampar Kranti Express,Panipat,15:29
+12449,Madgaon Chandigarh Goa Sampar Kranti Express,Ambala Cantt.,17:45
+12449,Madgaon Chandigarh Goa Sampar Kranti Express,Chandigarh,18:25
+12449,Madgaon Chandigarh Goa Sampar Kranti Express,Chandigarh,12:00
+12449,Madgaon Chandigarh Goa Sampar Kranti Express,Ambala Cantt.,12:47
+12449,Madgaon Chandigarh Goa Sampar Kranti Express,New Delhi,15:20
+19411,Gand- hinagar Daulatpu Chowk Express,Rohtak,01:34
+19411,Gand- hinagar Daulatpu Chowk Express,Kurukshetra,05:20
+19411,Gand- hinagar Daulatpu Chowk Express,Ambala Cantt.,06:48
+19411,Gand- hinagar Daulatpu Chowk Express,Chandigarh,07:50
+19411,Gand- hinagar Daulatpu Chowk Express,Nangaldam,10:53
+19411,Gand- hinagar Daulatpu Chowk Express,Una Himachal,11:10
+19411,Gand- hinagar Daulatpu Chowk Express,Amb Andaura,11:34
+19411,Gand- hinagar Daulatpu Chowk Express,Daulatpur Chowk,12:00
+19411,Gand- hinagar Daulatpu Chowk Express,Daulatpur Chowk,14:25
+19411,Gand- hinagar Daulatpu Chowk Express,KmAmb Andaura,14:40
+19411,Gand- hinagar Daulatpu Chowk Express,Una Himachal,15:04
+19411,Gand- hinagar Daulatpu Chowk Express,Nangaldam,15:30
+19411,Gand- hinagar Daulatpu Chowk Express,Chandigarh,17:55
+19411,Gand- hinagar Daulatpu Chowk Express,Ambala Cantt.,18:45
+19411,Gand- hinagar Daulatpu Chowk Express,Kurukshetra,19:24
+19411,Gand- hinagar Daulatpu Chowk Express,Rohtak,22:34
+14331,Delhi Kalka Ex- press,Delhi,16:15
+14331,Delhi Kalka Ex- press,Panipat,17:57
+14331,Delhi Kalka Ex- press,Kurukshetra,18:58
+14331,Delhi Kalka Ex- press,Ambala Cantt.,20:18
+14331,Delhi Kalka Ex- press,Chandigarh,21:08
+14331,Delhi Kalka Ex- press,Kalka,21:40
+14331,Delhi Kalka Ex- press,Kalka,07:40
+14331,Delhi Kalka Ex- press,Chandigarh,08:20
+14331,Delhi Kalka Ex- press,Ambala Cantt.,09:20
+14331,Delhi Kalka Ex- press,Delhi,15:40
+22447,New Delhi Amb Andaur Vande Bharat Express,New Delhi,05:50
+22447,New Delhi Amb Andaur Vande Bharat Express,Ambala Cantt.,08:02
+22447,New Delhi Amb Andaur Vande Bharat Express,Chandigarh,08:45
+22447,New Delhi Amb Andaur Vande Bharat Express,Una Himachal,10:36
+22447,New Delhi Amb Andaur Vande Bharat Express,Amb Andaura,11:05
+22447,New Delhi Amb Andaur Vande Bharat Express,KmAmb Andaura,13:00
+22447,New Delhi Amb Andaur Vande Bharat Express,Una Himachal,13:23
+22447,New Delhi Amb Andaur Vande Bharat Express,Chandigarh,15:35
+22447,New Delhi Amb Andaur Vande Bharat Express,Ambala Cantt.,16:15
+22447,New Delhi Amb Andaur Vande Bharat Express,New Delhi,18:25
+20989,Udaipur City-Chan- digarh SF Express,Rohtak,04:28
+20989,Udaipur City-Chan- digarh SF Express,Kurukshetra,07:50
+20989,Udaipur City-Chan- digarh SF Express,Ambala Cantt.,09:10
+20989,Udaipur City-Chan- digarh SF Express,Chandigarh,09:50
+20989,Udaipur City-Chan- digarh SF Express,Chandigarh,11:20
+20989,Udaipur City-Chan- digarh SF Express,Ambala Cantt.,12:10
+20989,Udaipur City-Chan- digarh SF Express,Kurukshetra,13:20
+20989,Udaipur City-Chan- digarh SF Express,Rohtak,16:05

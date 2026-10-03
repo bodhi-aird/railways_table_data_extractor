@@ -1,0 +1,572 @@
+train_num,train_name,halt_station_name,departure_time
+18257,Bilaspur Chirimiri Express,,23:40
+18257,Bilaspur Chirimiri Express,Anuppur,02:30
+18257,Bilaspur Chirimiri Express,Chirimiri,06:00
+20972,"Shalimar Udaipur Express (via Sagour, Kota)",Shalimar,19:50
+20972,"Shalimar Udaipur Express (via Sagour, Kota)",Santragachi,20:08
+20972,"Shalimar Udaipur Express (via Sagour, Kota)",Kharagpur,21:35
+20972,"Shalimar Udaipur Express (via Sagour, Kota)",Tatanagar,23:50
+20972,"Shalimar Udaipur Express (via Sagour, Kota)",Chakradharpur,00:47
+20972,"Shalimar Udaipur Express (via Sagour, Kota)",Rourkela,02:12
+20972,"Shalimar Udaipur Express (via Sagour, Kota)",Jharsuguda,03:50
+20972,"Shalimar Udaipur Express (via Sagour, Kota)",Bilaspur,07:20
+20972,"Shalimar Udaipur Express (via Sagour, Kota)",Anuppur,09:55
+20972,"Shalimar Udaipur Express (via Sagour, Kota)",Katni Murwara,13:30
+20972,"Shalimar Udaipur Express (via Sagour, Kota)",Damoh,14:50
+20972,"Shalimar Udaipur Express (via Sagour, Kota)",Sagour,16:00
+22867,Durg Nizamuddin Humsafar Express,Anuppur,16:02
+22867,Durg Nizamuddin Humsafar Express,Katni Murwara,19:30
+22867,Durg Nizamuddin Humsafar Express,Damoh,20:50
+22867,Durg Nizamuddin Humsafar Express,Sagour,21:55
+22867,Durg Nizamuddin Humsafar Express,Virangana Laxmibai,01:35
+22867,Durg Nizamuddin Humsafar Express,Gwalior,02:34
+22867,Durg Nizamuddin Humsafar Express,Agra Cantt.,04:05
+22867,Durg Nizamuddin Humsafar Express,Mathura,04:44
+22867,Durg Nizamuddin Humsafar Express,Nizamuddin,07:10
+18416,Puri Barbil Express,Puri,06:15
+18416,Puri Barbil Express,Khurda Road,07:10
+18416,Puri Barbil Express,Bhubaneswar,07:40
+18416,Puri Barbil Express,Cuttack,08:15
+18416,Puri Barbil Express,Kendujhargarh,11:13
+18416,Puri Barbil Express,Barbil,17:50
+20472,"Puri Sri Ganganager Express (via Jaipur, Kota, Katni)",Puri,06:35
+20472,"Puri Sri Ganganager Express (via Jaipur, Kota, Katni)",Khurda Road,07:25
+20472,"Puri Sri Ganganager Express (via Jaipur, Kota, Katni)",Bhubaneswar,07:55
+20472,"Puri Sri Ganganager Express (via Jaipur, Kota, Katni)",Sambalpur,12:35
+20472,"Puri Sri Ganganager Express (via Jaipur, Kota, Katni)",Bilaspur,17:05
+20472,"Puri Sri Ganganager Express (via Jaipur, Kota, Katni)",Anuppur,19:42
+20472,"Puri Sri Ganganager Express (via Jaipur, Kota, Katni)",Katni Murwara,23:25
+20472,"Puri Sri Ganganager Express (via Jaipur, Kota, Katni)",Damoh,00:50
+20472,"Puri Sri Ganganager Express (via Jaipur, Kota, Katni)",Sagour,01:50
+22830,Shalimar Bhuj Express,Shalimar,19:50
+22830,Shalimar Bhuj Express,Santragachi,20:08
+22830,Shalimar Bhuj Express,Kharagpur,21:35
+22830,Shalimar Bhuj Express,Tatanagar,23:50
+22830,Shalimar Bhuj Express,Chakradharpur,00:47
+22830,Shalimar Bhuj Express,Rourkela,02:12
+22830,Shalimar Bhuj Express,Jharsuguda,03:50
+22830,Shalimar Bhuj Express,Bilaspur,07:20
+22830,Shalimar Bhuj Express,Anuppur,09:55
+22830,Shalimar Bhuj Express,Katni Murwara,13:30
+22830,Shalimar Bhuj Express,Damoh,14:50
+22830,Shalimar Bhuj Express,Sagour,16:00
+22830,Shalimar Bhuj Express,Bina,17:45
+18414,Puri Paradeep Express,Puri,06:15
+18414,Puri Paradeep Express,Khurda Road,07:10
+18414,Puri Paradeep Express,Bhubaneswar,07:40
+18414,Puri Paradeep Express,Cuttack,08:20
+18414,Puri Paradeep Express,Paradeep,10:30
+20807,Visakhapatnam Amritsar Hirakud Express,Khurda Road,06:35
+20807,Visakhapatnam Amritsar Hirakud Express,Bhubaneswar,07:15
+20807,Visakhapatnam Amritsar Hirakud Express,New Delhi,14:45
+20807,Visakhapatnam Amritsar Hirakud Express,Sambalpur,13:10
+20807,Visakhapatnam Amritsar Hirakud Express,Bilaspur,18:45
+20807,Visakhapatnam Amritsar Hirakud Express,Anuppur,21:20
+20807,Visakhapatnam Amritsar Hirakud Express,Katni Murwara,00:50
+20807,Visakhapatnam Amritsar Hirakud Express,Damoh,02:10
+20807,Visakhapatnam Amritsar Hirakud Express,Sagour,03:10
+20807,Visakhapatnam Amritsar Hirakud Express,Virangana Laxmibai,07:20
+20807,Visakhapatnam Amritsar Hirakud Express,Gwalior,08:55
+20807,Visakhapatnam Amritsar Hirakud Express,Agra Cantt.,10:55
+20807,Visakhapatnam Amritsar Hirakud Express,Mathura,12:00
+20807,Visakhapatnam Amritsar Hirakud Express,Nizamuddin,14:06
+22823,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Tata Nagar),Bhubaneswar,09:30
+22823,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Tata Nagar),Cuttack,09:56
+22823,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Tata Nagar),Bhadrak,11:32
+22823,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Tata Nagar),Balasore,12:10
+22823,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Tata Nagar),Tatanagar,15:50
+22823,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Tata Nagar),Muri,17:57
+22823,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Tata Nagar),Bokaro Steel City,18:55
+22823,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Tata Nagar),Netajee Subhash,20:05
+22823,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Tata Nagar),Gaya,22:20
+22823,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Tata Nagar),Pt Deen Dayal,00:40
+22823,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Tata Nagar),Prayagraj,02:35
+22823,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Tata Nagar),Kanpur Central,04:45
+22823,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Tata Nagar),New Delhi,09:55
+22811,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Adra),Bhubaneswar,10:35
+22811,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Adra),Cuttack,10:55
+22811,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Adra),Jajpur Keonjhar,11:45
+22811,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Adra),Bhadrak,12:32
+22811,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Adra),Balasore,13:12
+22811,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Adra),Adra,18:05
+22811,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Adra),Netajee Subhash,20:05
+22811,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Adra),Gaya,22:20
+22811,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Adra),Pt Deen Dayal,00:40
+22811,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Adra),Prayagraj,02:35
+22811,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Adra),Kanpur Central,04:45
+22811,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Adra),New Delhi,09:55
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Puri,11:00
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Khurda Road,11:50
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Bhubaneswar,12:20
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Cuttack,12:55
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Jajpur Keonjhar,13:46
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Bhadrak,14:40
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Balasore,15:28
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Tatanagar,19:30
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Muri,21:47
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Bokaro Steel City,23:10
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Netajee Subhash,00:25
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Gaya,03:05
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Pt Deen Dayal,06:15
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Varanasi,07:30
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Lucknow,13:35
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Kanpur Central,15:20
+12875,Puri Anand Vihar (T) Neelanchal Express Via Tata Nagar,Anand Vihar (T),21:20
+12815,Puri Anand Vihar (T) Nandan Kanan Express Via Adra,Puri,11:00
+12815,Puri Anand Vihar (T) Nandan Kanan Express Via Adra,Khurda Road,11:50
+12815,Puri Anand Vihar (T) Nandan Kanan Express Via Adra,Bhubaneswar,12:20
+12815,Puri Anand Vihar (T) Nandan Kanan Express Via Adra,Cuttack,12:45
+12815,Puri Anand Vihar (T) Nandan Kanan Express Via Adra,Jajpur Keonjhar,13:46
+12815,Puri Anand Vihar (T) Nandan Kanan Express Via Adra,Bhadrak,14:40
+12815,Puri Anand Vihar (T) Nandan Kanan Express Via Adra,Balasore,15:28
+12815,Puri Anand Vihar (T) Nandan Kanan Express Via Adra,Adra,20:30
+12815,Puri Anand Vihar (T) Nandan Kanan Express Via Adra,Netajee Subhash,23:10
+12815,Puri Anand Vihar (T) Nandan Kanan Express Via Adra,Gaya,01:50
+12815,Puri Anand Vihar (T) Nandan Kanan Express Via Adra,Pt Deen Dayal,04:35
+12815,Puri Anand Vihar (T) Nandan Kanan Express Via Adra,Prayagraj,06:50
+12815,Puri Anand Vihar (T) Nandan Kanan Express Via Adra,Kanpur Central,09:15
+12815,Puri Anand Vihar (T) Nandan Kanan Express Via Adra,Anand Vihar (T),15:10
+20816,Visakhapatnam Tatanagar Express,Khurda Road,21:30
+20816,Visakhapatnam Tatanagar Express,Bhubaneswar,22:10
+20816,Visakhapatnam Tatanagar Express,Cuttack,22:45
+20816,Visakhapatnam Tatanagar Express,Kendujhargarh,01:25
+20816,Visakhapatnam Tatanagar Express,Tatanagar,06:40
+12281,Bhubaneswar New Delhi Duronto Express (Via Naraj),Bhubaneswar,07:35
+12281,Bhubaneswar New Delhi Duronto Express (Via Naraj),Balasore,10:28
+12281,Bhubaneswar New Delhi Duronto Express (Via Naraj),Adra,14:35
+12281,Bhubaneswar New Delhi Duronto Express (Via Naraj),Gaya,18:40
+12281,Bhubaneswar New Delhi Duronto Express (Via Naraj),Pt Deen Dayal,21:05
+12281,Bhubaneswar New Delhi Duronto Express (Via Naraj),Kanpur Central,00:55
+12281,Bhubaneswar New Delhi Duronto Express (Via Naraj),New Delhi,06:40
+20817,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Sambalpur) City,Bhubaneswar,07:15
+20817,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Sambalpur) City,Cuttack,07:42
+20817,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Sambalpur) City,Netajee Subhash,20:05
+20817,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Sambalpur) City,Gaya,22:20
+20817,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Sambalpur) City,Pt Deen Dayal,00:40
+20817,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Sambalpur) City,Prayagraj,02:35
+20817,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Sambalpur) City,Kanpur Central,04:45
+20817,Bhubaneswar New Delhi Tejas Rajdhani Express (Via Sambalpur) City,New Delhi,09:55
+20847,Durg Martyr Captian Tushar Mahajan Express,Anuppur,16:02
+20847,Durg Martyr Captian Tushar Mahajan Express,Katni Murwara,19:30
+20847,Durg Martyr Captian Tushar Mahajan Express,Damoh,20:50
+20847,Durg Martyr Captian Tushar Mahajan Express,Sagour,21:55
+20847,Durg Martyr Captian Tushar Mahajan Express,Virangana Laxmibai Jhansi,01:35
+20847,Durg Martyr Captian Tushar Mahajan Express,Gwalior,02:34
+20847,Durg Martyr Captian Tushar Mahajan Express,Agra Cantt.,04:05
+12823,Durg Nizamuddin Chhattisgarh Sampark Kranti Express,Anuppur,17:07
+12823,Durg Nizamuddin Chhattisgarh Sampark Kranti Express,Katni Murwara,20:30
+12823,Durg Nizamuddin Chhattisgarh Sampark Kranti Express,Sagour,22:55
+12823,Durg Nizamuddin Chhattisgarh Sampark Kranti Express,Virangana Laxmibai Jhansi,02:18
+12823,Durg Nizamuddin Chhattisgarh Sampark Kranti Express,Nizamuddin,07:50
+12549,Durg Martyr Captian Tushar Mahajan Express,Anuppur,17:07
+12549,Durg Martyr Captian Tushar Mahajan Express,Katni Murwara,20:30
+12549,Durg Martyr Captian Tushar Mahajan Express,Sagour,22:55
+12549,Durg Martyr Captian Tushar Mahajan Express,Virangana Laxmibai Jhansi,02:18
+12549,Durg Martyr Captian Tushar Mahajan Express,Gwalior,03:18
+12549,Durg Martyr Captian Tushar Mahajan Express,Agra Cantt.,04:50
+12819,Bhubaneswar Anand Vihar (T) Odisha Sampark Kranti Express,Bhubaneswar,16:15
+12819,Bhubaneswar Anand Vihar (T) Odisha Sampark Kranti Express,Cuttack,16:55
+12819,Bhubaneswar Anand Vihar (T) Odisha Sampark Kranti Express,Jajpur Keonjhar Road,17:45
+12819,Bhubaneswar Anand Vihar (T) Odisha Sampark Kranti Express,Bhadrak,18:57
+12819,Bhubaneswar Anand Vihar (T) Odisha Sampark Kranti Express,Balasore,19:37
+12819,Bhubaneswar Anand Vihar (T) Odisha Sampark Kranti Express,Tatanagar,23:27
+12819,Bhubaneswar Anand Vihar (T) Odisha Sampark Kranti Express,Netajee Subhash Chandra Bose Gomoh,03:30
+12819,Bhubaneswar Anand Vihar (T) Odisha Sampark Kranti Express,Pt.Deen Dayal Upadhyaya Jn.,08:40
+12819,Bhubaneswar Anand Vihar (T) Odisha Sampark Kranti Express,Kanpur Central,13:25
+12819,Bhubaneswar Anand Vihar (T) Odisha Sampark Kranti Express,Anand Vihar (T),19:35
+18449,Puri Patna Baidyanath- dham Express,Puri,14:55
+18449,Puri Patna Baidyanath- dham Express,Khurda Road,15:45
+18449,Puri Patna Baidyanath- dham Express,Bhubaneswar,16:15
+18449,Puri Patna Baidyanath- dham Express,Cuttack,16:55
+18449,Puri Patna Baidyanath- dham Express,Jajpur Keonjhar Road,17:45
+18449,Puri Patna Baidyanath- dham Express,Bhadrak,18:57
+18449,Puri Patna Baidyanath- dham Express,Balasore,19:28
+18449,Puri Patna Baidyanath- dham Express,Adra,00:40
+18449,Puri Patna Baidyanath- dham Express,Asansol,02:10
+18449,Puri Patna Baidyanath- dham Express,Patna,09:35
+18419,Puri Jaynagar Express,Puri,14:55
+18419,Puri Jaynagar Express,Khurda Road,15:45
+18419,Puri Jaynagar Express,Bhubaneswar,16:15
+18419,Puri Jaynagar Express,Cuttack,16:55
+18419,Puri Jaynagar Express,Jajpur Keonjhar Road,17:45
+18419,Puri Jaynagar Express,Bhadrak,18:57
+18419,Puri Jaynagar Express,Balasore,19:28
+18419,Puri Jaynagar Express,Adra,00:40
+18419,Puri Jaynagar Express,Asansol,02:10
+18419,Puri Jaynagar Express,Darbhanga,10:30
+18419,Puri Jaynagar Express,Jaynagar,12:50
+12892,Puri Bangriposi Express,Puri,16:20
+12892,Puri Bangriposi Express,Khurda Road,17:05
+12892,Puri Bangriposi Express,Bhubaneswar,17:30
+12892,Puri Bangriposi Express,Cuttack,17:58
+12892,Puri Bangriposi Express,Jajpur Keonjhar Road,18:51
+12892,Puri Bangriposi Express,Bhadrak,19:39
+12892,Puri Bangriposi Express,Balasore,20:28
+12892,Puri Bangriposi Express,Bangriposi,23:05
+18402,Puri Bangriposi Express,Puri,16:00
+18402,Puri Bangriposi Express,Khurda Road,16:50
+18402,Puri Bangriposi Express,Bhubaneswar,17:25
+18402,Puri Bangriposi Express,Cuttack,17:55
+18402,Puri Bangriposi Express,Jajpur Keonjhar Road,18:52
+18402,Puri Bangriposi Express,Bhadrak,19:39
+18402,Puri Bangriposi Express,Balasore,20:28
+18402,Puri Bangriposi Express,Bangriposi,23:05
+18477,Puri Yognagri Rishikesh Utkal Express,Puri,20:45
+18477,Puri Yognagri Rishikesh Utkal Express,Khurda Road,21:30
+18477,Puri Yognagri Rishikesh Utkal Express,Bhubaneswar,22:00
+18477,Puri Yognagri Rishikesh Utkal Express,Cuttack,22:35
+18477,Puri Yognagri Rishikesh Utkal Express,Jajpur Keonjhar Road,23:26
+18477,Puri Yognagri Rishikesh Utkal Express,Bhadrak,00:30
+18477,Puri Yognagri Rishikesh Utkal Express,Balasore,01:18
+18477,Puri Yognagri Rishikesh Utkal Express,Tatanagar,05:35
+18477,Puri Yognagri Rishikesh Utkal Express,Chakradharpur,06:50
+18477,Puri Yognagri Rishikesh Utkal Express,Rourkela,08:42
+18477,Puri Yognagri Rishikesh Utkal Express,Jharsuguda,10:40
+18477,Puri Yognagri Rishikesh Utkal Express,Bilaspur,14:30
+18477,Puri Yognagri Rishikesh Utkal Express,Anuppur,17:08
+18477,Puri Yognagri Rishikesh Utkal Express,Katni Murwara,22:20
+18477,Puri Yognagri Rishikesh Utkal Express,Damoh,23:35
+18477,Puri Yognagri Rishikesh Utkal Express,Sagour,00:50
+18477,Puri Yognagri Rishikesh Utkal Express,Virangana Laxmibai Jhansi,04:55
+18477,Puri Yognagri Rishikesh Utkal Express,Gwalior,07:05
+18477,Puri Yognagri Rishikesh Utkal Express,Agra Cantt.,09:05
+18477,Puri Yognagri Rishikesh Utkal Express,Mathura d ,10:00
+18477,Puri Yognagri Rishikesh Utkal Express,Nizamuddin,13:20
+12801,Puri Anand Vihar (T) Purushottam Express,Puri,21:55
+12801,Puri Anand Vihar (T) Purushottam Express,Khurda Road,22:35
+12801,Puri Anand Vihar (T) Purushottam Express,Bhubaneswar,23:00
+12801,Puri Anand Vihar (T) Purushottam Express,Cuttack,23:30
+12801,Puri Anand Vihar (T) Purushottam Express,Jajpur Keonjhar Road,00:25
+12801,Puri Anand Vihar (T) Purushottam Express,Bhadrak,01:20
+12801,Puri Anand Vihar (T) Purushottam Express,Balasore,02:00
+12801,Puri Anand Vihar (T) Purushottam Express,Tatanagar,06:22
+12801,Puri Anand Vihar (T) Purushottam Express,Bokaro Steel City,09:45
+12801,Puri Anand Vihar (T) Purushottam Express,Netajee Subhash Chandra Bose Gomoh,10:55
+12801,Puri Anand Vihar (T) Purushottam Express,Gaya,13:40
+12801,Puri Anand Vihar (T) Purushottam Express,Pt.Deen Dayal Upadhyaya Jn.,16:55
+12801,Puri Anand Vihar (T) Purushottam Express,Prayagraj,19:30
+12801,Puri Anand Vihar (T) Purushottam Express,Kanpur Central,22:05
+12801,Puri Anand Vihar (T) Purushottam Express,Anand Vihar (T),03:50
+15021,Shalimar Gorakhpur Express,Shalimar,19:50
+15021,Shalimar Gorakhpur Express,Kharagpur,21:35
+15021,Shalimar Gorakhpur Express,Tatanagar,23:50
+15021,Shalimar Gorakhpur Express,Netajee Subhash Chandra Bose Gomoh,04:30
+15021,Shalimar Gorakhpur Express,Gaya,07:05
+15021,Shalimar Gorakhpur Express,Pt.Deen Dayal Upadhyaya Jn.,10:25
+22857,Santragachi Anand Vihar (T) Express,Santragachi,10:00
+22857,Santragachi Anand Vihar (T) Express,Kharagpur,11:25
+22857,Santragachi Anand Vihar (T) Express,Tatanagar,13:20
+22857,Santragachi Anand Vihar (T) Express,Netajee Subhash Chandra Bose Gomoh,17:15
+22857,Santragachi Anand Vihar (T) Express,Gaya,19:45
+22857,Santragachi Anand Vihar (T) Express,Pt.Deen Dayal Upadhyaya Jn.,22:40
+22857,Santragachi Anand Vihar (T) Express,Prayagraj,00:50
+22857,Santragachi Anand Vihar (T) Express,Kanpur Central,03:10
+22857,Santragachi Anand Vihar (T) Express,Anand Vihar (T),08:50
+19422,Patna Rajkot Express,Patna,10:15
+19422,Patna Rajkot Express,Pt.Deen Dayal Upadhyaya Jn.,13:50
+19422,Patna Rajkot Express,Varanasi,15:35
+19422,Patna Rajkot Express,Prayagraj,18:45
+19422,Patna Rajkot Express,Katni Murwara,23:25
+19422,Patna Rajkot Express,Damoh,00:50
+19422,Patna Rajkot Express,Sagour,01:50
+19422,Patna Rajkot Express,Bina,03:40
+18126,Puri Rourkela Express,Puri,04:35
+18126,Puri Rourkela Express,Khurda Road,05:42
+18126,Puri Rourkela Express,Bhubaneswar,06:14
+18126,Puri Rourkela Express,Cuttack,07:10
+18126,Puri Rourkela Express,Sambalpur,15:10
+18126,Puri Rourkela Express,Jharsuguda,17:45
+18126,Puri Rourkela Express,Rourkela,20:35
+15559,Darbanga Ahmedabad Antyodaya Express,Prayagraj,07:10
+15559,Darbanga Ahmedabad Antyodaya Express,Katni Murwara,12:30
+15559,Darbanga Ahmedabad Antyodaya Express,Damoh,14:00
+15559,Darbanga Ahmedabad Antyodaya Express,Sagour,15:10
+15559,Darbanga Ahmedabad Antyodaya Express,Bina,17:15
+22407,Ambikapur H. Nizamuddin Superfast Express,Rourkela,07:30
+22407,Ambikapur H. Nizamuddin Superfast Express,Anuppur,10:30
+22407,Ambikapur H. Nizamuddin Superfast Express,Katni Murwara,15:35
+22407,Ambikapur H. Nizamuddin Superfast Express,Damoh,17:00
+22407,Ambikapur H. Nizamuddin Superfast Express,Sagour,18:00
+22407,Ambikapur H. Nizamuddin Superfast Express,Virangana Laxmibai Jhansi,21:58
+22407,Ambikapur H. Nizamuddin Superfast Express,Gwalior,23:09
+22407,Ambikapur H. Nizamuddin Superfast Express,Agra Cantt.,01:20
+22407,Ambikapur H. Nizamuddin Superfast Express,Mathura,02:13
+22407,Ambikapur H. Nizamuddin Superfast Express,Nizamuddin,04:25
+18427,Puri Anand Vihar (T) Express,Puri,04:15
+18427,Puri Anand Vihar (T) Express,Khurda Road,05:10
+18427,Puri Anand Vihar (T) Express,Bhubaneswar,05:30
+18427,Puri Anand Vihar (T) Express,Cuttack,06:25
+18427,Puri Anand Vihar (T) Express,Kendujhargarh,09:15
+18427,Puri Anand Vihar (T) Express,Muri,15:15
+18427,Puri Anand Vihar (T) Express,Bokaro Steel City,16:55
+18427,Puri Anand Vihar (T) Express,Netajee Subhash Chandra Bose Gomoh,18:10
+18427,Puri Anand Vihar (T) Express,Gaya,21:20
+18427,Puri Anand Vihar (T) Express,Pt.Deen Dayal Upadhyaya Jn.,02:10
+18427,Puri Anand Vihar (T) Express,Prayagraj,04:17
+18427,Puri Anand Vihar (T) Express,Kanpur Central,06:40
+18427,Puri Anand Vihar (T) Express,Anand Vihar (T),13:10
+20892,Brahmapur Tatanagar Jn. Vande Bharat Express,Khurda Road,06:50
+20892,Brahmapur Tatanagar Jn. Vande Bharat Express,Bhubaneswar,07:20
+20892,Brahmapur Tatanagar Jn. Vande Bharat Express,Cuttack,07:40
+20892,Brahmapur Tatanagar Jn. Vande Bharat Express,Kendujhargarh,10:10
+20892,Brahmapur Tatanagar Jn. Vande Bharat Express,Tatanagar,14:50
+18258,Chirimiri Bilaspur Express,Chirimiri,22:00
+18258,Chirimiri Bilaspur Express,Anuppur,00:35
+18258,Chirimiri Bilaspur Express,Bilaspur,04:30
+20971,"Udaipur Shalimar Express (via Sagour, Kota)",Sagour,12:50
+20971,"Udaipur Shalimar Express (via Sagour, Kota)",Damoh,13:55
+20971,"Udaipur Shalimar Express (via Sagour, Kota)",Katni Murwara,15:30
+20971,"Udaipur Shalimar Express (via Sagour, Kota)",Anuppur,19:00
+20971,"Udaipur Shalimar Express (via Sagour, Kota)",Bilaspur,21:50
+20971,"Udaipur Shalimar Express (via Sagour, Kota)",Jharsuguda,01:10
+20971,"Udaipur Shalimar Express (via Sagour, Kota)",Rourkela,02:40
+20971,"Udaipur Shalimar Express (via Sagour, Kota)",Chakradharpur,04:12
+20971,"Udaipur Shalimar Express (via Sagour, Kota)",Tatanagar,05:10
+20971,"Udaipur Shalimar Express (via Sagour, Kota)",Kharagpur,07:25
+20971,"Udaipur Shalimar Express (via Sagour, Kota)",Santragachi,09:03
+20971,"Udaipur Shalimar Express (via Sagour, Kota)",Shalimar,10:05
+20471,Sri Ganganagar Puri Express,Sagour,12:30
+20471,Sri Ganganagar Puri Express,Damoh,13:35
+20471,Sri Ganganagar Puri Express,Katni Murwara,15:30
+20471,Sri Ganganagar Puri Express,Anuppur,19:00
+20471,Sri Ganganagar Puri Express,Bilaspur,21:50
+20471,Sri Ganganagar Puri Express,Sambalpur,02:25
+20471,Sri Ganganagar Puri Express,Bhubaneswar,07:30
+20471,Sri Ganganagar Puri Express,Khurda Road,07:55
+20471,Sri Ganganagar Puri Express,Puri,09:30
+22829,Bhuj Shalimar Express,Bina,11:05
+22829,Bhuj Shalimar Express,Sagour,12:15
+22829,Bhuj Shalimar Express,Damoh,13:20
+22829,Bhuj Shalimar Express,Katni Murwara,15:30
+22829,Bhuj Shalimar Express,Anuppur,19:00
+22829,Bhuj Shalimar Express,Bilaspur,21:50
+22829,Bhuj Shalimar Express,Jharsuguda,01:10
+22829,Bhuj Shalimar Express,Rourkela,02:40
+22829,Bhuj Shalimar Express,Chakradharpur,04:12
+22829,Bhuj Shalimar Express,Tatanagar,05:10
+22829,Bhuj Shalimar Express,Kharagpur,07:25
+22829,Bhuj Shalimar Express,Santragachi,09:03
+22829,Bhuj Shalimar Express,Shalimar,10:05
+22868,Nizamuddin Durg Humsafar Express,Nizamuddin,11:25
+22868,Nizamuddin Durg Humsafar Express,Mathura,13:08
+22868,Nizamuddin Durg Humsafar Express,Agra Cantt.,14:00
+22868,Nizamuddin Durg Humsafar Express,Gwalior,15:50
+22868,Nizamuddin Durg Humsafar Express,Virangana Laxmibai Jhansi,17:28
+22868,Nizamuddin Durg Humsafar Express,Sagour,20:30
+22868,Nizamuddin Durg Humsafar Express,Damoh,21:35
+22868,Nizamuddin Durg Humsafar Express,Katni Murwara,23:40
+22868,Nizamuddin Durg Humsafar Express,Anuppur,03:03
+18450,Patna Puri Baidyanathdham Express,Patna,08:45
+18450,Patna Puri Baidyanathdham Express,Asansol,15:20
+18450,Patna Puri Baidyanathdham Express,Adra,16:35
+18450,Patna Puri Baidyanathdham Express,Balasore,21:15
+18450,Patna Puri Baidyanathdham Express,Bhadrak,22:37
+18450,Patna Puri Baidyanathdham Express,Jajpur Keonjhar Road,23:05
+18450,Patna Puri Baidyanathdham Express,Cuttack,00:10
+18450,Patna Puri Baidyanathdham Express,Bhubaneswar,00:50
+18450,Patna Puri Baidyanathdham Express,Khurda Road,01:10
+18450,Patna Puri Baidyanathdham Express,Puri,02:55
+18420,Jaynagar Puri Express,Jaynagar,05:25
+18420,Jaynagar Puri Express,Darbhanga,06:40
+18420,Jaynagar Puri Express,Asansol,15:20
+18420,Jaynagar Puri Express,Adra,16:35
+18420,Jaynagar Puri Express,Balasore,21:15
+18420,Jaynagar Puri Express,Bhadrak,22:37
+18420,Jaynagar Puri Express,Jajpur Keonjhar Road,23:05
+18420,Jaynagar Puri Express,Cuttack,00:10
+18420,Jaynagar Puri Express,Bhubaneswar,00:50
+18420,Jaynagar Puri Express,Khurda Road,01:15
+18420,Jaynagar Puri Express,Puri,02:55
+12802,Anand Vihar (T) Puri Purushottam Express,Anand Vihar (T),22:50
+12802,Anand Vihar (T) Puri Purushottam Express,Kanpur Central,04:00
+12802,Anand Vihar (T) Puri Purushottam Express,Prayagraj,07:00
+12802,Anand Vihar (T) Puri Purushottam Express,Pt Deen Dayal Upadhyaya Jn.,09:50
+12802,Anand Vihar (T) Puri Purushottam Express,Gaya,12:40
+12802,Anand Vihar (T) Puri Purushottam Express,Netajee Subhash Chandra Bose Gomoh,15:30
+12802,Anand Vihar (T) Puri Purushottam Express,Bokaro Steel City,16:25
+12802,Anand Vihar (T) Puri Purushottam Express,Tatanagar,20:05
+12802,Anand Vihar (T) Puri Purushottam Express,Balasore,00:20
+12802,Anand Vihar (T) Puri Purushottam Express,Bhadrak,01:10
+12802,Anand Vihar (T) Puri Purushottam Express,Jajpur Keonjhar Road,01:40
+12802,Anand Vihar (T) Puri Purushottam Express,Cuttack,02:40
+12802,Anand Vihar (T) Puri Purushottam Express,Bhubaneswar,03:25
+12802,Anand Vihar (T) Puri Purushottam Express,Khurda Road,03:50
+12802,Anand Vihar (T) Puri Purushottam Express,Puri,05:35
+18478,Yog Nagri Rishikesh Puri Utkal Express,Nizamuddin,12:00
+18478,Yog Nagri Rishikesh Puri Utkal Express,Mathura,13:50
+18478,Yog Nagri Rishikesh Puri Utkal Express,Agra Cantt.,14:45
+18478,Yog Nagri Rishikesh Puri Utkal Express,Gwalior,16:41
+18478,Yog Nagri Rishikesh Puri Utkal Express,Virangana Laxmibai Jhansi,19:15
+18478,Yog Nagri Rishikesh Puri Utkal Express,Sagour,22:50
+18478,Yog Nagri Rishikesh Puri Utkal Express,Damoh,00:05
+18478,Yog Nagri Rishikesh Puri Utkal Express,Katni Murwara,02:20
+18478,Yog Nagri Rishikesh Puri Utkal Express,Anuppur,06:02
+18478,Yog Nagri Rishikesh Puri Utkal Express,Bilaspur,09:15
+18478,Yog Nagri Rishikesh Puri Utkal Express,Jharsuguda,13:20
+18478,Yog Nagri Rishikesh Puri Utkal Express,Rourkela,14:50
+18478,Yog Nagri Rishikesh Puri Utkal Express,Chakradharpur,16:35
+18478,Yog Nagri Rishikesh Puri Utkal Express,Tatanagar,17:55
+18478,Yog Nagri Rishikesh Puri Utkal Express,Balasore,22:10
+18478,Yog Nagri Rishikesh Puri Utkal Express,Bhadrak,23:37
+18478,Yog Nagri Rishikesh Puri Utkal Express,Jajpur Keonjhar Road,00:05
+18478,Yog Nagri Rishikesh Puri Utkal Express,Cuttack,01:05
+18478,Yog Nagri Rishikesh Puri Utkal Express,Bhubaneswar,01:40
+18478,Yog Nagri Rishikesh Puri Utkal Express,Khurda Road,02:00
+18478,Yog Nagri Rishikesh Puri Utkal Express,Puri,03:25
+12891,Bangriposi Puri Express,Bangriposi,04:00
+12891,Bangriposi Puri Express,Balasore,06:18
+12891,Bangriposi Puri Express,Bhadrak,07:42
+12891,Bangriposi Puri Express,Jajpur Keonjhar Road,08:14
+12891,Bangriposi Puri Express,Cuttack,09:08
+12891,Bangriposi Puri Express,Bhubaneswar,10:05
+12891,Bangriposi Puri Express,Khurda Road,10:30
+12891,Bangriposi Puri Express,Puri,11:05
+18401,Bangriposi Puri Express,Bangriposi,04:00
+18401,Bangriposi Puri Express,Balasore,06:18
+18401,Bangriposi Puri Express,Bhadrak,07:42
+18401,Bangriposi Puri Express,Jajpur Keonjhar Road,08:14
+18401,Bangriposi Puri Express,Cuttack,09:08
+18401,Bangriposi Puri Express,Bhubaneswar,10:05
+18401,Bangriposi Puri Express,Khurda Road,10:35
+18401,Bangriposi Puri Express,Puri,11:30
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Anand Vihar (T),07:30
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Kanpur Central,13:25
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Lucknow,15:10
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Varanasi,21:50
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Pt Deen Dayal Upadhyaya Jn.,22:45
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Gaya,01:55
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Netajee Subhash Chandra Bose,04:30
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Bokaro Steel City,05:40
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Muri,06:35
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Tatanagar,09:05
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Balasore,12:50
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Bhadrak,14:07
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Jajpur Keonjhar Road,14:30
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Cuttack,15:30
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Bhubaneswar,16:15
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Khurda Road,16:50
+12876,Anand Vihar (T) Puri Neelanchal Express (via Tatanagar),Puri,17:55
+22858,Anand Vihar (T) Santraga- chi Express,Anand Vihar (T),13:25
+22858,Anand Vihar (T) Santraga- chi Express,Kanpur Central,19:30
+22858,Anand Vihar (T) Santraga- chi Express,Prayagraj,22:05
+22858,Anand Vihar (T) Santraga- chi Express,Pt Deen Dayal Upadhyaya Jn.,02:25
+22858,Anand Vihar (T) Santraga- chi Express,Gaya,05:10
+22858,Anand Vihar (T) Santraga- chi Express,Netajee Subhash Chandra Bose,08:10
+22858,Anand Vihar (T) Santraga- chi Express,Tatanagar,12:25
+22858,Anand Vihar (T) Santraga- chi Express,Kharagpur,14:25
+22858,Anand Vihar (T) Santraga- chi Express,Santragachi,17:40
+19421,Ahmedabad Patna Express,Bina,11:05
+19421,Ahmedabad Patna Express,Sagour,12:15
+19421,Ahmedabad Patna Express,Damoh,13:20
+19421,Ahmedabad Patna Express,Katni Murwara,15:00
+19421,Ahmedabad Patna Express,Prayagraj,20:40
+19421,Ahmedabad Patna Express,Varanasi,23:35
+19421,Ahmedabad Patna Express,Pt Deen Dayal Upadhyaya Jn.,00:35
+19421,Ahmedabad Patna Express,Patna,04:10
+12282,New Delhi Bhubaneswar Duronto Express (Via Naraj),New Delhi,12:35
+12282,New Delhi Bhubaneswar Duronto Express (Via Naraj),Kanpur Central,17:40
+12282,New Delhi Bhubaneswar Duronto Express (Via Naraj),Pt Deen Dayal Upadhyaya Jn.,22:00
+12282,New Delhi Bhubaneswar Duronto Express (Via Naraj),Adra,04:15
+12282,New Delhi Bhubaneswar Duronto Express (Via Naraj),Balasore,08:00
+12282,New Delhi Bhubaneswar Duronto Express (Via Naraj),Bhubaneswar,11:40
+18125,Rourkela Puri Express,Rourkela,07:50
+18125,Rourkela Puri Express,Jharsuguda,10:25
+18125,Rourkela Puri Express,Sambalpur,12:10
+18125,Rourkela Puri Express,Cuttack,19:15
+18125,Rourkela Puri Express,Bhubaneswar,20:05
+18125,Rourkela Puri Express,Khurda Road,20:35
+18125,Rourkela Puri Express,Puri,00:45
+15560,Ahmed- abad Darbhanga Antyodaya Express,Bina,11:05
+15560,Ahmed- abad Darbhanga Antyodaya Express,Sagour,12:15
+15560,Ahmed- abad Darbhanga Antyodaya Express,Damoh,13:20
+15560,Ahmed- abad Darbhanga Antyodaya Express,Katni Murwara,15:00
+15560,Ahmed- abad Darbhanga Antyodaya Express,Prayagraj,20:40
+18428,Anand Vihar(T) Puri Express,Anand Vihar (T),17:20
+18428,Anand Vihar(T) Puri Express,Kanpur Central,22:17
+18428,Anand Vihar(T) Puri Express,Prayagraj,00:25
+18428,Anand Vihar(T) Puri Express,Pt Deen Dayal Upadhyaya Jn.,02:40
+18428,Anand Vihar(T) Puri Express,Gaya,06:10
+18428,Anand Vihar(T) Puri Express,Netajee Subhash Chandra Bose,08:50
+18428,Anand Vihar(T) Puri Express,Bokaro Steel City,10:00
+18428,Anand Vihar(T) Puri Express,Muri,10:57
+18428,Anand Vihar(T) Puri Express,Kendujhargarh,17:10
+18428,Anand Vihar(T) Puri Express,Cuttack,20:47
+18428,Anand Vihar(T) Puri Express,Bhubaneswar,21:15
+18428,Anand Vihar(T) Puri Express,Khurda Road,21:40
+18428,Anand Vihar(T) Puri Express,Puri,23:55
+20891,Tatanagar Jn. Brahmapur Vande Bharat Express,Tatanagar,14:20
+20891,Tatanagar Jn. Brahmapur Vande Bharat Express,Kendujhargarh,18:25
+20891,Tatanagar Jn. Brahmapur Vande Bharat Express,Cuttack,21:02
+20891,Tatanagar Jn. Brahmapur Vande Bharat Express,Bhubaneswar,21:20
+20891,Tatanagar Jn. Brahmapur Vande Bharat Express,Khurda Road,21:45
+20891,Tatanagar Jn. Brahmapur Vande Bharat Express,Puri,23:55
+22824,New Delhi Bhubaneswar Tejas Rajdhani Express (via Tata Nagar),New Delhi,17:00
+22824,New Delhi Bhubaneswar Tejas Rajdhani Express (via Tata Nagar),Kanpur Central,21:45
+22824,New Delhi Bhubaneswar Tejas Rajdhani Express (via Tata Nagar),Prayagraj,23:53
+22824,New Delhi Bhubaneswar Tejas Rajdhani Express (via Tata Nagar),Pt.Deen Dayal Upadhyaya Jn.,01:50
+22824,New Delhi Bhubaneswar Tejas Rajdhani Express (via Tata Nagar),Gaya,04:13
+22824,New Delhi Bhubaneswar Tejas Rajdhani Express (via Tata Nagar),Netaji Subhash Chandra Bose,06:30
+22824,New Delhi Bhubaneswar Tejas Rajdhani Express (via Tata Nagar),Bokaro Steel City,07:30
+22824,New Delhi Bhubaneswar Tejas Rajdhani Express (via Tata Nagar),Tatanagar,10:40
+22824,New Delhi Bhubaneswar Tejas Rajdhani Express (via Tata Nagar),Balasore,14:10
+22824,New Delhi Bhubaneswar Tejas Rajdhani Express (via Tata Nagar),Bhadrak,15:07
+22824,New Delhi Bhubaneswar Tejas Rajdhani Express (via Tata Nagar),Cuttack,16:35
+22824,New Delhi Bhubaneswar Tejas Rajdhani Express (via Tata Nagar),Bhubaneswar,17:30
+18415,Barbil Puri Express,Barbil,09:30
+18415,Barbil Puri Express,Kendujhargarh,13:30
+18415,Barbil Puri Express,Cuttack,17:24
+18415,Barbil Puri Express,Bhubaneswar,18:01
+18415,Barbil Puri Express,Khurda Road,18:24
+18415,Barbil Puri Express,Puri,20:30
+18413,Paradeep Puri Express,Paradeep,18:00
+18413,Paradeep Puri Express,Cuttack,19:40
+18413,Paradeep Puri Express,Bhubaneswar,20:20
+18413,Paradeep Puri Express,Khurda Road,20:45
+18413,Paradeep Puri Express,Puri,22:25
+12550,Martyr Captian Tushar Mahajan Durg Express,Agra Cantt.,17:05
+12550,Martyr Captian Tushar Mahajan Durg Express,Gwalior,18:53
+12550,Martyr Captian Tushar Mahajan Durg Express,Virangana Laxmibai Jhansi,20:15
+12550,Martyr Captian Tushar Mahajan Durg Express,Sagour,23:15
+12550,Martyr Captian Tushar Mahajan Durg Express,Katni Murwara,02:00
+12550,Martyr Captian Tushar Mahajan Durg Express,Anuppur,05:14
+12824,Nizamuddin Durg Chhattisgarh Sampark Kranti Express,Nizamuddin,17:55
+12824,Nizamuddin Durg Chhattisgarh Sampark Kranti Express,Virangana Laxmibai Jhansi,23:30
+12824,Nizamuddin Durg Chhattisgarh Sampark Kranti Express,Sagour,02:45
+12824,Nizamuddin Durg Chhattisgarh Sampark Kranti Express,Katni Murwara,05:50
+12824,Nizamuddin Durg Chhattisgarh Sampark Kranti Express,Anuppur,09:00
+15022,Gorakhpur Shalimar Express,Pt.Deen Dayal Upadhyaya Jn.,19:25
+15022,Gorakhpur Shalimar Express,Gaya,22:10
+15022,Gorakhpur Shalimar Express,Netaji Subhash Chandra Bose,01:15
+15022,Gorakhpur Shalimar Express,Tatanagar,05:10
+15022,Gorakhpur Shalimar Express,Kharagpur,07:25
+15022,Gorakhpur Shalimar Express,Shalimar,10:05
+20848,Martyr Captian Tushar Mahajan Durg Express,Agra Cantt.,14:00
+20848,Martyr Captian Tushar Mahajan Durg Express,Gwalior,15:50
+20848,Martyr Captian Tushar Mahajan Durg Express,Virangana Laxmibai Jhansi,17:28
+20848,Martyr Captian Tushar Mahajan Durg Express,Sagour,20:30
+20848,Martyr Captian Tushar Mahajan Durg Express,Damoh,21:35
+20848,Martyr Captian Tushar Mahajan Durg Express,Katni Murwara,23:40
+20848,Martyr Captian Tushar Mahajan Durg Express,Anuppur,03:03
+20815,Tatanagar Visakhapa- tnam Express,Tatanagar,07:25
+20815,Tatanagar Visakhapa- tnam Express,Kendujhargarh,11:55
+20815,Tatanagar Visakhapa- tnam Express,Cuttack,14:35
+20815,Tatanagar Visakhapa- tnam Express,Bhubaneswar,15:30
+20815,Tatanagar Visakhapa- tnam Express,Khurda Road,16:10
+20818,New Delhi Bhubaneswar Tejas Rajdhani Express (Via Sambalpur City),New Delhi,17:00
+20818,New Delhi Bhubaneswar Tejas Rajdhani Express (Via Sambalpur City),Kanpur Central,21:45
+20818,New Delhi Bhubaneswar Tejas Rajdhani Express (Via Sambalpur City),Prayagraj,23:53
+20818,New Delhi Bhubaneswar Tejas Rajdhani Express (Via Sambalpur City),Pt.Deen Dayal Upadhyaya Jn.,01:50
+20818,New Delhi Bhubaneswar Tejas Rajdhani Express (Via Sambalpur City),Gaya,04:13
+20818,New Delhi Bhubaneswar Tejas Rajdhani Express (Via Sambalpur City),Netaji Subhash Chandra Bose,07:00
+20818,New Delhi Bhubaneswar Tejas Rajdhani Express (Via Sambalpur City),Cuttack,19:10
+20818,New Delhi Bhubaneswar Tejas Rajdhani Express (Via Sambalpur City),Bhubaneswar,20:10
+22408,H. Nizamuddin Ambikapur Superfast Express,Nizamuddin,23:00
+22408,H. Nizamuddin Ambikapur Superfast Express,Mathura,00:53
+22408,H. Nizamuddin Ambikapur Superfast Express,Agra Cantt.,01:45
+22408,H. Nizamuddin Ambikapur Superfast Express,Gwalior,03:39
+22408,H. Nizamuddin Ambikapur Superfast Express,Virangana Laxmibai Jhansi,05:18
+22408,H. Nizamuddin Ambikapur Superfast Express,Sagour,08:35
+22408,H. Nizamuddin Ambikapur Superfast Express,Damoh,09:40
+22408,H. Nizamuddin Ambikapur Superfast Express,Katni Murwara,11:10
+22408,H. Nizamuddin Ambikapur Superfast Express,Anuppur,14:30
+22408,H. Nizamuddin Ambikapur Superfast Express,Bilaspur,18:50

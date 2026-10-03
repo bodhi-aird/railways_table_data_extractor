@@ -1,0 +1,453 @@
+train_num,train_name,halt_station_name,departure_time
+15707,Katihar Amritsar Express,Delhi,03:20
+15707,Katihar Amritsar Express,Ghaziabad,02:05
+15707,Katihar Amritsar Express,Panipat,04:57
+15707,Katihar Amritsar Express,Karnal,05:23
+15707,Katihar Amritsar Express,Kurukshetra,05:48
+15707,Katihar Amritsar Express,Ambala Cantt.,06:55
+15707,Katihar Amritsar Express,Rajpura,07:18
+15707,Katihar Amritsar Express,Ludhiana,08:50
+15707,Katihar Amritsar Express,Jalandhar City,10:40
+15707,Katihar Amritsar Express,Beas,11:13
+15707,Katihar Amritsar Express,Amritsar,12:40
+22485,New Delhi Firozpur Intercity Express,New Delhi,07:00
+22485,New Delhi Firozpur Intercity Express,Dhuri,11:22
+22485,New Delhi Firozpur Intercity Express,Firozpur,14:50
+11057,Mumbai CST Amritsar Express,Nizamuddin,03:09
+11057,Mumbai CST Amritsar Express,New Delhi,03:45
+11057,Mumbai CST Amritsar Express,Panipat,05:20
+11057,Mumbai CST Amritsar Express,Karnal,05:46
+11057,Mumbai CST Amritsar Express,Kurukshetra,06:16
+11057,Mumbai CST Amritsar Express,Ambala Cantt.,07:58
+11057,Mumbai CST Amritsar Express,Rajpura,08:42
+11057,Mumbai CST Amritsar Express,Patiala,09:15
+11057,Mumbai CST Amritsar Express,Dhuri,10:40
+11057,Mumbai CST Amritsar Express,Ludhiana,12:55
+11057,Mumbai CST Amritsar Express,Jalandhar Cantt d ,14:08
+11057,Mumbai CST Amritsar Express,Jalandhar City,14:21
+11057,Mumbai CST Amritsar Express,Beas,14:53
+11057,Mumbai CST Amritsar Express,Amritsar,16:15
+12497,New Delhi Amritsar Shane- Punjab Express,New Delhi,06:40
+12497,New Delhi Amritsar Shane- Punjab Express,Panipat,07:52
+12497,New Delhi Amritsar Shane- Punjab Express,Karnal,08:16
+12497,New Delhi Amritsar Shane- Punjab Express,Kurukshetra,08:41
+12497,New Delhi Amritsar Shane- Punjab Express,Ambala Cantt.,10:07
+12497,New Delhi Amritsar Shane- Punjab Express,Rajpura,10:30
+12497,New Delhi Amritsar Shane- Punjab Express,Ludhiana,11:50
+12497,New Delhi Amritsar Shane- Punjab Express,Jalandhar City,12:55
+12497,New Delhi Amritsar Shane- Punjab Express,Beas,13:25
+12497,New Delhi Amritsar Shane- Punjab Express,Amritsar,14:15
+12029,New Delhi Amritsar Swarna Shatabdi Express,New Delhi,07:20
+12029,New Delhi Amritsar Swarna Shatabdi Express,Ambala Cantt.,09:43
+12029,New Delhi Amritsar Swarna Shatabdi Express,Rajpura,10:06
+12029,New Delhi Amritsar Swarna Shatabdi Express,Ludhiana,11:11
+12029,New Delhi Amritsar Swarna Shatabdi Express,Jalandhar City,12:08
+12029,New Delhi Amritsar Swarna Shatabdi Express,Beas,12:40
+12029,New Delhi Amritsar Swarna Shatabdi Express,Amritsar,13:30
+12031,New Delhi Amritsar Shatabdi Express,New Delhi,07:20
+12031,New Delhi Amritsar Shatabdi Express,Ambala Cantt.,09:43
+12031,New Delhi Amritsar Shatabdi Express,Rajpura,10:06
+12031,New Delhi Amritsar Shatabdi Express,Ludhiana,11:11
+12031,New Delhi Amritsar Shatabdi Express,Jalandhar City,12:08
+12031,New Delhi Amritsar Shatabdi Express,Beas,12:40
+12031,New Delhi Amritsar Shatabdi Express,Amritsar,13:30
+12925,Bandra (T) Amritsar Paschim Express,Nizamuddin,10:01
+12925,Bandra (T) Amritsar Paschim Express,New Delhi,11:05
+12925,Bandra (T) Amritsar Paschim Express,Panipat,12:25
+12925,Bandra (T) Amritsar Paschim Express,Karnal,12:51
+12925,Bandra (T) Amritsar Paschim Express,Kurukshetra,13:16
+12925,Bandra (T) Amritsar Paschim Express,Ambala Cantt.,14:40
+12925,Bandra (T) Amritsar Paschim Express,Chandigarh,15:32
+12925,Bandra (T) Amritsar Paschim Express,S.A.S.N Mohali,15:56
+12925,Bandra (T) Amritsar Paschim Express,Ludhiana,17:47
+12925,Bandra (T) Amritsar Paschim Express,Jalandhar Cantt d ,18:37
+12925,Bandra (T) Amritsar Paschim Express,Jalandhar City,18:52
+12925,Bandra (T) Amritsar Paschim Express,Beas,19:25
+12925,Bandra (T) Amritsar Paschim Express,Amritsar,20:10
+14649,Jaynagar Amritsar Sarayu Yamuna Express,Saharanpur,10:20
+14649,Jaynagar Amritsar Sarayu Yamuna Express,Ambala Cantt.,11:45
+14649,Jaynagar Amritsar Sarayu Yamuna Express,Rajpura,12:37
+14649,Jaynagar Amritsar Sarayu Yamuna Express,Ludhiana,14:16
+14649,Jaynagar Amritsar Sarayu Yamuna Express,Jalandhar Cantt d ,15:11
+14649,Jaynagar Amritsar Sarayu Yamuna Express,Jalandhar City,15:30
+14649,Jaynagar Amritsar Sarayu Yamuna Express,Beas,16:04
+14649,Jaynagar Amritsar Sarayu Yamuna Express,Amritsar,17:50
+14673,Jaynagar Amritsar Shaheed Express,Saharanpur,10:20
+14673,Jaynagar Amritsar Shaheed Express,Ambala Cantt.,11:45
+14673,Jaynagar Amritsar Shaheed Express,Rajpura,12:37
+14673,Jaynagar Amritsar Shaheed Express,Ludhiana,14:16
+14673,Jaynagar Amritsar Shaheed Express,Jalandhar Cantt d ,15:11
+14673,Jaynagar Amritsar Shaheed Express,Jalandhar City,15:30
+14673,Jaynagar Amritsar Shaheed Express,Beas,16:04
+14673,Jaynagar Amritsar Shaheed Express,Amritsar,17:50
+14679,Delhi Amritsar Intercity Express,Delhi,13:45
+14679,Delhi Amritsar Intercity Express,Panipat,15:02
+14679,Delhi Amritsar Intercity Express,Karnal,15:26
+14679,Delhi Amritsar Intercity Express,Kurukshetra,16:06
+14679,Delhi Amritsar Intercity Express,Ambala Cantt.,17:05
+14679,Delhi Amritsar Intercity Express,Rajpura,17:52
+14679,Delhi Amritsar Intercity Express,Ludhiana,19:32
+14679,Delhi Amritsar Intercity Express,Jalandhar City,20:50
+14679,Delhi Amritsar Intercity Express,Beas,21:22
+14679,Delhi Amritsar Intercity Express,Amritsar,22:25
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Nizamuddin,12:37
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,New Delhi,13:20
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Panipat,14:24
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Karnal,14:48
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Kurukshetra,15:13
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Ambala Cantt.,16:30
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Rajpura,17:03
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Ludhiana,19:08
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Jalandhar City,20:20
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Beas,20:52
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Amritsar,21:45
+12013,New Delhi Amritsar Shatabdi Express,New Delhi,16:30
+12013,New Delhi Amritsar Shatabdi Express,Ambala Cantt.,18:53
+12013,New Delhi Amritsar Shatabdi Express,Ludhiana,20:19
+12013,New Delhi Amritsar Shatabdi Express,Jalandhar City,21:28
+12013,New Delhi Amritsar Shatabdi Express,Beas,22:00
+12013,New Delhi Amritsar Shatabdi Express,Amritsar,23:05
+12903,Bandra (T) Amritsar Golden Temple Mail,Nizamuddin,14:05
+12903,Bandra (T) Amritsar Golden Temple Mail,Ghaziabad,14:45
+12903,Bandra (T) Amritsar Golden Temple Mail,Meerut City,15:30
+12903,Bandra (T) Amritsar Golden Temple Mail,Muzaffarnagar,16:20
+12903,Bandra (T) Amritsar Golden Temple Mail,Saharanpur,17:40
+12903,Bandra (T) Amritsar Golden Temple Mail,Ambala Cantt.,19:10
+12903,Bandra (T) Amritsar Golden Temple Mail,Ludhiana,20:53
+12903,Bandra (T) Amritsar Golden Temple Mail,Jalandhar City,22:15
+12903,Bandra (T) Amritsar Golden Temple Mail,Beas,22:47
+12903,Bandra (T) Amritsar Golden Temple Mail,Amritsar,23:45
+18237,Bilaspur Amritsar Chattisgarh Express,Nizamuddin,20:05
+18237,Bilaspur Amritsar Chattisgarh Express,Ghaziabad,20:46
+18237,Bilaspur Amritsar Chattisgarh Express,Meerut City,21:40
+18237,Bilaspur Amritsar Chattisgarh Express,Muzaffarnagar,22:31
+18237,Bilaspur Amritsar Chattisgarh Express,Saharanpur,00:05
+18237,Bilaspur Amritsar Chattisgarh Express,Ambala Cantt.,01:40
+18237,Bilaspur Amritsar Chattisgarh Express,Rajpura,02:09
+18237,Bilaspur Amritsar Chattisgarh Express,Ludhiana,03:43
+18237,Bilaspur Amritsar Chattisgarh Express,Jalandhar Cantt d ,04:37
+18237,Bilaspur Amritsar Chattisgarh Express,Jalandhar City,04:55
+18237,Bilaspur Amritsar Chattisgarh Express,Beas,05:28
+18237,Bilaspur Amritsar Chattisgarh Express,Amritsar,06:55
+20807,Visakha- patnam Amritsar Hirakud Express,Nizamuddin,14:06
+20807,Visakha- patnam Amritsar Hirakud Express,New Delhi,14:45
+20807,Visakha- patnam Amritsar Hirakud Express,Panipat,16:02
+20807,Visakha- patnam Amritsar Hirakud Express,Ambala Cantt.,18:20
+20807,Visakha- patnam Amritsar Hirakud Express,Ludhiana,20:02
+20807,Visakha- patnam Amritsar Hirakud Express,Jalandhar City,21:55
+20807,Visakha- patnam Amritsar Hirakud Express,Beas,22:28
+20807,Visakha- patnam Amritsar Hirakud Express,Amritsar,23:25
+26461,Delhi Firozpur Cantt. Vande Bharat Express,Delhi,16:00
+26461,Delhi Firozpur Cantt. Vande Bharat Express,Panipat,17:02
+26461,Delhi Firozpur Cantt. Vande Bharat Express,Kurukshetra,17:42
+26461,Delhi Firozpur Cantt. Vande Bharat Express,Ambala Cantt.,18:32
+26461,Delhi Firozpur Cantt. Vande Bharat Express,Patiala,19:15
+26461,Delhi Firozpur Cantt. Vande Bharat Express,Dhuri,19:58
+26461,Delhi Firozpur Cantt. Vande Bharat Express,Firozpur,22:35
+12483,Kochuveli Amritsar Express,Nizamuddin,05:35
+12483,Kochuveli Amritsar Express,New Delhi,06:25
+12483,Kochuveli Amritsar Express,Ambala Cantt.,09:10
+12483,Kochuveli Amritsar Express,Ludhiana,10:56
+12483,Kochuveli Amritsar Express,Jalandhar City,11:55
+12483,Kochuveli Amritsar Express,Beas,12:53
+12483,Kochuveli Amritsar Express,Amritsar,13:50
+22429,Delhi Pathankot Super Fast Express,Delhi,08:15
+22429,Delhi Pathankot Super Fast Express,Panipat,09:20
+22429,Delhi Pathankot Super Fast Express,Karnal,09:44
+22429,Delhi Pathankot Super Fast Express,Kurukshetra,10:09
+22429,Delhi Pathankot Super Fast Express,Ambala Cantt.,11:15
+22429,Delhi Pathankot Super Fast Express,Ludhiana,13:05
+22429,Delhi Pathankot Super Fast Express,Jalandhar City,14:03
+22429,Delhi Pathankot Super Fast Express,Beas,14:36
+22429,Delhi Pathankot Super Fast Express,Amritsar,15:45
+22429,Delhi Pathankot Super Fast Express,Pathankot,18:18
+14001,Delhi Atari Express,Delhi,23:50
+14001,Delhi Atari Express,Atari,07:10
+12379,Sealdah Amritsar Jalianwala Bagh Express,Delhi,09:15
+12379,Sealdah Amritsar Jalianwala Bagh Express,Ambala Cantt.,11:55
+12379,Sealdah Amritsar Jalianwala Bagh Express,Ludhiana,13:33
+12379,Sealdah Amritsar Jalianwala Bagh Express,Jalandhar City,14:35
+12379,Sealdah Amritsar Jalianwala Bagh Express,Beas,15:08
+12379,Sealdah Amritsar Jalianwala Bagh Express,Amritsar,15:50
+22125,Nagpur Amritsar AC Express,New Delhi,12:10
+22125,Nagpur Amritsar AC Express,Ambala Cantt.,15:00
+22125,Nagpur Amritsar AC Express,Ludhiana,16:36
+22125,Nagpur Amritsar AC Express,Jalandhar City,17:40
+22125,Nagpur Amritsar AC Express,Beas,18:13
+22125,Nagpur Amritsar AC Express,Amritsar,19:00
+12203,Saharsa Amritsar Garib Rath Express,Delhi,14:10
+12203,Saharsa Amritsar Garib Rath Express,Ambala Cantt.,16:54
+12203,Saharsa Amritsar Garib Rath Express,Ludhiana,19:20
+12203,Saharsa Amritsar Garib Rath Express,Jalandhar City,20:35
+12203,Saharsa Amritsar Garib Rath Express,Beas,21:07
+12203,Saharsa Amritsar Garib Rath Express,Amritsar,22:05
+14541,Chandigarh Amritsar Express,Chandigarh,16:40
+14541,Chandigarh Amritsar Express,S.A.S.N Mohali,16:54
+14541,Chandigarh Amritsar Express,Ludhiana,18:52
+14541,Chandigarh Amritsar Express,Jalandhar City,20:05
+14541,Chandigarh Amritsar Express,Beas,20:37
+14541,Chandigarh Amritsar Express,Amritsar,21:25
+12421,Hazur Sahib Nanded Amritsar Express,New Delhi,10:25
+12421,Hazur Sahib Nanded Amritsar Express,Dhuri,14:50
+12421,Hazur Sahib Nanded Amritsar Express,Ludhiana,16:10
+12421,Hazur Sahib Nanded Amritsar Express,Jalandhar City,17:15
+12421,Hazur Sahib Nanded Amritsar Express,Beas,17:45
+12421,Hazur Sahib Nanded Amritsar Express,Amritsar,18:35
+12411,Chandigarh Amritsar Express,Chandigarh,06:55
+12411,Chandigarh Amritsar Express,S.A.S.N Mohali,07:09
+12411,Chandigarh Amritsar Express,Ludhiana,09:02
+12411,Chandigarh Amritsar Express,Jalandhar City,10:05
+12411,Chandigarh Amritsar Express,Beas,10:36
+12411,Chandigarh Amritsar Express,Amritsar,11:24
+14521,Delhi Ambala Cantt. Express,Delhi,13:10
+14521,Delhi Ambala Cantt. Express,Ghaziabad,13:57
+14521,Delhi Ambala Cantt. Express,Meerut City,14:43
+14521,Delhi Ambala Cantt. Express,Muzaffarnagar,15:39
+14521,Delhi Ambala Cantt. Express,Saharanpur,17:00
+14521,Delhi Ambala Cantt. Express,Ambala Cantt.,18:40
+19307,Indore Una Himachal Express,Nizamuddin,23:20
+19307,Indore Una Himachal Express,Meerut City,00:58
+19307,Indore Una Himachal Express,Saharanpur,02:45
+19307,Indore Una Himachal Express,Ambala Cantt.,04:15
+19307,Indore Una Himachal Express,Chandigarh,05:10
+19307,Indore Una Himachal Express,S.A.S.N Mohali,05:24
+19307,Indore Una Himachal Express,Nangaldam,08:15
+19307,Indore Una Himachal Express,Rajpura,08:35
+14613,Sahibzada Ajit Singh Nagar (Moholi) Firozpur Express,S.A.S.N Mohali,17:35
+14613,Sahibzada Ajit Singh Nagar (Moholi) Firozpur Express,Ludhiana,20:30
+14613,Sahibzada Ajit Singh Nagar (Moholi) Firozpur Express,Firozpur,22:30
+14506,Nangaldam Amritsar Express,Nangaldam,07:20
+14506,Nangaldam Amritsar Express,Ludhiana,10:34
+14506,Nangaldam Amritsar Express,Jalandhar City,11:40
+14506,Nangaldam Amritsar Express,Beas,12:14
+14506,Nangaldam Amritsar Express,Amritsar,13:05
+20411,Delhi Saharanpur MEMU SF Express,Delhi,09:40
+20411,Delhi Saharanpur MEMU SF Express,Ghaziabad,10:18
+20411,Delhi Saharanpur MEMU SF Express,Meerut City,10:58
+20411,Delhi Saharanpur MEMU SF Express,Muzaffarnagar,11:41
+20411,Delhi Saharanpur MEMU SF Express,Saharanpur,12:55
+12014,Amritsar New Delhi Shatabdi Express,Amritsar,04:55
+12014,Amritsar New Delhi Shatabdi Express,Beas,05:25
+12014,Amritsar New Delhi Shatabdi Express,Jalandhar City,06:01
+12014,Amritsar New Delhi Shatabdi Express,Ludhiana,07:02
+12014,Amritsar New Delhi Shatabdi Express,Ambala Cantt.,08:34
+12014,Amritsar New Delhi Shatabdi Express,New Delhi,11:02
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Amritsar,05:30
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Beas,06:00
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Jalandhar City,06:40
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Ludhiana,07:45
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Rajpura a d ,09:06
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Ambala Cantt.,09:50
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Kurukshetra a d ,10:22
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Karnal a d ,10:47
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Panipat a d ,11:11
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,New Delhi,13:00
+22486,Firozpur New Delhi Intercity Express,Firozpur,15:35
+22486,Firozpur New Delhi Intercity Express,Dhuri,19:00
+22486,Firozpur New Delhi Intercity Express,New Delhi,23:30
+14680,Amritsar Delhi Intercity Express,Amritsar,06:15
+14680,Amritsar Delhi Intercity Express,Beas,06:45
+14680,Amritsar Delhi Intercity Express,Jalandhar City,07:25
+14680,Amritsar Delhi Intercity Express,Jalandhar Cantt d a ,07:36
+14680,Amritsar Delhi Intercity Express,Ludhiana,08:35
+14680,Amritsar Delhi Intercity Express,Rajpura a d ,09:58
+14680,Amritsar Delhi Intercity Express,Ambala Cantt.,10:50
+14680,Amritsar Delhi Intercity Express,Kurukshetra a d ,11:22
+14680,Amritsar Delhi Intercity Express,Karnal a d ,11:46
+14680,Amritsar Delhi Intercity Express,Panipat a d ,12:14
+14680,Amritsar Delhi Intercity Express,Delhi,14:15
+14614,Firozpur Sahibzada Ajit Singh Nagar (Mohali) Express,Firozpur,05:00
+14614,Firozpur Sahibzada Ajit Singh Nagar (Mohali) Express,Ludhiana,07:30
+14614,Firozpur Sahibzada Ajit Singh Nagar (Mohali) Express,S.A.S.N Mohali,09:55
+15708,Amritsar Katihar Express,Amritsar,07:40
+15708,Amritsar Katihar Express,Beas,08:15
+15708,Amritsar Katihar Express,Jalandhar City,08:58
+15708,Amritsar Katihar Express,Jalandhar Cantt d a ,09:09
+15708,Amritsar Katihar Express,Ludhiana,10:15
+15708,Amritsar Katihar Express,Rajpura a d ,12:10
+15708,Amritsar Katihar Express,Ambala Cantt.,13:00
+15708,Amritsar Katihar Express,Karnal a d ,13:50
+15708,Amritsar Katihar Express,Panipat a d ,14:14
+15708,Amritsar Katihar Express,Delhi,17:35
+12926,Amritsar Bandra (T) Paschim Express,Amritsar,07:20
+12926,Amritsar Bandra (T) Paschim Express,Beas,07:50
+12926,Amritsar Bandra (T) Paschim Express,Jalandhar City,08:32
+12926,Amritsar Bandra (T) Paschim Express,Jalandhar Cantt d a ,08:42
+12926,Amritsar Bandra (T) Paschim Express,Ludhiana,09:40
+12926,Amritsar Bandra (T) Paschim Express,S.A.S.N Mohali,11:45
+12926,Amritsar Bandra (T) Paschim Express,Chandigarh,12:20
+12926,Amritsar Bandra (T) Paschim Express,Ambala Cantt.,13:10
+12926,Amritsar Bandra (T) Paschim Express,Kurukshetra a d ,13:42
+12926,Amritsar Bandra (T) Paschim Express,Karnal a d ,14:08
+12926,Amritsar Bandra (T) Paschim Express,Panipat a d ,14:34
+12926,Amritsar Bandra (T) Paschim Express,New Delhi,16:35
+11058,Amritsar Mumbai CSMT Express,Amritsar,08:50
+11058,Amritsar Mumbai CSMT Express,Beas,09:25
+11058,Amritsar Mumbai CSMT Express,Jalandhar City,10:15
+11058,Amritsar Mumbai CSMT Express,Jalandhar Cantt d a ,10:26
+11058,Amritsar Mumbai CSMT Express,Ludhiana,11:40
+11058,Amritsar Mumbai CSMT Express,Dhuri,13:45
+11058,Amritsar Mumbai CSMT Express,Patiala,14:50
+11058,Amritsar Mumbai CSMT Express,Rajpura a d ,15:35
+11058,Amritsar Mumbai CSMT Express,Ambala Cantt.,16:23
+11058,Amritsar Mumbai CSMT Express,Kurukshetra a d ,16:57
+11058,Amritsar Mumbai CSMT Express,Karnal a d ,17:32
+11058,Amritsar Mumbai CSMT Express,Panipat a d ,18:03
+11058,Amritsar Mumbai CSMT Express,New Delhi,20:40
+11058,Amritsar Mumbai CSMT Express,Nizamuddin,20:53
+14650,Amritsar Jaynagar Saryu Yamuna Express,Amritsar,13:05
+14650,Amritsar Jaynagar Saryu Yamuna Express,Beas,13:35
+14650,Amritsar Jaynagar Saryu Yamuna Express,Jalandhar City,14:20
+14650,Amritsar Jaynagar Saryu Yamuna Express,Jalandhar Cantt d a ,14:31
+14650,Amritsar Jaynagar Saryu Yamuna Express,Ludhiana,15:55
+14650,Amritsar Jaynagar Saryu Yamuna Express,Rajpura a d ,17:22
+14650,Amritsar Jaynagar Saryu Yamuna Express,Ambala Cantt.,18:18
+14650,Amritsar Jaynagar Saryu Yamuna Express,Saharanpur,20:10
+14674,Amritsar Jaynagar Shaheed Express,Amritsar,13:05
+14674,Amritsar Jaynagar Shaheed Express,Beas,13:35
+14674,Amritsar Jaynagar Shaheed Express,Jalandhar City,14:20
+14674,Amritsar Jaynagar Shaheed Express,Jalandhar Cantt d a ,14:31
+14674,Amritsar Jaynagar Shaheed Express,Ludhiana,15:55
+14674,Amritsar Jaynagar Shaheed Express,Rajpura a d ,17:22
+14674,Amritsar Jaynagar Shaheed Express,Ambala Cantt.,18:18
+14674,Amritsar Jaynagar Shaheed Express,Saharanpur,20:10
+12498,Amritsar New Delhi Shane Punjab Express,Amritsar,15:10
+12498,Amritsar New Delhi Shane Punjab Express,Beas,15:40
+12498,Amritsar New Delhi Shane Punjab Express,Jalandhar City,16:18
+12498,Amritsar New Delhi Shane Punjab Express,Ludhiana,17:20
+12498,Amritsar New Delhi Shane Punjab Express,Rajpura a d ,18:39
+12498,Amritsar New Delhi Shane Punjab Express,Ambala Cantt.,19:25
+12498,Amritsar New Delhi Shane Punjab Express,Kurukshetra a d ,19:57
+12498,Amritsar New Delhi Shane Punjab Express,Karnal a d ,20:22
+12498,Amritsar New Delhi Shane Punjab Express,Panipat a d ,20:46
+12498,Amritsar New Delhi Shane Punjab Express,New Delhi,22:30
+18238,Amritsar Bilaspur Chattisgarh Express,Amritsar,15:55
+18238,Amritsar Bilaspur Chattisgarh Express,Beas,16:30
+18238,Amritsar Bilaspur Chattisgarh Express,Jalandhar City,17:16
+18238,Amritsar Bilaspur Chattisgarh Express,Jalandhar Cantt d a ,17:41
+18238,Amritsar Bilaspur Chattisgarh Express,Ludhiana,18:43
+18238,Amritsar Bilaspur Chattisgarh Express,Rajpura a d ,20:54
+18238,Amritsar Bilaspur Chattisgarh Express,Ambala Cantt.,21:40
+18238,Amritsar Bilaspur Chattisgarh Express,Saharanpur,00:35
+18238,Amritsar Bilaspur Chattisgarh Express,Muzaffarnagar,01:27
+18238,Amritsar Bilaspur Chattisgarh Express,Meerut City,02:29
+18238,Amritsar Bilaspur Chattisgarh Express,Ghaziabad,03:22
+18238,Amritsar Bilaspur Chattisgarh Express,Nizamuddin,04:25
+12030,Amritsar New Delhi Swarna Shatabdi Express,Amritsar,16:50
+12030,Amritsar New Delhi Swarna Shatabdi Express,Beas,17:20
+12030,Amritsar New Delhi Swarna Shatabdi Express,Jalandhar City,17:56
+12030,Amritsar New Delhi Swarna Shatabdi Express,Ludhiana,18:55
+12030,Amritsar New Delhi Swarna Shatabdi Express,Rajpura a d ,19:56
+12030,Amritsar New Delhi Swarna Shatabdi Express,Ambala Cantt.,20:30
+12030,Amritsar New Delhi Swarna Shatabdi Express,New Delhi,22:50
+26462,Firozpur Cantt.-Delhi Vande Bharat Express,Firozpur,07:55
+26462,Firozpur Cantt.-Delhi Vande Bharat Express,Dhuri,10:28
+26462,Firozpur Cantt.-Delhi Vande Bharat Express,Patiala,11:07
+26462,Firozpur Cantt.-Delhi Vande Bharat Express,Ambala Cantt.,12:00
+26462,Firozpur Cantt.-Delhi Vande Bharat Express,Kurukshetra a d ,12:30
+26462,Firozpur Cantt.-Delhi Vande Bharat Express,Panipat a d ,13:07
+26462,Firozpur Cantt.-Delhi Vande Bharat Express,Delhi,14:35
+12032,Amritsar New Delhi Shatabdi Express,Amritsar,16:50
+12032,Amritsar New Delhi Shatabdi Express,Beas,17:20
+12032,Amritsar New Delhi Shatabdi Express,Jalandhar City,17:56
+12032,Amritsar New Delhi Shatabdi Express,Ludhiana,18:55
+12032,Amritsar New Delhi Shatabdi Express,Rajpura,19:56
+12032,Amritsar New Delhi Shatabdi Express,Ambala Cantt.,20:30
+12032,Amritsar New Delhi Shatabdi Express,New Delhi,22:50
+12904,Amritsar Bandra (T) Golden Temple Mail,Amritsar,18:55
+12904,Amritsar Bandra (T) Golden Temple Mail,Beas,19:25
+12904,Amritsar Bandra (T) Golden Temple Mail,Jalandhar City,20:05
+12904,Amritsar Bandra (T) Golden Temple Mail,Ludhiana,21:10
+12904,Amritsar Bandra (T) Golden Temple Mail,Ambala Cantt.,22:55
+12904,Amritsar Bandra (T) Golden Temple Mail,Saharanpur,00:20
+12904,Amritsar Bandra (T) Golden Temple Mail,Muzaffarnagar,01:06
+12904,Amritsar Bandra (T) Golden Temple Mail,Meerut City,02:00
+12904,Amritsar Bandra (T) Golden Temple Mail,Ghaziabad,02:52
+12904,Amritsar Bandra (T) Golden Temple Mail,Nizamuddin,04:00
+20808,Amritsar Visakhapatnam Hirakud Express,Amritsar,23:55
+20808,Amritsar Visakhapatnam Hirakud Express,Beas,00:25
+20808,Amritsar Visakhapatnam Hirakud Express,Jalandhar City,01:18
+20808,Amritsar Visakhapatnam Hirakud Express,Ludhiana,02:30
+20808,Amritsar Visakhapatnam Hirakud Express,Ambala Cantt.,04:25
+20808,Amritsar Visakhapatnam Hirakud Express,Panipat d ,05:38
+20808,Amritsar Visakhapatnam Hirakud Express,New Delhi,08:15
+20808,Amritsar Visakhapatnam Hirakud Express,Nizamuddin,08:28
+12484,Amristar Kochuveli Express,Amritsar,05:55
+12484,Amristar Kochuveli Express,Beas,06:25
+12484,Amristar Kochuveli Express,Jalandhar City,07:07
+12484,Amristar Kochuveli Express,Ludhiana,08:12
+12484,Amristar Kochuveli Express,Ambala Cantt.,10:20
+12484,Amristar Kochuveli Express,New Delhi,13:10
+12484,Amristar Kochuveli Express,Nizamuddin,13:23
+22430,Pathankot Delhi Super Fast Express,Pathankot,07:00
+22430,Pathankot Delhi Super Fast Express,Amritsar,09:30
+22430,Pathankot Delhi Super Fast Express,Beas,10:00
+22430,Pathankot Delhi Super Fast Express,Jalandhar City,10:40
+22430,Pathankot Delhi Super Fast Express,Ludhiana,11:50
+22430,Pathankot Delhi Super Fast Express,Ambala Cantt.,13:50
+22430,Pathankot Delhi Super Fast Express,Kurukshetra d ,14:22
+22430,Pathankot Delhi Super Fast Express,Karnal d ,14:47
+22430,Pathankot Delhi Super Fast Express,Panipat d ,15:11
+22430,Pathankot Delhi Super Fast Express,Delhi,16:55
+14002,Atari Delhi Express,Atari,19:50
+14002,Atari Delhi Express,Delhi,03:00
+12380,Amritsar Sealdah Jalianwala Bagh Express,Amritsar,13:25
+12380,Amritsar Sealdah Jalianwala Bagh Express,Beas,13:55
+12380,Amritsar Sealdah Jalianwala Bagh Express,Jalandhar City,14:35
+12380,Amritsar Sealdah Jalianwala Bagh Express,Ludhiana,15:38
+12380,Amritsar Sealdah Jalianwala Bagh Express,Ambala Cantt.,17:25
+12380,Amritsar Sealdah Jalianwala Bagh Express,Delhi,20:15
+22126,Amritsar Nagpur AC Express,Amritsar,04:00
+22126,Amritsar Nagpur AC Express,Beas,04:30
+22126,Amritsar Nagpur AC Express,Jalandhar City,05:10
+22126,Amritsar Nagpur AC Express,Ludhiana,06:15
+22126,Amritsar Nagpur AC Express,Ambala Cantt.,08:10
+22126,Amritsar Nagpur AC Express,New Delhi,11:15
+12204,Amritsar Saharsa Garib Rath Express,Amritsar,04:00
+12204,Amritsar Saharsa Garib Rath Express,Beas,04:30
+12204,Amritsar Saharsa Garib Rath Express,Jalandhar City,05:10
+12204,Amritsar Saharsa Garib Rath Express,Ludhiana,06:15
+12204,Amritsar Saharsa Garib Rath Express,Ambala Cantt.,08:10
+12204,Amritsar Saharsa Garib Rath Express,Delhi,11:05
+14542,Amritsar Chandigarh Express,Amritsar,05:10
+14542,Amritsar Chandigarh Express,Beas,05:40
+14542,Amritsar Chandigarh Express,Jalandhar City,06:17
+14542,Amritsar Chandigarh Express,Ludhiana,07:17
+14542,Amritsar Chandigarh Express,S.A.S.N Mohali,09:25
+14542,Amritsar Chandigarh Express,Chandigarh,09:45
+12422,Amritsar Hazur Sahib Nanded Express,Amritsar,14:30
+12422,Amritsar Hazur Sahib Nanded Express,Beas,15:00
+12422,Amritsar Hazur Sahib Nanded Express,Jalandhar City,15:40
+12422,Amritsar Hazur Sahib Nanded Express,Ludhiana,17:05
+12422,Amritsar Hazur Sahib Nanded Express,Dhuri,18:25
+12422,Amritsar Hazur Sahib Nanded Express,New Delhi,23:15
+12412,Amritsar Chandigarh Express,Amritsar,17:05
+12412,Amritsar Chandigarh Express,Beas,17:35
+12412,Amritsar Chandigarh Express,Jalandhar City,18:12
+12412,Amritsar Chandigarh Express,Ludhiana,19:10
+12412,Amritsar Chandigarh Express,S.A.S.N Mohali,20:57
+12412,Amritsar Chandigarh Express,Chandigarh,21:15
+14522,Ambala Cantt. Delhi Express,Ambala Cantt.,06:40
+14522,Ambala Cantt. Delhi Express,Saharanpur,08:25
+14522,Ambala Cantt. Delhi Express,Muzaffarnagar,09:21
+14522,Ambala Cantt. Delhi Express,Meerut City,10:18
+14522,Ambala Cantt. Delhi Express,Ghaziabad,11:22
+14522,Ambala Cantt. Delhi Express,Delhi,12:20
+19308,Una Himachal Indore Express,Dhuri,13:50
+19308,Una Himachal Indore Express,S.A.S.N Mohali,15:55
+19308,Una Himachal Indore Express,Nagaldam,14:15
+19308,Una Himachal Indore Express,Chandigarh,16:30
+19308,Una Himachal Indore Express,Ambala Cantt.,17:20
+19308,Una Himachal Indore Express,Saharanpur,18:55
+19308,Una Himachal Indore Express,Meerut City,20:28
+19308,Una Himachal Indore Express,Nizamuddin,23:00
+14505,Amritsar Nangal Dam Express,Amritsar,14:00
+14505,Amritsar Nangal Dam Express,Beas,14:30
+14505,Amritsar Nangal Dam Express,Jalandhar City,15:10
+14505,Amritsar Nangal Dam Express,Ludhiana,16:08
+14505,Amritsar Nangal Dam Express,Nagaldam,19:30
+20412,Saharanpur Delhi MEMU SF Express,Saharanpur,19:15
+20412,Saharanpur Delhi MEMU SF Express,Muzaffarnagar,19:59
+20412,Saharanpur Delhi MEMU SF Express,Meerut City,20:42
+20412,Saharanpur Delhi MEMU SF Express,Ghaziabad,21:30
+20412,Saharanpur Delhi MEMU SF Express,Delhi,22:10

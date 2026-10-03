@@ -1,0 +1,410 @@
+train_num,train_name,halt_station_name,departure_time
+11404,Shri Chhatrapati Shahu Maharaj (T) Nagpur Express,Shri Chhatrapati Shahu Maharaj (T),12:45
+11404,Shri Chhatrapati Shahu Maharaj (T) Nagpur Express,Miraj,14:05
+11404,Shri Chhatrapati Shahu Maharaj (T) Nagpur Express,Pandharpur,16:10
+11404,Shri Chhatrapati Shahu Maharaj (T) Nagpur Express,Kurduwadi,17:25
+11404,Shri Chhatrapati Shahu Maharaj (T) Nagpur Express,Dharashiv,18:45
+11404,Shri Chhatrapati Shahu Maharaj (T) Nagpur Express,Latur,20:20
+11404,Shri Chhatrapati Shahu Maharaj (T) Nagpur Express,Latur Road,21:35
+11404,Shri Chhatrapati Shahu Maharaj (T) Nagpur Express,Parbhani,02:20
+11404,Shri Chhatrapati Shahu Maharaj (T) Nagpur Express,Purna,03:00
+11404,Shri Chhatrapati Shahu Maharaj (T) Nagpur Express,Akola,07:25
+11404,Shri Chhatrapati Shahu Maharaj (T) Nagpur Express,Badnera,08:55
+11404,Shri Chhatrapati Shahu Maharaj (T) Nagpur Express,Wardha Jn.,10:22
+11404,Shri Chhatrapati Shahu Maharaj (T) Nagpur Express,Nagpur,12:00
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Shri Chhatrapati Shahu Maharaj (T),14:50
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Miraj,15:50
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Sangli,16:05
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Satara,18:40
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Pune,22:20
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Ahilyanagar,01:15
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Belapur,02:15
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Kopergaon,03:05
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Manmad,04:55
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Bhusaval,07:40
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Akola,10:10
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Badnera,11:40
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Wardha Jn.,13:10
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Nagpur,15:30
+11039,Shri Chhatrapati Shahu Maharaj (T) Gondia Maharash- tra Express,Gondia,18:35
+11045,Shri Chhatrapati Shahu Maharaj (T) Dhanbad Deeksha- Bhoomi Express,Miraj,05:50
+11045,Shri Chhatrapati Shahu Maharaj (T) Dhanbad Deeksha- Bhoomi Express,Pandharpur,08:00
+11045,Shri Chhatrapati Shahu Maharaj (T) Dhanbad Deeksha- Bhoomi Express,Kurduwadi,09:10
+11045,Shri Chhatrapati Shahu Maharaj (T) Dhanbad Deeksha- Bhoomi Express,Dharashiv,10:30
+11045,Shri Chhatrapati Shahu Maharaj (T) Dhanbad Deeksha- Bhoomi Express,Latur,13:10
+11045,Shri Chhatrapati Shahu Maharaj (T) Dhanbad Deeksha- Bhoomi Express,Latur Road,14:15
+11045,Shri Chhatrapati Shahu Maharaj (T) Dhanbad Deeksha- Bhoomi Express,Parbhani,18:12
+11045,Shri Chhatrapati Shahu Maharaj (T) Dhanbad Deeksha- Bhoomi Express,Purna,18:55
+11045,Shri Chhatrapati Shahu Maharaj (T) Dhanbad Deeksha- Bhoomi Express,Hazur Sahib Nanded,19:32
+11045,Shri Chhatrapati Shahu Maharaj (T) Dhanbad Deeksha- Bhoomi Express,Nagpur,06:50
+22845,Pune Hatia Express,Pune,10:45
+22845,Pune Hatia Express,Ahilyanagar,13:35
+22845,Pune Hatia Express,Kopergaon,15:30
+22845,Pune Hatia Express,Manmad,17:25
+22845,Pune Hatia Express,Bhusaval,19:45
+22845,Pune Hatia Express,Akola,21:43
+22845,Pune Hatia Express,Badnera,23:00
+22845,Pune Hatia Express,Wardha Jn.,00:15
+22845,Pune Hatia Express,Nagpur,02:00
+22845,Pune Hatia Express,Gondia,03:40
+12103,Pune Lucknow Express,Pune,11:20
+12103,Pune Lucknow Express,Kopergaon,15:30
+12103,Pune Lucknow Express,Manmad,17:25
+12103,Pune Lucknow Express,Bhusaval,19:45
+11033,Pune Darbhanga Express,Pune,16:15
+11033,Pune Darbhanga Express,Ahilyanagar,18:30
+11033,Pune Darbhanga Express,Belapur,19:40
+11033,Pune Darbhanga Express,Kopergaon,20:30
+11033,Pune Darbhanga Express,Manmad,21:50
+11033,Pune Darbhanga Express,Bhusaval,00:15
+12850,Pune Bilaspur Express,Pune,17:35
+12850,Pune Bilaspur Express,Ahilyanagar,20:00
+12850,Pune Bilaspur Express,Belapur,21:10
+12850,Pune Bilaspur Express,Kopergaon,22:00
+12850,Pune Bilaspur Express,Manmad,23:45
+12850,Pune Bilaspur Express,Bhusaval,02:25
+12850,Pune Bilaspur Express,Akola,04:35
+12850,Pune Bilaspur Express,Badnera,06:10
+12850,Pune Bilaspur Express,Wardha Jn.,07:30
+12850,Pune Bilaspur Express,Nagpur,09:20
+12850,Pune Bilaspur Express,Gondia,11:05
+12113,Pune Nagpur Garib Rath Express,Pune,17:35
+12113,Pune Nagpur Garib Rath Express,Ahilyanagar,20:00
+12113,Pune Nagpur Garib Rath Express,Manmad,23:45
+12113,Pune Nagpur Garib Rath Express,Bhusaval,02:25
+12113,Pune Nagpur Garib Rath Express,Akola,04:35
+12113,Pune Nagpur Garib Rath Express,Badnera,06:10
+12113,Pune Nagpur Garib Rath Express,Wardha Jn.,07:30
+12113,Pune Nagpur Garib Rath Express,Nagpur,09:10
+12135,Pune Nagpur Express,Pune,17:35
+12135,Pune Nagpur Express,Ahilyanagar,20:00
+12135,Pune Nagpur Express,Belapur,21:10
+12135,Pune Nagpur Express,Kopergaon,22:00
+12135,Pune Nagpur Express,Manmad,23:45
+12135,Pune Nagpur Express,Bhusaval,02:25
+12135,Pune Nagpur Express,Akola,04:35
+12135,Pune Nagpur Express,Badnera,06:10
+12135,Pune Nagpur Express,Wardha Jn.,07:30
+12135,Pune Nagpur Express,Nagpur,09:10
+12129,Pune Howrah Azad Hind Express,Pune,18:35
+12129,Pune Howrah Azad Hind Express,Ahilyanagar,21:15
+12129,Pune Howrah Azad Hind Express,Belapur,22:20
+12129,Pune Howrah Azad Hind Express,Kopergaon,23:15
+12129,Pune Howrah Azad Hind Express,Manmad,00:30
+12129,Pune Howrah Azad Hind Express,Bhusaval,03:15
+12129,Pune Howrah Azad Hind Express,Akola,05:25
+12129,Pune Howrah Azad Hind Express,Badnera,06:38
+12129,Pune Howrah Azad Hind Express,Wardha Jn.,08:05
+12129,Pune Howrah Azad Hind Express,Nagpur,09:55
+12129,Pune Howrah Azad Hind Express,Gondia,11:35
+11401,Pune Supaul Express,Pune,21:05
+11401,Pune Supaul Express,Ahilyanagar,23:20
+11401,Pune Supaul Express,Belapur,00:20
+11401,Pune Supaul Express,Kopergaon,01:15
+11401,Pune Supaul Express,Manmad,02:25
+11401,Pune Supaul Express,Bhusaval,04:50
+1140,Madgaon Nagpur Special,Panvel,06:23
+1140,Madgaon Nagpur Special,Bhusaval,14:10
+1140,Madgaon Nagpur Special,Akola,16:33
+1140,Madgaon Nagpur Special,Badnera,18:25
+1140,Madgaon Nagpur Special,Wardha Jn.,19:30
+1140,Madgaon Nagpur Special,Nagpur,21:30
+20151,Hadapsar Rewa SF Express,Pune,15:15
+20151,Hadapsar Rewa SF Express,Ahilyanagar,17:20
+20151,Hadapsar Rewa SF Express,Kopergaon,19:00
+20151,Hadapsar Rewa SF Express,Manmad,20:20
+20151,Hadapsar Rewa SF Express,Bhusaval,22:40
+20151,Hadapsar Rewa SF Express,Akola,00:50
+20151,Hadapsar Rewa SF Express,Badnera,02:03
+20151,Hadapsar Rewa SF Express,Wardha Jn.,03:21
+20151,Hadapsar Rewa SF Express,Nagpur,05:05
+20151,Hadapsar Rewa SF Express,Gondia,07:15
+17629,Hadapsar Hazur Sahib Nanded Express,Pune,21:50
+17629,Hadapsar Hazur Sahib Nanded Express,Ahilyanagar,23:50
+17629,Hadapsar Hazur Sahib Nanded Express,Belapur,00:55
+17629,Hadapsar Hazur Sahib Nanded Express,Kopergaon,01:45
+17629,Hadapsar Hazur Sahib Nanded Express,Manmad,03:10
+17629,Hadapsar Hazur Sahib Nanded Express,Parbhani,08:22
+17629,Hadapsar Hazur Sahib Nanded Express,Purna,09:10
+17629,Hadapsar Hazur Sahib Nanded Express,Hazur Sahib Nanded,10:20
+17613,Panvel H.S Nanded Express,Panvel,16:00
+17613,Panvel H.S Nanded Express,Pune,19:20
+17613,Panvel H.S Nanded Express,Daund,20:50
+17613,Panvel H.S Nanded Express,Kurduwadi,22:25
+17613,Panvel H.S Nanded Express,Dharashiv,00:20
+17613,Panvel H.S Nanded Express,Latur,02:10
+17613,Panvel H.S Nanded Express,Latur Road,03:30
+17613,Panvel H.S Nanded Express,Parbhani,06:52
+17613,Panvel H.S Nanded Express,Purna,07:30
+17613,Panvel H.S Nanded Express,Hazur Sahib Nanded,08:45
+20858,Sai Nagar Shirdi Puri Express,Sai Nagar Shirdi,14:10
+20858,Sai Nagar Shirdi Puri Express,Kopergaon,14:47
+20858,Sai Nagar Shirdi Puri Express,Manmad,15:55
+20858,Sai Nagar Shirdi Puri Express,Bhusaval,18:15
+20858,Sai Nagar Shirdi Puri Express,Akola,20:35
+20858,Sai Nagar Shirdi Puri Express,Badnera,22:15
+20858,Sai Nagar Shirdi Puri Express,Wardha Jn.,23:30
+20858,Sai Nagar Shirdi Puri Express,Nagpur,01:30
+20858,Sai Nagar Shirdi Puri Express,Gondia,03:20
+11407,Pune Lucknow Junction Express,Pune,22:00
+11407,Pune Lucknow Junction Express,Ahilyanagar,00:30
+11407,Pune Lucknow Junction Express,Kopergaon,02:15
+11407,Pune Lucknow Junction Express,Manmad,03:35
+11407,Pune Lucknow Junction Express,Bhusaval,06:35
+15030,Pune Gorakhpur Express,Pune,11:20
+15030,Pune Gorakhpur Express,Ahilyanagar,13:35
+15030,Pune Gorakhpur Express,Kopergaon,15:30
+15030,Pune Gorakhpur Express,Manmad,17:25
+15030,Pune Gorakhpur Express,Bhusaval,19:45
+22107,Mumbai CSMT Latur Express,Pune,00:35
+22107,Mumbai CSMT Latur Express,Daund,01:52
+22107,Mumbai CSMT Latur Express,Kurduwadi,03:15
+22107,Mumbai CSMT Latur Express,Dharashiv,04:40
+22107,Mumbai CSMT Latur Express,Latur,06:30
+12221,Pune Howrah Duronto Express,Pune,15:15
+12221,Pune Howrah Duronto Express,Manmad,20:20
+12221,Pune Howrah Duronto Express,Bhusaval,22:40
+12221,Pune Howrah Duronto Express,Nagpur,04:15
+22117,Pune Amravati AC Express,Pune,22:00
+22117,Pune Amravati AC Express,Ahilyanagar,00:30
+22117,Pune Amravati AC Express,Kopergaon,02:15
+22117,Pune Amravati AC Express,Manmad,03:35
+22117,Pune Amravati AC Express,Bhusaval,06:10
+22117,Pune Amravati AC Express,Akola,08:35
+22117,Pune Amravati AC Express,Badnera,10:00
+22117,Pune Amravati AC Express,Amravati,11:00
+20821,Pune Santragachi Humsafar Express,Panvel,13:05
+20821,Pune Santragachi Humsafar Express,Pune,10:40
+20821,Pune Santragachi Humsafar Express,Bhusaval,19:35
+20821,Pune Santragachi Humsafar Express,Nagpur,01:25
+20821,Pune Santragachi Humsafar Express,Gondia,03:02
+11412,Sangli arli Vaijnat Express,Sangli,20:35
+11412,Sangli arli Vaijnat Express,Miraj,20:55
+11412,Sangli arli Vaijnat Express,Pandharpur,23:15
+11412,Sangli arli Vaijnat Express,Kurduwadi,23:55
+11412,Sangli arli Vaijnat Express,Dharashiv,01:30
+11412,Sangli arli Vaijnat Express,Latur,03:35
+11412,Sangli arli Vaijnat Express,Latur Road,04:30
+11412,Sangli arli Vaijnat Express,Parbhani,06:17
+11405,Pune Amravati Express,Pune,22:45
+11405,Pune Amravati Express,Daund,00:05
+11405,Pune Amravati Express,Pandharpur,23:15
+11405,Pune Amravati Express,Kurduwadi,23:55
+11405,Pune Amravati Express,Dharashiv,01:30
+11405,Pune Amravati Express,Latur,03:35
+11405,Pune Amravati Express,Latur Road,06:20
+11405,Pune Amravati Express,Parbhani,09:40
+11405,Pune Amravati Express,Purna,10:40
+11405,Pune Amravati Express,Akola,14:55
+11405,Pune Amravati Express,Badnera,16:50
+11405,Pune Amravati Express,Amravati,17:30
+11405,Pune Amravati Express,Wardha Jn.,16:50
+15029,Gorakhpur Pune Express,Bhusaval,15:50
+15029,Gorakhpur Pune Express,Manmad,18:35
+15029,Gorakhpur Pune Express,Kopergaon,19:50
+15029,Gorakhpur Pune Express,Ahilyanagar,22:00
+15029,Gorakhpur Pune Express,Pune,02:15
+22108,Latur Mumbai CSMT Express,Latur,22:30
+22108,Latur Mumbai CSMT Express,Dharashiv,23:35
+22108,Latur Mumbai CSMT Express,Kurduwadi,01:10
+22108,Latur Mumbai CSMT Express,Daund,02:50
+22108,Latur Mumbai CSMT Express,Pune,04:10
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Gondia,08:10
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Nagpur,10:45
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Wardha J n.,11:59
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Badnera,14:15
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Akola,15:20
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Bhusaval,17:50
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Manmad,20:50
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Kopergaon,21:45
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Belapur,22:30
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Ahilyanagar,23:55
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Pune,03:40
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Satara,06:35
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Sangli,09:00
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Miraj,09:50
+11040,Gondia Shri Chhatrapati Shahu Maharaj (T) Maharashtra Express,Shri Chhatrapati Shahu Maharaj (T),11:25
+22846,Hatia Pune Express,Gondia,08:35
+22846,Hatia Pune Express,Nagpur,11:00
+22846,Hatia Pune Express,Wardha J n.,12:00
+22846,Hatia Pune Express,Badnera,13:40
+22846,Hatia Pune Express,Akola,14:40
+22846,Hatia Pune Express,Bhusaval,16:45
+22846,Hatia Pune Express,Manmad,19:05
+22846,Hatia Pune Express,Kopergaon,19:50
+22846,Hatia Pune Express,Ahilyanagar,22:00
+22846,Hatia Pune Express,Daund,00:20
+22846,Hatia Pune Express,Pune,02:45
+11403,Nagpur Shri Chhatrapati Shahu Maharaj (T) Express,Nagpur,15:15
+11403,Nagpur Shri Chhatrapati Shahu Maharaj (T) Express,Wardha J n.,16:15
+11403,Nagpur Shri Chhatrapati Shahu Maharaj (T) Express,Badnera,18:20
+11403,Nagpur Shri Chhatrapati Shahu Maharaj (T) Express,Akola,20:00
+11403,Nagpur Shri Chhatrapati Shahu Maharaj (T) Express,Purna,23:15
+11403,Nagpur Shri Chhatrapati Shahu Maharaj (T) Express,Parbhani,00:15
+11403,Nagpur Shri Chhatrapati Shahu Maharaj (T) Express,Latur Road,04:30
+11403,Nagpur Shri Chhatrapati Shahu Maharaj (T) Express,Latur,05:25
+11403,Nagpur Shri Chhatrapati Shahu Maharaj (T) Express,Dharashiv,06:48
+11403,Nagpur Shri Chhatrapati Shahu Maharaj (T) Express,Kurduwadi,08:25
+11403,Nagpur Shri Chhatrapati Shahu Maharaj (T) Express,Pandharpur,09:10
+11403,Nagpur Shri Chhatrapati Shahu Maharaj (T) Express,Miraj,12:05
+11403,Nagpur Shri Chhatrapati Shahu Maharaj (T) Express,Shri Chhatrapati Shahu Maharaj (T),13:30
+11046,Dhanbad Shri Chhatrpati Shahu Maharaj (T) Deeksha- bhoomi Express,Nagpur,09:45
+11046,Dhanbad Shri Chhatrpati Shahu Maharaj (T) Deeksha- bhoomi Express,Hazur Sahib Nanded,21:25
+11046,Dhanbad Shri Chhatrpati Shahu Maharaj (T) Deeksha- bhoomi Express,Purna,22:00
+11046,Dhanbad Shri Chhatrpati Shahu Maharaj (T) Deeksha- bhoomi Express,Parbhani,23:08
+11046,Dhanbad Shri Chhatrpati Shahu Maharaj (T) Deeksha- bhoomi Express,Latur Road,03:10
+11046,Dhanbad Shri Chhatrpati Shahu Maharaj (T) Deeksha- bhoomi Express,Latur,03:45
+11046,Dhanbad Shri Chhatrpati Shahu Maharaj (T) Deeksha- bhoomi Express,Dharashiv,05:10
+11046,Dhanbad Shri Chhatrpati Shahu Maharaj (T) Deeksha- bhoomi Express,Kurduwadi,07:30
+11046,Dhanbad Shri Chhatrpati Shahu Maharaj (T) Deeksha- bhoomi Express,Pandharpur,08:20
+11046,Dhanbad Shri Chhatrpati Shahu Maharaj (T) Deeksha- bhoomi Express,Miraj,11:35
+11046,Dhanbad Shri Chhatrpati Shahu Maharaj (T) Deeksha- bhoomi Express,Shri Chhatrapati Shahu Maharaj (T),12:45
+12130,Howrah Pune Azad Hind Express,Gondia,13:40
+12130,Howrah Pune Azad Hind Express,Nagpur,15:55
+12130,Howrah Pune Azad Hind Express,Wardha J n.,17:00
+12130,Howrah Pune Azad Hind Express,Badnera,18:40
+12130,Howrah Pune Azad Hind Express,Akola,19:40
+12130,Howrah Pune Azad Hind Express,Bhusaval,22:00
+12130,Howrah Pune Azad Hind Express,Manmad,00:35
+12130,Howrah Pune Azad Hind Express,Kopergaon,01:35
+12130,Howrah Pune Azad Hind Express,Belapur,02:20
+12130,Howrah Pune Azad Hind Express,Ahilyanagar,03:30
+12130,Howrah Pune Azad Hind Express,Pune,07:00
+11402,Supaul Pune Express,Bhusaval,18:35
+11402,Supaul Pune Express,Manmad,21:20
+11402,Supaul Pune Express,Ahilyanagar,00:30
+11402,Supaul Pune Express,Pune,04:00
+12849,Bilaspur Pune Express,Gondia,15:40
+12849,Bilaspur Pune Express,Nagpur,18:00
+12849,Bilaspur Pune Express,Wardha J n.,19:05
+12849,Bilaspur Pune Express,Badnera,20:55
+12849,Bilaspur Pune Express,Akola,21:55
+12849,Bilaspur Pune Express,Bhusaval,00:15
+12849,Bilaspur Pune Express,Manmad,02:35
+12849,Bilaspur Pune Express,Kopergaon,03:40
+12849,Bilaspur Pune Express,Belapur,04:20
+12849,Bilaspur Pune Express,Ahilyanagar,05:15
+12849,Bilaspur Pune Express,Pune,09:30
+12136,Nagpur Pune Express,Nagpur,18:00
+12136,Nagpur Pune Express,Wardha J n.,19:05
+12136,Nagpur Pune Express,Badnera,20:55
+12136,Nagpur Pune Express,Akola,21:55
+12136,Nagpur Pune Express,Bhusaval,00:15
+12136,Nagpur Pune Express,Manmad,02:35
+12136,Nagpur Pune Express,Kopergaon,03:40
+12136,Nagpur Pune Express,Belapur,04:20
+12136,Nagpur Pune Express,Ahilyanagar,05:15
+12136,Nagpur Pune Express,Pune,09:30
+12114,Nagpur Pune Garib Rath Express,Nagpur,18:00
+12114,Nagpur Pune Garib Rath Express,Wardha J n.,19:05
+12114,Nagpur Pune Garib Rath Express,Badnera,20:55
+12114,Nagpur Pune Garib Rath Express,Akola,21:55
+12114,Nagpur Pune Garib Rath Express,Bhusaval,00:15
+12114,Nagpur Pune Garib Rath Express,Manmad,02:35
+12114,Nagpur Pune Garib Rath Express,Ahilyanagar,05:15
+12114,Nagpur Pune Garib Rath Express,Pune,09:30
+20152,Rewa Hadapsar SF Express,Gondia,15:40
+20152,Rewa Hadapsar SF Express,Nagpur,18:20
+20152,Rewa Hadapsar SF Express,Wardha J n.,19:45
+20152,Rewa Hadapsar SF Express,Badnera,21:40
+20152,Rewa Hadapsar SF Express,Akola,22:40
+20152,Rewa Hadapsar SF Express,Bhusaval,00:40
+20152,Rewa Hadapsar SF Express,Manmad,03:20
+20152,Rewa Hadapsar SF Express,Kopergaon,04:30
+20152,Rewa Hadapsar SF Express,Ahilyanagar,06:40
+20152,Rewa Hadapsar SF Express,Pune,09:45
+12104,Lucknow Pune Express,Bhusaval,09:05
+12104,Lucknow Pune Express,Manmad,11:45
+12104,Lucknow Pune Express,Kopergaon,12:35
+12104,Lucknow Pune Express,Pune,17:50
+17630,Hazur Sahib Nanded Hadapsar Express,Hazur Sahib Nanded,15:30
+17630,Hazur Sahib Nanded Hadapsar Express,Purna,16:00
+17630,Hazur Sahib Nanded Hadapsar Express,Parbhani,16:30
+17630,Hazur Sahib Nanded Hadapsar Express,Manmad,22:45
+17630,Hazur Sahib Nanded Hadapsar Express,Kopergaon,23:30
+17630,Hazur Sahib Nanded Hadapsar Express,Belapur,00:10
+17630,Hazur Sahib Nanded Hadapsar Express,Ahilyanagar,01:30
+17630,Hazur Sahib Nanded Hadapsar Express,Pune,04:35
+17614,Hazur Sahib Nanded Panvel Express,Hazur Sahib Nanded,18:20
+17614,Hazur Sahib Nanded Panvel Express,Purna,18:55
+17614,Hazur Sahib Nanded Panvel Express,Parbhani,19:20
+17614,Hazur Sahib Nanded Panvel Express,Latur Road,23:00
+17614,Hazur Sahib Nanded Panvel Express,Latur,23:35
+17614,Hazur Sahib Nanded Panvel Express,Dharashiv,00:50
+17614,Hazur Sahib Nanded Panvel Express,Kurduwadi,02:35
+17614,Hazur Sahib Nanded Panvel Express,Daund,04:15
+17614,Hazur Sahib Nanded Panvel Express,Pune,05:30
+17614,Hazur Sahib Nanded Panvel Express,Panvel,08:35
+20857,Puri Sai Nagar Shirdi Express,Gondia,15:25
+20857,Puri Sai Nagar Shirdi Express,Nagpur,17:45
+20857,Puri Sai Nagar Shirdi Express,Wardha Jn.,18:50
+20857,Puri Sai Nagar Shirdi Express,Badnera,20:40
+20857,Puri Sai Nagar Shirdi Express,Akola,21:40
+20857,Puri Sai Nagar Shirdi Express,Bhusaval,23:50
+20857,Puri Sai Nagar Shirdi Express,Manmad,02:20
+20857,Puri Sai Nagar Shirdi Express,Kopergaon,03:25
+20857,Puri Sai Nagar Shirdi Express,Sai Nagar Shirdi,04:35
+11408,Lucknow Pune Express,Bhusaval,00:50
+11408,Lucknow Pune Express,Manmad,03:10
+11408,Lucknow Pune Express,Kopergaon,04:15
+11408,Lucknow Pune Express,Ahilyanagar,06:45
+11408,Lucknow Pune Express,Pune,10:50
+12222,Howrah Pune Duronto Express,Nagpur,20:55
+12222,Howrah Pune Duronto Express,Bhusaval,01:30
+12222,Howrah Pune Duronto Express,Manmad,04:00
+12222,Howrah Pune Duronto Express,Pune,09:45
+22118,Amravati Pune AC Express,Amravati,18:50
+22118,Amravati Pune AC Express,Badnera,19:10
+22118,Amravati Pune AC Express,Akola,20:15
+22118,Amravati Pune AC Express,Bhusaval,22:20
+22118,Amravati Pune AC Express,Manmad,00:55
+22118,Amravati Pune AC Express,Kopergaon,02:00
+22118,Amravati Pune AC Express,Ahilyanagar,04:00
+22118,Amravati Pune AC Express,Pune,07:15
+20822,Santragachi Pune Humsafar Express,Gondia,09:05
+20822,Santragachi Pune Humsafar Express,Nagpur,11:25
+20822,Santragachi Pune Humsafar Express,Bhusaval,16:45
+20822,Santragachi Pune Humsafar Express,Pune,02:45
+11411,Parli vaijnath Sangli Express,Hazur Sahib Nanded,08:15
+11411,Parli vaijnath Sangli Express,Latur Road,09:45
+11411,Parli vaijnath Sangli Express,Latur,10:15
+11411,Parli vaijnath Sangli Express,Dharashiv,12:00
+11411,Parli vaijnath Sangli Express,Kurduwadi,13:40
+11411,Parli vaijnath Sangli Express,Pandharpur,14:40
+11411,Parli vaijnath Sangli Express,Miraj,18:25
+11411,Parli vaijnath Sangli Express,Sangli,18:50
+11406,Amravati Pune Express,Amravati,19:50
+11406,Amravati Pune Express,Badnera,20:08
+11406,Amravati Pune Express,Akola,21:30
+11406,Amravati Pune Express,Purna,01:50
+11406,Amravati Pune Express,Parbhani,02:50
+11406,Amravati Pune Express,Latur Road,07:50
+11406,Amravati Pune Express,Latur,08:30
+11406,Amravati Pune Express,Dharashiv,09:50
+11406,Amravati Pune Express,Kurduwadi,11:20
+11406,Amravati Pune Express,Daund,14:50
+11406,Amravati Pune Express,Pune,16:25
+1139,Nagpur Madgaon Special,Nagpur,15:05
+1139,Nagpur Madgaon Special,Wardha Jn.,16:10
+1139,Nagpur Madgaon Special,Badnera,18:03
+1139,Nagpur Madgaon Special,Akola,19:03
+1139,Nagpur Madgaon Special,Bhusaval,21:30
+1139,Nagpur Madgaon Special,Panvel,04:48
+22131,Pune Banaras Express,Pune,16:15
+22131,Pune Banaras Express,Ahilyanagar,18:30
+22131,Pune Banaras Express,Belapur,19:40
+22131,Pune Banaras Express,Kopergaon,20:30
+22131,Pune Banaras Express,Manmad,21:50
+22131,Pune Banaras Express,Bhusaval,00:15
+11034,Darbhanga Pune Express,Bhusaval,22:20
+11034,Darbhanga Pune Express,Manmad,00:55
+11034,Darbhanga Pune Express,Kopergaon,02:00
+11034,Darbhanga Pune Express,Belapur,02:45
+11034,Darbhanga Pune Express,Ahilyanagar,04:00
+11034,Darbhanga Pune Express,Pune,07:15
+22132,Manduadih Pune Gyan Ganga SF Express,Bhusaval,22:20
+22132,Manduadih Pune Gyan Ganga SF Express,Manmad,00:55
+22132,Manduadih Pune Gyan Ganga SF Express,Kopergaon,02:00
+22132,Manduadih Pune Gyan Ganga SF Express,Belapur,02:45
+22132,Manduadih Pune Gyan Ganga SF Express,Ahilyanagar,04:00
+22132,Manduadih Pune Gyan Ganga SF Express,Pune,07:15

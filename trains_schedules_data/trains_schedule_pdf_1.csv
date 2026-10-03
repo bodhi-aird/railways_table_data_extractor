@@ -1,0 +1,1358 @@
+train_num,train_name,halt_station_name,departure_time
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Delhi,07:35
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Ghaziabad,08:16
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Khurja,09:05
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Aligarh,09:50
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Tundla,11:05
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Firozabad,11:28
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Shikohabad,11:45
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Etawah,12:18
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Kanpur,14:55
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Fatehpur,15:53
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Prayagraj,17:45
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Mirzapur,19:18
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,P U t p a D d e h e y n a y D a a J y n a l,21:30
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Buxar,22:40
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Ara,23:26
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Danapur,00:03
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Patna,00:35
+15484,Delhi Alipurduar Jn. Sikkim Mahananda Express,Mokama,01:58
+12312,Kalka Howrah Netaji Express,Delhi,06:15
+12312,Kalka Howrah Netaji Express,Ghaziabad,07:00
+12312,Kalka Howrah Netaji Express,Khurja,07:58
+12312,Kalka Howrah Netaji Express,Aligarh,08:35
+12312,Kalka Howrah Netaji Express,Tundla,09:50
+12312,Kalka Howrah Netaji Express,Firozabad,10:10
+12312,Kalka Howrah Netaji Express,Shikohabad,10:35
+12312,Kalka Howrah Netaji Express,Etawah,11:20
+12312,Kalka Howrah Netaji Express,Kanpur,13:55
+12312,Kalka Howrah Netaji Express,Fatehpur,15:05
+12312,Kalka Howrah Netaji Express,Prayagraj,17:10
+12312,Kalka Howrah Netaji Express,Mirzapur,18:25
+12312,Kalka Howrah Netaji Express,P U t p a D d e h e y n a y D a a J y n a l,20:35
+12312,Kalka Howrah Netaji Express,Sasaram,22:00
+12312,Kalka Howrah Netaji Express,Dehri-on-Sone,22:08
+12312,Kalka Howrah Netaji Express,Gaya,23:35
+12312,Kalka Howrah Netaji Express,Parasnath,01:59
+12312,Kalka Howrah Netaji Express,N Bo e s ta e j i G S o u m bh o a h sh C handra,02:23
+12312,Kalka Howrah Netaji Express,Dhanbad,03:22
+12312,Kalka Howrah Netaji Express,Asansol,04:21
+12312,Kalka Howrah Netaji Express,Durgapur,04:55
+12312,Kalka Howrah Netaji Express,Barddhaman,06:16
+12312,Kalka Howrah Netaji Express,Howrah,08:05
+12324,Barmer Howrah Express,Delhi,07:55
+12324,Barmer Howrah Express,Kanpur,13:45
+12324,Barmer Howrah Express,Prayagraj,16:30
+12324,Barmer Howrah Express,P U t p a D d e h e y n a y D a a J y n a l,19:25
+12324,Barmer Howrah Express,Sasaram,20:30
+12324,Barmer Howrah Express,Gaya,22:10
+12324,Barmer Howrah Express,Dhanbad,01:20
+12324,Barmer Howrah Express,Asansol,02:16
+12324,Barmer Howrah Express,Howrah,05:45
+12392,New Delhi Rajgir Shramjeevi Express,New Delhi,13:10
+12392,New Delhi Rajgir Shramjeevi Express,Ghaziabad,13:51
+12392,New Delhi Rajgir Shramjeevi Express,Varanasi,02:20
+12392,New Delhi Rajgir Shramjeevi Express,P U t p a D d e h e y n a y D a a J y n a l,03:35
+12392,New Delhi Rajgir Shramjeevi Express,Buxar,04:52
+12392,New Delhi Rajgir Shramjeevi Express,Ara,06:05
+12392,New Delhi Rajgir Shramjeevi Express,Danapur,06:50
+12392,New Delhi Rajgir Shramjeevi Express,Patna,07:25
+12392,New Delhi Rajgir Shramjeevi Express,Rajendranagar (T) a d ,07:35
+12398,New Delhi Gaya Mahabodhi Express,New Delhi,12:25
+12398,New Delhi Gaya Mahabodhi Express,Aligarh,14:05
+12398,New Delhi Gaya Mahabodhi Express,Kanpur,18:00
+12398,New Delhi Gaya Mahabodhi Express,Prayagraj,20:30
+12398,New Delhi Gaya Mahabodhi Express,P U t p a D d e h e y n a y D a a J y n a l,23:25
+12398,New Delhi Gaya Mahabodhi Express,Sasaram,00:45
+12398,New Delhi Gaya Mahabodhi Express,Dehri-on-Sone,01:02
+12398,New Delhi Gaya Mahabodhi Express,Gaya,03:00
+12506,Anand Vihar (T) Kamakhya North East Express,Anand Vihar (T),07:40
+12506,Anand Vihar (T) Kamakhya North East Express,Aligarh,09:13
+12506,Anand Vihar (T) Kamakhya North East Express,Tundla,10:25
+12506,Anand Vihar (T) Kamakhya North East Express,Etawah,11:38
+12506,Anand Vihar (T) Kamakhya North East Express,Kanpur,13:35
+12506,Anand Vihar (T) Kamakhya North East Express,Fatehpur,14:30
+12506,Anand Vihar (T) Kamakhya North East Express,Prayagraj,16:15
+12506,Anand Vihar (T) Kamakhya North East Express,P U t p a D d e h e y n a y D a a J y n a l,18:45
+12506,Anand Vihar (T) Kamakhya North East Express,Buxar,19:48
+12506,Anand Vihar (T) Kamakhya North East Express,Ara,20:36
+12506,Anand Vihar (T) Kamakhya North East Express,Danapur,21:15
+12506,Anand Vihar (T) Kamakhya North East Express,Patliputra Jn.,21:55
+12368,Anand Vihar (T) Bhagalpur Vikram Shila Express,Anand Vihar (T),13:15
+12368,Anand Vihar (T) Bhagalpur Vikram Shila Express,Kanpur,18:30
+12368,Anand Vihar (T) Bhagalpur Vikram Shila Express,P U t p a D d e h e y n a y D a a J y n a l,23:35
+12368,Anand Vihar (T) Bhagalpur Vikram Shila Express,Buxar,00:40
+12368,Anand Vihar (T) Bhagalpur Vikram Shila Express,Ara,01:25
+12368,Anand Vihar (T) Bhagalpur Vikram Shila Express,Patna,02:20
+12368,Anand Vihar (T) Bhagalpur Vikram Shila Express,Mokama,03:53
+12368,Anand Vihar (T) Bhagalpur Vikram Shila Express,Kiul,05:35
+12368,Anand Vihar (T) Bhagalpur Vikram Shila Express,Jamalpur,06:37
+12368,Anand Vihar (T) Bhagalpur Vikram Shila Express,Bhagalpur,08:15
+13258,Anand Vihar (T) Danapur Jan Sadharan Express,Anand Vihar (T),13:35
+13258,Anand Vihar (T) Danapur Jan Sadharan Express,Varanasi,03:00
+13258,Anand Vihar (T) Danapur Jan Sadharan Express,P U t p a D d e h e y n a y D a a J y n a l,03:55
+13258,Anand Vihar (T) Danapur Jan Sadharan Express,Buxar,05:13
+13258,Anand Vihar (T) Danapur Jan Sadharan Express,Ara,06:17
+13258,Anand Vihar (T) Danapur Jan Sadharan Express,Danapur,07:30
+22410,Anand Vihar (T) Gaya Garib rath Express,Anand Vihar (T),20:20
+22410,Anand Vihar (T) Gaya Garib rath Express,Ghaziabad,20:47
+22410,Anand Vihar (T) Gaya Garib rath Express,Kanpur,01:15
+22410,Anand Vihar (T) Gaya Garib rath Express,Prayagraj,03:50
+22410,Anand Vihar (T) Gaya Garib rath Express,P U t p a D d e h e y n a y D a a J y n a l,06:10
+22410,Anand Vihar (T) Gaya Garib rath Express,Sasaram,07:25
+22410,Anand Vihar (T) Gaya Garib rath Express,Dehri-on-Sone,07:40
+22410,Anand Vihar (T) Gaya Garib rath Express,Gaya,09:45
+12444,Anand Vihar (T) Haldia Express,Anand Vihar (T),20:20
+12444,Anand Vihar (T) Haldia Express,Ghaziabad,20:47
+12444,Anand Vihar (T) Haldia Express,Kanpur,01:05
+12444,Anand Vihar (T) Haldia Express,Prayagraj,03:50
+12444,Anand Vihar (T) Haldia Express,P U t p a D d e h e y n a y D a a J y n a l,06:10
+12444,Anand Vihar (T) Haldia Express,Gaya,08:40
+12444,Anand Vihar (T) Haldia Express,N Bo e s ta e j i G S o u m bh o a h sh C handra,11:25
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Fatehpur,15:40
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Varanasi,18:05
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,P U t p a D d e h e y n a y D a a J y n a l,18:55
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Buxar,20:20
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Ara,21:26
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Danapur,22:05
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Patna,22:30
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Mokama,23:48
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Kiul,00:18
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Jhajha,01:55
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Jasidih,03:28
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Madhupur,02:53
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Chittaranjan,03:38
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Asansol,04:07
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Durgapur,04:40
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Barddhaman,05:50
+12334,Prayag Raj Rambagh Howrah Vibhuti Express,Howrah,07:35
+12404,Lalgarh Prayagraj Express,Mathura,19:55
+12404,Lalgarh Prayagraj Express,Agra Cantt.,21:05
+12404,Lalgarh Prayagraj Express,Etawah,23:38
+12404,Lalgarh Prayagraj Express,Kanpur,01:35
+12404,Lalgarh Prayagraj Express,Fatehpur,02:40
+12404,Lalgarh Prayagraj Express,Prayagraj,04:50
+20404,Lalgarh Prayagraj Express,Mathura,19:55
+20404,Lalgarh Prayagraj Express,Agra Cantt.,21:05
+20404,Lalgarh Prayagraj Express,Etawah,23:38
+20404,Lalgarh Prayagraj Express,Kanpur,01:35
+20404,Lalgarh Prayagraj Express,Fatehpur,02:40
+20404,Lalgarh Prayagraj Express,Prayagraj,04:50
+13128,Ara Kolkata Garib Rath Express,Ara,18:30
+13128,Ara Kolkata Garib Rath Express,Danapur,19:08
+13128,Ara Kolkata Garib Rath Express,Patna,19:50
+13128,Ara Kolkata Garib Rath Express,Rajendranagar (T) a d ,19:58
+13128,Ara Kolkata Garib Rath Express,Mokama,21:18
+13128,Ara Kolkata Garib Rath Express,Kiul,21:58
+13128,Ara Kolkata Garib Rath Express,Jhajha,23:35
+13128,Ara Kolkata Garib Rath Express,Jasidih,00:09
+13128,Ara Kolkata Garib Rath Express,Madhupur,00:36
+13128,Ara Kolkata Garib Rath Express,Asansol,01:48
+13128,Ara Kolkata Garib Rath Express,Durgapur,02:20
+13128,Ara Kolkata Garib Rath Express,Kolkata,05:30
+22362,New Delhi Rajendra Nagar Amrit Bharat,New Delhi,19:10
+22362,New Delhi Rajendra Nagar Amrit Bharat,Ghaziabad,19:46
+22362,New Delhi Rajendra Nagar Amrit Bharat,Kanpur,00:30
+22362,New Delhi Rajendra Nagar Amrit Bharat,Prayagraj,03:05
+22362,New Delhi Rajendra Nagar Amrit Bharat,P U t p a D d e h e y n a y D a a J y n a l,07:45
+22362,New Delhi Rajendra Nagar Amrit Bharat,Buxar,08:49
+22362,New Delhi Rajendra Nagar Amrit Bharat,Ara,09:34
+22362,New Delhi Rajendra Nagar Amrit Bharat,Danapur,10:12
+22362,New Delhi Rajendra Nagar Amrit Bharat,Patna,10:50
+22362,New Delhi Rajendra Nagar Amrit Bharat,Rajendranagar (T) a d ,11:45
+13698,Delhi Gaya Amrit Bharat,Delhi,14:00
+13698,Delhi Gaya Amrit Bharat,Ghaziabad,14:40
+13698,Delhi Gaya Amrit Bharat,Kanpur,20:00
+13698,Delhi Gaya Amrit Bharat,Prayagraj,00:25
+13698,Delhi Gaya Amrit Bharat,P U t p a D d e h e y n a y D a a J y n a l,05:55
+13698,Delhi Gaya Amrit Bharat,Sasaram,07:06
+13698,Delhi Gaya Amrit Bharat,Dehri-on-Sone,07:24
+13698,Delhi Gaya Amrit Bharat,Gaya,09:00
+22198,Veerangna Laxmi Bai Kolkata Pratham Swatantrata Sangram Express,Kanpur ad,01:00
+22198,Veerangna Laxmi Bai Kolkata Pratham Swatantrata Sangram Express,Prayagraj ad,04:05
+22198,Veerangna Laxmi Bai Kolkata Pratham Swatantrata Sangram Express,Pt Deen Dayal UpadhyayaJn ad,07:05
+22198,Veerangna Laxmi Bai Kolkata Pratham Swatantrata Sangram Express,Buxar,08:12
+22198,Veerangna Laxmi Bai Kolkata Pratham Swatantrata Sangram Express,Ara,09:03
+22198,Veerangna Laxmi Bai Kolkata Pratham Swatantrata Sangram Express,Patna ad,10:05
+22198,Veerangna Laxmi Bai Kolkata Pratham Swatantrata Sangram Express,Kiul,11:48
+22198,Veerangna Laxmi Bai Kolkata Pratham Swatantrata Sangram Express,Jhajha,13:50
+22198,Veerangna Laxmi Bai Kolkata Pratham Swatantrata Sangram Express,Jasidih,14:22
+22198,Veerangna Laxmi Bai Kolkata Pratham Swatantrata Sangram Express,Madhupur,14:46
+22198,Veerangna Laxmi Bai Kolkata Pratham Swatantrata Sangram Express,Chittaranjan,15:40
+22198,Veerangna Laxmi Bai Kolkata Pratham Swatantrata Sangram Express,Asansol ad,16:37
+22198,Veerangna Laxmi Bai Kolkata Pratham Swatantrata Sangram Express,Barddhaman,18:03
+22198,Veerangna Laxmi Bai Kolkata Pratham Swatantrata Sangram Express,Kolkata,20:35
+14102,Kanpur Prayagra Sangam Express,Kanpur ad,09:40
+14102,Kanpur Prayagra Sangam Express, Unchahar ,12:25
+14102,Kanpur Prayagra Sangam Express, Prayag ,14:22
+14102,Kanpur Prayagra Sangam Express,Varanasi ad,14:45
+22214,Patna Shalimar Duronto Express,Patna ad,20:45
+22214,Patna Shalimar Duronto Express,Jasidih,00:09
+22214,Patna Shalimar Duronto Express,Asansol ad,01:48
+22214,Patna Shalimar Duronto Express, Shalimar,05:45
+13122,Ghazipur city Kolkata Express (Via Patna), Patliputra Jn ad,19:05
+13122,Ghazipur city Kolkata Express (Via Patna),Patna ad,19:50
+13122,Ghazipur city Kolkata Express (Via Patna),Kiul,21:58
+13122,Ghazipur city Kolkata Express (Via Patna),Jhajha,23:35
+13122,Ghazipur city Kolkata Express (Via Patna),Jasidih,00:09
+13122,Ghazipur city Kolkata Express (Via Patna),Madhupur,00:36
+13122,Ghazipur city Kolkata Express (Via Patna),Asansol ad,01:48
+13122,Ghazipur city Kolkata Express (Via Patna),Durgapur,02:20
+13122,Ghazipur city Kolkata Express (Via Patna),Kolkata,05:30
+22438,Anand Vihar (T) Prayagraj Humsafar Express,Anand Vihar (T),22:35
+22438,Anand Vihar (T) Prayagraj Humsafar Express,Kanpur ad,03:30
+22438,Anand Vihar (T) Prayagraj Humsafar Express,Prayagraj ad,06:20
+22460,Anand Vihar (T) Madhupur Hum- safar Express,Anand Vihar (T),12:40
+22460,Anand Vihar (T) Madhupur Hum- safar Express,Kanpur ad,17:40
+22460,Anand Vihar (T) Madhupur Hum- safar Express,Prayagraj ad,19:47
+22460,Anand Vihar (T) Madhupur Hum- safar Express,Pt Deen Dayal UpadhyayaJn ad,22:10
+22460,Anand Vihar (T) Madhupur Hum- safar Express,Buxar,23:11
+22460,Anand Vihar (T) Madhupur Hum- safar Express,Ara,23:54
+22460,Anand Vihar (T) Madhupur Hum- safar Express,Patna ad,00:50
+22460,Anand Vihar (T) Madhupur Hum- safar Express,Mokama,01:43
+22460,Anand Vihar (T) Madhupur Hum- safar Express,Kiul,02:14
+22460,Anand Vihar (T) Madhupur Hum- safar Express,Jhajha,04:00
+22460,Anand Vihar (T) Madhupur Hum- safar Express,Jasidih,04:37
+22460,Anand Vihar (T) Madhupur Hum- safar Express,Madhupur,05:30
+22466,Anand Vihar (T) Madhupur Baba Vaidyanath Dham Deoghar Express,Anand Vihar (T),12:40
+22466,Anand Vihar (T) Madhupur Baba Vaidyanath Dham Deoghar Express,Kanpur ad,17:40
+22466,Anand Vihar (T) Madhupur Baba Vaidyanath Dham Deoghar Express,Prayagraj ad,19:47
+22466,Anand Vihar (T) Madhupur Baba Vaidyanath Dham Deoghar Express,Pt Deen Dayal UpadhyayaJn ad,22:10
+22466,Anand Vihar (T) Madhupur Baba Vaidyanath Dham Deoghar Express,Buxar,23:11
+22466,Anand Vihar (T) Madhupur Baba Vaidyanath Dham Deoghar Express,Ara,23:54
+22466,Anand Vihar (T) Madhupur Baba Vaidyanath Dham Deoghar Express,Patna ad,00:50
+22466,Anand Vihar (T) Madhupur Baba Vaidyanath Dham Deoghar Express,Mokama,01:43
+22466,Anand Vihar (T) Madhupur Baba Vaidyanath Dham Deoghar Express,Kiul,02:14
+22466,Anand Vihar (T) Madhupur Baba Vaidyanath Dham Deoghar Express,Jhajha,04:00
+22466,Anand Vihar (T) Madhupur Baba Vaidyanath Dham Deoghar Express,Jasidih,04:37
+22466,Anand Vihar (T) Madhupur Baba Vaidyanath Dham Deoghar Express,Madhupur,05:30
+13030,Mokama Howrah Express,Mokama,15:00
+13030,Mokama Howrah Express,Kiul,16:10
+13030,Mokama Howrah Express,Jhajha,18:10
+13030,Mokama Howrah Express,Jasidih,19:00
+13030,Mokama Howrah Express,Madhupur,19:36
+13030,Mokama Howrah Express,Chittaranjan,20:42
+13030,Mokama Howrah Express,Asansol ad,21:35
+13030,Mokama Howrah Express,Durgapur,22:23
+13030,Mokama Howrah Express,Barddhaman,00:29
+13030,Mokama Howrah Express,Bandel,01:45
+13030,Mokama Howrah Express,Howrah,03:35
+22306,Jasidih SMVT Bengaluru Express,Jasidih,07:10
+22306,Jasidih SMVT Bengaluru Express,Madhupur,07:22
+22306,Jasidih SMVT Bengaluru Express,Asansol ad,08:45
+22306,Jasidih SMVT Bengaluru Express,Durgapur,09:13
+22306,Jasidih SMVT Bengaluru Express,Barddhaman,10:31
+22306,Jasidih SMVT Bengaluru Express,Dankuni,11:30
+22500,Varanasi Deoghar Vande Bharat Express,Varanasi ad,06:20
+22500,Varanasi Deoghar Vande Bharat Express,Pt Deen Dayal UpadhyayaJn ad,07:05
+22500,Varanasi Deoghar Vande Bharat Express,Sasaram,08:08
+22500,Varanasi Deoghar Vande Bharat Express,Gaya ad,09:20
+22500,Varanasi Deoghar Vande Bharat Express,Kiul,11:30
+22500,Varanasi Deoghar Vande Bharat Express,Jasidih,13:09
+22500,Varanasi Deoghar Vande Bharat Express,Asansol ad,13:40
+20176,gra Can Banaras nde Bha Express,Agra Cantt.,06:00
+20176,gra Can Banaras nde Bha Express,Tundla ad,06:45
+20176,gra Can Banaras nde Bha Express,Etawah,07:35
+20176,gra Can Banaras nde Bha Express,Kanpur ad,09:10
+20176,gra Can Banaras nde Bha Express,Prayagraj ad,11:15
+20176,gra Can Banaras nde Bha Express,Varanasi ad,13:00
+12330/12380,Anand Vihar (T) Sealdah West Bengal Sampark Kranti Express /Amritsar Sealdah Jallianwala Bagh Express,Delhi ad,20:15
+12330/12380,Anand Vihar (T) Sealdah West Bengal Sampark Kranti Express /Amritsar Sealdah Jallianwala Bagh Express,Anand Vihar (T),20:20
+12330/12380,Anand Vihar (T) Sealdah West Bengal Sampark Kranti Express /Amritsar Sealdah Jallianwala Bagh Express,Kanpur ad,01:05
+12330/12380,Anand Vihar (T) Sealdah West Bengal Sampark Kranti Express /Amritsar Sealdah Jallianwala Bagh Express,Pt Deen Dayal Upadhyaya Jn ad,06:10
+12330/12380,Anand Vihar (T) Sealdah West Bengal Sampark Kranti Express /Amritsar Sealdah Jallianwala Bagh Express,Sasaram,07:12
+12330/12380,Anand Vihar (T) Sealdah West Bengal Sampark Kranti Express /Amritsar Sealdah Jallianwala Bagh Express,Gaya,08:40
+12330/12380,Anand Vihar (T) Sealdah West Bengal Sampark Kranti Express /Amritsar Sealdah Jallianwala Bagh Express,Dhanbad ad,11:42
+12330/12380,Anand Vihar (T) Sealdah West Bengal Sampark Kranti Express /Amritsar Sealdah Jallianwala Bagh Express,Asansol ad,12:53
+12330/12380,Anand Vihar (T) Sealdah West Bengal Sampark Kranti Express /Amritsar Sealdah Jallianwala Bagh Express,Durgapur,13:27
+12330/12380,Anand Vihar (T) Sealdah West Bengal Sampark Kranti Express /Amritsar Sealdah Jallianwala Bagh Express,Barddhaman,14:25
+12330/12380,Anand Vihar (T) Sealdah West Bengal Sampark Kranti Express /Amritsar Sealdah Jallianwala Bagh Express,Sealdah,16:35
+12034,New Delhi Kan- pur Shatabdi Express, New Delhi,15:40
+12034,New Delhi Kan- pur Shatabdi Express,Ghaziabad,16:12
+12034,New Delhi Kan- pur Shatabdi Express,Aligarh,17:08
+12034,New Delhi Kan- pur Shatabdi Express,Etawah,19:05
+12034,New Delhi Kan- pur Shatabdi Express,Kanpur ad,20:50
+12382,New Delhi Howrah Poorva Express (via Gaya), New Delhi,17:40
+12382,New Delhi Howrah Poorva Express (via Gaya),Aligarh,19:13
+12382,New Delhi Howrah Poorva Express (via Gaya),Tundla ad,20:15
+12382,New Delhi Howrah Poorva Express (via Gaya),Etawah,21:08
+12382,New Delhi Howrah Poorva Express (via Gaya),Kanpur ad,23:05
+12382,New Delhi Howrah Poorva Express (via Gaya),Prayagraj ad,01:45
+12382,New Delhi Howrah Poorva Express (via Gaya),Varanasi ad,04:45
+12382,New Delhi Howrah Poorva Express (via Gaya),Pt Deen Dayal Upadhyaya Jn ad,06:25
+12382,New Delhi Howrah Poorva Express (via Gaya),Sasaram,07:34
+12382,New Delhi Howrah Poorva Express (via Gaya),Dehri-on-Sone,07:52
+12382,New Delhi Howrah Poorva Express (via Gaya),Gaya,09:10
+12382,New Delhi Howrah Poorva Express (via Gaya),Parasnath ad,11:13
+12382,New Delhi Howrah Poorva Express (via Gaya),Dhanbad ad,12:05
+12382,New Delhi Howrah Poorva Express (via Gaya),Asansol ad,13:26
+12382,New Delhi Howrah Poorva Express (via Gaya),Durgapur,13:56
+12382,New Delhi Howrah Poorva Express (via Gaya),Barddhaman,15:05
+12382,New Delhi Howrah Poorva Express (via Gaya),Howrah,17:00
+12304,New Delhi Howrah Poorva Express (via Patna), New Delhi,17:40
+12304,New Delhi Howrah Poorva Express (via Patna),Aligarh,19:13
+12304,New Delhi Howrah Poorva Express (via Patna),Tundla ad,20:15
+12304,New Delhi Howrah Poorva Express (via Patna),Etawah,21:08
+12304,New Delhi Howrah Poorva Express (via Patna),Kanpur ad,23:05
+12304,New Delhi Howrah Poorva Express (via Patna),Prayagraj ad,01:20
+12304,New Delhi Howrah Poorva Express (via Patna),Pt Deen Dayal Upadhyaya Jn ad,03:45
+12304,New Delhi Howrah Poorva Express (via Patna),Buxar,04:54
+12304,New Delhi Howrah Poorva Express (via Patna),Ara,05:50
+12304,New Delhi Howrah Poorva Express (via Patna),Danapur ad,06:13
+12304,New Delhi Howrah Poorva Express (via Patna),Patna ad,07:00
+12304,New Delhi Howrah Poorva Express (via Patna),Mokama,08:08
+12304,New Delhi Howrah Poorva Express (via Patna),Kiul,08:58
+12304,New Delhi Howrah Poorva Express (via Patna),Jhajha,11:00
+12304,New Delhi Howrah Poorva Express (via Patna),Jasidih,11:35
+12304,New Delhi Howrah Poorva Express (via Patna),Madhupur,11:57
+12304,New Delhi Howrah Poorva Express (via Patna),Chittaranjan,12:42
+12304,New Delhi Howrah Poorva Express (via Patna),Asansol ad,13:26
+12304,New Delhi Howrah Poorva Express (via Patna),Durgapur,13:56
+12304,New Delhi Howrah Poorva Express (via Patna),Barddhaman,15:05
+12304,New Delhi Howrah Poorva Express (via Patna),Howrah,17:00
+12314,New Delhi Sealdah Rajdhani Express, New Delhi,16:30
+12314,New Delhi Sealdah Rajdhani Express,Kanpur ad,21:15
+12314,New Delhi Sealdah Rajdhani Express,Pt Deen Dayal Upadhyaya Jn ad,01:30
+12314,New Delhi Sealdah Rajdhani Express,Gaya,03:45
+12314,New Delhi Sealdah Rajdhani Express,Dhanbad ad,06:23
+12314,New Delhi Sealdah Rajdhani Express,Asansol ad,07:03
+12314,New Delhi Sealdah Rajdhani Express,Durgapur,07:33
+12314,New Delhi Sealdah Rajdhani Express,Sealdah,10:10
+12302,New Delhi Howrah Rajdhani Express (via Gaya), New Delhi,16:50
+12302,New Delhi Howrah Rajdhani Express (via Gaya),Kanpur ad,21:35
+12302,New Delhi Howrah Rajdhani Express (via Gaya),Prayagraj ad,23:43
+12302,New Delhi Howrah Rajdhani Express (via Gaya),Pt Deen Dayal Upadhyaya Jn ad,01:40
+12302,New Delhi Howrah Rajdhani Express (via Gaya),Gaya,04:00
+12302,New Delhi Howrah Rajdhani Express (via Gaya),Parasnath ad,05:45
+12302,New Delhi Howrah Rajdhani Express (via Gaya),Dhanbad ad,06:38
+12302,New Delhi Howrah Rajdhani Express (via Gaya),Asansol ad,07:20
+12302,New Delhi Howrah Rajdhani Express (via Gaya),Howrah,09:55
+12306,New Delhi Howrah Rajdhani Express (via Patna), New Delhi,16:50
+12306,New Delhi Howrah Rajdhani Express (via Patna),Kanpur ad,21:35
+12306,New Delhi Howrah Rajdhani Express (via Patna),Prayagraj ad,23:43
+12306,New Delhi Howrah Rajdhani Express (via Patna),Pt Deen Dayal Upadhyaya Jn ad,01:40
+12306,New Delhi Howrah Rajdhani Express (via Patna),Patna ad,04:25
+12306,New Delhi Howrah Rajdhani Express (via Patna),Jasidih,07:43
+12306,New Delhi Howrah Rajdhani Express (via Patna),Madhupur,08:06
+12306,New Delhi Howrah Rajdhani Express (via Patna),Barddhaman,10:47
+12306,New Delhi Howrah Rajdhani Express (via Patna),Howrah,12:15
+12310,New Delhi Rajendra Nagar (T) Rajdhani Express, New Delhi,17:10
+12310,New Delhi Rajendra Nagar (T) Rajdhani Express,Kanpur ad,21:55
+12310,New Delhi Rajendra Nagar (T) Rajdhani Express,Prayagraj ad,00:03
+12310,New Delhi Rajendra Nagar (T) Rajdhani Express,Pt Deen Dayal Upadhyaya Jn ad,02:00
+12310,New Delhi Rajendra Nagar (T) Rajdhani Express,Danapur ad,04:17
+12310,New Delhi Rajendra Nagar (T) Rajdhani Express,Patna ad,04:45
+12310,New Delhi Rajendra Nagar (T) Rajdhani Express,Rajendranagar (T) ad,05:15
+12394,New Delhi Rajendra Nagar Sampoorna Kranti Express, New Delhi,17:30
+12394,New Delhi Rajendra Nagar Sampoorna Kranti Express,Kanpur ad,22:30
+12394,New Delhi Rajendra Nagar Sampoorna Kranti Express,Mirzapur,01:43
+12394,New Delhi Rajendra Nagar Sampoorna Kranti Express,Pt Deen Dayal Upadhyaya Jn ad,03:25
+12394,New Delhi Rajendra Nagar Sampoorna Kranti Express,Ara,05:13
+12394,New Delhi Rajendra Nagar Sampoorna Kranti Express,Danapur ad,05:50
+12394,New Delhi Rajendra Nagar Sampoorna Kranti Express,Patna ad,06:45
+12394,New Delhi Rajendra Nagar Sampoorna Kranti Express,Rajendranagar (T) ad,07:15
+20802,New Delhi Islampur Magadh Express, New Delhi,21:05
+20802,New Delhi Islampur Magadh Express,Aligarh,22:48
+20802,New Delhi Islampur Magadh Express,Tundla ad,00:10
+20802,New Delhi Islampur Magadh Express,Firozabad,00:33
+20802,New Delhi Islampur Magadh Express,Etawah,01:38
+20802,New Delhi Islampur Magadh Express,Kanpur ad,03:45
+20802,New Delhi Islampur Magadh Express,Prayagraj ad,06:25
+20802,New Delhi Islampur Magadh Express,Mirzapur,07:40
+20802,New Delhi Islampur Magadh Express,Pt Deen Dayal Upadhyaya Jn ad,09:05
+20802,New Delhi Islampur Magadh Express,Buxar,10:25
+20802,New Delhi Islampur Magadh Express,Ara,11:35
+20802,New Delhi Islampur Magadh Express,Danapur ad,12:13
+20802,New Delhi Islampur Magadh Express,Patna ad,12:45
+20802,New Delhi Islampur Magadh Express,Rajendranagar (T) ad,12:53
+20802,New Delhi Islampur Magadh Express,Islampur,15:25
+22406,Anand Vihar (T) Bhagalpur Garib Rath Express,Anand Vihar (T),17:20
+22406,Anand Vihar (T) Bhagalpur Garib Rath Express,Aligarh,18:53
+22406,Anand Vihar (T) Bhagalpur Garib Rath Express,Tundla ad,19:52
+22406,Anand Vihar (T) Bhagalpur Garib Rath Express,Kanpur ad,22:17
+22406,Anand Vihar (T) Bhagalpur Garib Rath Express,Prayagraj ad,00:25
+22406,Anand Vihar (T) Bhagalpur Garib Rath Express,Pt Deen Dayal Upadhyaya Jn ad,02:40
+22406,Anand Vihar (T) Bhagalpur Garib Rath Express,Buxar,03:51
+22406,Anand Vihar (T) Bhagalpur Garib Rath Express,Ara,04:53
+22406,Anand Vihar (T) Bhagalpur Garib Rath Express,Danapur ad,05:40
+22406,Anand Vihar (T) Bhagalpur Garib Rath Express,Patna ad,06:10
+22406,Anand Vihar (T) Bhagalpur Garib Rath Express,Rajendranagar (T) ad,06:19
+22406,Anand Vihar (T) Bhagalpur Garib Rath Express,Kiul,08:30
+22406,Anand Vihar (T) Bhagalpur Garib Rath Express, Jamalpur,09:20
+22406,Anand Vihar (T) Bhagalpur Garib Rath Express, Bhagalpur,11:00
+12436,Anand Vihar (T) Jaya nagar Garib Rath Express,Anand Vihar (T),17:20
+12436,Anand Vihar (T) Jaya nagar Garib Rath Express,Aligarh,18:53
+12436,Anand Vihar (T) Jaya nagar Garib Rath Express,Kanpur ad,22:17
+12436,Anand Vihar (T) Jaya nagar Garib Rath Express,Prayagraj ad,00:25
+12436,Anand Vihar (T) Jaya nagar Garib Rath Express,Pt Deen Dayal Upadhyaya Jn ad,02:40
+12436,Anand Vihar (T) Jaya nagar Garib Rath Express,Buxar,03:51
+12436,Anand Vihar (T) Jaya nagar Garib Rath Express,Ara,04:44
+12436,Anand Vihar (T) Jaya nagar Garib Rath Express,Danapur ad,05:40
+12436,Anand Vihar (T) Jaya nagar Garib Rath Express,Patna ad,06:10
+12436,Anand Vihar (T) Jaya nagar Garib Rath Express,Mokama,07:18
+12024,Patna Howrah Jan Shatabdi Express,Patna ad,05:30
+12024,Patna Howrah Jan Shatabdi Express,Mokama,06:38
+12024,Patna Howrah Jan Shatabdi Express,Jhajha,08:20
+12024,Patna Howrah Jan Shatabdi Express,Jasidih,08:47
+12024,Patna Howrah Jan Shatabdi Express,Madhupur,09:09
+12024,Patna Howrah Jan Shatabdi Express,Chittaranjan,09:55
+12024,Patna Howrah Jan Shatabdi Express,Asansol ad,10:37
+12024,Patna Howrah Jan Shatabdi Express,Durgapur,11:07
+12024,Patna Howrah Jan Shatabdi Express,Howrah,13:25
+12260,Bikaner Sealdah Duronto Express, New Delhi,19:45
+12260,Bikaner Sealdah Duronto Express,Kanpur ad,00:40
+12260,Bikaner Sealdah Duronto Express,Pt Deen Dayal Upadhyaya Jn ad,04:40
+12260,Bikaner Sealdah Duronto Express,Dhanbad ad,09:17
+12260,Bikaner Sealdah Duronto Express,Sealdah,13:25
+12236,Anand Vihar (T) Madhupur Hamsafar Express,Anand Vihar (T),17:20
+12236,Anand Vihar (T) Madhupur Hamsafar Express,Kanpur ad,22:17
+12236,Anand Vihar (T) Madhupur Hamsafar Express,Prayagraj ad,00:25
+12236,Anand Vihar (T) Madhupur Hamsafar Express,Pt Deen Dayal Upadhyaya Jn ad,02:40
+12236,Anand Vihar (T) Madhupur Hamsafar Express,Buxar,03:40
+12236,Anand Vihar (T) Madhupur Hamsafar Express,Ara,04:25
+12236,Anand Vihar (T) Madhupur Hamsafar Express,Patna ad,05:20
+12236,Anand Vihar (T) Madhupur Hamsafar Express,Mokama,06:21
+12236,Anand Vihar (T) Madhupur Hamsafar Express,Kiul,06:50
+12236,Anand Vihar (T) Madhupur Hamsafar Express,Jhajha,08:55
+12236,Anand Vihar (T) Madhupur Hamsafar Express,Jasidih,09:27
+12236,Anand Vihar (T) Madhupur Hamsafar Express,Madhupur,10:20
+22436,New Delhi Varanasi Vande Bharat Express, New Delhi,06:00
+22436,New Delhi Varanasi Vande Bharat Express,Kanpur ad,10:10
+22436,New Delhi Varanasi Vande Bharat Express,Prayagraj ad,12:10
+22436,New Delhi Varanasi Vande Bharat Express,Varanasi ad,14:00
+12376,Jasidih Tambaram Express,Jasidih,13:10
+12376,Jasidih Tambaram Express,Madhupur,13:32
+12376,Jasidih Tambaram Express,Chittaranjan,14:22
+12376,Jasidih Tambaram Express,Asansol ad,15:50
+19435,Ahmedabad Asansol Express,Pt Deen Dayal Upadhyaya Jn ad,10:00
+19435,Ahmedabad Asansol Express,Buxar,11:07
+19435,Ahmedabad Asansol Express,Ara,12:08
+19435,Ahmedabad Asansol Express,Danapur ad,12:52
+19435,Ahmedabad Asansol Express,Patna ad,13:35
+19435,Ahmedabad Asansol Express,Jhajha,17:45
+19435,Ahmedabad Asansol Express,Jasidih,18:17
+19435,Ahmedabad Asansol Express,Madhupur,18:40
+19435,Ahmedabad Asansol Express,Chittaranjan,19:26
+19435,Ahmedabad Asansol Express,Asansol ad,20:45
+11427,Pune Jasidih Express,Pt Deen Dayal Upadhyaya Jn ad,06:40
+11427,Pune Jasidih Express,Sasaram,07:50
+11427,Pune Jasidih Express,Gaya,09:45
+11427,Pune Jasidih Express,Kiul,12:05
+11427,Pune Jasidih Express,Jhajha,14:05
+11427,Pune Jasidih Express,Jasidih,15:10
+13252,Anand Vihar (T) Patna,Anand Vihar (T),23:30
+13252,Anand Vihar (T) Patna,Kanpur ad,06:10
+13252,Anand Vihar (T) Patna,Prayagraj ad,09:35
+13252,Anand Vihar (T) Patna,Pt Deen Dayal Upadhyaya Jn ad,14:45
+13252,Anand Vihar (T) Patna,Buxar,15:50
+13252,Anand Vihar (T) Patna,Ara,16:36
+13252,Anand Vihar (T) Patna,Danapur ad,17:17
+13252,Anand Vihar (T) Patna,Patna ad,18:35
+12418,New Delhi Prayagraj Prayagraj Express,New Delhi,22:10
+12418,New Delhi Prayagraj Prayagraj Express,Ghaziabad,22:42
+12418,New Delhi Prayagraj Prayagraj Express,Aligarh,23:55
+12418,New Delhi Prayagraj Prayagraj Express,Kanpur,03:55
+12418,New Delhi Prayagraj Prayagraj Express,Fatehpur,04:52
+12418,New Delhi Prayagraj Prayagraj Express,Prayagraj,07:00
+12452,New Delhi Kanpur Shram Shakti Express,New Delhi,23:55
+12452,New Delhi Kanpur Shram Shakti Express,Kanpur,06:20
+12350,New Delhi Godda Humsafar Express,New Delhi,23:45
+12350,New Delhi Godda Humsafar Express,Kanpur,05:20
+12350,New Delhi Godda Humsafar Express,Prayagraj,07:55
+12350,New Delhi Godda Humsafar Express,P U t p a D d e h e y n a y D a a J y n a l,10:50
+12350,New Delhi Godda Humsafar Express,Dehri-on-Sone,12:13
+12350,New Delhi Godda Humsafar Express,Gaya,13:40
+12350,New Delhi Godda Humsafar Express,Kiul,16:50
+12350,New Delhi Godda Humsafar Express,Jamalpur,17:45
+12350,New Delhi Godda Humsafar Express,1214Bhagalpur,19:10
+12350,New Delhi Godda Humsafar Express,Godda,22:30
+14218,Chandigarh Prayagraj Sangam Unchahar Express,Delhi,21:30
+14218,Chandigarh Prayagraj Sangam Unchahar Express,Ghaziabad,22:14
+14218,Chandigarh Prayagraj Sangam Unchahar Express,Aligarh,23:35
+14218,Chandigarh Prayagraj Sangam Unchahar Express,Tundla a d ,01:15
+14218,Chandigarh Prayagraj Sangam Unchahar Express,Firozabad d ,01:40
+14218,Chandigarh Prayagraj Sangam Unchahar Express,Shikohabad d ,02:05
+14218,Chandigarh Prayagraj Sangam Unchahar Express,Etawah d ,02:55
+14218,Chandigarh Prayagraj Sangam Unchahar Express,Kanpur,05:35
+14218,Chandigarh Prayagraj Sangam Unchahar Express,Unchahar,08:25
+14218,Chandigarh Prayagraj Sangam Unchahar Express,Prayag,10:35
+14218,Chandigarh Prayagraj Sangam Unchahar Express,Prayagraj,11:05
+15734/15744,Bhatinda Balurghat Farakka Express,Delhi,21:40
+15734/15744,Bhatinda Balurghat Farakka Express,Ghaziabad,22:25
+15734/15744,Bhatinda Balurghat Farakka Express,Khurja,23:10
+15734/15744,Bhatinda Balurghat Farakka Express,Aligarh,00:20
+15734/15744,Bhatinda Balurghat Farakka Express,Tundla a d ,01:35
+15734/15744,Bhatinda Balurghat Farakka Express,Firozabad d ,02:03
+15734/15744,Bhatinda Balurghat Farakka Express,Etawah d ,03:03
+15734/15744,Bhatinda Balurghat Farakka Express,Kanpur,06:25
+15734/15744,Bhatinda Balurghat Farakka Express,Varanasi,17:10
+15734/15744,Bhatinda Balurghat Farakka Express,P U t p a D d e h e y n a y D a a J y n a l,18:05
+15734/15744,Bhatinda Balurghat Farakka Express,Buxar,20:00
+15734/15744,Bhatinda Balurghat Farakka Express,Ara,21:15
+15734/15744,Bhatinda Balurghat Farakka Express,Danapur,21:53
+15734/15744,Bhatinda Balurghat Farakka Express,Patna,23:00
+15734/15744,Bhatinda Balurghat Farakka Express,Rajendranagar,23:06
+15734/15744,Bhatinda Balurghat Farakka Express,1006Mokama,00:40
+15734/15744,Bhatinda Balurghat Farakka Express,Kiul,02:35
+15734/15744,Bhatinda Balurghat Farakka Express,Jamalpur,04:00
+15734/15744,Bhatinda Balurghat Farakka Express,1214Bhagalpur,05:30
+15734/15744,Bhatinda Balurghat Farakka Express,Malda Town,09:50
+15734/15744,Bhatinda Balurghat Farakka Express,1412Bandel,09:15
+15657,Delhi Kamakhya Brahmaputra Mail,Delhi,23:40
+15657,Delhi Kamakhya Brahmaputra Mail,Aligarh,01:25
+15657,Delhi Kamakhya Brahmaputra Mail,Tundla a d ,02:32
+15657,Delhi Kamakhya Brahmaputra Mail,Shikohabad d ,03:05
+15657,Delhi Kamakhya Brahmaputra Mail,Kanpur,05:30
+15657,Delhi Kamakhya Brahmaputra Mail,Prayagraj,08:05
+15657,Delhi Kamakhya Brahmaputra Mail,Mirzapur,09:15
+15657,Delhi Kamakhya Brahmaputra Mail,P U t p a D d e h e y n a y D a a J y n a l,11:00
+15657,Delhi Kamakhya Brahmaputra Mail,Buxar,12:08
+15657,Delhi Kamakhya Brahmaputra Mail,Ara,12:55
+15657,Delhi Kamakhya Brahmaputra Mail,Patna,14:25
+15657,Delhi Kamakhya Brahmaputra Mail,1006Mokama,15:43
+15657,Delhi Kamakhya Brahmaputra Mail,Kiul,17:05
+15657,Delhi Kamakhya Brahmaputra Mail,Jamalpur,18:03
+15657,Delhi Kamakhya Brahmaputra Mail,1214Bhagalpur,19:30
+15657,Delhi Kamakhya Brahmaputra Mail,Malda Town,23:45
+12428,Anand Vihar (T) Rewa Express,Anand Vihar (T),22:05
+12428,Anand Vihar (T) Rewa Express,Ghaziabad,22:33
+12428,Anand Vihar (T) Rewa Express,Aligarh,23:40
+12428,Anand Vihar (T) Rewa Express,Kanpur,03:20
+12428,Anand Vihar (T) Rewa Express,Fatehpur,04:17
+12428,Anand Vihar (T) Rewa Express,Prayagraj,06:15
+12947,Ahmedabad Rajgir Azimabad Express,Tundla a d ,14:10
+12947,Ahmedabad Rajgir Azimabad Express,Kanpur,18:55
+12947,Ahmedabad Rajgir Azimabad Express,Prayagraj,21:35
+12947,Ahmedabad Rajgir Azimabad Express,P U t p a D d e h e y n a y D a a J y n a l,00:50
+12947,Ahmedabad Rajgir Azimabad Express,Buxar,01:58
+12947,Ahmedabad Rajgir Azimabad Express,Ara,02:46
+12947,Ahmedabad Rajgir Azimabad Express,Danapur,03:21
+12947,Ahmedabad Rajgir Azimabad Express,Patna,04:05
+12947,Ahmedabad Rajgir Azimabad Express,Rajgir ,07:25
+12322,Mumbai Howrah Mail,Mirzapur,20:40
+12322,Mumbai Howrah Mail,P U t p a D d e h e y n a y D a a J y n a l,22:55
+12322,Mumbai Howrah Mail,Dehri-on-Sone,00:24
+12322,Mumbai Howrah Mail,Gaya,02:10
+12322,Mumbai Howrah Mail,Parasnath,04:25
+12322,Mumbai Howrah Mail,N Bo e s ta e j i G S o u m bh o a h sh Chandra,04:45
+12322,Mumbai Howrah Mail,Dhanbad,06:05
+12322,Mumbai Howrah Mail,1242Asansol,07:45
+12322,Mumbai Howrah Mail,1283Durgapur,08:26
+12322,Mumbai Howrah Mail,1347Barddhaman,09:30
+12322,Mumbai Howrah Mail,1453Howrah,11:10
+12362,Mumbai CSMT Asansol Express,Mirzapur,08:50
+12362,Mumbai CSMT Asansol Express,P U t p a D d e h e y n a y D a a J y n a l,10:25
+12362,Mumbai CSMT Asansol Express,Buxar,11:25
+12362,Mumbai CSMT Asansol Express,Patna,13:35
+12362,Mumbai CSMT Asansol Express,Kiul,16:00
+12362,Mumbai CSMT Asansol Express,Jhajha,17:45
+12362,Mumbai CSMT Asansol Express,1214Jasidih,18:17
+12362,Mumbai CSMT Asansol Express,1243Madhupur,18:40
+12362,Mumbai CSMT Asansol Express,1299Chittaranjan,19:26
+12362,Mumbai CSMT Asansol Express,1242Asansol,20:45
+13024,Gaya Howrah Express,Gaya,12:10
+13024,Gaya Howrah Express,Kiul,15:40
+13024,Gaya Howrah Express,Jamalpur,17:00
+13024,Gaya Howrah Express,1214Bhagalpur,18:20
+13024,Gaya Howrah Express,1347Barddhaman,00:44
+13024,Gaya Howrah Express,1412Bandel,01:47
+13024,Gaya Howrah Express,1453Howrah,03:15
+13306,Sasaram Dhanbad Intercity Express,Mirzapur,15:30
+13306,Sasaram Dhanbad Intercity Express,Dehri-on-Sone,15:48
+13306,Sasaram Dhanbad Intercity Express,Gaya,18:00
+13306,Sasaram Dhanbad Intercity Express,Parasnath,20:58
+13306,Sasaram Dhanbad Intercity Express,N Bo e s ta e j i G S o u m bh o a h sh Chandra,21:15
+13306,Sasaram Dhanbad Intercity Express,Dhanbad,22:30
+14050,Delhi Godda Express,Delhi,15:00
+14050,Delhi Godda Express,Tundla a d ,17:35
+14050,Delhi Godda Express,Kanpur,20:15
+14050,Delhi Godda Express,Prayagraj,22:40
+14050,Delhi Godda Express,P U t p a D d e h e y n a y D a a J y n a l,03:53
+14050,Delhi Godda Express,Dehri-on-Sone,05:12
+14050,Delhi Godda Express,Gaya,07:00
+14050,Delhi Godda Express,New Giridih,10:25
+14050,Delhi Godda Express,1214Jasidih,12:35
+14050,Delhi Godda Express,1243Madhupur,11:50
+14050,Delhi Godda Express,Godda,15:15
+22360,CSMT Patna Express,Prayagraj,07:50
+22360,CSMT Patna Express,P U t p a D d e h e y n a y D a a J y n a l,10:25
+22360,CSMT Patna Express,Patna,13:40
+20434,Shri Mata Vaishno Devi Katra Subedarganj Express,Delhi,04:20
+20434,Shri Mata Vaishno Devi Katra Subedarganj Express,Aligarh,06:03
+20434,Shri Mata Vaishno Devi Katra Subedarganj Express,Tundla a d ,07:05
+20434,Shri Mata Vaishno Devi Katra Subedarganj Express,Kanpur,09:30
+20434,Shri Mata Vaishno Devi Katra Subedarganj Express,Fatehpur,10:27
+20434,Shri Mata Vaishno Devi Katra Subedarganj Express,Prayag,12:35
+12352,Rajendra Nagar Howrah Express,Rajendranagar,21:25
+12352,Rajendra Nagar Howrah Express,Mokama,22:51
+12352,Rajendra Nagar Howrah Express,Kiul,23:36
+12352,Rajendra Nagar Howrah Express,Jhajha,01:00
+12352,Rajendra Nagar Howrah Express,Jasidih,01:31
+12352,Rajendra Nagar Howrah Express,Madhupur,01:56
+12352,Rajendra Nagar Howrah Express,Chittaranjan,02:37
+12352,Rajendra Nagar Howrah Express,Asansol ad,03:20
+12352,Rajendra Nagar Howrah Express,Durgapur,03:56
+12352,Rajendra Nagar Howrah Express,Barddhaman,04:56
+12352,Rajendra Nagar Howrah Express,Howrah,06:40
+13072,Jamalpur Howrah Express,Jamalpur,20:30
+13072,Jamalpur Howrah Express,Bhagalpur ad,21:41
+13072,Jamalpur Howrah Express,Barddhaman,03:42
+13072,Jamalpur Howrah Express,Howrah,05:35
+22442,Kanpur Chitrakoot dham Karvi Inter city Express,Kanpur ad,06:45
+22442,Kanpur Chitrakoot dham Karvi Inter city Express,Fatehpur ad,08:00
+22442,Kanpur Chitrakoot dham Karvi Inter city Express,Prayagraj ad,09:50
+12274,New Delhi Howrah Duronto Express,New Delhi,12:35
+12274,New Delhi Howrah Duronto Express,Kanpur ad,17:40
+12274,New Delhi Howrah Duronto Express,Pt Deen DayalUpadhyaya Jn ad,22:10
+12274,New Delhi Howrah Duronto Express,Patna ad,00:50
+12274,New Delhi Howrah Duronto Express,Jasidih,04:51
+12274,New Delhi Howrah Duronto Express,Asansol ad,07:31
+12274,New Delhi Howrah Duronto Express,Howrah,10:35
+12276,New Delhi Prayagraj Humsafar Express,New Delhi,22:30
+12276,New Delhi Prayagraj Humsafar Express,Prayagraj ad,06:20
+13210,Pt. Deen Dayal Upadhyaya Patna MEMU Express,Pt Deen DayalUpadhyaya Jn ad,15:35
+13210,Pt. Deen Dayal Upadhyaya Patna MEMU Express,Buxar,17:45
+13210,Pt. Deen Dayal Upadhyaya Patna MEMU Express,Ara,19:13
+13210,Pt. Deen Dayal Upadhyaya Patna MEMU Express,Danapur ad,20:25
+13210,Pt. Deen Dayal Upadhyaya Patna MEMU Express,Patna ad,22:00
+13208,Patna Jasidih MEMU Express,Patna ad,08:55
+13208,Patna Jasidih MEMU Express,Rajendranagar,09:01
+13208,Patna Jasidih MEMU Express,Mokama,11:48
+13208,Patna Jasidih MEMU Express,Kiul,13:21
+13208,Patna Jasidih MEMU Express,Jhajha,15:35
+13208,Patna Jasidih MEMU Express,Jasidih,16:52
+13546,Gaya Asansol MEMU Express,Gaya ad,05:45
+13546,Gaya Asansol MEMU Express,Parasnath ad,09:28
+13546,Gaya Asansol MEMU Express,Netaji SubhashChandra Bose Gomoh,09:50
+13546,Gaya Asansol MEMU Express,Dhanbad ad,11:15
+13546,Gaya Asansol MEMU Express,Asansol ad,12:45
+13554,Varanasi Asansol MEMU Express,Varanasi ad,04:15
+13554,Varanasi Asansol MEMU Express,Pt Deen DayalUpadhyaya Jn ad,05:25
+13554,Varanasi Asansol MEMU Express,Dehri-on-Sone,08:03
+13554,Varanasi Asansol MEMU Express,Gaya ad,11:40
+13554,Varanasi Asansol MEMU Express,Parasnath ad,16:05
+13554,Varanasi Asansol MEMU Express,Netaji SubhashChandra Bose Gomoh,16:45
+13554,Varanasi Asansol MEMU Express,Dhanbad ad,18:50
+13554,Varanasi Asansol MEMU Express,Asansol ad,20:35
+12945,Veraval Banaras Express,Tundla ad,05:45
+12945,Veraval Banaras Express,Etawah,07:07
+12945,Veraval Banaras Express,Kanpur ad,08:55
+12945,Veraval Banaras Express,Prayagraj ad,11:55
+12945,Veraval Banaras Express, Banaras ,14:55
+13230,Rajendra Nagar Godda Express,Rajendranagar,22:15
+13230,Rajendra Nagar Godda Express,Kiul,00:50
+13230,Rajendra Nagar Godda Express,Jamalpur,01:46
+13230,Rajendra Nagar Godda Express,Bhagalpur ad,02:55
+13230,Rajendra Nagar Godda Express, Godda,06:20
+22348,Patna Howrah Vande Bharat Express,Patna ad,08:00
+22348,Patna Howrah Vande Bharat Express,Mokama,09:03
+22348,Patna Howrah Vande Bharat Express,Jasidih,10:43
+22348,Patna Howrah Vande Bharat Express,Asansol ad,11:58
+22348,Patna Howrah Vande Bharat Express,Durgapur,12:23
+22348,Patna Howrah Vande Bharat Express,Howrah,14:35
+13334,Patna Dumka Express,Patna ad,06:40
+13334,Patna Dumka Express,Rajendranagar,06:48
+13334,Patna Dumka Express,Kiul,08:50
+13334,Patna Dumka Express,Jamalpur,09:32
+13334,Patna Dumka Express,Bhagalpur ad,10:33
+13334,Patna Dumka Express,Bandel,13:30
+22416,New Delhi Varanasi Vande Bharat Express,New Delhi,15:00
+22416,New Delhi Varanasi Vande Bharat Express,Kanpur ad,19:12
+22416,New Delhi Varanasi Vande Bharat Express,Prayagraj ad,21:15
+22416,New Delhi Varanasi Vande Bharat Express,Varanasi ad,23:05
+13428,hibga owra tercit xpres,Jamalpur,05:20
+13428,hibga owra tercit xpres,Barddhaman,09:39
+13428,hibga owra tercit xpres,Bandel,10:42
+13428,hibga owra tercit xpres,Howrah,12:15
+22304,Gaya Howrah Vande Bharat Express,Gaya ad,15:15
+22304,Gaya Howrah Vande Bharat Express,Parasnath ad,17:07
+22304,Gaya Howrah Vande Bharat Express,Dhanbad ad,18:02
+22304,Gaya Howrah Vande Bharat Express,Asansol ad,18:40
+22304,Gaya Howrah Vande Bharat Express,Durgapur,19:03
+22304,Gaya Howrah Vande Bharat Express,Howrah,21:10
+22409,Gaya Anand Vihar (T) Garib Rath Express,Gaya ad,19:35
+22409,Gaya Anand Vihar (T) Garib Rath Express,Dehri-on-Sone,20:35
+22409,Gaya Anand Vihar (T) Garib Rath Express,Sasaram,20:53
+22409,Gaya Anand Vihar (T) Garib Rath Express,Pt Deen Dayal Upad-hyaya Jn ad,22:40
+22409,Gaya Anand Vihar (T) Garib Rath Express,Prayagraj ad,00:50
+22409,Gaya Anand Vihar (T) Garib Rath Express,Kanpur ad,03:10
+22409,Gaya Anand Vihar (T) Garib Rath Express,Ghaziabad,08:13
+22409,Gaya Anand Vihar (T) Garib Rath Express,Anand Vihar (T),08:50
+22197,Kolkata Veerangana Laxmi Bai Pratham Swatantrata Sangram Express, Kolkata,07:25
+22197,Kolkata Veerangana Laxmi Bai Pratham Swatantrata Sangram Express,Barddhaman,09:41
+22197,Kolkata Veerangana Laxmi Bai Pratham Swatantrata Sangram Express,Asansol ad,11:15
+22197,Kolkata Veerangana Laxmi Bai Pratham Swatantrata Sangram Express,Chittaranjan,11:39
+22197,Kolkata Veerangana Laxmi Bai Pratham Swatantrata Sangram Express,Madhupur,12:18
+22197,Kolkata Veerangana Laxmi Bai Pratham Swatantrata Sangram Express,Jasidih,12:43
+22197,Kolkata Veerangana Laxmi Bai Pratham Swatantrata Sangram Express,Jhajha,14:25
+22197,Kolkata Veerangana Laxmi Bai Pratham Swatantrata Sangram Express,Kiul,15:16
+22197,Kolkata Veerangana Laxmi Bai Pratham Swatantrata Sangram Express,Patna ad,18:05
+22197,Kolkata Veerangana Laxmi Bai Pratham Swatantrata Sangram Express,Ara,18:47
+22197,Kolkata Veerangana Laxmi Bai Pratham Swatantrata Sangram Express,Buxar,19:40
+22197,Kolkata Veerangana Laxmi Bai Pratham Swatantrata Sangram Express,Pt Deen Dayal Upad-hyaya Jn ad,23:00
+22197,Kolkata Veerangana Laxmi Bai Pratham Swatantrata Sangram Express,Prayagraj ad,01:10
+22197,Kolkata Veerangana Laxmi Bai Pratham Swatantrata Sangram Express,Kanpur ad,03:40
+12303,Howrah New Delhi Poorva Express (via Patna),Howrah,08:00
+12303,Howrah New Delhi Poorva Express (via Patna),Barddhaman,08:58
+12303,Howrah New Delhi Poorva Express (via Patna),Durgapur,09:49
+12303,Howrah New Delhi Poorva Express (via Patna),Asansol ad,10:26
+12303,Howrah New Delhi Poorva Express (via Patna),Chittaranjan,10:50
+12303,Howrah New Delhi Poorva Express (via Patna),Madhupur,11:32
+12303,Howrah New Delhi Poorva Express (via Patna),Jasidih,11:57
+12303,Howrah New Delhi Poorva Express (via Patna),Jhajha,13:10
+12303,Howrah New Delhi Poorva Express (via Patna),Kiul,13:56
+12303,Howrah New Delhi Poorva Express (via Patna),Mokama,14:22
+12303,Howrah New Delhi Poorva Express (via Patna),Patna ad,15:50
+12303,Howrah New Delhi Poorva Express (via Patna),Danapur ad,16:06
+12303,Howrah New Delhi Poorva Express (via Patna),Ara,16:40
+12303,Howrah New Delhi Poorva Express (via Patna),Buxar,17:18
+12303,Howrah New Delhi Poorva Express (via Patna),Pt Deen Dayal Upad-hyaya Jn ad,19:35
+12303,Howrah New Delhi Poorva Express (via Patna),Prayagraj ad,21:40
+12303,Howrah New Delhi Poorva Express (via Patna),Kanpur ad,00:07
+12303,Howrah New Delhi Poorva Express (via Patna),Etawah,01:29
+12303,Howrah New Delhi Poorva Express (via Patna),Tundla ad,02:50
+12303,Howrah New Delhi Poorva Express (via Patna),Aligarh,03:38
+12303,Howrah New Delhi Poorva Express (via Patna),New Delhi ad,06:05
+12381,Howrah New Delhi Poorva Express (via Gaya),Howrah,08:15
+12381,Howrah New Delhi Poorva Express (via Gaya),Barddhaman,09:10
+12381,Howrah New Delhi Poorva Express (via Gaya),Durgapur,10:03
+12381,Howrah New Delhi Poorva Express (via Gaya),Asansol ad,10:38
+12381,Howrah New Delhi Poorva Express (via Gaya),Dhanbad,12:00
+12381,Howrah New Delhi Poorva Express (via Gaya),Parasnath,12:36
+12381,Howrah New Delhi Poorva Express (via Gaya),Gaya ad,14:45
+12381,Howrah New Delhi Poorva Express (via Gaya),Dehri-on-Sone,15:52
+12381,Howrah New Delhi Poorva Express (via Gaya),Sasaram,16:08
+12381,Howrah New Delhi Poorva Express (via Gaya),Pt Deen Dayal Upad-hyaya Jn ad,17:55
+12381,Howrah New Delhi Poorva Express (via Gaya),Varanasi ad,18:55
+12381,Howrah New Delhi Poorva Express (via Gaya),Prayagraj ad,21:35
+12381,Howrah New Delhi Poorva Express (via Gaya),Kanpur ad,00:07
+12381,Howrah New Delhi Poorva Express (via Gaya),Etawah,01:29
+12381,Howrah New Delhi Poorva Express (via Gaya),Tundla ad,02:50
+12381,Howrah New Delhi Poorva Express (via Gaya),Aligarh,03:38
+12381,Howrah New Delhi Poorva Express (via Gaya),New Delhi ad,06:05
+12397,Gaya New Delhi Ma- habodhi Express,Gaya ad,14:00
+12397,Gaya New Delhi Ma- habodhi Express,Dehri-on-Sone,15:12
+12397,Gaya New Delhi Ma- habodhi Express,Sasaram,15:26
+12397,Gaya New Delhi Ma- habodhi Express,Pt Deen Dayal Upad-hyaya Jn ad,17:20
+12397,Gaya New Delhi Ma- habodhi Express,Prayagraj ad,19:40
+12397,Gaya New Delhi Ma- habodhi Express,Kanpur ad,22:10
+12397,Gaya New Delhi Ma- habodhi Express,Aligarh,01:28
+12397,Gaya New Delhi Ma- habodhi Express,New Delhi ad,04:10
+12329/12379@,Sealdah Anand Vihar (T) West Bengal Sampark Kranti/Sealdah Amritsar Jallianwala Bagh Express, Sealdah,13:10
+12329/12379@,Sealdah Anand Vihar (T) West Bengal Sampark Kranti/Sealdah Amritsar Jallianwala Bagh Express,Barddhaman,14:31
+12329/12379@,Sealdah Anand Vihar (T) West Bengal Sampark Kranti/Sealdah Amritsar Jallianwala Bagh Express,Durgapur,15:17
+12329/12379@,Sealdah Anand Vihar (T) West Bengal Sampark Kranti/Sealdah Amritsar Jallianwala Bagh Express,Asansol ad,15:57
+12329/12379@,Sealdah Anand Vihar (T) West Bengal Sampark Kranti/Sealdah Amritsar Jallianwala Bagh Express,Dhanbad,17:15
+12329/12379@,Sealdah Anand Vihar (T) West Bengal Sampark Kranti/Sealdah Amritsar Jallianwala Bagh Express,Gaya ad,20:00
+12329/12379@,Sealdah Anand Vihar (T) West Bengal Sampark Kranti/Sealdah Amritsar Jallianwala Bagh Express,Sasaram,21:05
+12329/12379@,Sealdah Anand Vihar (T) West Bengal Sampark Kranti/Sealdah Amritsar Jallianwala Bagh Express,Pt Deen Dayal Upad-hyaya Jn ad,22:40
+12329/12379@,Sealdah Anand Vihar (T) West Bengal Sampark Kranti/Sealdah Amritsar Jallianwala Bagh Express,Kanpur ad,03:10
+12329/12379@,Sealdah Anand Vihar (T) West Bengal Sampark Kranti/Sealdah Amritsar Jallianwala Bagh Express,Anand Vihar (T),08:50
+12329/12379@,Sealdah Anand Vihar (T) West Bengal Sampark Kranti/Sealdah Amritsar Jallianwala Bagh Express,Delhi ad,09:15
+12309,Rajendra Nagar New Delhi Rajdhani Express,Rajendranagar ad,19:10
+12309,Rajendra Nagar New Delhi Rajdhani Express,Patna ad,19:30
+12309,Rajendra Nagar New Delhi Rajdhani Express,Danapur ad,19:45
+12309,Rajendra Nagar New Delhi Rajdhani Express,Pt Deen Dayal Upad-hyaya Jn ad,22:20
+12309,Rajendra Nagar New Delhi Rajdhani Express,Prayagraj ad,00:12
+12309,Rajendra Nagar New Delhi Rajdhani Express,Kanpur ad,02:20
+12309,Rajendra Nagar New Delhi Rajdhani Express,New Delhi ad,07:40
+12023,Howrah Patna Jan Shatabdi Express,Howrah,14:05
+12023,Howrah Patna Jan Shatabdi Express,Durgapur,15:45
+12023,Howrah Patna Jan Shatabdi Express,Asansol ad,16:30
+12023,Howrah Patna Jan Shatabdi Express,Chittaranjan,16:54
+12023,Howrah Patna Jan Shatabdi Express,Madhupur,17:37
+12023,Howrah Patna Jan Shatabdi Express,Jasidih,18:03
+12023,Howrah Patna Jan Shatabdi Express,Jhajha,19:10
+12023,Howrah Patna Jan Shatabdi Express,Mokama,20:25
+12023,Howrah Patna Jan Shatabdi Express,Patna ad,22:20
+12305,Howrah New Delhi Rajdhani Express (via Patna),Howrah,14:05
+12305,Howrah New Delhi Rajdhani Express (via Patna),Barddhaman,14:59
+12305,Howrah New Delhi Rajdhani Express (via Patna),Madhupur,17:05
+12305,Howrah New Delhi Rajdhani Express (via Patna),Jasidih,17:33
+12305,Howrah New Delhi Rajdhani Express (via Patna),Patna ad,21:35
+12305,Howrah New Delhi Rajdhani Express (via Patna),Pt Deen Dayal Upad-hyaya Jn ad,00:50
+12305,Howrah New Delhi Rajdhani Express (via Patna),Prayagraj ad,02:45
+12305,Howrah New Delhi Rajdhani Express (via Patna),Kanpur ad,04:55
+12305,Howrah New Delhi Rajdhani Express (via Patna),New Delhi ad,10:05
+12301,Howrah New Delhi Rajdhani Express (via Gaya),Howrah,16:50
+12301,Howrah New Delhi Rajdhani Express (via Gaya),Asansol ad,18:49
+12301,Howrah New Delhi Rajdhani Express (via Gaya),Dhanbad,20:00
+12301,Howrah New Delhi Rajdhani Express (via Gaya),Parasnath,20:32
+12301,Howrah New Delhi Rajdhani Express (via Gaya),Gaya ad,22:35
+12301,Howrah New Delhi Rajdhani Express (via Gaya),Pt Deen Dayal Upad-hyaya Jn ad,00:50
+12301,Howrah New Delhi Rajdhani Express (via Gaya),Prayagraj ad,02:45
+12301,Howrah New Delhi Rajdhani Express (via Gaya),Kanpur ad,04:55
+12301,Howrah New Delhi Rajdhani Express (via Gaya),New Delhi ad,10:05
+13257,Danapur Anand Vihar (T) Jan Sadharan Express,Danapur ad,15:50
+13257,Danapur Anand Vihar (T) Jan Sadharan Express,Ara,16:23
+13257,Danapur Anand Vihar (T) Jan Sadharan Express,Buxar,17:01
+13257,Danapur Anand Vihar (T) Jan Sadharan Express,Pt Deen Dayal Upad-hyaya Jn ad,19:00
+13257,Danapur Anand Vihar (T) Jan Sadharan Express,Varanasi ad,20:00
+13257,Danapur Anand Vihar (T) Jan Sadharan Express,Anand Vihar (T),10:25
+22499,Deoghar Varanasi Vande Bharat Express,Asansol ad,15:10
+22499,Deoghar Varanasi Vande Bharat Express,Jasidih,15:16
+22499,Deoghar Varanasi Vande Bharat Express,Kiul,16:35
+22499,Deoghar Varanasi Vande Bharat Express,Gaya ad,19:05
+22499,Deoghar Varanasi Vande Bharat Express,Sasaram,20:14
+22499,Deoghar Varanasi Vande Bharat Express,Pt Deen Dayal Upad-hyaya Jn ad,21:35
+22499,Deoghar Varanasi Vande Bharat Express,Varanasi ad,22:30
+13251,Patna Anand Vihar (T),Patna ad,22:20
+13251,Patna Anand Vihar (T),Danapur ad,22:33
+13251,Patna Anand Vihar (T),Ara,22:59
+13251,Patna Anand Vihar (T),Buxar,23:41
+13251,Patna Anand Vihar (T),Pt Deen Dayal Upad-hyaya Jn ad,02:15
+13251,Patna Anand Vihar (T),Prayagraj ad,04:45
+13251,Patna Anand Vihar (T),Kanpur ad,07:40
+13251,Patna Anand Vihar (T),Anand Vihar (T),18:35
+22361,Rajendra Nagar New Delhi Amrit Bharat,Rajendranagar ad,19:50
+22361,Rajendra Nagar New Delhi Amrit Bharat,Patna ad,20:10
+22361,Rajendra Nagar New Delhi Amrit Bharat,Danapur ad,20:25
+22361,Rajendra Nagar New Delhi Amrit Bharat,Ara,20:53
+22361,Rajendra Nagar New Delhi Amrit Bharat,Buxar,21:36
+22361,Rajendra Nagar New Delhi Amrit Bharat,Pt Deen Dayal Upad-hyaya Jn ad,23:40
+22361,Rajendra Nagar New Delhi Amrit Bharat,Prayagraj ad,02:00
+22361,Rajendra Nagar New Delhi Amrit Bharat,Kanpur ad,04:30
+22361,Rajendra Nagar New Delhi Amrit Bharat,Ghaziabad,12:25
+22361,Rajendra Nagar New Delhi Amrit Bharat,New Delhi ad,13:10
+13697,Gaya Delhi Amrit Bharat,Gaya ad,16:45
+13697,Gaya Delhi Amrit Bharat,Dehri-on-Sone,17:42
+13697,Gaya Delhi Amrit Bharat,Sasaram,17:58
+13697,Gaya Delhi Amrit Bharat,Pt Deen Dayal Upad-hyaya Jn ad,19:50
+13697,Gaya Delhi Amrit Bharat,Prayagraj ad,23:00
+13697,Gaya Delhi Amrit Bharat,Kanpur ad,01:40
+13697,Gaya Delhi Amrit Bharat,Ghaziabad,11:05
+13697,Gaya Delhi Amrit Bharat,Delhi ad,12:00
+12443,Haldia Anand Vihar (T) Express, Netaji Subhash Chan-dra Bose Gomoh,17:15
+12443,Haldia Anand Vihar (T) Express,Gaya ad,19:45
+12443,Haldia Anand Vihar (T) Express,Pt Deen DayalUpadhyaya Jn ad,22:40
+12443,Haldia Anand Vihar (T) Express,Prayagraj ad,00:50
+12443,Haldia Anand Vihar (T) Express,Kanpur ad,03:10
+12443,Haldia Anand Vihar (T) Express,Ghaziabad,08:13
+12443,Haldia Anand Vihar (T) Express,Anand Vihar (T),08:50
+22405,Bhagalpur Anand Vihar (T) Garib Rath Express,Bhagalpur,13:55
+22405,Bhagalpur Anand Vihar (T) Garib Rath Express,Jamalpur,14:45
+22405,Bhagalpur Anand Vihar (T) Garib Rath Express,Kiul,16:00
+22405,Bhagalpur Anand Vihar (T) Garib Rath Express,Rajendranagar ad,17:40
+22405,Bhagalpur Anand Vihar (T) Garib Rath Express,Patna ad,18:20
+22405,Bhagalpur Anand Vihar (T) Garib Rath Express,Danapur ad,18:33
+22405,Bhagalpur Anand Vihar (T) Garib Rath Express,Ara,19:04
+22405,Bhagalpur Anand Vihar (T) Garib Rath Express,Buxar,19:58
+22405,Bhagalpur Anand Vihar (T) Garib Rath Express,Pt Deen DayalUpadhyaya Jn ad,22:50
+22405,Bhagalpur Anand Vihar (T) Garib Rath Express,Prayagraj ad,00:55
+22405,Bhagalpur Anand Vihar (T) Garib Rath Express,Kanpur ad,03:20
+22405,Bhagalpur Anand Vihar (T) Garib Rath Express,Tundla ad,06:02
+22405,Bhagalpur Anand Vihar (T) Garib Rath Express,Aligarh,06:55
+22405,Bhagalpur Anand Vihar (T) Garib Rath Express,Anand Vihar (T),09:00
+12033,Kanpur New Delhi Shatabdi Express,Kanpur ad,06:00
+12033,Kanpur New Delhi Shatabdi Express,Etawah,07:19
+12033,Kanpur New Delhi Shatabdi Express,Aligarh,09:05
+12033,Kanpur New Delhi Shatabdi Express,Ghaziabad,10:33
+12033,Kanpur New Delhi Shatabdi Express,New Delhi ad,11:20
+14101,Prayagraj Sangam Kanpur Express,Varanasi,16:20
+14101,Prayagraj Sangam Kanpur Express, Prayag,16:36
+14101,Prayagraj Sangam Kanpur Express, Unchahar,18:00
+14101,Prayagraj Sangam Kanpur Express,Kanpur ad,21:05
+22213,Shalimar Patna Duronto Express, Shalimar,21:55
+22213,Shalimar Patna Duronto Express,Asansol ad,01:02
+22213,Shalimar Patna Duronto Express,Jasidih,02:14
+22213,Shalimar Patna Duronto Express,Patna ad,06:15
+12235,Madhupur Anand Vihar (T) Humsafar Express,Madhupur,17:05
+12235,Madhupur Anand Vihar (T) Humsafar Express,Jasidih,17:29
+12235,Madhupur Anand Vihar (T) Humsafar Express,Jhajha,18:35
+12235,Madhupur Anand Vihar (T) Humsafar Express,Kiul,19:11
+12235,Madhupur Anand Vihar (T) Humsafar Express,Mokama,19:36
+12235,Madhupur Anand Vihar (T) Humsafar Express,Patna ad,21:35
+12235,Madhupur Anand Vihar (T) Humsafar Express,Ara,22:13
+12235,Madhupur Anand Vihar (T) Humsafar Express,Buxar,22:55
+12235,Madhupur Anand Vihar (T) Humsafar Express,Pt Deen DayalUpadhyaya Jn ad,01:30
+12235,Madhupur Anand Vihar (T) Humsafar Express,Prayagraj ad,03:25
+12235,Madhupur Anand Vihar (T) Humsafar Express,Kanpur ad,05:35
+12235,Madhupur Anand Vihar (T) Humsafar Express,Anand Vihar (T),10:50
+22437,Prayagraj Anand Vihar (T) Humsafar Express,Prayagraj ad,22:30
+22437,Prayagraj Anand Vihar (T) Humsafar Express,Kanpur ad,00:40
+22437,Prayagraj Anand Vihar (T) Humsafar Express,Anand Vihar (T),06:10
+22459,Madhupur Anand Vihar (T) Humsafar Express,Madhupur,12:10
+22459,Madhupur Anand Vihar (T) Humsafar Express,Jasidih,12:28
+22459,Madhupur Anand Vihar (T) Humsafar Express,Jhajha,13:35
+22459,Madhupur Anand Vihar (T) Humsafar Express,Kiul,14:11
+22459,Madhupur Anand Vihar (T) Humsafar Express,Mokama,14:43
+22459,Madhupur Anand Vihar (T) Humsafar Express,Patna ad,16:10
+22459,Madhupur Anand Vihar (T) Humsafar Express,Ara,16:45
+22459,Madhupur Anand Vihar (T) Humsafar Express,Buxar,17:28
+22459,Madhupur Anand Vihar (T) Humsafar Express,Pt Deen DayalUpadhyaya Jn ad,20:15
+22459,Madhupur Anand Vihar (T) Humsafar Express,Prayagraj ad,22:38
+22459,Madhupur Anand Vihar (T) Humsafar Express,Kanpur ad,00:55
+22459,Madhupur Anand Vihar (T) Humsafar Express,Anand Vihar (T),06:30
+22465,Madhupur Anand Vihar (T) Baba Baydyanath Dham Superfast Express,Madhupur,12:10
+22465,Madhupur Anand Vihar (T) Baba Baydyanath Dham Superfast Express,Jasidih,12:28
+22465,Madhupur Anand Vihar (T) Baba Baydyanath Dham Superfast Express,Jhajha,13:35
+22465,Madhupur Anand Vihar (T) Baba Baydyanath Dham Superfast Express,Kiul,14:11
+22465,Madhupur Anand Vihar (T) Baba Baydyanath Dham Superfast Express,Mokama,14:43
+22465,Madhupur Anand Vihar (T) Baba Baydyanath Dham Superfast Express,Patna ad,16:10
+22465,Madhupur Anand Vihar (T) Baba Baydyanath Dham Superfast Express,Ara,16:45
+22465,Madhupur Anand Vihar (T) Baba Baydyanath Dham Superfast Express,Buxar,17:28
+22465,Madhupur Anand Vihar (T) Baba Baydyanath Dham Superfast Express,Pt Deen DayalUpadhyaya Jn ad,20:15
+22465,Madhupur Anand Vihar (T) Baba Baydyanath Dham Superfast Express,Prayagraj ad,22:38
+22465,Madhupur Anand Vihar (T) Baba Baydyanath Dham Superfast Express,Kanpur ad,00:55
+22465,Madhupur Anand Vihar (T) Baba Baydyanath Dham Superfast Express,Anand Vihar (T),06:30
+22305,SMVT Bengaluru Jasidih Express,Dankuni,20:30
+22305,SMVT Bengaluru Jasidih Express,Barddhaman,21:20
+22305,SMVT Bengaluru Jasidih Express,Durgapur,22:08
+22305,SMVT Bengaluru Jasidih Express,Asansol ad,22:41
+22305,SMVT Bengaluru Jasidih Express,Madhupur,23:53
+22305,SMVT Bengaluru Jasidih Express,Jasidih,00:50
+22347,Howrah Patna Vande Bharat Express,Howrah,15:50
+22347,Howrah Patna Vande Bharat Express,Durgapur,17:20
+22347,Howrah Patna Vande Bharat Express,Asansol ad,17:47
+22347,Howrah Patna Vande Bharat Express,Jasidih,18:59
+22347,Howrah Patna Vande Bharat Express,Mokama,21:05
+22347,Howrah Patna Vande Bharat Express,Patna ad,22:40
+13427,Howrah Sahibganj Intercity Express,Howrah,13:45
+13427,Howrah Sahibganj Intercity Express,Bandel,14:27
+13427,Howrah Sahibganj Intercity Express,Barddhaman,15:42
+13427,Howrah Sahibganj Intercity Express,Bhagalpur,20:35
+22303,Howrah Gaya Vande Bharat Express,Howrah,06:45
+22303,Howrah Gaya Vande Bharat Express,Durgapur,08:17
+22303,Howrah Gaya Vande Bharat Express,Asansol ad,08:42
+22303,Howrah Gaya Vande Bharat Express,Dhanbad,09:45
+22303,Howrah Gaya Vande Bharat Express,Parasnath,10:15
+22303,Howrah Gaya Vande Bharat Express,Gaya ad,12:30
+20175,Banaras Agra Cantt. Vande Bharat Express,Pt Deen DayalUpadhyaya Jn ad,15:20
+20175,Banaras Agra Cantt. Vande Bharat Express,Prayagraj ad,16:50
+20175,Banaras Agra Cantt. Vande Bharat Express,Kanpur ad,18:52
+20175,Banaras Agra Cantt. Vande Bharat Express,Etawah,20:07
+20175,Banaras Agra Cantt. Vande Bharat Express,Tundla ad,21:19
+20175,Banaras Agra Cantt. Vande Bharat Express,Agra Cantt.,22:20
+20433,Subedarganj Shri Mata Vaishno Devi Katra Express,Prayagraj ad,10:35
+20433,Subedarganj Shri Mata Vaishno Devi Katra Express,Fatehpur,11:40
+20433,Subedarganj Shri Mata Vaishno Devi Katra Express,Kanpur ad,13:15
+20433,Subedarganj Shri Mata Vaishno Devi Katra Express,Tundla ad,16:00
+20433,Subedarganj Shri Mata Vaishno Devi Katra Express,Aligarh,17:08
+20433,Subedarganj Shri Mata Vaishno Devi Katra Express,Delhi,20:10
+12435,Jaynagar Anand Vihar (T) Garib Rath Express,Mokama,16:56
+12435,Jaynagar Anand Vihar (T) Garib Rath Express,a545 Patnad,18:20
+12435,Jaynagar Anand Vihar (T) Garib Rath Express,a555 Danapurd,18:33
+12435,Jaynagar Anand Vihar (T) Garib Rath Express,Ara,19:04
+12435,Jaynagar Anand Vihar (T) Garib Rath Express,Buxar,19:58
+12435,Jaynagar Anand Vihar (T) Garib Rath Express,Pt Deen Dayal a661Upadhyaya Jn.,22:50
+12435,Jaynagar Anand Vihar (T) Garib Rath Express,a814 Prayagrajd,00:55
+12435,Jaynagar Anand Vihar (T) Garib Rath Express,a1007 Kanpurd,03:20
+12435,Jaynagar Anand Vihar (T) Garib Rath Express,Aligarh,06:55
+12435,Jaynagar Anand Vihar (T) Garib Rath Express,Anand Vihar (T),09:00
+"12403/
+20403",Prayagraj Lalgarh Express,a814 Prayagrajd,23:05
+"12403/
+20403",Prayagraj Lalgarh Express,Fatehpur d ,00:22
+"12403/
+20403",Prayagraj Lalgarh Express,a1007 Kanpurd,01:40
+"12403/
+20403",Prayagraj Lalgarh Express,Etawah d ,03:38
+"12403/
+20403",Prayagraj Lalgarh Express,a1264 Agra Cantt.d,06:10
+"12403/
+20403",Prayagraj Lalgarh Express,a1318 Mathurad,07:00
+12313,Sealdah New Delhi Rajdhani Express,Sealdah,16:50
+12313,Sealdah New Delhi Rajdhani Express,Durgapur,18:40
+12313,Sealdah New Delhi Rajdhani Express,a213 Asansold ,19:10
+12313,Sealdah New Delhi Rajdhani Express,Dhanbad,20:25
+12313,Sealdah New Delhi Rajdhani Express,Gaya,23:00
+12313,Sealdah New Delhi Rajdhani Express,Pt Deen Dayal a661Upadhyaya Jn.,01:20
+12313,Sealdah New Delhi Rajdhani Express,a1007 Kanpurd,05:25
+12313,Sealdah New Delhi Rajdhani Express,New Delhi,10:50
+12427,Rewa Anand Vihar (T) Express,a814 Prayagrajd,21:05
+12427,Rewa Anand Vihar (T) Express,Fatehpur d ,22:33
+12427,Rewa Anand Vihar (T) Express,a1007 Kanpurd,23:57
+12427,Rewa Anand Vihar (T) Express,Aligarh,04:03
+12427,Rewa Anand Vihar (T) Express,Ghaziabad d ,06:03
+12427,Rewa Anand Vihar (T) Express,Anand Vihar (T),06:40
+12391,Rajgir New Delhi Shramjeevi Express,Kiul,07:45
+12391,Rajgir New Delhi Shramjeevi Express,a545 Patnad,10:30
+12391,Rajgir New Delhi Shramjeevi Express,a555 Danapurd,10:50
+12391,Rajgir New Delhi Shramjeevi Express,Ara,11:28
+12391,Rajgir New Delhi Shramjeevi Express,Buxar,12:17
+12391,Rajgir New Delhi Shramjeevi Express,Pt Deen Dayal a661Upadhyaya Jn.,14:20
+12391,Rajgir New Delhi Shramjeevi Express,a678 Varanasid ,15:15
+12391,Rajgir New Delhi Shramjeevi Express,Ghaziabad d ,03:52
+12391,Rajgir New Delhi Shramjeevi Express,New Delhi,04:40
+15658,Kamakhya Delhi Brahmaputra Mail,Malda Town,04:35
+15658,Kamakhya Delhi Brahmaputra Mail,a425 Bhagalpurd ,08:26
+15658,Kamakhya Delhi Brahmaputra Mail,Jamalpur,09:35
+15658,Kamakhya Delhi Brahmaputra Mail,Kiul,10:37
+15658,Kamakhya Delhi Brahmaputra Mail,Mokama,11:08
+15658,Kamakhya Delhi Brahmaputra Mail,a545 Patnad,12:50
+15658,Kamakhya Delhi Brahmaputra Mail,Ara,13:25
+15658,Kamakhya Delhi Brahmaputra Mail,Buxar,14:08
+15658,Kamakhya Delhi Brahmaputra Mail,Pt Deen Dayal a661Upadhyaya Jn.,16:35
+15658,Kamakhya Delhi Brahmaputra Mail,Mirzapur d ,17:45
+15658,Kamakhya Delhi Brahmaputra Mail,a814 Prayagrajd,19:10
+15658,Kamakhya Delhi Brahmaputra Mail,a1007 Kanpurd,21:35
+15658,Kamakhya Delhi Brahmaputra Mail,Shikohabad d ,23:45
+15658,Kamakhya Delhi Brahmaputra Mail,a1237 Tundlad ,00:40
+15658,Kamakhya Delhi Brahmaputra Mail,Aligarh,01:50
+15658,Kamakhya Delhi Brahmaputra Mail,Ghaziabad d ,04:05
+15658,Kamakhya Delhi Brahmaputra Mail,a1441 Delhid ,04:50
+20801,Islampur New Delhi Magadh Express,Islampur,15:30
+20801,Islampur New Delhi Magadh Express,a545 Patnad,17:30
+20801,Islampur New Delhi Magadh Express,a555 Danapurd,17:50
+20801,Islampur New Delhi Magadh Express,Ara,18:29
+20801,Islampur New Delhi Magadh Express,Buxar,19:23
+20801,Islampur New Delhi Magadh Express,Pt Deen Dayal a661Upadhyaya Jn.,22:00
+20801,Islampur New Delhi Magadh Express,Mirzapur d ,23:05
+20801,Islampur New Delhi Magadh Express,a814 Prayagrajd,01:20
+20801,Islampur New Delhi Magadh Express,a1007 Kanpurd,04:05
+20801,Islampur New Delhi Magadh Express,Etawah d ,05:43
+20801,Islampur New Delhi Magadh Express,Firozabad d ,06:58
+20801,Islampur New Delhi Magadh Express,a1237 Tundlad ,07:45
+20801,Islampur New Delhi Magadh Express,Aligarh,08:55
+20801,Islampur New Delhi Magadh Express,New Delhi,12:00
+12367,Bhagalpur Anand Vihar (T) Vikramshila Express,a425 Bhagalpurd ,11:55
+12367,Bhagalpur Anand Vihar (T) Vikramshila Express,Jamalpur,12:54
+12367,Bhagalpur Anand Vihar (T) Vikramshila Express,Kiul,14:20
+12367,Bhagalpur Anand Vihar (T) Vikramshila Express,Mokama,15:06
+12367,Bhagalpur Anand Vihar (T) Vikramshila Express,a545 Patnad,16:55
+12367,Bhagalpur Anand Vihar (T) Vikramshila Express,Ara,17:28
+12367,Bhagalpur Anand Vihar (T) Vikramshila Express,Buxar,18:10
+12367,Bhagalpur Anand Vihar (T) Vikramshila Express,Pt Deen Dayal a661Upadhyaya Jn.,20:30
+12367,Bhagalpur Anand Vihar (T) Vikramshila Express,a1007 Kanpurd,01:10
+12367,Bhagalpur Anand Vihar (T) Vikramshila Express,Anand Vihar (T),07:20
+15483,Alipurduar Delhi Sikkim Mahananda Express,Mokama,01:20
+15483,Alipurduar Delhi Sikkim Mahananda Express,a545 Patnad,03:00
+15483,Alipurduar Delhi Sikkim Mahananda Express,a555 Danapurd,03:17
+15483,Alipurduar Delhi Sikkim Mahananda Express,Ara,03:45
+15483,Alipurduar Delhi Sikkim Mahananda Express,Buxar,04:40
+15483,Alipurduar Delhi Sikkim Mahananda Express,Pt Deen Dayal a661Upadhyaya Jn.,06:55
+15483,Alipurduar Delhi Sikkim Mahananda Express,Mirzapur d ,08:00
+15483,Alipurduar Delhi Sikkim Mahananda Express,a814 Prayagrajd,09:25
+15483,Alipurduar Delhi Sikkim Mahananda Express,Fatehpur d ,10:45
+15483,Alipurduar Delhi Sikkim Mahananda Express,a1007 Kanpurd,13:00
+15483,Alipurduar Delhi Sikkim Mahananda Express,Etawah d ,15:03
+15483,Alipurduar Delhi Sikkim Mahananda Express,Shikohabad d ,15:38
+15483,Alipurduar Delhi Sikkim Mahananda Express,Firozabad d ,15:58
+15483,Alipurduar Delhi Sikkim Mahananda Express,a1237 Tundlad ,16:32
+15483,Alipurduar Delhi Sikkim Mahananda Express,Aligarh,17:30
+15483,Alipurduar Delhi Sikkim Mahananda Express,Khurja,18:08
+15483,Alipurduar Delhi Sikkim Mahananda Express,Ghaziabad d ,20:53
+15483,Alipurduar Delhi Sikkim Mahananda Express,a1441 Delhid ,21:45
+12505,Kamkhya Anand Vihar (T) North East Express,aPatliputra JNd ,05:40
+12505,Kamkhya Anand Vihar (T) North East Express,a555 Danapurd,05:58
+12505,Kamkhya Anand Vihar (T) North East Express,Ara,06:46
+12505,Kamkhya Anand Vihar (T) North East Express,Buxar,07:38
+12505,Kamkhya Anand Vihar (T) North East Express,Pt Deen Dayal a661Upadhyaya Jn.,10:00
+12505,Kamkhya Anand Vihar (T) North East Express,a814 Prayagrajd,12:30
+12505,Kamkhya Anand Vihar (T) North East Express,Fatehpur d ,13:38
+12505,Kamkhya Anand Vihar (T) North East Express,a1007 Kanpurd,15:05
+12505,Kamkhya Anand Vihar (T) North East Express,Etawah d ,16:35
+12505,Kamkhya Anand Vihar (T) North East Express,a1237 Tundlad ,18:02
+12505,Kamkhya Anand Vihar (T) North East Express,Aligarh,18:55
+12505,Kamkhya Anand Vihar (T) North East Express,Ghaziabad d ,21:13
+12505,Kamkhya Anand Vihar (T) North East Express,Anand Vihar (T),21:50
+"15733/
+15743",alurgh hatind Farakka Express,Kolkata,17:00
+"15733/
+15743",alurgh hatind Farakka Express,Malda Town,19:25
+"15733/
+15743",alurgh hatind Farakka Express,a425 Bhagalpurd ,23:27
+"15733/
+15743",alurgh hatind Farakka Express,Jamalpur,01:00
+"15733/
+15743",alurgh hatind Farakka Express,Kiul,02:15
+"15733/
+15743",alurgh hatind Farakka Express,Mokama,02:53
+"15733/
+15743",alurgh hatind Farakka Express,a545 Patnad,04:45
+"15733/
+15743",alurgh hatind Farakka Express,a555 Danapurd,05:08
+"15733/
+15743",alurgh hatind Farakka Express,Ara,05:45
+"15733/
+15743",alurgh hatind Farakka Express,Buxar,06:55
+"15733/
+15743",alurgh hatind Farakka Express,Pt Deen Dayal a661Upadhyaya Jn.,10:15
+"15733/
+15743",alurgh hatind Farakka Express,a678 Varanasid ,11:25
+"15733/
+15743",alurgh hatind Farakka Express,a1007 Kanpurd,21:45
+"15733/
+15743",alurgh hatind Farakka Express,Etawah d ,23:45
+"15733/
+15743",alurgh hatind Farakka Express,Firozabad d ,00:28
+"15733/
+15743",alurgh hatind Farakka Express,a1237 Tundlad ,01:00
+"15733/
+15743",alurgh hatind Farakka Express,Aligarh,02:15
+"15733/
+15743",alurgh hatind Farakka Express,Khurja,02:45
+"15733/
+15743",alurgh hatind Farakka Express,Ghaziabad d ,04:55
+"15733/
+15743",alurgh hatind Farakka Express,a1441 Delhid ,06:30
+13127,Kolkata Ara Garib Rath Express,Kolkata,20:05
+13127,Kolkata Ara Garib Rath Express,Durgapur,22:08
+13127,Kolkata Ara Garib Rath Express,a213 Asansold ,22:41
+13127,Kolkata Ara Garib Rath Express,Madhupur,23:53
+13127,Kolkata Ara Garib Rath Express,Jasidih,00:24
+13127,Kolkata Ara Garib Rath Express,Jhajha,01:40
+13127,Kolkata Ara Garib Rath Express,Kiul,02:30
+13127,Kolkata Ara Garib Rath Express,Mokama,03:05
+13127,Kolkata Ara Garib Rath Express,a545 Patnad,05:30
+13127,Kolkata Ara Garib Rath Express,a555 Danapurd,05:48
+13127,Kolkata Ara Garib Rath Express,Ara,07:45
+14217,Prayagra Sangam handigar Unchaha Express,Mirzapur d ,14:00
+14217,Prayagra Sangam handigar Unchaha Express,Prayag,14:16
+14217,Prayagra Sangam handigar Unchaha Express,Unchahar,15:56
+14217,Prayagra Sangam handigar Unchaha Express,a1007 Kanpurd,19:40
+14217,Prayagra Sangam handigar Unchaha Express,Etawah d ,21:58
+14217,Prayagra Sangam handigar Unchaha Express,Shikohabad d ,23:00
+14217,Prayagra Sangam handigar Unchaha Express,Firozabad d ,23:18
+14217,Prayagra Sangam handigar Unchaha Express,a1237 Tundlad ,23:57
+14217,Prayagra Sangam handigar Unchaha Express,Aligarh,01:10
+14217,Prayagra Sangam handigar Unchaha Express,Ghaziabad d ,03:05
+14217,Prayagra Sangam handigar Unchaha Express,a1441 Delhid ,04:15
+12451,Kanpur New Delhi Shram Shakthi Express,a1007 Kanpurd,23:55
+12451,Kanpur New Delhi Shram Shakthi Express,New Delhi,05:55
+12259,Sealdah Bikaner Duronto Express,Sealdah,17:00
+12259,Sealdah Bikaner Duronto Express,Dhanbad,20:35
+12259,Sealdah Bikaner Duronto Express,a661 Pt Deen Dayal Upadhyaya Jn.d,01:30
+12259,Sealdah Bikaner Duronto Express,a1007 Kanpurd,05:35
+12259,Sealdah Bikaner Duronto Express,New Delhi,11:15
+12375,Tambaram Jasidih Express,a213 Asansold ,20:25
+12375,Tambaram Jasidih Express,Chittaranjan,20:49
+12375,Tambaram Jasidih Express,Madhupur,21:45
+12375,Tambaram Jasidih Express,Jasidih,22:40
+22435,Varanasi New Del- hi Vande Bharat Express,a678 Varanasid ,15:00
+22435,Varanasi New Del- hi Vande Bharat Express,a814 Prayagrajd ,16:32
+22435,Varanasi New Del- hi Vande Bharat Express,a1007 Kanpurd,18:32
+22435,Varanasi New Del- hi Vande Bharat Express,New Delhi,23:00
+13121,Kolkata Ghazipur City Express (Via Patna),Kolkata,20:05
+13121,Kolkata Ghazipur City Express (Via Patna),Durgapur d ,22:08
+13121,Kolkata Ghazipur City Express (Via Patna),a213 Asansold ,22:41
+13121,Kolkata Ghazipur City Express (Via Patna),Madhupur,23:53
+13121,Kolkata Ghazipur City Express (Via Patna),Jasidih,00:24
+13121,Kolkata Ghazipur City Express (Via Patna),Jhajha,01:40
+13121,Kolkata Ghazipur City Express (Via Patna),Kiul,02:30
+13121,Kolkata Ghazipur City Express (Via Patna),a545 Patnad ,05:00
+13121,Kolkata Ghazipur City Express (Via Patna),aPatliputra JNd ,05:35
+13209,Patna Pt. Deen Dayal Upadhyaya MEMU Express,a545 Patnad ,07:30
+13209,Patna Pt. Deen Dayal Upadhyaya MEMU Express,a555 Danapurd ,07:50
+13209,Patna Pt. Deen Dayal Upadhyaya MEMU Express,Ara,08:43
+13209,Patna Pt. Deen Dayal Upadhyaya MEMU Express,Buxar,10:35
+13209,Patna Pt. Deen Dayal Upadhyaya MEMU Express,a661 Pt Deen Dayal Upadhyaya Jn.d,14:00
+13207,Jasidih Patna MEMU Express,Jasidih,17:10
+13207,Jasidih Patna MEMU Express,Jhajha,18:20
+13207,Jasidih Patna MEMU Express,Kiul,19:55
+13207,Jasidih Patna MEMU Express,Mokama,20:53
+13207,Jasidih Patna MEMU Express,a545 Patnad ,01:00
+13029,Howarh Mokama Express,Howrah,23:20
+13029,Howarh Mokama Express,Bandel,00:16
+13029,Howarh Mokama Express,Barddhaman d ,01:30
+13029,Howarh Mokama Express,Durgapur d ,02:35
+13029,Howarh Mokama Express,a213 Asansold ,03:36
+13029,Howarh Mokama Express,Chittaranjan,04:12
+13029,Howarh Mokama Express,Madhupur,05:12
+13029,Howarh Mokama Express,Jasidih,05:55
+13029,Howarh Mokama Express,Jhajha,07:25
+13029,Howarh Mokama Express,Kiul,08:45
+13029,Howarh Mokama Express,Mokama,10:40
+22359,Patna CSMT Express,a545 Patnad ,13:00
+22359,Patna CSMT Express,a661 Pt Deen Dayal Upadhyaya Jn.d,16:05
+22359,Patna CSMT Express,a678 Varanasid ,18:07
+12417,Prayagraj New Delhi Prayagraj Express,Prayagraj ad,22:10
+12417,Prayagraj New Delhi Prayagraj Express,Fatehpur ad,23:18
+12417,Prayagraj New Delhi Prayagraj Express,Kanpur ad,00:30
+12417,Prayagraj New Delhi Prayagraj Express,Aligarh,04:15
+12417,Prayagraj New Delhi Prayagraj Express,Ghaziabad,06:13
+12417,Prayagraj New Delhi Prayagraj Express,New Delhi,07:00
+12323,Howrah Barmer Express,Howrah,18:50
+12323,Howrah Barmer Express,Asansol ad,21:08
+12323,Howrah Barmer Express,Dhanbad,22:40
+12323,Howrah Barmer Express,Gaya ad,01:50
+12323,Howrah Barmer Express,Pt Deen DayalUpadhyayaJn ad,04:35
+12323,Howrah Barmer Express,Prayagraj ad,06:50
+12323,Howrah Barmer Express,Kanpur ad,09:15
+12323,Howrah Barmer Express,Delhi ad,15:30
+12311,Howrah Kalka Mail,Howrah,21:55
+12311,Howrah Kalka Mail,Barddhaman,22:58
+12311,Howrah Kalka Mail,Durgapur,23:53
+12311,Howrah Kalka Mail,Asansol ad,00:27
+12311,Howrah Kalka Mail,Dhanbad,01:50
+12311,Howrah Kalka Mail,NSCB Gomoh,02:18
+12311,Howrah Kalka Mail,Parasanath,02:36
+12311,Howrah Kalka Mail,Gaya ad,05:10
+12311,Howrah Kalka Mail,Dehri-on-Sone,06:08
+12311,Howrah Kalka Mail,Pt Deen DayalUpadhyayaJn ad,08:10
+12311,Howrah Kalka Mail,Mirzapur,09:08
+12311,Howrah Kalka Mail,Prayagraj ad,10:40
+12311,Howrah Kalka Mail,Fatehpur ad,12:12
+12311,Howrah Kalka Mail,Kanpur ad,13:40
+12311,Howrah Kalka Mail,Etawah,15:33
+12311,Howrah Kalka Mail,Shikohabad,16:10
+12311,Howrah Kalka Mail,Firozabad,16:30
+12311,Howrah Kalka Mail,Tundla ad,17:10
+12311,Howrah Kalka Mail,Aligarh,18:10
+12311,Howrah Kalka Mail,Khurja,18:40
+12311,Howrah Kalka Mail,Ghaziabad,20:03
+12311,Howrah Kalka Mail,Delhi ad,21:10
+13023,Howrah Gaya Express,Howrah,20:00
+13023,Howrah Gaya Express,Bandel,20:40
+13023,Howrah Gaya Express,Barddhaman,21:33
+13023,Howrah Gaya Express,Bhagalpur ad,04:10
+13023,Howrah Gaya Express,Jamalpur ad,05:35
+13023,Howrah Gaya Express,Kiul,07:05
+13023,Howrah Gaya Express,Gaya ad,11:00
+12351,Howrah Ra- jendra Nagar Express,Howrah,20:35
+12351,Howrah Ra- jendra Nagar Express,Barddhaman,21:37
+12351,Howrah Ra- jendra Nagar Express,Durgapur,22:24
+12351,Howrah Ra- jendra Nagar Express,Asansol ad,23:05
+12351,Howrah Ra- jendra Nagar Express,Chittaranjan,23:30
+12351,Howrah Ra- jendra Nagar Express,Madhupur,00:24
+12351,Howrah Ra- jendra Nagar Express,Jasidih,01:06
+12351,Howrah Ra- jendra Nagar Express,Jhajha,02:15
+12351,Howrah Ra- jendra Nagar Express,Kiul,03:11
+12351,Howrah Ra- jendra Nagar Express,Mokama,03:56
+12351,Howrah Ra- jendra Nagar Express,Rajen-dranagar,06:00
+13071,Howrah Jamalpur Express,Howrah,21:30
+13071,Howrah Jamalpur Express,Barddhaman,22:27
+13071,Howrah Jamalpur Express,Bhagalpur ad,05:45
+13071,Howrah Jamalpur Express,Jamalpur ad,07:15
+12393,Rajendra Nagar New Delhi Sampoorna Kranti Express,Rajen-dranagar,19:20
+12393,Rajendra Nagar New Delhi Sampoorna Kranti Express,Patna ad,19:40
+12393,Rajendra Nagar New Delhi Sampoorna Kranti Express,Danapur ad,19:55
+12393,Rajendra Nagar New Delhi Sampoorna Kranti Express,Ara,20:18
+12393,Rajendra Nagar New Delhi Sampoorna Kranti Express,Pt Deen DayalUpadhyayaJn ad,22:30
+12393,Rajendra Nagar New Delhi Sampoorna Kranti Express,Mirzapur,23:21
+12393,Rajendra Nagar New Delhi Sampoorna Kranti Express,Kanpur ad,02:30
+12393,Rajendra Nagar New Delhi Sampoorna Kranti Express,New Delhi,07:55
+12321,Howrah Mumbai Mail,Howrah,23:40
+12321,Howrah Mumbai Mail,Barddhaman,00:37
+12321,Howrah Mumbai Mail,Durgapur,01:37
+12321,Howrah Mumbai Mail,Asansol ad,02:15
+12321,Howrah Mumbai Mail,Dhanbad,03:49
+12321,Howrah Mumbai Mail,NSCB Gomoh,04:15
+12321,Howrah Mumbai Mail,Parasanath,04:34
+12321,Howrah Mumbai Mail,Gaya ad,06:50
+12321,Howrah Mumbai Mail,Dehri-on-Sone,07:56
+12321,Howrah Mumbai Mail,Pt Deen DayalUpadhyayaJn ad,10:10
+12321,Howrah Mumbai Mail,Mirzapur,11:45
+12361,Asansol CSMT Mumbai Express,Asansol ad,19:40
+12361,Asansol CSMT Mumbai Express,Chittaranjan,19:59
+12361,Asansol CSMT Mumbai Express,Madhupur,20:34
+12361,Asansol CSMT Mumbai Express,Jasidih,21:00
+12361,Asansol CSMT Mumbai Express,Jhajha,22:05
+12361,Asansol CSMT Mumbai Express,Kiul,22:48
+12361,Asansol CSMT Mumbai Express,Patna ad,00:35
+12361,Asansol CSMT Mumbai Express,Buxar,02:10
+12361,Asansol CSMT Mumbai Express,Pt Deen DayalUpadhyayaJn ad,05:10
+12361,Asansol CSMT Mumbai Express,Mirzapur,06:20
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Howrah,19:55
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Barddhaman,20:57
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Durgapur,21:58
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Asansol ad,22:32
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Chittaranjan,22:57
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Madhupur,23:40
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Jasidih,00:10
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Jhajha,01:12
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Kiul,01:53
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Mokama,02:18
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Patna ad,03:55
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Danapur ad,04:12
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Ara,04:45
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Buxar,05:44
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Pt Deen DayalUpadhyayaJn ad,08:25
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Varanasi ad,09:45
+12333,Howrah Prayagraj Rambagh Vibhuti Express,Prayagraj ad,12:00
+13305,Dhanbad Sasaram Intercity Express,Dhanbad,05:30
+13305,Dhanbad Sasaram Intercity Express,NSCB Gomoh,06:03
+13305,Dhanbad Sasaram Intercity Express,Parasanath,06:25
+13305,Dhanbad Sasaram Intercity Express,Gaya ad,09:35
+13305,Dhanbad Sasaram Intercity Express,Dehri-on-Sone,11:31
+13305,Dhanbad Sasaram Intercity Express,Pt Deen DayalUpadhyayaJn ad,12:50
+12349,Godda New Delhi Humsafer Express, Godda,14:10
+12349,Godda New Delhi Humsafer Express,Bhagalpur ad,17:23
+12349,Godda New Delhi Humsafer Express,Jamalpur ad,18:40
+12349,Godda New Delhi Humsafer Express,Kiul,20:10
+12349,Godda New Delhi Humsafer Express,Gaya ad,23:20
+12349,Godda New Delhi Humsafer Express,Dehri-on-Sone,00:14
+12349,Godda New Delhi Humsafer Express,Pt Deen DayalUpadhyayaJn ad,02:00
+12349,Godda New Delhi Humsafer Express,Prayagraj ad,04:05
+12349,Godda New Delhi Humsafer Express,Kanpur ad,06:30
+12349,Godda New Delhi Humsafer Express,New Delhi,12:45
+12948,Rajgir hmedaba Azimabad Express,Jasidih,21:00
+12948,Rajgir hmedaba Azimabad Express,Patna ad,23:30
+12948,Rajgir hmedaba Azimabad Express,Danapur ad,23:44
+12948,Rajgir hmedaba Azimabad Express,Ara,00:10
+12948,Rajgir hmedaba Azimabad Express,Buxar,00:55
+12948,Rajgir hmedaba Azimabad Express,Pt Deen DayalUpadhyayaJn ad,03:10
+12948,Rajgir hmedaba Azimabad Express,Prayagraj ad,05:35
+12948,Rajgir hmedaba Azimabad Express,Kanpur ad,08:10
+12948,Rajgir hmedaba Azimabad Express,Tundla ad,11:55
+22441,Chitrakoot dham Karvi Kanpur Intercity Express,Prayagraj ad,18:15
+22441,Chitrakoot dham Karvi Kanpur Intercity Express,Fatehpur ad,20:00
+22441,Chitrakoot dham Karvi Kanpur Intercity Express,Kanpur ad,21:50
+12273,Howrah New Delhi Duronto Express,Howrah,08:45
+12273,Howrah New Delhi Duronto Express,Asansol ad,10:55
+12273,Howrah New Delhi Duronto Express,Jasidih,12:10
+12273,Howrah New Delhi Duronto Express,Patna ad,16:10
+12273,Howrah New Delhi Duronto Express,Pt Deen DayalUpadhyayaJn ad,20:15
+12273,Howrah New Delhi Duronto Express,Kanpur ad,00:55
+12273,Howrah New Delhi Duronto Express,New Delhi,06:40
+12275,Prayagraj New Delhi Humsafar Express,Prayagraj ad,22:30
+12275,Prayagraj New Delhi Humsafar Express,New Delhi,06:15
+19436,Asansol Ahmedabad Express,Asansol ad,19:40
+19436,Asansol Ahmedabad Express,Chittaranjan,19:54
+19436,Asansol Ahmedabad Express,Madhupur,20:34
+19436,Asansol Ahmedabad Express,Jasidih,21:00
+19436,Asansol Ahmedabad Express,Jhajha,22:05
+19436,Asansol Ahmedabad Express,Patna ad,00:35
+19436,Asansol Ahmedabad Express,Danapur ad,00:50
+19436,Asansol Ahmedabad Express,Ara,01:18
+19436,Asansol Ahmedabad Express,Buxar,02:00
+19436,Asansol Ahmedabad Express,Pt Deen DayalUpadhyayaJn ad,05:00
+11428,Jasidih Pune Express,Jasidih,21:45
+11428,Jasidih Pune Express,Jhajha,22:40
+11428,Jasidih Pune Express,Kiul,23:25
+11428,Jasidih Pune Express,Gaya ad,02:30
+11428,Jasidih Pune Express,Pt Deen DayalUpadhyayaJn ad,05:50
+13545,Asansol Gaya Memu Express,Asansol ad,13:55
+13545,Asansol Gaya Memu Express,Dhanbad,15:21
+13545,Asansol Gaya Memu Express,NSCB Gomoh,16:08
+13545,Asansol Gaya Memu Express,Parasanath,16:28
+13545,Asansol Gaya Memu Express,Gaya ad,21:50
+13553,Asansol Va- ranasi Memu Express,Asansol ad,06:40
+13553,Asansol Va- ranasi Memu Express,Dhanbad,08:05
+13553,Asansol Va- ranasi Memu Express,NSCB Gomoh,08:52
+13553,Asansol Va- ranasi Memu Express,Parasanath,09:17
+13553,Asansol Va- ranasi Memu Express,Gaya ad,14:30
+13553,Asansol Va- ranasi Memu Express,Dehri-on-Sone,16:42
+13553,Asansol Va- ranasi Memu Express,Pt Deen DayalUpadhyayaJn ad,20:15
+13553,Asansol Va- ranasi Memu Express,Varanasi ad,21:20
+12946,Banaras Veraval Express, Banaras ,07:30
+12946,Banaras Veraval Express,Prayagraj ad,10:00
+12946,Banaras Veraval Express,Kanpur ad,12:50
+12946,Banaras Veraval Express,Etawah,14:25
+12946,Banaras Veraval Express,Tundla ad,16:20
+13229,Godda Rajendra Nagar Express, Godda,07:20
+13229,Godda Rajendra Nagar Express,Bhagalpur ad,10:25
+13229,Godda Rajendra Nagar Express,Jamalpur ad,11:55
+13229,Godda Rajendra Nagar Express,Kiul,13:35
+13229,Godda Rajendra Nagar Express,Rajen-dranagar,16:15
+13333,Dumka Patna Express,Bandel,14:10
+13333,Dumka Patna Express,Bhagalpur ad,16:27
+13333,Dumka Patna Express,Jamalpur ad,17:35
+13333,Dumka Patna Express,Kiul,18:40
+13333,Dumka Patna Express,Rajen-dranagar,20:15
+13333,Dumka Patna Express,Patna ad,21:00
+22415,Varanasi New Delhi Vande Bharat Express,Varanasi ad,06:00
+22415,Varanasi New Delhi Vande Bharat Express,Prayagraj ad,07:34
+22415,Varanasi New Delhi Vande Bharat Express,Kanpur ad,09:30
+22415,Varanasi New Delhi Vande Bharat Express,New Delhi,14:05
+14049,Godda Delhi Express, Godda,10:10
+14049,Godda Delhi Express,Madhupur,12:55
+14049,Godda Delhi Express,Jasidih,12:10
+14049,Godda Delhi Express, New Giridih,15:06
+14049,Godda Delhi Express,Gaya ad,18:55
+14049,Godda Delhi Express,Dehri-on-Sone,19:40
+14049,Godda Delhi Express,Pt Deen DayalUpadhyayaJn ad,21:30
+14049,Godda Delhi Express,Prayagraj ad,00:55
+14049,Godda Delhi Express,Kanpur ad,03:20
+14049,Godda Delhi Express,Tundla ad,06:02
+14049,Godda Delhi Express,Delhi ad,09:10

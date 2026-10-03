@@ -1,0 +1,917 @@
+train_num,train_name,halt_station_name,departure_time
+12833,Ahmedabad Howrah Express,Ahmedabad,00:25
+12833,Ahmedabad Howrah Express,Anand,01:25
+12833,Ahmedabad Howrah Express,Vadodara,02:09
+12833,Ahmedabad Howrah Express,Bharuch,02:59
+12833,Ahmedabad Howrah Express,Surat,04:31
+12833,Ahmedabad Howrah Express,Nandurbar,07:40
+12833,Ahmedabad Howrah Express,Amalner,09:20
+12833,Ahmedabad Howrah Express,Jalgaon,10:55
+12833,Ahmedabad Howrah Express,Bhusaval,11:25
+12833,Ahmedabad Howrah Express,Akola,14:00
+12833,Ahmedabad Howrah Express,Badnera,15:05
+12833,Ahmedabad Howrah Express,Wardha Jn.,16:16
+12833,Ahmedabad Howrah Express,Nagpur,18:05
+12833,Ahmedabad Howrah Express,Gondia,20:05
+12833,Ahmedabad Howrah Express,Dongargarh,21:10
+12833,Ahmedabad Howrah Express,Durg,22:35
+12833,Ahmedabad Howrah Express,Raipur,23:20
+12833,Ahmedabad Howrah Express,Bilaspur,01:45
+12833,Ahmedabad Howrah Express,Jharsuguda,05:20
+12833,Ahmedabad Howrah Express,Rourkela,07:00
+12833,Ahmedabad Howrah Express,Tatanagar,09:30
+12833,Ahmedabad Howrah Express,Kharagpur,11:45
+12833,Ahmedabad Howrah Express,Santragachi,13:09
+12833,Ahmedabad Howrah Express,Howrah,14:20
+22828,Surat Puri Express,Surat,08:05
+22828,Surat Puri Express,Jalgaon,13:25
+22828,Surat Puri Express,Bhusaval,13:55
+22828,Surat Puri Express,Nagpur,20:10
+22828,Surat Puri Express,Gondia,21:50
+22828,Surat Puri Express,Durg,00:10
+22828,Surat Puri Express,Raipur,01:05
+22828,Surat Puri Express,Titlagarh,04:45
+22828,Surat Puri Express,Balangir,05:42
+22828,Surat Puri Express,Sambalpur,07:40
+22828,Surat Puri Express,Bhubaneswar,12:40
+22828,Surat Puri Express,Khurda Road,13:05
+22828,Surat Puri Express,Puri,14:40
+12993,Gandhidham Puri Express,Gandhidham,23:10
+12993,Gandhidham Puri Express,Ahmedabad,04:00
+12993,Gandhidham Puri Express,Anand,05:15
+12993,Gandhidham Puri Express,Vadodara,05:53
+12993,Gandhidham Puri Express,Surat,07:45
+12993,Gandhidham Puri Express,Nandurbar,10:15
+12993,Gandhidham Puri Express,Jalgaon,13:25
+12993,Gandhidham Puri Express,Bhusaval,13:55
+12993,Gandhidham Puri Express,Nagpur,20:10
+12993,Gandhidham Puri Express,Gondia,21:50
+12993,Gandhidham Puri Express,Durg,00:10
+12993,Gandhidham Puri Express,Raipur,01:05
+12993,Gandhidham Puri Express,Titlagarh,04:45
+12993,Gandhidham Puri Express,Balangir,05:42
+12993,Gandhidham Puri Express,Sambalpur,07:40
+12993,Gandhidham Puri Express,Bhubaneswar,12:40
+12993,Gandhidham Puri Express,Khurda Road,13:05
+12993,Gandhidham Puri Express,Puri,14:40
+22939,Okha Bilaspur Express,Okha,19:05
+22939,Okha Bilaspur Express,Dwarka,19:36
+22939,Okha Bilaspur Express,Jamnagar,21:38
+22939,Okha Bilaspur Express,Hapa,21:54
+22939,Okha Bilaspur Express,Rajkot,23:45
+22939,Okha Bilaspur Express,Surendranagar,01:29
+22939,Okha Bilaspur Express,Viramgam,02:42
+22939,Okha Bilaspur Express,Ahmedabad,04:00
+22939,Okha Bilaspur Express,Anand,05:15
+22939,Okha Bilaspur Express,Vadodara,05:53
+22939,Okha Bilaspur Express,Bharuch,06:50
+22939,Okha Bilaspur Express,Surat,07:45
+22939,Okha Bilaspur Express,Nandurbar,10:15
+22939,Okha Bilaspur Express,Amalner,12:00
+22939,Okha Bilaspur Express,Jalgaon,13:25
+22939,Okha Bilaspur Express,Bhusaval,13:55
+22939,Okha Bilaspur Express,Akola,16:05
+22939,Okha Bilaspur Express,Badnera,17:25
+22939,Okha Bilaspur Express,Wardha Jn.,18:35
+22939,Okha Bilaspur Express,Nagpur,20:10
+22939,Okha Bilaspur Express,Gondia,21:50
+22939,Okha Bilaspur Express,Durg,00:10
+22939,Okha Bilaspur Express,Raipur,00:50
+22939,Okha Bilaspur Express,Bilaspur,03:00
+12905,Porbander Shalimar Express,Porbandar,08:50
+12905,Porbander Shalimar Express,Jamnagar,11:37
+12905,Porbander Shalimar Express,Hapa,11:53
+12905,Porbander Shalimar Express,Rajkot,13:25
+12905,Porbander Shalimar Express,Surendranagar,15:04
+12905,Porbander Shalimar Express,Viramgam,16:12
+12905,Porbander Shalimar Express,Ahmedabad,17:30
+12905,Porbander Shalimar Express,Anand,18:47
+12905,Porbander Shalimar Express,Vadodara,19:26
+12905,Porbander Shalimar Express,Surat,21:20
+12905,Porbander Shalimar Express,Nandurbar,23:35
+12905,Porbander Shalimar Express,Bhusaval,02:55
+12905,Porbander Shalimar Express,Akola,04:55
+12905,Porbander Shalimar Express,Badnera,06:23
+12905,Porbander Shalimar Express,Nagpur,09:35
+12905,Porbander Shalimar Express,Gondia,11:20
+12905,Porbander Shalimar Express,Durg,13:35
+12905,Porbander Shalimar Express,Raipur,14:15
+12905,Porbander Shalimar Express,Bilaspur,16:20
+12905,Porbander Shalimar Express,Jharsuguda,19:17
+12905,Porbander Shalimar Express,Rourkela,20:50
+12905,Porbander Shalimar Express,Tatanagar,23:20
+12905,Porbander Shalimar Express,Kharagpur,01:32
+12905,Porbander Shalimar Express,Santragachi,03:05
+12905,Porbander Shalimar Express,Shalimar,04:35
+22905,Okha Shalimar Express,Okha,08:40
+22905,Okha Shalimar Express,Dwarka,09:13
+22905,Okha Shalimar Express,Jamnagar,11:37
+22905,Okha Shalimar Express,Hapa,11:53
+22905,Okha Shalimar Express,Rajkot,13:25
+22905,Okha Shalimar Express,Surendranagar,15:04
+22905,Okha Shalimar Express,Viramgam,16:12
+22905,Okha Shalimar Express,Ahmedabad,17:30
+22905,Okha Shalimar Express,Anand,18:47
+22905,Okha Shalimar Express,Vadodara,19:26
+22905,Okha Shalimar Express,Surat,21:20
+22905,Okha Shalimar Express,Nandurbar,23:35
+22905,Okha Shalimar Express,Bhusaval,02:55
+22905,Okha Shalimar Express,Akola,04:55
+22905,Okha Shalimar Express,Badnera,06:23
+22905,Okha Shalimar Express,Nagpur,09:35
+22905,Okha Shalimar Express,Gondia,11:20
+22905,Okha Shalimar Express,Durg,13:35
+22905,Okha Shalimar Express,Raipur,14:15
+22905,Okha Shalimar Express,Bilaspur,16:20
+22905,Okha Shalimar Express,Jharsuguda,19:17
+22905,Okha Shalimar Express,Rourkela,20:50
+22905,Okha Shalimar Express,Tatanagar,23:20
+22905,Okha Shalimar Express,Kharagpur,01:32
+22905,Okha Shalimar Express,Santragachi,03:05
+22905,Okha Shalimar Express,Shalimar,04:35
+22138,Rajkot Nagpur Prerna Express,Rajkot,13:15
+22138,Rajkot Nagpur Prerna Express,Surendranagar,14:49
+22138,Rajkot Nagpur Prerna Express,Ahmedabad,18:30
+22138,Rajkot Nagpur Prerna Express,Anand,19:35
+22138,Rajkot Nagpur Prerna Express,Vadodara,20:19
+22138,Rajkot Nagpur Prerna Express,Bharuch,21:15
+22138,Rajkot Nagpur Prerna Express,Surat,22:30
+22138,Rajkot Nagpur Prerna Express,Nandurbar,00:45
+22138,Rajkot Nagpur Prerna Express,Jalgaon,03:10
+22138,Rajkot Nagpur Prerna Express,Bhusaval,03:40
+22138,Rajkot Nagpur Prerna Express,Akola,06:00
+22138,Rajkot Nagpur Prerna Express,Badnera,07:40
+22138,Rajkot Nagpur Prerna Express,Wardha Jn.,08:45
+22138,Rajkot Nagpur Prerna Express,Nagpur,10:25
+12405,Bhusaval Niza- muddin Gondwana Express,Bhusaval,06:00
+12405,Bhusaval Niza- muddin Gondwana Express,Akola,07:50
+12405,Bhusaval Niza- muddin Gondwana Express,Badnera,09:10
+12405,Bhusaval Niza- muddin Gondwana Express,Wardha Jn.,10:30
+12405,Bhusaval Niza- muddin Gondwana Express,Nagpur,12:55
+20862,Ahmedabad Puri Express (via Sam- balpur),Ahmedabad,19:00
+20862,Ahmedabad Puri Express (via Sam- balpur),Anand,20:01
+20862,Ahmedabad Puri Express (via Sam- balpur),Vadodara,20:43
+20862,Ahmedabad Puri Express (via Sam- balpur),Bharuch,21:46
+20862,Ahmedabad Puri Express (via Sam- balpur),Surat,22:55
+20862,Ahmedabad Puri Express (via Sam- balpur),Nandurbar,01:45
+20862,Ahmedabad Puri Express (via Sam- balpur),Amalner,02:57
+20862,Ahmedabad Puri Express (via Sam- balpur),Jalgaon,04:05
+20862,Ahmedabad Puri Express (via Sam- balpur),Bhusaval,04:35
+20862,Ahmedabad Puri Express (via Sam- balpur),Akola,06:50
+20862,Ahmedabad Puri Express (via Sam- balpur),Badnera,07:55
+20862,Ahmedabad Puri Express (via Sam- balpur),Wardha Jn.,09:10
+20862,Ahmedabad Puri Express (via Sam- balpur),Nagpur,10:55
+20862,Ahmedabad Puri Express (via Sam- balpur),Gondia,12:40
+20862,Ahmedabad Puri Express (via Sam- balpur),Dongargarh,13:45
+20862,Ahmedabad Puri Express (via Sam- balpur),Durg,15:00
+20862,Ahmedabad Puri Express (via Sam- balpur),Raipur,15:50
+20862,Ahmedabad Puri Express (via Sam- balpur),Titlagarh,19:55
+20862,Ahmedabad Puri Express (via Sam- balpur),Balangir,20:50
+20862,Ahmedabad Puri Express (via Sam- balpur),Sambalpur,22:55
+20862,Ahmedabad Puri Express (via Sam- balpur),Bhubaneswar,04:35
+20862,Ahmedabad Puri Express (via Sam- balpur),Khurda Road,04:55
+20862,Ahmedabad Puri Express (via Sam- balpur),Puri,06:40
+20820,Okha Puri Express,Okha,19:05
+20820,Okha Puri Express,Dwarka,19:36
+20820,Okha Puri Express,Jamnagar,21:38
+20820,Okha Puri Express,Hapa,21:54
+20820,Okha Puri Express,Rajkot,23:45
+20820,Okha Puri Express,Surendranagar,01:29
+20820,Okha Puri Express,Viramgam,02:42
+20820,Okha Puri Express,Ahmedabad,04:00
+20820,Okha Puri Express,Vadodara,05:53
+20820,Okha Puri Express,Surat,07:45
+20820,Okha Puri Express,Nandurbar,10:15
+20820,Okha Puri Express,Amalner,12:00
+20820,Okha Puri Express,Jalgaon,13:25
+20820,Okha Puri Express,Bhusaval,13:55
+20820,Okha Puri Express,Akola,16:05
+20820,Okha Puri Express,Badnera,17:25
+20820,Okha Puri Express,Wardha Jn.,18:35
+20820,Okha Puri Express,Vijayawada,04:15
+20820,Okha Puri Express,Rajahmundary,06:25
+20820,Okha Puri Express,Samalkot,07:20
+20820,Okha Puri Express,Visakhapatnam,10:25
+20820,Okha Puri Express,Vizianagaram,11:20
+20820,Okha Puri Express,Srikakulam Road,12:10
+20820,Okha Puri Express,Palasa,13:20
+20820,Okha Puri Express,Brahmapur,14:25
+20820,Okha Puri Express,Khurda Road,16:50
+20820,Okha Puri Express,Puri,18:55
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Ahmedabad,19:00
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Anand,20:01
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Vadodara,20:43
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Bharuch,21:46
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Surat,22:55
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Nandurbar,01:45
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Jalgaon,04:05
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Bhusaval,04:35
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Akola,06:50
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Badnera,07:55
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Wardha Jn.,09:10
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Nagpur,10:55
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Gondia,12:40
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Dongargarh,13:45
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Durg,15:00
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Raipur,15:50
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Titlagarh,19:45
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Rayagada,22:40
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Vizianagaram,01:10
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Srikakulam Road,02:05
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Palasa,03:15
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Brahmapur,04:12
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Khurda Road,06:30
+12844,Ahmed- abad Puri Express (via Vizia- nagaram),Puri,08:05
+11465,Somnath Jabalpur Express (via Bina),Veraval,10:05
+11465,Somnath Jabalpur Express (via Bina),Rajkot,14:04
+11465,Somnath Jabalpur Express (via Bina),Surendranagar,15:56
+11465,Somnath Jabalpur Express (via Bina),Viramgam,17:05
+11465,Somnath Jabalpur Express (via Bina),Ahmedabad,18:35
+11465,Somnath Jabalpur Express (via Bina),Anand,19:47
+11463,Somnath Jabalpur Express (via Itarsi),Veraval,10:05
+11463,Somnath Jabalpur Express (via Itarsi),Rajkot,14:04
+11463,Somnath Jabalpur Express (via Itarsi),Surendranagar,15:56
+11463,Somnath Jabalpur Express (via Itarsi),Viramgam,17:05
+11463,Somnath Jabalpur Express (via Itarsi),Ahmedabad,18:35
+11463,Somnath Jabalpur Express (via Itarsi),Anand,19:47
+18426,Durg Puri Express,Durg,16:10
+18426,Durg Puri Express,Raipur,17:05
+18426,Durg Puri Express,Titlagarh,21:05
+18426,Durg Puri Express,Balangir,22:10
+18426,Durg Puri Express,Sambalpur,00:40
+18426,Durg Puri Express,Bhubaneswar,06:55
+18426,Durg Puri Express,Khurda Road,07:30
+18426,Durg Puri Express,Puri,09:20
+22969,Okha Varanasi Express,Okha,14:25
+22969,Okha Varanasi Express,Dwarka,15:01
+22969,Okha Varanasi Express,Jamnagar,17:00
+22969,Okha Varanasi Express,Hapa,17:16
+22969,Okha Varanasi Express,Rajkot,19:00
+22969,Okha Varanasi Express,Surendranagar,20:39
+22969,Okha Varanasi Express,Viramgam,21:47
+22969,Okha Varanasi Express,Ahmedabad,23:15
+22969,Okha Varanasi Express,Anand,00:27
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Porbandar,09:10
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Rajkot,13:25
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Surendranagar,15:04
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Viramgam,16:12
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Ahmedabad,17:30
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Anand,18:47
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Vadodara,19:26
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Bharuch,20:24
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Surat,21:20
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Nandurbar,23:35
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Jalgaon,02:25
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Bhusaval,03:05
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Akola,05:10
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Badnera,06:50
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Wardha Jn.,08:10
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Nagpur,10:20
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Gondia,11:55
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Durg,14:15
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Raipur,14:55
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Bilaspur,16:50
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Jharsuguda,20:05
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Rourkela,21:30
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Kharagpur,04:55
+12949,Porbander Sant- ragachi’ Kavi Guru Express,Santragachi,07:30
+13426,Surat Mal- da Town Express,Surat,14:20
+13426,Surat Mal- da Town Express,Nandurbar,16:30
+13426,Surat Mal- da Town Express,Amalner,17:50
+13426,Surat Mal- da Town Express,Jalgaon,19:15
+13426,Surat Mal- da Town Express,Bhusaval,19:45
+13426,Surat Mal- da Town Express,Akola,21:43
+13426,Surat Mal- da Town Express,Badnera,23:00
+13426,Surat Mal- da Town Express,Wardha Jn.,00:15
+13426,Surat Mal- da Town Express,Nagpur,02:10
+13426,Surat Mal- da Town Express,Gondia,03:45
+13426,Surat Mal- da Town Express,Durg,06:05
+13426,Surat Mal- da Town Express,Raipur,06:45
+13426,Surat Mal- da Town Express,Bilaspur,08:50
+13426,Surat Mal- da Town Express,Jharsuguda,12:40
+13426,Surat Mal- da Town Express,Rourkela,14:08
+18010,Ajmer Santragachi Express,Tatanagar,10:35
+18010,Ajmer Santragachi Express,Kharagpur,12:42
+18010,Ajmer Santragachi Express,Santragachi,15:00
+20858,Sai Nagar Shirdi Puri Express,Bhusaval,18:15
+20858,Sai Nagar Shirdi Puri Express,Akola,20:35
+20858,Sai Nagar Shirdi Puri Express,Badnera,22:15
+20858,Sai Nagar Shirdi Puri Express,Wardha Jn.,23:30
+20858,Sai Nagar Shirdi Puri Express,Nagpur,01:30
+20858,Sai Nagar Shirdi Puri Express,Gondia,03:20
+20858,Sai Nagar Shirdi Puri Express,Durg,06:05
+20858,Sai Nagar Shirdi Puri Express,Raipur,06:55
+20858,Sai Nagar Shirdi Puri Express,Titlagarh,10:55
+20858,Sai Nagar Shirdi Puri Express,Balangir,11:52
+20858,Sai Nagar Shirdi Puri Express,Sambalpur,13:40
+20858,Sai Nagar Shirdi Puri Express,Bhubaneswar,19:05
+20858,Sai Nagar Shirdi Puri Express,Khurda Road,19:35
+20858,Sai Nagar Shirdi Puri Express,Puri,20:50
+20824,Ajmer Puri Express (via Abu Road),Ahmedabad,03:20
+20824,Ajmer Puri Express (via Abu Road),Vadodara,05:20
+20824,Ajmer Puri Express (via Abu Road),Surat,07:15
+20824,Ajmer Puri Express (via Abu Road),Nandurbar,10:15
+20824,Ajmer Puri Express (via Abu Road),Amalner,12:00
+20824,Ajmer Puri Express (via Abu Road),Jalgaon,13:25
+20824,Ajmer Puri Express (via Abu Road),Bhusaval,13:55
+20824,Ajmer Puri Express (via Abu Road),Akola,16:05
+20824,Ajmer Puri Express (via Abu Road),Badnera,17:25
+20824,Ajmer Puri Express (via Abu Road),Wardha Jn.,18:35
+20824,Ajmer Puri Express (via Abu Road),Nagpur,20:10
+20824,Ajmer Puri Express (via Abu Road),Gondia,21:50
+20824,Ajmer Puri Express (via Abu Road),Durg,00:10
+20824,Ajmer Puri Express (via Abu Road),Raipur,01:05
+20824,Ajmer Puri Express (via Abu Road),Titlagarh,04:45
+20824,Ajmer Puri Express (via Abu Road),Balangir,05:42
+20824,Ajmer Puri Express (via Abu Road),Sambalpur,07:40
+20824,Ajmer Puri Express (via Abu Road),Bhubaneswar,12:40
+20824,Ajmer Puri Express (via Abu Road),Khurda Road,13:05
+20824,Ajmer Puri Express (via Abu Road),Puri,14:40
+22973,Gandhidham Puri Express (via Viz- ianagaram),Gandhidham,14:00
+22973,Gandhidham Puri Express (via Viz- ianagaram),Viramgam,17:20
+22973,Gandhidham Puri Express (via Viz- ianagaram),Ahmedabad,18:55
+22973,Gandhidham Puri Express (via Viz- ianagaram),Anand,20:01
+22973,Gandhidham Puri Express (via Viz- ianagaram),Vadodara,20:43
+22973,Gandhidham Puri Express (via Viz- ianagaram),Surat,22:55
+22973,Gandhidham Puri Express (via Viz- ianagaram),Nandurbar,01:45
+22973,Gandhidham Puri Express (via Viz- ianagaram),Amalner,02:57
+22973,Gandhidham Puri Express (via Viz- ianagaram),Jalgaon,04:05
+22973,Gandhidham Puri Express (via Viz- ianagaram),Bhusaval,04:35
+22973,Gandhidham Puri Express (via Viz- ianagaram),Akola,06:50
+22973,Gandhidham Puri Express (via Viz- ianagaram),Badnera,07:55
+22973,Gandhidham Puri Express (via Viz- ianagaram),Wardha Jn.,09:10
+22973,Gandhidham Puri Express (via Viz- ianagaram),Nagpur,10:55
+22973,Gandhidham Puri Express (via Viz- ianagaram),Gondia,12:40
+22973,Gandhidham Puri Express (via Viz- ianagaram),Durg,15:00
+22973,Gandhidham Puri Express (via Viz- ianagaram),Raipur,15:50
+22973,Gandhidham Puri Express (via Viz- ianagaram),Titlagarh,19:45
+22973,Gandhidham Puri Express (via Viz- ianagaram),Rayagada,22:40
+22973,Gandhidham Puri Express (via Viz- ianagaram),Vizianagaram,01:10
+22973,Gandhidham Puri Express (via Viz- ianagaram),Srikakulam Road,02:05
+22973,Gandhidham Puri Express (via Viz- ianagaram),Palasa,03:15
+22973,Gandhidham Puri Express (via Viz- ianagaram),Brahmapur,04:12
+22973,Gandhidham Puri Express (via Viz- ianagaram),Khurda Road,06:30
+22973,Gandhidham Puri Express (via Viz- ianagaram),Puri,08:05
+20804,Gandhi- dham Visakha patnam Express,Gandhidham,23:10
+20804,Gandhi- dham Visakha patnam Express,Viramgam,02:42
+20804,Gandhi- dham Visakha patnam Express,Ahmedabad,04:00
+20804,Gandhi- dham Visakha patnam Express,Anand,05:15
+20804,Gandhi- dham Visakha patnam Express,Vadodara,05:53
+20804,Gandhi- dham Visakha patnam Express,Surat,07:45
+20804,Gandhi- dham Visakha patnam Express,Nandurbar,10:15
+20804,Gandhi- dham Visakha patnam Express,Jalgaon,13:25
+20804,Gandhi- dham Visakha patnam Express,Bhusaval,13:55
+20804,Gandhi- dham Visakha patnam Express,Akola,16:05
+20804,Gandhi- dham Visakha patnam Express,Badnera,17:25
+20804,Gandhi- dham Visakha patnam Express,Wardha Jn.,18:35
+20804,Gandhi- dham Visakha patnam Express,Vijayawada,04:15
+20804,Gandhi- dham Visakha patnam Express,Rajahmundary,06:25
+20804,Gandhi- dham Visakha patnam Express,Samalkot,07:20
+20804,Gandhi- dham Visakha patnam Express,Visakhapatnam,10:15
+22724,Sri Ganga- nagar Hazur Sahib Nanded Express,Ahmedabad,08:00
+22724,Sri Ganga- nagar Hazur Sahib Nanded Express,Anand,09:15
+22724,Sri Ganga- nagar Hazur Sahib Nanded Express,Vadodara,09:56
+22724,Sri Ganga- nagar Hazur Sahib Nanded Express,Bharuch,10:51
+22724,Sri Ganga- nagar Hazur Sahib Nanded Express,Surat,11:45
+22724,Sri Ganga- nagar Hazur Sahib Nanded Express,Nandurbar,15:00
+22724,Sri Ganga- nagar Hazur Sahib Nanded Express,Amalner,16:15
+22724,Sri Ganga- nagar Hazur Sahib Nanded Express,Jalgaon,18:10
+22724,Sri Ganga- nagar Hazur Sahib Nanded Express,Bhusaval,18:45
+22724,Sri Ganga- nagar Hazur Sahib Nanded Express,Akola,21:25
+15560,Ahmedabad Darbhanga Antyodaya Express,Ahmedabad,21:05
+15560,Ahmedabad Darbhanga Antyodaya Express,Anand,22:05
+22937,Rajkot Rewa Express,Rajkot,13:55
+22937,Rajkot Rewa Express,Surendranagar,15:32
+22937,Rajkot Rewa Express,Viramgam,16:54
+22937,Rajkot Rewa Express,Ahmedabad,18:35
+22937,Rajkot Rewa Express,Anand,19:42
+22937,Rajkot Rewa Express,Vadodara,20:28
+22937,Rajkot Rewa Express,Bharuch,21:35
+22937,Rajkot Rewa Express,Surat,22:42
+22937,Rajkot Rewa Express,Nandurbar,01:05
+22937,Rajkot Rewa Express,Amalner,02:30
+22937,Rajkot Rewa Express,Jalgaon,03:45
+22937,Rajkot Rewa Express,Bhusaval,04:20
+20925,Surat Am- ravati SF Express,Surat,12:20
+20925,Surat Am- ravati SF Express,Nandurbar,14:35
+20925,Surat Am- ravati SF Express,Amalner,16:15
+20925,Surat Am- ravati SF Express,Jalgaon,17:40
+20925,Surat Am- ravati SF Express,Bhusaval,18:10
+20925,Surat Am- ravati SF Express,Akola,20:20
+20925,Surat Am- ravati SF Express,Badnera,21:58
+20925,Surat Am- ravati SF Express,Amravati,22:25
+20905,Ekta Nagar Rewa Express,Ekta Nagar,19:00
+20905,Ekta Nagar Rewa Express,Vadodara,20:35
+20905,Ekta Nagar Rewa Express,Bharuch,21:35
+20905,Ekta Nagar Rewa Express,Surat,22:42
+20905,Ekta Nagar Rewa Express,Amalner,02:30
+20905,Ekta Nagar Rewa Express,Jalgaon,03:45
+20905,Ekta Nagar Rewa Express,Bhusaval,04:20
+20903,Ekta Nagar Varanasi Mahamana Express,Ekta Nagar,19:00
+20903,Ekta Nagar Varanasi Mahamana Express,Vadodara,20:35
+20903,Ekta Nagar Varanasi Mahamana Express,Bharuch,21:35
+20903,Ekta Nagar Varanasi Mahamana Express,Surat,22:42
+20903,Ekta Nagar Varanasi Mahamana Express,Nandurbar,01:05
+20903,Ekta Nagar Varanasi Mahamana Express,Amalner,02:30
+20903,Ekta Nagar Varanasi Mahamana Express,Bhusaval,04:20
+11121,Bhusaval Wardha Express,Bhusaval,14:25
+11121,Bhusaval Wardha Express,Akola,17:35
+11121,Bhusaval Wardha Express,Badnera,19:15
+11121,Bhusaval Wardha Express,Wardha Jn.,21:15
+19207,Porbandar Rajkot Express,Porbandar,05:45
+19207,Porbandar Rajkot Express,Rajkot,10:30
+19483,Ahmedabad Saharsa Express,Ahmedabad,00:35
+19483,Ahmedabad Saharsa Express,Anand,01:32
+19483,Ahmedabad Saharsa Express,Vadodara,02:30
+19483,Ahmedabad Saharsa Express,Surat,04:43
+19483,Ahmedabad Saharsa Express,Nandurbar,08:10
+19483,Ahmedabad Saharsa Express,Amalner,09:45
+19483,Ahmedabad Saharsa Express,Bhusaval,11:35
+19435,Ahmedabad Asansol Express,Ahmedabad,00:35
+19435,Ahmedabad Asansol Express,Anand,01:32
+19435,Ahmedabad Asansol Express,Vadodara,02:30
+19435,Ahmedabad Asansol Express,Surat,04:43
+19435,Ahmedabad Asansol Express,Nandurbar,08:10
+19435,Ahmedabad Asansol Express,Amalner,09:45
+19435,Ahmedabad Asansol Express,Bhusaval,11:35
+18422,Sonepur Puri Express,Howrah,19:00
+18422,Sonepur Puri Express,Balangir,20:50
+18422,Sonepur Puri Express,Sambalpur,22:55
+18422,Sonepur Puri Express,Bhubaneswar,04:35
+18422,Sonepur Puri Express,Khurda Road,04:55
+18422,Sonepur Puri Express,Puri,06:35
+19021,Udhna Brahma- pur Amrit Bharat Express,Udhna,07:10
+19021,Udhna Brahma- pur Amrit Bharat Express,Nandurbar,09:40
+19021,Udhna Brahma- pur Amrit Bharat Express,Amalner,11:05
+19021,Udhna Brahma- pur Amrit Bharat Express,Jalgaon,12:38
+19021,Udhna Brahma- pur Amrit Bharat Express,Bhusaval,13:05
+19021,Udhna Brahma- pur Amrit Bharat Express,Akola,15:28
+19021,Udhna Brahma- pur Amrit Bharat Express,Badnera,16:50
+19021,Udhna Brahma- pur Amrit Bharat Express,Wardha Jn.,17:50
+19021,Udhna Brahma- pur Amrit Bharat Express,Nagpur,19:40
+19021,Udhna Brahma- pur Amrit Bharat Express,Gondia,21:45
+19021,Udhna Brahma- pur Amrit Bharat Express,Durg,23:58
+19021,Udhna Brahma- pur Amrit Bharat Express,Raipur,00:45
+19021,Udhna Brahma- pur Amrit Bharat Express,Howrah,04:00
+19021,Udhna Brahma- pur Amrit Bharat Express,Rayagada,07:30
+19021,Udhna Brahma- pur Amrit Bharat Express,Vizianagaram,10:10
+19021,Udhna Brahma- pur Amrit Bharat Express,Srikakulam Road,11:10
+19021,Udhna Brahma- pur Amrit Bharat Express,Palasa,12:47
+19021,Udhna Brahma- pur Amrit Bharat Express,Brahmapur,13:45
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),K,11:15
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Khurda Road,12:15
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Brahmapur,13:55
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Palasa,15:40
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Srikakulam Road,16:30
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Vizianagaram,17:45
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Rayagada,20:00
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Titlagarh,22:20
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Raipur,03:00
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Durg,04:00
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Gondia,05:50
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Nagpur,08:10
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Wardha Jn.,09:10
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Badnera,11:15
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Akola,12:15
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Bhusaval,14:20
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Jalgaon,14:52
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Amalner,15:55
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Nandurbar,17:30
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Surat,20:28
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Vadodara,22:17
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Anand,22:57
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Ahmedabad,00:35
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Viramgam,01:32
+22974,Puri Gandhi- dham Express (via Vizianaga- ram),Gandhidham,05:55
+22970,Banaras Okha Express,Chayapuri,20:01
+22970,Banaras Okha Express,Anand,21:34
+22970,Banaras Okha Express,Ahmedabad,22:45
+22970,Banaras Okha Express,Viramgam,23:47
+22970,Banaras Okha Express,Surendranagar,00:55
+22970,Banaras Okha Express,Rajkot,02:51
+22970,Banaras Okha Express,Hapa,03:53
+22970,Banaras Okha Express,Jamnagar,04:18
+22970,Banaras Okha Express,Dwarka,06:21
+22970,Banaras Okha Express,Okha,07:45
+22137,Nagpur Rajkot Prerna Express,Nagpur,08:15
+22137,Nagpur Rajkot Prerna Express,Wardha Jn.,09:17
+22137,Nagpur Rajkot Prerna Express,Badnera,10:45
+22137,Nagpur Rajkot Prerna Express,Akola,11:45
+22137,Nagpur Rajkot Prerna Express,Bhusaval,14:00
+22137,Nagpur Rajkot Prerna Express,Jalgaon,14:30
+22137,Nagpur Rajkot Prerna Express,Nandurbar,17:10
+22137,Nagpur Rajkot Prerna Express,Surat,20:00
+22137,Nagpur Rajkot Prerna Express,Bharuch d ,20:45
+22137,Nagpur Rajkot Prerna Express,Vadodara,22:42
+22137,Nagpur Rajkot Prerna Express,Anand,23:22
+22137,Nagpur Rajkot Prerna Express,Ahmedabad,00:55
+22137,Nagpur Rajkot Prerna Express,Viramgam,01:47
+22137,Nagpur Rajkot Prerna Express,Surendranagar,02:57
+22137,Nagpur Rajkot Prerna Express,Rajkot,05:15
+12406,Nizamud- din Bhusaval Gond- wana Express,Nagpur,08:30
+12406,Nizamud- din Bhusaval Gond- wana Express,Wardha Jn.,09:30
+12406,Nizamud- din Bhusaval Gond- wana Express,Badnera,11:35
+12406,Nizamud- din Bhusaval Gond- wana Express,Akola,12:40
+12406,Nizamud- din Bhusaval Gond- wana Express,Bhusaval,15:05
+20819,Puri Okha Express,K,09:50
+20819,Puri Okha Express,Khurda Road,11:00
+20819,Puri Okha Express,Brahmapur,12:40
+20819,Puri Okha Express,Palasa,14:07
+20819,Puri Okha Express,Srikakulam Road,15:00
+20819,Puri Okha Express,Vizianagaram,15:55
+20819,Puri Okha Express,Visakhapatnam,17:30
+20819,Puri Okha Express,Samalkot,20:10
+20819,Puri Okha Express,Rajahmundry,21:10
+20819,Puri Okha Express,Vijayawada,23:45
+20819,Puri Okha Express,Wardha Jn.,09:05
+20819,Puri Okha Express,Badnera,10:45
+20819,Puri Okha Express,Akola,11:45
+20819,Puri Okha Express,Bhusaval,14:00
+20819,Puri Okha Express,Jalgaon,14:30
+20819,Puri Okha Express,Amalner,15:35
+20819,Puri Okha Express,Nandurbar,17:10
+20819,Puri Okha Express,Surat,20:00
+20819,Puri Okha Express,Vadodara,22:42
+20819,Puri Okha Express,Ahmedabad,00:45
+20819,Puri Okha Express,Viramgam,01:53
+20819,Puri Okha Express,Surendranagar,02:57
+20819,Puri Okha Express,Rajkot,04:57
+20819,Puri Okha Express,Hapa,06:38
+20819,Puri Okha Express,Jamnagar,07:03
+20819,Puri Okha Express,Dwarka,09:08
+20819,Puri Okha Express,Okha,10:10
+22827,Puri Surat Express,K,19:45
+22827,Puri Surat Express,Khurda Road,20:40
+22827,Puri Surat Express,Bhubaneswar,21:10
+22827,Puri Surat Express,Sambalpur,01:55
+22827,Puri Surat Express,Balangir,03:45
+22827,Puri Surat Express,Titlagarh,05:05
+22827,Puri Surat Express,Raipur,09:50
+22827,Puri Surat Express,Durg,10:45
+22827,Puri Surat Express,Gondia,12:35
+22827,Puri Surat Express,Nagpur,14:50
+22827,Puri Surat Express,Bhusaval,20:55
+22827,Puri Surat Express,Jalgaon,21:23
+22827,Puri Surat Express,Surat,02:35
+12994,Puri Gandhi- dham Express,K,19:45
+12994,Puri Gandhi- dham Express,Khurda Road,20:40
+12994,Puri Gandhi- dham Express,Bhubaneswar,21:10
+12994,Puri Gandhi- dham Express,Sambalpur,01:55
+12994,Puri Gandhi- dham Express,Balangir,03:45
+12994,Puri Gandhi- dham Express,Titlagarh,05:05
+12994,Puri Gandhi- dham Express,Raipur,09:50
+12994,Puri Gandhi- dham Express,Durg,10:45
+12994,Puri Gandhi- dham Express,Gondia,12:35
+12994,Puri Gandhi- dham Express,Nagpur,14:50
+12994,Puri Gandhi- dham Express,Bhusaval,20:55
+12994,Puri Gandhi- dham Express,Jalgaon,21:23
+12994,Puri Gandhi- dham Express,Nandurbar,23:59
+12994,Puri Gandhi- dham Express,Surat,02:38
+12994,Puri Gandhi- dham Express,Vadodara,04:21
+12994,Puri Gandhi- dham Express,Ahmedabad,06:25
+12994,Puri Gandhi- dham Express,Gandhidham,11:25
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),K,17:30
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Khurda Road,18:40
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Brahmapur,20:28
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Palasa,22:07
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Srikakulam Road,23:00
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Vizianagaram,00:10
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Rayagada,02:25
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Titlagarh,05:05
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Raipur,09:50
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Durg,10:45
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Dongargarh d ,11:31
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Gondia,12:35
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Nagpur,14:50
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Wardha Jn.,16:00
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Badnera,17:40
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Akola,18:40
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Bhusaval,20:55
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Jalgaon,21:23
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Nandurbar,23:59
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Surat,02:38
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Bharuch d ,03:18
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Vadodara,04:21
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Anand,04:55
+12843,Puri Ahmed- abad Express (via Vizia- nagaram),Ahmedabad,06:25
+20861,Puri Ahmed- abad Express (via Sam- balpur),K,19:25
+20861,Puri Ahmed- abad Express (via Sam- balpur),Khurda Road,20:05
+20861,Puri Ahmed- abad Express (via Sam- balpur),Bhubaneswar,20:35
+20861,Puri Ahmed- abad Express (via Sam- balpur),Sambalpur,01:55
+20861,Puri Ahmed- abad Express (via Sam- balpur),Balangir,03:45
+20861,Puri Ahmed- abad Express (via Sam- balpur),Titlagarh,05:05
+20861,Puri Ahmed- abad Express (via Sam- balpur),Raipur,09:50
+20861,Puri Ahmed- abad Express (via Sam- balpur),Durg,10:45
+20861,Puri Ahmed- abad Express (via Sam- balpur),Dongargarh d ,11:31
+20861,Puri Ahmed- abad Express (via Sam- balpur),Gondia,12:35
+20861,Puri Ahmed- abad Express (via Sam- balpur),Nagpur,14:50
+20861,Puri Ahmed- abad Express (via Sam- balpur),Wardha Jn.,16:00
+20861,Puri Ahmed- abad Express (via Sam- balpur),Badnera,17:40
+20861,Puri Ahmed- abad Express (via Sam- balpur),Akola,18:40
+20861,Puri Ahmed- abad Express (via Sam- balpur),Bhusaval,20:55
+20861,Puri Ahmed- abad Express (via Sam- balpur),Jalgaon,21:23
+20861,Puri Ahmed- abad Express (via Sam- balpur),Amalner,22:30
+20861,Puri Ahmed- abad Express (via Sam- balpur),Nandurbar,23:59
+20861,Puri Ahmed- abad Express (via Sam- balpur),Surat,02:38
+20861,Puri Ahmed- abad Express (via Sam- balpur),Bharuch d ,03:18
+20861,Puri Ahmed- abad Express (via Sam- balpur),Vadodara,04:21
+20861,Puri Ahmed- abad Express (via Sam- balpur),Anand,04:55
+20861,Puri Ahmed- abad Express (via Sam- balpur),Ahmedabad,06:25
+11464,Jabalpur Somnath Express (via Itarsi),Chayapuri,05:48
+11464,Jabalpur Somnath Express (via Itarsi),Anand,06:29
+11464,Jabalpur Somnath Express (via Itarsi),Ahmedabad,08:10
+11464,Jabalpur Somnath Express (via Itarsi),Viramgam,09:22
+11464,Jabalpur Somnath Express (via Itarsi),Surendranagar,10:28
+11464,Jabalpur Somnath Express (via Itarsi),Rajkot,12:38
+11464,Jabalpur Somnath Express (via Itarsi),Veraval,17:25
+11466,Jabalpur Somnath Express (via Bina),Chayapuri,05:48
+11466,Jabalpur Somnath Express (via Bina),Anand,06:29
+11466,Jabalpur Somnath Express (via Bina),Ahmedabad,08:10
+11466,Jabalpur Somnath Express (via Bina),Viramgam,09:22
+11466,Jabalpur Somnath Express (via Bina),Surendranagar,10:28
+11466,Jabalpur Somnath Express (via Bina),Rajkot,12:38
+11466,Jabalpur Somnath Express (via Bina),Veraval,17:25
+12950,Sant- ragachi Porbander Kavi Guru Express,Santragachi,19:50
+12950,Sant- ragachi Porbander Kavi Guru Express,Kharagpur,21:20
+12950,Sant- ragachi Porbander Kavi Guru Express,Rourkela,04:30
+12950,Sant- ragachi Porbander Kavi Guru Express,Jharsuguda,06:15
+12950,Sant- ragachi Porbander Kavi Guru Express,Bilaspur,09:30
+12950,Sant- ragachi Porbander Kavi Guru Express,Raipur,11:05
+12950,Sant- ragachi Porbander Kavi Guru Express,Durg,12:10
+12950,Sant- ragachi Porbander Kavi Guru Express,Gondia,14:00
+12950,Sant- ragachi Porbander Kavi Guru Express,Nagpur,16:25
+12950,Sant- ragachi Porbander Kavi Guru Express,Wardha Jn.,17:25
+12950,Sant- ragachi Porbander Kavi Guru Express,Badnera,19:15
+12950,Sant- ragachi Porbander Kavi Guru Express,Akola,20:15
+12950,Sant- ragachi Porbander Kavi Guru Express,Bhusaval,22:30
+12950,Sant- ragachi Porbander Kavi Guru Express,Jalgaon,23:07
+12950,Sant- ragachi Porbander Kavi Guru Express,Nandurbar,01:20
+12950,Sant- ragachi Porbander Kavi Guru Express,Surat,03:58
+12950,Sant- ragachi Porbander Kavi Guru Express,Bharuch d ,04:59
+12950,Sant- ragachi Porbander Kavi Guru Express,Vadodara,06:05
+12950,Sant- ragachi Porbander Kavi Guru Express,Anand,06:42
+12950,Sant- ragachi Porbander Kavi Guru Express,Ahmedabad,08:40
+12950,Sant- ragachi Porbander Kavi Guru Express,Viramgam,09:50
+12950,Sant- ragachi Porbander Kavi Guru Express,Surendranagar,11:03
+12950,Sant- ragachi Porbander Kavi Guru Express,Rajkot,12:57
+12950,Sant- ragachi Porbander Kavi Guru Express,Porbander,17:40
+12834,Howrah Ahme- dabad Express,Howrah,23:05
+12834,Howrah Ahme- dabad Express,Kharagpur,00:50
+12834,Howrah Ahme- dabad Express,Tatanagar,02:55
+12834,Howrah Ahme- dabad Express,Rourkela,05:25
+12834,Howrah Ahme- dabad Express,Jharsuguda,07:32
+12834,Howrah Ahme- dabad Express,Bilaspur,11:50
+12834,Howrah Ahme- dabad Express,Raipur,13:35
+12834,Howrah Ahme- dabad Express,Durg,14:35
+12834,Howrah Ahme- dabad Express,Dongargarh d ,15:23
+12834,Howrah Ahme- dabad Express,Gondia,16:35
+12834,Howrah Ahme- dabad Express,Nagpur,19:00
+12834,Howrah Ahme- dabad Express,Wardha Jn.,20:00
+12834,Howrah Ahme- dabad Express,Badnera,21:55
+12834,Howrah Ahme- dabad Express,Akola,23:00
+12834,Howrah Ahme- dabad Express,Bhusaval,01:45
+12834,Howrah Ahme- dabad Express,Jalgaon,02:20
+12834,Howrah Ahme- dabad Express,Amalner,03:25
+12834,Howrah Ahme- dabad Express,Nandurbar,05:00
+12834,Howrah Ahme- dabad Express,Surat,08:00
+12834,Howrah Ahme- dabad Express,Bharuch d ,08:41
+12834,Howrah Ahme- dabad Express,Vadodara,09:39
+12834,Howrah Ahme- dabad Express,Anand,10:12
+12834,Howrah Ahme- dabad Express,Ahmedabad,12:10
+12906,Shalimar Porbander Express,Shalimar,20:15
+12906,Shalimar Porbander Express,Santragachi,20:30
+12906,Shalimar Porbander Express,Kharagpur,22:00
+12906,Shalimar Porbander Express,Tatanagar,00:10
+12906,Shalimar Porbander Express,Rourkela,02:38
+12906,Shalimar Porbander Express,Jharsuguda,04:30
+12906,Shalimar Porbander Express,Bilaspur,07:50
+12906,Shalimar Porbander Express,Raipur,09:30
+12906,Shalimar Porbander Express,Durg,10:25
+12906,Shalimar Porbander Express,Gondia,12:15
+12906,Shalimar Porbander Express,Nagpur,14:20
+12906,Shalimar Porbander Express,Badnera,17:10
+12906,Shalimar Porbander Express,Akola,18:15
+12906,Shalimar Porbander Express,Bhusaval,20:35
+12906,Shalimar Porbander Express,Nandurbar,23:20
+12906,Shalimar Porbander Express,Surat,02:26
+12906,Shalimar Porbander Express,Vadodara,04:11
+12906,Shalimar Porbander Express,Anand,04:47
+12906,Shalimar Porbander Express,Ahmedabad,06:05
+12906,Shalimar Porbander Express,Viramgam,07:28
+12906,Shalimar Porbander Express,Surendranagar,08:43
+12906,Shalimar Porbander Express,Rajkot,10:40
+12906,Shalimar Porbander Express,Hapa,11:49
+12906,Shalimar Porbander Express,Jamnagar,12:06
+12906,Shalimar Porbander Express,Porbander,15:20
+22906,Shalimar Okha Express,Shalimar,20:15
+22906,Shalimar Okha Express,Santragachi,20:30
+22906,Shalimar Okha Express,Kharagpur,22:00
+22906,Shalimar Okha Express,Tatanagar,00:10
+22906,Shalimar Okha Express,Rourkela,02:38
+22906,Shalimar Okha Express,Jharsuguda,04:30
+22906,Shalimar Okha Express,Bilaspur,07:50
+22906,Shalimar Okha Express,Raipur,09:30
+22906,Shalimar Okha Express,Durg,10:25
+22906,Shalimar Okha Express,Gondia,12:15
+22906,Shalimar Okha Express,Nagpur,14:20
+22906,Shalimar Okha Express,Badnera,17:10
+22906,Shalimar Okha Express,Akola,18:15
+22906,Shalimar Okha Express,Bhusaval,20:35
+22906,Shalimar Okha Express,Nandurbar,23:20
+22906,Shalimar Okha Express,Surat,02:26
+22906,Shalimar Okha Express,Vadodara,04:11
+22906,Shalimar Okha Express,Anand,04:47
+22906,Shalimar Okha Express,Ahmedabad,06:05
+22906,Shalimar Okha Express,Viramgam,07:28
+22906,Shalimar Okha Express,Surendranagar,08:43
+22906,Shalimar Okha Express,Rajkot,10:40
+22906,Shalimar Okha Express,Hapa,11:49
+22906,Shalimar Okha Express,Jamnagar,12:06
+22906,Shalimar Okha Express,Dwarka,14:40
+22906,Shalimar Okha Express,Okha,16:00
+18425,Puri Durg Express,K,19:10
+18425,Puri Durg Express,Khurda Road,20:00
+18425,Puri Durg Express,Bhubaneswar,20:35
+18425,Puri Durg Express,Sambalpur,02:25
+18425,Puri Durg Express,Balangir,04:20
+18425,Puri Durg Express,Titlagarh,05:50
+18425,Puri Durg Express,Raipur,10:40
+18425,Puri Durg Express,Durg,11:55
+19022,Brahmapur Udhna Amrit Bharat Express,Titlagarh,09:55
+19022,Brahmapur Udhna Amrit Bharat Express,Raipur,14:50
+19022,Brahmapur Udhna Amrit Bharat Express,Durg,15:55
+19022,Brahmapur Udhna Amrit Bharat Express,Gondia,17:40
+19022,Brahmapur Udhna Amrit Bharat Express,Nagpur,20:00
+19022,Brahmapur Udhna Amrit Bharat Express,Wardha Jn.,21:00
+19022,Brahmapur Udhna Amrit Bharat Express,Badnera,22:12
+19022,Brahmapur Udhna Amrit Bharat Express,Akola,23:10
+19022,Brahmapur Udhna Amrit Bharat Express,Bhusaval,02:05
+19022,Brahmapur Udhna Amrit Bharat Express,Jalgaon,02:40
+19022,Brahmapur Udhna Amrit Bharat Express,Amalner,03:50
+19022,Brahmapur Udhna Amrit Bharat Express,Nandurbar,05:30
+19022,Brahmapur Udhna Amrit Bharat Express,Udna,08:45
+13425,Malda Town Surat Express,Rourkela,03:15
+13425,Malda Town Surat Express,Jharsuguda,04:50
+13425,Malda Town Surat Express,Bilaspur,08:15
+13425,Malda Town Surat Express,Raipur,10:00
+13425,Malda Town Surat Express,Durg,11:00
+13425,Malda Town Surat Express,Gondia,12:45
+13425,Malda Town Surat Express,Nagpur,15:00
+13425,Malda Town Surat Express,Wardha Jn.,16:00
+13425,Malda Town Surat Express,Badnera,18:10
+13425,Malda Town Surat Express,Akola,19:10
+13425,Malda Town Surat Express,Bhusaval,21:30
+13425,Malda Town Surat Express,Jalgaon,22:05
+13425,Malda Town Surat Express,Amalner,23:15
+13425,Malda Town Surat Express,Nandurbar,01:00
+13425,Malda Town Surat Express,Surat,04:00
+22940,Bilaspur Okha Express,Bilaspur,10:45
+22940,Bilaspur Okha Express,Raipur,12:40
+22940,Bilaspur Okha Express,Durg,13:40
+22940,Bilaspur Okha Express,Gondia,15:25
+22940,Bilaspur Okha Express,Nagpur,17:45
+22940,Bilaspur Okha Express,Wardha Jn.,18:50
+22940,Bilaspur Okha Express,Badnera,20:40
+22940,Bilaspur Okha Express,Akola,21:40
+22940,Bilaspur Okha Express,Bhusaval,23:50
+22940,Bilaspur Okha Express,Jalgaon,00:30
+22940,Bilaspur Okha Express,Amalner,01:35
+22940,Bilaspur Okha Express,Nandurbar,03:10
+22940,Bilaspur Okha Express,Surat,05:52
+22940,Bilaspur Okha Express,Bharuch,06:43
+22940,Bilaspur Okha Express,Vadodara,07:47
+22940,Bilaspur Okha Express,Anand,08:22
+22940,Bilaspur Okha Express,Ahmedabad,09:35
+22940,Bilaspur Okha Express,Viramgam,10:37
+22940,Bilaspur Okha Express,Surendranagar,11:48
+22940,Bilaspur Okha Express,Rajkot,13:40
+22940,Bilaspur Okha Express,Hapa,15:10
+22940,Bilaspur Okha Express,Jamnagar,15:29
+22940,Bilaspur Okha Express,Dwarka,17:51
+22940,Bilaspur Okha Express,Okha,18:50
+18009,Santraga- chi Ajmer Express,Santragachi,13:00
+18009,Santraga- chi Ajmer Express,Kharagpur,14:30
+18009,Santraga- chi Ajmer Express,Tatanagar,16:22
+20823,Puri Ajmer Express (via Abu Road),K,23:05
+20823,Puri Ajmer Express (via Abu Road),Khurda Road,23:58
+20823,Puri Ajmer Express (via Abu Road),Bhubaneswar,00:25
+20823,Puri Ajmer Express (via Abu Road),Sambalpur,05:20
+20823,Puri Ajmer Express (via Abu Road),Balangir,07:05
+20823,Puri Ajmer Express (via Abu Road),Titlagarh,08:20
+20823,Puri Ajmer Express (via Abu Road),Raipur,12:40
+20823,Puri Ajmer Express (via Abu Road),Durg,13:40
+20823,Puri Ajmer Express (via Abu Road),Gondia,15:25
+20823,Puri Ajmer Express (via Abu Road),Nagpur,17:45
+20823,Puri Ajmer Express (via Abu Road),Wardha Jn.,18:50
+20823,Puri Ajmer Express (via Abu Road),Badnera,20:40
+20823,Puri Ajmer Express (via Abu Road),Akola,21:40
+20823,Puri Ajmer Express (via Abu Road),Bhusaval,23:50
+20823,Puri Ajmer Express (via Abu Road),Jalgaon,00:30
+20823,Puri Ajmer Express (via Abu Road),Amalner,01:35
+20823,Puri Ajmer Express (via Abu Road),Nandurbar,03:10
+20823,Puri Ajmer Express (via Abu Road),Surat,05:52
+20823,Puri Ajmer Express (via Abu Road),Vadodara,07:47
+20823,Puri Ajmer Express (via Abu Road),Ahmedabad,09:35
+20857,Puri Sai Nagar Shirdi Express,K,23:05
+20857,Puri Sai Nagar Shirdi Express,Khurda Road,23:58
+20857,Puri Sai Nagar Shirdi Express,Bhubaneswar,00:25
+20857,Puri Sai Nagar Shirdi Express,Sambalpur,05:20
+20857,Puri Sai Nagar Shirdi Express,Balangir,07:05
+20857,Puri Sai Nagar Shirdi Express,Titlagarh,08:20
+20857,Puri Sai Nagar Shirdi Express,Raipur,12:40
+20857,Puri Sai Nagar Shirdi Express,Durg,13:40
+20857,Puri Sai Nagar Shirdi Express,Gondia,15:25
+20857,Puri Sai Nagar Shirdi Express,Nagpur,17:45
+20857,Puri Sai Nagar Shirdi Express,Wardha Jn.,18:50
+20857,Puri Sai Nagar Shirdi Express,Badnera,20:40
+20857,Puri Sai Nagar Shirdi Express,Akola,21:40
+20857,Puri Sai Nagar Shirdi Express,Bhusaval,23:50
+20803,Visakha- patnam Gandhi dham Express,Visakhapatnam,17:30
+20803,Visakha- patnam Gandhi dham Express,Samalkot,20:10
+20803,Visakha- patnam Gandhi dham Express,Rajahmundry,21:20
+20803,Visakha- patnam Gandhi dham Express,Vijayawada,23:45
+20803,Visakha- patnam Gandhi dham Express,Wardha Jn.,09:05
+20803,Visakha- patnam Gandhi dham Express,Badnera,10:45
+20803,Visakha- patnam Gandhi dham Express,Akola,11:45
+20803,Visakha- patnam Gandhi dham Express,Bhusaval,14:00
+20803,Visakha- patnam Gandhi dham Express,Jalgaon,14:30
+20803,Visakha- patnam Gandhi dham Express,Nandurbar,17:10
+20803,Visakha- patnam Gandhi dham Express,Surat,20:00
+20803,Visakha- patnam Gandhi dham Express,Vadodara,22:42
+20803,Visakha- patnam Gandhi dham Express,Anand,23:22
+20803,Visakha- patnam Gandhi dham Express,Ahmedabad,00:45
+20803,Visakha- patnam Gandhi dham Express,Viramgam,01:51
+20803,Visakha- patnam Gandhi dham Express,Gandhidham,06:15
+22723,Hazur Sahib Nanded Sri Gan- ganagar Express,Akola,11:50
+22723,Hazur Sahib Nanded Sri Gan- ganagar Express,Bhusaval,14:00
+22723,Hazur Sahib Nanded Sri Gan- ganagar Express,Jalgaon,14:30
+22723,Hazur Sahib Nanded Sri Gan- ganagar Express,Amalner,15:35
+22723,Hazur Sahib Nanded Sri Gan- ganagar Express,Nandurbar,17:10
+22723,Hazur Sahib Nanded Sri Gan- ganagar Express,Surat,20:00
+22723,Hazur Sahib Nanded Sri Gan- ganagar Express,Bharuch,20:45
+22723,Hazur Sahib Nanded Sri Gan- ganagar Express,Vadodara,22:42
+22723,Hazur Sahib Nanded Sri Gan- ganagar Express,Anand,23:22
+22723,Hazur Sahib Nanded Sri Gan- ganagar Express,Ahmedabad,00:35
+15559,Darbanga Ahmed- abad Antyodaya Express,Chayapuri,04:13
+15559,Darbanga Ahmed- abad Antyodaya Express,Anand,05:09
+15559,Darbanga Ahmed- abad Antyodaya Express,Ahmedabad,07:25
+22938,Rewa Rajkot Express,Bhusaval,08:20
+22938,Rewa Rajkot Express,Jalgaon,08:52
+22938,Rewa Rajkot Express,Amalner,09:43
+22938,Rewa Rajkot Express,Nandurbar,11:25
+22938,Rewa Rajkot Express,Surat,13:55
+22938,Rewa Rajkot Express,Bharuch,14:42
+22938,Rewa Rajkot Express,Vadodara,15:48
+22938,Rewa Rajkot Express,Anand,16:25
+22938,Rewa Rajkot Express,Ahmedabad,17:45
+22938,Rewa Rajkot Express,Viramgam,19:09
+22938,Rewa Rajkot Express,Surendranagar,20:13
+22938,Rewa Rajkot Express,Rajkot,22:20
+20926,Amravati Surat Express,Amarvati,09:05
+20926,Amravati Surat Express,Badnera,09:23
+20926,Amravati Surat Express,Akola,10:30
+20926,Amravati Surat Express,Bhusaval,13:10
+20926,Amravati Surat Express,Jalgaon,13:38
+20926,Amravati Surat Express,Amalner,14:40
+20926,Amravati Surat Express,Nandurbar,16:30
+20926,Amravati Surat Express,Surat,19:15
+20906,Rewa Ekta Nagar Express,Bhusaval,08:20
+20906,Rewa Ekta Nagar Express,Jalgaon,08:52
+20906,Rewa Ekta Nagar Express,Amalner,09:45
+20906,Rewa Ekta Nagar Express,Surat,13:55
+20906,Rewa Ekta Nagar Express,Bharuch,14:42
+20906,Rewa Ekta Nagar Express,Vadodara,15:58
+20906,Rewa Ekta Nagar Express,Ekta Nagar,17:40
+20904,Varanasi Ekta Nagar Maha- mana Express,Bhusaval,23:35
+20904,Varanasi Ekta Nagar Maha- mana Express,Amalner,01:15
+20904,Varanasi Ekta Nagar Maha- mana Express,Nandurbar,02:45
+20904,Varanasi Ekta Nagar Maha- mana Express,Surat,05:15
+20904,Varanasi Ekta Nagar Maha- mana Express,Bharuch,06:04
+20904,Varanasi Ekta Nagar Maha- mana Express,Vadodara,07:20
+20904,Varanasi Ekta Nagar Maha- mana Express,Ekta Nagar,09:00
+11122,Wardha Bhusaval Express,Wardha Jn.,00:05
+11122,Wardha Bhusaval Express,Badnera,02:25
+11122,Wardha Bhusaval Express,Akola,04:05
+11122,Wardha Bhusaval Express,Bhusaval,07:45
+19208,Rajkot Porbander Express,Rajkot,16:10
+19208,Rajkot Porbander Express,Porbander,21:20
+19484,Saharsa Ahmed- abad Express,Bhusaval,02:30
+19484,Saharsa Ahmed- abad Express,Amalner,04:10
+19484,Saharsa Ahmed- abad Express,Nandurbar,05:40
+19484,Saharsa Ahmed- abad Express,Surat,08:10
+19484,Saharsa Ahmed- abad Express,Vadodara,09:48
+19484,Saharsa Ahmed- abad Express,Anand,10:22
+19484,Saharsa Ahmed- abad Express,Ahmedabad,11:55
+19436,Asansol Ahmed- abad Express,Bhusaval,02:30
+19436,Asansol Ahmed- abad Express,Amalner,04:10
+19436,Asansol Ahmed- abad Express,Nandurbar,05:40
+19436,Asansol Ahmed- abad Express,Surat,08:10
+19436,Asansol Ahmed- abad Express,Vadodara,09:48
+19436,Asansol Ahmed- abad Express,Anand,10:22
+19436,Asansol Ahmed- abad Express,Ahmedabad,11:55
+18421,Puri Sonepur Express,K,19:35
+18421,Puri Sonepur Express,Khurda Road,20:15
+18421,Puri Sonepur Express,Bhubaneswar,20:45
+18421,Puri Sonepur Express,Sambalpur,01:55
+18421,Puri Sonepur Express,Balangir,04:00
+18421,Puri Sonepur Express,Titlagarh,05:50

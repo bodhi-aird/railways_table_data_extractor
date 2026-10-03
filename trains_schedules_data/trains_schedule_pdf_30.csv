@@ -1,0 +1,829 @@
+train_num,train_name,halt_station_name,departure_time
+12795,Vijayawada Lingampalli Inter City Express,Vijayawada,17:30
+12795,Vijayawada Lingampalli Inter City Express,Guntur,18:17
+12795,Vijayawada Lingampalli Inter City Express,Nalgonda,20:10
+12795,Vijayawada Lingampalli Inter City Express,Secunderabad,22:15
+12795,Vijayawada Lingampalli Inter City Express,Lingampalli,23:20
+12703,Howrah Se- cunderabad Falaknuma Express,Howrah,08:25
+12703,Howrah Se- cunderabad Falaknuma Express,Kharagpur,10:05
+12703,Howrah Se- cunderabad Falaknuma Express,Balasore,11:27
+12703,Howrah Se- cunderabad Falaknuma Express,Bhadrak,12:32
+12703,Howrah Se- cunderabad Falaknuma Express,Jajpur Keonjhar Road,13:03
+12703,Howrah Se- cunderabad Falaknuma Express,Cuttack,14:05
+12703,Howrah Se- cunderabad Falaknuma Express,Bhubaneswar,14:45
+12703,Howrah Se- cunderabad Falaknuma Express,Khurda Road,15:25
+12703,Howrah Se- cunderabad Falaknuma Express,Balugaon,16:40
+12703,Howrah Se- cunderabad Falaknuma Express,Brahmapur,17:40
+12703,Howrah Se- cunderabad Falaknuma Express,Palasa,19:10
+12703,Howrah Se- cunderabad Falaknuma Express,Srikakulam Road,20:12
+12703,Howrah Se- cunderabad Falaknuma Express,Vizianagaram,21:10
+12703,Howrah Se- cunderabad Falaknuma Express,Visakhapatnam,22:30
+12703,Howrah Se- cunderabad Falaknuma Express,Samalkot,00:40
+12703,Howrah Se- cunderabad Falaknuma Express,Rajahmundry,01:20
+12703,Howrah Se- cunderabad Falaknuma Express,Eluru,02:45
+12703,Howrah Se- cunderabad Falaknuma Express,Vijayawada,04:10
+12703,Howrah Se- cunderabad Falaknuma Express,Guntur,05:00
+12703,Howrah Se- cunderabad Falaknuma Express,Miryalguda,07:02
+12703,Howrah Se- cunderabad Falaknuma Express,Nalgonda,07:51
+12703,Howrah Se- cunderabad Falaknuma Express,Secunderabad,10:30
+18045,Shalimar Charalapalli East Coast Express,Shalimar,11:15
+18045,Shalimar Charalapalli East Coast Express,Kharagpur,13:27
+18045,Shalimar Charalapalli East Coast Express,Balasore,15:10
+18045,Shalimar Charalapalli East Coast Express,Bhadrak,16:57
+18045,Shalimar Charalapalli East Coast Express,Jajpur Keonjhar Road,17:25
+18045,Shalimar Charalapalli East Coast Express,Cuttack,18:15
+18045,Shalimar Charalapalli East Coast Express,Bhubaneswar,19:20
+18045,Shalimar Charalapalli East Coast Express,Khurda Road,20:10
+18045,Shalimar Charalapalli East Coast Express,Balugaon,21:05
+18045,Shalimar Charalapalli East Coast Express,Brahmapur,22:15
+18045,Shalimar Charalapalli East Coast Express,Sompeta,22:50
+18045,Shalimar Charalapalli East Coast Express,Palasa,00:17
+18045,Shalimar Charalapalli East Coast Express,Srikakulam Road,01:10
+18045,Shalimar Charalapalli East Coast Express,Vizianagaram,02:10
+18045,Shalimar Charalapalli East Coast Express,Visakhapatnam,03:50
+18045,Shalimar Charalapalli East Coast Express,Duvvada,04:25
+18045,Shalimar Charalapalli East Coast Express,Samalkot,06:30
+18045,Shalimar Charalapalli East Coast Express,Rajahmundry,07:35
+18045,Shalimar Charalapalli East Coast Express,Nidadavolu d ,08:10
+18045,Shalimar Charalapalli East Coast Express,Eluru,09:10
+18045,Shalimar Charalapalli East Coast Express,Vijayawada,10:45
+18045,Shalimar Charalapalli East Coast Express,Khammam,12:20
+18045,Shalimar Charalapalli East Coast Express,Warangal,13:55
+18045,Shalimar Charalapalli East Coast Express,Kazipet,14:05
+18045,Shalimar Charalapalli East Coast Express,Secunderabad,17:05
+22849,Shalimar Secun- derabad Express,Shalimar,12:10
+22849,Shalimar Secun- derabad Express,Kharagpur,13:55
+22849,Shalimar Secun- derabad Express,Balasore,15:35
+22849,Shalimar Secun- derabad Express,Bhadrak,16:30
+22849,Shalimar Secun- derabad Express,Cuttack,17:55
+22849,Shalimar Secun- derabad Express,Bhubaneswar,18:15
+22849,Shalimar Secun- derabad Express,Khurda Road,18:50
+22849,Shalimar Secun- derabad Express,Brahmapur,20:35
+22849,Shalimar Secun- derabad Express,Sompeta,21:20
+22849,Shalimar Secun- derabad Express,Palasa,22:32
+22849,Shalimar Secun- derabad Express,Vizianagaram,00:25
+22849,Shalimar Secun- derabad Express,Visakhapatnam,01:40
+22849,Shalimar Secun- derabad Express,Rajahmundry,04:40
+22849,Shalimar Secun- derabad Express,Eluru,06:00
+22849,Shalimar Secun- derabad Express,Rayanapadu,08:00
+22849,Shalimar Secun- derabad Express,Warangal,10:46
+22849,Shalimar Secun- derabad Express,Kazipet,11:15
+22849,Shalimar Secun- derabad Express,Secunderabad,14:30
+12773,Shalimar Secunder- abad AC Express,Shalimar,15:55
+12773,Shalimar Secunder- abad AC Express,Kharagpur,17:40
+12773,Shalimar Secunder- abad AC Express,Balasore,19:02
+12773,Shalimar Secunder- abad AC Express,Cuttack,21:50
+12773,Shalimar Secunder- abad AC Express,Bhubaneswar,22:20
+12773,Shalimar Secunder- abad AC Express,Khurda Road,22:50
+12773,Shalimar Secunder- abad AC Express,Brahmapur,00:30
+12773,Shalimar Secunder- abad AC Express,Srikakulam Road,03:20
+12773,Shalimar Secunder- abad AC Express,Vizianagaram,04:10
+12773,Shalimar Secunder- abad AC Express,Visakhapatnam,05:50
+12773,Shalimar Secunder- abad AC Express,Samalkot,07:50
+12773,Shalimar Secunder- abad AC Express,Rajahmundry,08:40
+12773,Shalimar Secunder- abad AC Express,Rayanapadu,11:35
+12773,Shalimar Secunder- abad AC Express,Warangal,14:14
+12773,Shalimar Secunder- abad AC Express,Secunderabad,18:00
+22882,Bhubaneswar Pune Express,Bhubaneswar,21:25
+22882,Bhubaneswar Pune Express,Khurda Road,21:45
+22882,Bhubaneswar Pune Express,Brahmapur,23:25
+22882,Bhubaneswar Pune Express,Vizianagaram,02:40
+22882,Bhubaneswar Pune Express,Visakhapatnam,04:00
+22882,Bhubaneswar Pune Express,Duvvada,04:40
+22882,Bhubaneswar Pune Express,Vijayawada,09:50
+22882,Bhubaneswar Pune Express,Guntur,10:40
+22882,Bhubaneswar Pune Express,Nalgonda,13:06
+22882,Bhubaneswar Pune Express,Secunderabad,16:25
+22819,Bhubaneswar New Visakhapatnam Intercity Express,Bhubaneswar New,07:15
+22819,Bhubaneswar New Visakhapatnam Intercity Express,Bhubaneswar,07:45
+22819,Bhubaneswar New Visakhapatnam Intercity Express,Khurda Road,08:05
+22819,Bhubaneswar New Visakhapatnam Intercity Express,Balugaon,09:05
+22819,Bhubaneswar New Visakhapatnam Intercity Express,Brahmapur,10:11
+22819,Bhubaneswar New Visakhapatnam Intercity Express,Sompeta,10:45
+22819,Bhubaneswar New Visakhapatnam Intercity Express,Palasa,11:57
+22819,Bhubaneswar New Visakhapatnam Intercity Express,Srikakulam Road,13:07
+22819,Bhubaneswar New Visakhapatnam Intercity Express,Vizianagaram,14:10
+22819,Bhubaneswar New Visakhapatnam Intercity Express,Visakhapatnam,15:30
+17015,Bhubaneswar New Secunderabad Visakha Express,Bhubaneswar New,08:00
+17015,Bhubaneswar New Secunderabad Visakha Express,Bhubaneswar,08:40
+17015,Bhubaneswar New Secunderabad Visakha Express,Khurda Road,09:10
+17015,Bhubaneswar New Secunderabad Visakha Express,Balugaon,10:02
+17015,Bhubaneswar New Secunderabad Visakha Express,Brahmapur,11:05
+17015,Bhubaneswar New Secunderabad Visakha Express,Sompeta,11:43
+17015,Bhubaneswar New Secunderabad Visakha Express,Palasa,12:20
+17015,Bhubaneswar New Secunderabad Visakha Express,Srikakulam Road,13:35
+17015,Bhubaneswar New Secunderabad Visakha Express,Vizianagaram,14:50
+17015,Bhubaneswar New Secunderabad Visakha Express,Visakhapatnam,16:30
+17015,Bhubaneswar New Secunderabad Visakha Express,Duvvada,17:02
+17015,Bhubaneswar New Secunderabad Visakha Express,Samalkot,18:50
+17015,Bhubaneswar New Secunderabad Visakha Express,Rajahmundry,19:35
+17015,Bhubaneswar New Secunderabad Visakha Express,Nidadavolu d ,20:10
+17015,Bhubaneswar New Secunderabad Visakha Express,Bhimavaram Town d ,21:15
+17015,Bhubaneswar New Secunderabad Visakha Express,Vijayawada,00:10
+17015,Bhubaneswar New Secunderabad Visakha Express,Guntur,01:05
+17015,Bhubaneswar New Secunderabad Visakha Express,Sattenapalli d ,02:27
+17015,Bhubaneswar New Secunderabad Visakha Express,Nadikudi d ,03:40
+17015,Bhubaneswar New Secunderabad Visakha Express,Miryalguda,04:12
+17015,Bhubaneswar New Secunderabad Visakha Express,Nalgonda,04:41
+17015,Bhubaneswar New Secunderabad Visakha Express,Secunderabad,07:30
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Bhubaneswar New,14:40
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Bhubaneswar,15:20
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Khurda Road,15:40
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Balugaon,16:22
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Brahmapur,17:25
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Sompeta,18:13
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Palasa,19:00
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Srikakulam Road,19:55
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Vizianagaram,20:55
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Visakhapatnam,22:20
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Samalkot,00:45
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Rajahmundry,01:50
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Nidadavolu d ,02:20
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Eluru,03:20
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Vijayawada,04:55
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Khammam,06:30
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Warangal,08:00
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Kazipet,08:15
+11020,Bhubaneswar New Mumbai CSMT Konark Express,Secunderabad,11:00
+20808,Amritsar Visakhapat- nam Hirakud Express,Bhubaneswar,14:25
+20808,Amritsar Visakhapat- nam Hirakud Express,Khurda Road,15:00
+20808,Amritsar Visakhapat- nam Hirakud Express,Balugaon,15:47
+20808,Amritsar Visakhapat- nam Hirakud Express,Brahmapur,16:45
+20808,Amritsar Visakhapat- nam Hirakud Express,Palasa,18:17
+20808,Amritsar Visakhapat- nam Hirakud Express,Srikakulam Road,19:15
+20808,Amritsar Visakhapat- nam Hirakud Express,Vizianagaram,20:20
+20808,Amritsar Visakhapat- nam Hirakud Express,Visakhapatnam,21:50
+12755,Kakinada Port Bhavnagar Express,Kakinada Port,05:40
+12755,Kakinada Port Bhavnagar Express,Kakinada Town,05:50
+12755,Kakinada Port Bhavnagar Express,Samalkot,06:05
+12755,Kakinada Port Bhavnagar Express,Rajahmundry,06:35
+12755,Kakinada Port Bhavnagar Express,Vijayawada,08:50
+12755,Kakinada Port Bhavnagar Express,Guntur,09:45
+12755,Kakinada Port Bhavnagar Express,Sattenapalli d ,10:30
+12755,Kakinada Port Bhavnagar Express,Nadikudi d ,11:19
+12755,Kakinada Port Bhavnagar Express,Miryalguda,11:54
+12755,Kakinada Port Bhavnagar Express,Nalgonda,12:24
+12755,Kakinada Port Bhavnagar Express,Secunderabad,15:10
+20841,Bhubaneswar Visakhapatnam Vande Bharat Express,Bhubaneswar,05:15
+20841,Bhubaneswar Visakhapatnam Vande Bharat Express,Khurda Road,05:35
+20841,Bhubaneswar Visakhapatnam Vande Bharat Express,Balugaon,06:25
+20841,Bhubaneswar Visakhapatnam Vande Bharat Express,Brahmapur,07:07
+20841,Bhubaneswar Visakhapatnam Vande Bharat Express,Palasa,08:20
+20841,Bhubaneswar Visakhapatnam Vande Bharat Express,Srikakulam Road,08:55
+20841,Bhubaneswar Visakhapatnam Vande Bharat Express,Vizianagaram,09:45
+20841,Bhubaneswar Visakhapatnam Vande Bharat Express,Visakhapatnam,11:00
+12787,Narsapur Nagarsol Express,Narsapur,11:25
+12787,Narsapur Nagarsol Express,Bhimavaram Town,12:00
+12787,Narsapur Nagarsol Express,Vijayawada,14:00
+12787,Narsapur Nagarsol Express,Khammam,15:25
+12787,Narsapur Nagarsol Express,Warangal,17:03
+12787,Narsapur Nagarsol Express,Kazipet,17:20
+12787,Narsapur Nagarsol Express,Charalapalli,19:40
+12787,Narsapur Nagarsol Express,Nizamabad,22:20
+17231,Narsapur Nagarsol Express,Narsapur,11:25
+17231,Narsapur Nagarsol Express,Bhimavaram Town,12:00
+17231,Narsapur Nagarsol Express,Vijayawada,14:00
+17231,Narsapur Nagarsol Express,Guntur,15:05
+17231,Narsapur Nagarsol Express,Sattenapalli,15:45
+17231,Narsapur Nagarsol Express,Nadikudi,16:35
+17231,Narsapur Nagarsol Express,Miryalguda,17:30
+17231,Narsapur Nagarsol Express,Nalgonda,18:34
+17231,Narsapur Nagarsol Express,Charalapalli,20:40
+17231,Narsapur Nagarsol Express,Nizamabad,00:20
+17221,Kakinada Port Lokmanya Tilak (T) Express,Kakinada Port,09:00
+17221,Kakinada Port Lokmanya Tilak (T) Express,Kakinada Town,09:10
+17221,Kakinada Port Lokmanya Tilak (T) Express,Samalkot,09:25
+17221,Kakinada Port Lokmanya Tilak (T) Express,Rajahmundry,10:05
+17221,Kakinada Port Lokmanya Tilak (T) Express,Eluru,11:20
+17221,Kakinada Port Lokmanya Tilak (T) Express,Vijayawada,12:45
+17221,Kakinada Port Lokmanya Tilak (T) Express,Guntur,13:40
+17221,Kakinada Port Lokmanya Tilak (T) Express,Sattenapalli,14:23
+17221,Kakinada Port Lokmanya Tilak (T) Express,Nadikudi,15:07
+17221,Kakinada Port Lokmanya Tilak (T) Express,Miryalguda,15:48
+17221,Kakinada Port Lokmanya Tilak (T) Express,Nalgonda,16:34
+17221,Kakinada Port Lokmanya Tilak (T) Express,Secunderabad,20:25
+17255,Narsapur Lingampalli Express,Narsapur,19:00
+17255,Narsapur Lingampalli Express,Bhimavaram Jn.,19:30
+17255,Narsapur Lingampalli Express,Bhimavaram Town,19:40
+17255,Narsapur Lingampalli Express,Vijayawada,22:00
+17255,Narsapur Lingampalli Express,Guntur,23:20
+17255,Narsapur Lingampalli Express,Nalgonda,01:45
+17255,Narsapur Lingampalli Express,Secunderabad,04:20
+17255,Narsapur Lingampalli Express,Lingampalli,05:50
+12746,Manuguru Secunderabad Express,Manuguru,21:45
+12746,Manuguru Secunderabad Express,Bhadrachalam,22:45
+12746,Manuguru Secunderabad Express,Warangal,00:55
+12746,Manuguru Secunderabad Express,Kazipet,01:05
+12746,Manuguru Secunderabad Express,Secunderabad,03:45
+22809,Paradeep Visakhapatnam Express,Paradeep,22:15
+22809,Paradeep Visakhapatnam Express,Cuttack,00:05
+22809,Paradeep Visakhapatnam Express,Bhubaneswar,00:40
+22809,Paradeep Visakhapatnam Express,Khurda Road,01:10
+22809,Paradeep Visakhapatnam Express,Balugaon,02:05
+22809,Paradeep Visakhapatnam Express,Brahmapur,02:52
+22809,Paradeep Visakhapatnam Express,Sompeta,03:30
+22809,Paradeep Visakhapatnam Express,Palasa,04:22
+22809,Paradeep Visakhapatnam Express,Srikakulam Road,05:25
+22809,Paradeep Visakhapatnam Express,Vizianagaram,06:25
+22809,Paradeep Visakhapatnam Express,Visakhapatnam,08:15
+22203,Visakhapatnam Secunderabad Duronto Express,Visakhapatnam,19:40
+22203,Visakhapatnam Secunderabad Duronto Express,Vijayawada,00:40
+22203,Visakhapatnam Secunderabad Duronto Express,Guntur,01:35
+22203,Visakhapatnam Secunderabad Duronto Express,Secunderabad,06:35
+12861,Visakhapatnam Mahbubnagar Express,Visakhapatnam,18:40
+12861,Visakhapatnam Mahbubnagar Express,Duvvada,19:07
+12861,Visakhapatnam Mahbubnagar Express,Samalkot,20:50
+12861,Visakhapatnam Mahbubnagar Express,Rajahmundry,21:35
+12861,Visakhapatnam Mahbubnagar Express,Nidadavolu,22:05
+12861,Visakhapatnam Mahbubnagar Express,Eluru,23:00
+12861,Visakhapatnam Mahbubnagar Express,Rayanapadu,00:25
+12861,Visakhapatnam Mahbubnagar Express,Khammam,01:45
+12861,Visakhapatnam Mahbubnagar Express,Dornakal,02:05
+12861,Visakhapatnam Mahbubnagar Express,Warangal,03:20
+12861,Visakhapatnam Mahbubnagar Express,Kazipet,03:35
+12861,Visakhapatnam Mahbubnagar Express,Kacheguda,07:05
+12861,Visakhapatnam Mahbubnagar Express,Secunderabad,09:20
+17282,Narsapur Guntur Express,Narsapur,06:15
+17282,Narsapur Guntur Express,Bhimavaram Jn.,06:55
+17282,Narsapur Guntur Express,Bhimavaram Town,07:05
+17282,Narsapur Guntur Express,Vijayawada,10:00
+17282,Narsapur Guntur Express,Guntur,12:00
+17270,Narsapur Vijayawada Express,Narsapur,09:45
+17270,Narsapur Vijayawada Express,Bhimavaram Jn.,10:25
+17270,Narsapur Vijayawada Express,Bhimavaram Town,10:35
+17270,Narsapur Vijayawada Express,Vijayawada,13:35
+17660,Bhadrachalam Secunderabad Express,Bhadrachalam,05:00
+17660,Bhadrachalam Secunderabad Express,Dornakal,06:00
+17660,Bhadrachalam Secunderabad Express,Warangal,07:30
+17660,Bhadrachalam Secunderabad Express,Kazipet,07:45
+17660,Bhadrachalam Secunderabad Express,Secunderabad,11:20
+12783,Visakhapatnam Secunderabad AC Express,Visakhapatnam,19:00
+12783,Visakhapatnam Secunderabad AC Express,Duvvada,19:27
+12783,Visakhapatnam Secunderabad AC Express,Samalkot,21:15
+12783,Visakhapatnam Secunderabad AC Express,Rajahmundry,22:00
+12783,Visakhapatnam Secunderabad AC Express,Eluru,23:30
+12783,Visakhapatnam Secunderabad AC Express,Vijayawada,00:50
+12783,Visakhapatnam Secunderabad AC Express,Guntur,01:50
+12783,Visakhapatnam Secunderabad AC Express,Secunderabad,07:00
+17240,Visakhapatnam Guntur Simhadri Express,Visakhapatnam,07:10
+17240,Visakhapatnam Guntur Simhadri Express,Duvvada,07:37
+17240,Visakhapatnam Guntur Simhadri Express,Samalkot,09:50
+17240,Visakhapatnam Guntur Simhadri Express,Rajahmundry,10:45
+17240,Visakhapatnam Guntur Simhadri Express,Nidadavolu,11:15
+17240,Visakhapatnam Guntur Simhadri Express,Eluru,12:15
+17240,Visakhapatnam Guntur Simhadri Express,Vijayawada,14:20
+17240,Visakhapatnam Guntur Simhadri Express,Guntur,15:55
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Visakhapatnam,23:20
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Duvvada,23:52
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Samalkot,01:40
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Rajahmundry,02:25
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Bhimavaram Town,04:00
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Vijayawada,06:55
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Kazipet,10:30
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Secunderabad,13:00
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Lingampalli,13:25
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Vikarabad,14:05
+12727,Visakhapatnam Hyderabad Godavari Express,Visakhapatnam,17:20
+12727,Visakhapatnam Hyderabad Godavari Express,Duvvada,17:47
+12727,Visakhapatnam Hyderabad Godavari Express,Samalkot,19:50
+12727,Visakhapatnam Hyderabad Godavari Express,Rajahmundry,20:35
+12727,Visakhapatnam Hyderabad Godavari Express,Nidadavolu,21:10
+12727,Visakhapatnam Hyderabad Godavari Express,Eluru,22:00
+12727,Visakhapatnam Hyderabad Godavari Express,Vijayawada,23:30
+12727,Visakhapatnam Hyderabad Godavari Express,Khammam,01:12
+12727,Visakhapatnam Hyderabad Godavari Express,Warangal,02:40
+12727,Visakhapatnam Hyderabad Godavari Express,Kazipet,02:57
+12727,Visakhapatnam Hyderabad Godavari Express,Secunderabad,05:15
+12727,Visakhapatnam Hyderabad Godavari Express,Hyderabad,06:15
+20811,Visakhapatnam Hazur Sahib Nanded Express,Visakhapatnam,20:00
+20811,Visakhapatnam Hazur Sahib Nanded Express,Duvvada,20:27
+20811,Visakhapatnam Hazur Sahib Nanded Express,Rajahmundry,22:50
+20811,Visakhapatnam Hazur Sahib Nanded Express,Eluru,00:10
+20811,Visakhapatnam Hazur Sahib Nanded Express,Rayanapadu,01:40
+20811,Visakhapatnam Hazur Sahib Nanded Express,Kazipet,04:45
+20811,Visakhapatnam Hazur Sahib Nanded Express,Secunderabad,07:00
+20811,Visakhapatnam Hazur Sahib Nanded Express,Nizamabad,10:40
+12739,Visakhapatnam Secunderabad Garib Rath Express,Visakhapatnam,20:40
+12739,Visakhapatnam Secunderabad Garib Rath Express,Duvvada,21:07
+12739,Visakhapatnam Secunderabad Garib Rath Express,Samalkot,22:45
+12739,Visakhapatnam Secunderabad Garib Rath Express,Rajahmundry,23:30
+12739,Visakhapatnam Secunderabad Garib Rath Express,Eluru,00:45
+12739,Visakhapatnam Secunderabad Garib Rath Express,Vijayawada,02:10
+12739,Visakhapatnam Secunderabad Garib Rath Express,Khammam,03:30
+12739,Visakhapatnam Secunderabad Garib Rath Express,Warangal,04:59
+12739,Visakhapatnam Secunderabad Garib Rath Express,Secunderabad,08:20
+17206,Kakinada Port Sai Nagar Shirdi Express,Kakinada Port,05:05
+17206,Kakinada Port Sai Nagar Shirdi Express,Kakinada Town,05:15
+17206,Kakinada Port Sai Nagar Shirdi Express,Samalkot,05:30
+17206,Kakinada Port Sai Nagar Shirdi Express,Rajahmundry,06:05
+17206,Kakinada Port Sai Nagar Shirdi Express,Nidadavolu,06:30
+17206,Kakinada Port Sai Nagar Shirdi Express,Eluru,07:30
+17206,Kakinada Port Sai Nagar Shirdi Express,Vijayawada,09:10
+17206,Kakinada Port Sai Nagar Shirdi Express,Khammam,11:05
+17206,Kakinada Port Sai Nagar Shirdi Express,Dornakal,11:25
+17206,Kakinada Port Sai Nagar Shirdi Express,Warangal,12:40
+17206,Kakinada Port Sai Nagar Shirdi Express,Kazipet,13:00
+17206,Kakinada Port Sai Nagar Shirdi Express,Secunderabad,16:20
+17206,Kakinada Port Sai Nagar Shirdi Express,Lingampalli,16:40
+17206,Kakinada Port Sai Nagar Shirdi Express,Vikarabad,17:30
+17208,Machilipatnam Sai Nagar Shirdi Express,Machilipatnam,06:50
+17208,Machilipatnam Sai Nagar Shirdi Express,Vijayawada,09:10
+17208,Machilipatnam Sai Nagar Shirdi Express,Khammam,11:05
+17208,Machilipatnam Sai Nagar Shirdi Express,Dornakal,11:25
+17208,Machilipatnam Sai Nagar Shirdi Express,Warangal,12:40
+17208,Machilipatnam Sai Nagar Shirdi Express,Kazipet,13:00
+17208,Machilipatnam Sai Nagar Shirdi Express,Secunderabad,16:20
+17208,Machilipatnam Sai Nagar Shirdi Express,Lingampalli,16:40
+17208,Machilipatnam Sai Nagar Shirdi Express,Vikarabad,17:30
+12749,Machilipatnam Bidar Express,Machilipatnam,20:50
+12749,Machilipatnam Bidar Express,Vijayawada,22:30
+12749,Machilipatnam Bidar Express,Khammam,00:05
+12749,Machilipatnam Bidar Express,Warangal,01:30
+12749,Machilipatnam Bidar Express,Kazipet,01:45
+12749,Machilipatnam Bidar Express,Secunderabad,04:10
+12749,Machilipatnam Bidar Express,Lingampalli,05:00
+12749,Machilipatnam Bidar Express,Vikarabad,05:40
+12737,Kakinada Port Lingampalli Gautami Express,Kakinada Port,19:15
+12737,Kakinada Port Lingampalli Gautami Express,Kakinada Town,19:25
+12737,Kakinada Port Lingampalli Gautami Express,Samalkot,19:40
+12737,Kakinada Port Lingampalli Gautami Express,Rajahmundry,20:20
+12737,Kakinada Port Lingampalli Gautami Express,Nidadavolu,20:50
+12737,Kakinada Port Lingampalli Gautami Express,Eluru,21:45
+12737,Kakinada Port Lingampalli Gautami Express,Rayanapadu,23:05
+12737,Kakinada Port Lingampalli Gautami Express,Khammam,00:20
+12737,Kakinada Port Lingampalli Gautami Express,Warangal,02:02
+12737,Kakinada Port Lingampalli Gautami Express,Kazipet,02:20
+12737,Kakinada Port Lingampalli Gautami Express,Secunderabad,04:40
+12737,Kakinada Port Lingampalli Gautami Express,Lingampalli,06:05
+12747,Guntur Vikarabad Palnad Express,Guntur,05:45
+12747,Guntur Vikarabad Palnad Express,Sattenapalli,06:24
+12747,Guntur Vikarabad Palnad Express,Nadikudi,07:10
+12747,Guntur Vikarabad Palnad Express,Miryalguda,07:41
+12747,Guntur Vikarabad Palnad Express,Nalgonda,08:14
+12747,Guntur Vikarabad Palnad Express,Secunderabad,10:20
+12747,Guntur Vikarabad Palnad Express,Lingampalli,10:57
+12747,Guntur Vikarabad Palnad Express,Vikarabad,12:10
+22875,Visakhapatnam Guntur Uday Express,Visakhapatnam,05:20
+22875,Visakhapatnam Guntur Uday Express,Duvvada,05:52
+22875,Visakhapatnam Guntur Uday Express,Samalkot,07:40
+22875,Visakhapatnam Guntur Uday Express,Rajahmundry,08:25
+22875,Visakhapatnam Guntur Uday Express,Eluru,09:50
+22875,Visakhapatnam Guntur Uday Express,Vijayawada,11:15
+22875,Visakhapatnam Guntur Uday Express,Guntur,13:00
+20809,Sambalpur Hazur Sahib Nanded Nagavalli Express,Vizianagaram,18:30
+20809,Sambalpur Hazur Sahib Nanded Nagavalli Express,Visakhapatnam,20:00
+20809,Sambalpur Hazur Sahib Nanded Nagavalli Express,Rajahmundry,22:50
+20809,Sambalpur Hazur Sahib Nanded Nagavalli Express,Eluru,00:10
+20809,Sambalpur Hazur Sahib Nanded Nagavalli Express,Rayanapadu,01:40
+20809,Sambalpur Hazur Sahib Nanded Nagavalli Express,Kazipet,04:45
+20809,Sambalpur Hazur Sahib Nanded Nagavalli Express,Nizamabad,10:40
+12775,Kakinada Town Lingampalli Cocanada AC Express,Kakinada Town,20:15
+12775,Kakinada Town Lingampalli Cocanada AC Express,Rajahmundry,21:00
+12775,Kakinada Town Lingampalli Cocanada AC Express,Bhimavaram Town,22:30
+12775,Kakinada Town Lingampalli Cocanada AC Express,Rayanapadu,01:05
+12775,Kakinada Town Lingampalli Cocanada AC Express,Khammam,02:19
+12775,Kakinada Town Lingampalli Cocanada AC Express,Warangal,03:47
+12775,Kakinada Town Lingampalli Cocanada AC Express,Secunderabad,06:25
+12775,Kakinada Town Lingampalli Cocanada AC Express,Lingampalli,07:30
+18503,Visakhapatnam Sai Nagar Shirdi Express,Visakhapatnam,08:20
+18503,Visakhapatnam Sai Nagar Shirdi Express,Duvvada,08:47
+18503,Visakhapatnam Sai Nagar Shirdi Express,Samalkot,10:30
+18503,Visakhapatnam Sai Nagar Shirdi Express,Rajahmundry,11:10
+18503,Visakhapatnam Sai Nagar Shirdi Express,Eluru,12:35
+18503,Visakhapatnam Sai Nagar Shirdi Express,Vijayawada,14:10
+18503,Visakhapatnam Sai Nagar Shirdi Express,Khammam,15:45
+18503,Visakhapatnam Sai Nagar Shirdi Express,Warangal,17:10
+18503,Visakhapatnam Sai Nagar Shirdi Express,Kazipet,17:30
+18503,Visakhapatnam Sai Nagar Shirdi Express,Nizamabad,23:05
+17263,Bhimavaram Jn. Narasapur Link Express,Bhimavaram Jn.,05:40
+17263,Bhimavaram Jn. Narasapur Link Express,Narasapur,06:25
+17258,Kakinada Port Vijayawada Express,Kakinada Port,04:10
+17258,Kakinada Port Vijayawada Express,Kakinada Town,04:20
+17258,Kakinada Port Vijayawada Express,Samalkot,04:35
+17258,Kakinada Port Vijayawada Express,Rajahmundry,05:30
+17258,Kakinada Port Vijayawada Express,Nidadavolu,06:10
+17258,Kakinada Port Vijayawada Express,Eluru,07:20
+17258,Kakinada Port Vijayawada Express,Vijayawada,09:30
+20833,Visakhapatnam Secunderabad Vande Bharat Express,Visakhapatnam,05:45
+20833,Visakhapatnam Secunderabad Vande Bharat Express,Samalkot,07:05
+20833,Visakhapatnam Secunderabad Vande Bharat Express,Rajahmundry,07:40
+20833,Visakhapatnam Secunderabad Vande Bharat Express,Vijayawada,09:45
+20833,Visakhapatnam Secunderabad Vande Bharat Express,Khammam,11:01
+20833,Visakhapatnam Secunderabad Vande Bharat Express,Warangal,12:06
+20833,Visakhapatnam Secunderabad Vande Bharat Express,Secunderabad,14:20
+20708,Visakhapatnam Secunderabad Vande Bharat Express,Visakhapatnam,14:30
+20708,Visakhapatnam Secunderabad Vande Bharat Express,Samalkot,15:55
+20708,Visakhapatnam Secunderabad Vande Bharat Express,Rajahmundry,16:30
+20708,Visakhapatnam Secunderabad Vande Bharat Express,Eluru,17:45
+20708,Visakhapatnam Secunderabad Vande Bharat Express,Vijayawada,18:45
+20708,Visakhapatnam Secunderabad Vande Bharat Express,Khammam,20:05
+20708,Visakhapatnam Secunderabad Vande Bharat Express,Warangal,21:05
+20708,Visakhapatnam Secunderabad Vande Bharat Express,Secunderabad,23:25
+12796,Lingampalli Vijayawada Inter City Express,Hyderabad d Lingampalli Dep.,04:40
+12796,Lingampalli Vijayawada Inter City Express,Secunderabad,05:30
+12796,Lingampalli Vijayawada Inter City Express,Nalgonda,06:50
+12796,Lingampalli Vijayawada Inter City Express,Guntur,09:12
+12796,Lingampalli Vijayawada Inter City Express,Vijayawada,10:35
+18046,Charlapalli Shalimar East Coast Express,Charalapalli,08:00
+18046,Charlapalli Shalimar East Coast Express,Kazipet,10:15
+18046,Charlapalli Shalimar East Coast Express,Warangal,10:30
+18046,Charlapalli Shalimar East Coast Express,Khammam,11:55
+18046,Charlapalli Shalimar East Coast Express,Vijayawada,14:45
+18046,Charlapalli Shalimar East Coast Express,Eluru,15:40
+18046,Charlapalli Shalimar East Coast Express,Nidadavolu,16:30
+18046,Charlapalli Shalimar East Coast Express,Rajahmundry,17:10
+18046,Charlapalli Shalimar East Coast Express,Samalkot,17:55
+18046,Charlapalli Shalimar East Coast Express,Duvvada,20:42
+18046,Charlapalli Shalimar East Coast Express,Visakhapatnam,21:30
+18046,Charlapalli Shalimar East Coast Express,Vizianagaram,22:50
+18046,Charlapalli Shalimar East Coast Express,Srikakulam Road,23:45
+18046,Charlapalli Shalimar East Coast Express,Palasa,01:07
+18046,Charlapalli Shalimar East Coast Express,Sompeta,01:18
+18046,Charlapalli Shalimar East Coast Express,Brahmapur,01:55
+18046,Charlapalli Shalimar East Coast Express,Balugaon,03:14
+18046,Charlapalli Shalimar East Coast Express,Khurda Road,04:30
+18046,Charlapalli Shalimar East Coast Express,Bhubaneswar,05:05
+18046,Charlapalli Shalimar East Coast Express,Cuttack,05:50
+18046,Charlapalli Shalimar East Coast Express,Jajpur Keonjhar Road,06:55
+18046,Charlapalli Shalimar East Coast Express,Bhadrak,08:05
+18046,Charlapalli Shalimar East Coast Express,Balasore,09:02
+18046,Charlapalli Shalimar East Coast Express,Kharagpur,11:50
+18046,Charlapalli Shalimar East Coast Express,Shalimar,15:35
+12748,Vikarabad Guntur Palnad Express,Vikarabad d None,14:40
+12748,Vikarabad Guntur Palnad Express,Secunderabad,16:05
+12748,Vikarabad Guntur Palnad Express,Nalgonda,17:39
+12748,Vikarabad Guntur Palnad Express,Miryalguda,18:07
+12748,Vikarabad Guntur Palnad Express,Nadikudi,18:43
+12748,Vikarabad Guntur Palnad Express,Sattenapalli,19:40
+12748,Vikarabad Guntur Palnad Express,Guntur,21:05
+12728,Hyderabad Visakhapat- nam Godavari Express,Hyderabad d Lingampalli Dep.,17:05
+12728,Hyderabad Visakhapat- nam Godavari Express,Secunderabad,17:30
+12728,Hyderabad Visakhapat- nam Godavari Express,Kazipet,19:15
+12728,Hyderabad Visakhapat- nam Godavari Express,Warangal,19:40
+12728,Hyderabad Visakhapat- nam Godavari Express,Khammam,20:45
+12728,Hyderabad Visakhapat- nam Godavari Express,Vijayawada,22:50
+12728,Hyderabad Visakhapat- nam Godavari Express,Eluru,23:45
+12728,Hyderabad Visakhapat- nam Godavari Express,Nidadavolu,00:45
+12728,Hyderabad Visakhapat- nam Godavari Express,Rajahmundry,01:20
+12728,Hyderabad Visakhapat- nam Godavari Express,Samalkot,02:10
+12728,Hyderabad Visakhapat- nam Godavari Express,Duvvada,05:12
+12728,Hyderabad Visakhapat- nam Godavari Express,Visakhapatnam,05:55
+17256,Lingampalli Narsapur Express,Hyderabad d Lingampalli Dep.,21:00
+17256,Lingampalli Narsapur Express,Secunderabad,21:45
+17256,Lingampalli Narsapur Express,Nalgonda,23:23
+17256,Lingampalli Narsapur Express,Guntur,02:50
+17256,Lingampalli Narsapur Express,Vijayawada,04:10
+17256,Lingampalli Narsapur Express,Bhimavaram Town,06:10
+17256,Lingampalli Narsapur Express,Bhimavaram Jn.,06:30
+17256,Lingampalli Narsapur Express,Narasapur,08:15
+20810,Hazur Sahib Nanded Sambalpur Nagavalli Express,Nizamabad,18:25
+20810,Hazur Sahib Nanded Sambalpur Nagavalli Express,Charalapalli,21:30
+20810,Hazur Sahib Nanded Sambalpur Nagavalli Express,Kazipet,23:40
+20810,Hazur Sahib Nanded Sambalpur Nagavalli Express,Rayanapadu,02:55
+20810,Hazur Sahib Nanded Sambalpur Nagavalli Express,Eluru,04:00
+20810,Hazur Sahib Nanded Sambalpur Nagavalli Express,Rajahmundry,05:35
+20810,Hazur Sahib Nanded Sambalpur Nagavalli Express,Visakhapatnam,09:30
+20810,Hazur Sahib Nanded Sambalpur Nagavalli Express,Vizianagaram,10:30
+20812,Hazur Sahib Nanded Visakhapatnam Express,Nizamabad,18:25
+20812,Hazur Sahib Nanded Visakhapatnam Express,Charalapalli,21:30
+20812,Hazur Sahib Nanded Visakhapatnam Express,Kazipet,23:40
+20812,Hazur Sahib Nanded Visakhapatnam Express,Rayanapadu,02:55
+20812,Hazur Sahib Nanded Visakhapatnam Express,Eluru,04:00
+20812,Hazur Sahib Nanded Visakhapatnam Express,Rajahmundry,05:35
+20812,Hazur Sahib Nanded Visakhapatnam Express,Duvvada,08:37
+20812,Hazur Sahib Nanded Visakhapatnam Express,Visakhapatnam,09:20
+22881,Pune Bhu- baneswar Express,Secunderabad,20:05
+22881,Pune Bhu- baneswar Express,Nalgonda,23:02
+22881,Pune Bhu- baneswar Express,Guntur,02:10
+22881,Pune Bhu- baneswar Express,Vijayawada,03:30
+22881,Pune Bhu- baneswar Express,Duvvada,09:12
+22881,Pune Bhu- baneswar Express,Visakhapatnam,10:10
+22881,Pune Bhu- baneswar Express,Vizianagaram,11:00
+22881,Pune Bhu- baneswar Express,Brahmapur,14:03
+22881,Pune Bhu- baneswar Express,Khurda Road,16:15
+22881,Pune Bhu- baneswar Express,Bhubaneswar,17:00
+17239,Guntur Visakhapat- nam Simhadri Express,Guntur,08:00
+17239,Guntur Visakhapat- nam Simhadri Express,Vijayawada,08:50
+17239,Guntur Visakhapat- nam Simhadri Express,Eluru,10:05
+17239,Guntur Visakhapat- nam Simhadri Express,Nidadavolu,11:10
+17239,Guntur Visakhapat- nam Simhadri Express,Rajahmundry,11:45
+17239,Guntur Visakhapat- nam Simhadri Express,Samalkot,12:40
+17239,Guntur Visakhapat- nam Simhadri Express,Duvvada,15:35
+17239,Guntur Visakhapat- nam Simhadri Express,Visakhapatnam,16:40
+12788,Nagarsol Narasapur Express,Nizamabad,20:05
+12788,Nagarsol Narasapur Express,Charalapalli,23:40
+12788,Nagarsol Narasapur Express,Kazipet,01:50
+12788,Nagarsol Narasapur Express,Warangal,02:05
+12788,Nagarsol Narasapur Express,Khammam,03:25
+12788,Nagarsol Narasapur Express,Vijayawada,05:40
+12788,Nagarsol Narasapur Express,Bhimavaram Town,07:25
+12788,Nagarsol Narasapur Express,Narasapur,08:35
+17232,Nagarsol Narasapur Express,Nizamabad,20:05
+17232,Nagarsol Narasapur Express,Charalapalli,23:40
+17232,Nagarsol Narasapur Express,Nalgonda,01:12
+17232,Nagarsol Narasapur Express,Miryalguda,02:19
+17232,Nagarsol Narasapur Express,Nadikudi,03:06
+17232,Nagarsol Narasapur Express,Sattenapalli,04:07
+17232,Nagarsol Narasapur Express,Guntur,05:15
+17232,Nagarsol Narasapur Express,Vijayawada,06:35
+17232,Nagarsol Narasapur Express,Bhimavaram Town,08:30
+17232,Nagarsol Narasapur Express,Narasapur,10:15
+17222,Lokmanya Tilak (T) Kakinada Port Express,Secunderabad,02:15
+17222,Lokmanya Tilak (T) Kakinada Port Express,Nalgonda,05:07
+17222,Lokmanya Tilak (T) Kakinada Port Express,Miryalguda,05:40
+17222,Lokmanya Tilak (T) Kakinada Port Express,Nadikudi,06:25
+17222,Lokmanya Tilak (T) Kakinada Port Express,Sattenapalli,07:31
+17222,Lokmanya Tilak (T) Kakinada Port Express,Guntur,08:20
+17222,Lokmanya Tilak (T) Kakinada Port Express,Vijayawada,09:45
+17222,Lokmanya Tilak (T) Kakinada Port Express,Eluru,10:30
+17222,Lokmanya Tilak (T) Kakinada Port Express,Rajahmundry,12:15
+17222,Lokmanya Tilak (T) Kakinada Port Express,Samalkot,13:10
+17222,Lokmanya Tilak (T) Kakinada Port Express,Kakinada Town,13:35
+17222,Lokmanya Tilak (T) Kakinada Port Express,Kakinada Port,14:20
+20842,Visakhapa- tnam Bhubaneswar Vande Bharat Express,Visakhapatnam,15:30
+20842,Visakhapa- tnam Bhubaneswar Vande Bharat Express,Vizianagaram,16:17
+20842,Visakhapa- tnam Bhubaneswar Vande Bharat Express,Srikakulam Road,17:05
+20842,Visakhapa- tnam Bhubaneswar Vande Bharat Express,Palasa,18:12
+20842,Visakhapa- tnam Bhubaneswar Vande Bharat Express,Brahmapur,19:02
+20842,Visakhapa- tnam Bhubaneswar Vande Bharat Express,Balugaon,19:54
+20842,Visakhapa- tnam Bhubaneswar Vande Bharat Express,Khurda Road,20:59
+20842,Visakhapa- tnam Bhubaneswar Vande Bharat Express,Bhubaneswar,21:30
+22876,Guntur Visakhapatnam Double Decker,Guntur,16:00
+22876,Guntur Visakhapatnam Double Decker,Vijayawada,16:55
+22876,Guntur Visakhapatnam Double Decker,Eluru,17:45
+22876,Guntur Visakhapatnam Double Decker,Rajahmundry,19:10
+22876,Guntur Visakhapatnam Double Decker,Samalkot,19:55
+22876,Guntur Visakhapatnam Double Decker,Duvvada,22:22
+22876,Guntur Visakhapatnam Double Decker,Visakhapatnam,22:55
+22820,Visakhapatnam Bhubaneswar New Intercity Express,Visakhapatnam,16:20
+22820,Visakhapatnam Bhubaneswar New Intercity Express,Vizianagaram,17:20
+22820,Visakhapatnam Bhubaneswar New Intercity Express,Srikakulam Road,18:20
+22820,Visakhapatnam Bhubaneswar New Intercity Express,Palasa,19:48
+22820,Visakhapatnam Bhubaneswar New Intercity Express,Sompeta,20:15
+22820,Visakhapatnam Bhubaneswar New Intercity Express,Brahmapur,20:51
+22820,Visakhapatnam Bhubaneswar New Intercity Express,Balugaon,21:58
+22820,Visakhapatnam Bhubaneswar New Intercity Express,Khurda Road,23:09
+22820,Visakhapatnam Bhubaneswar New Intercity Express,Bhubaneswar,00:15
+22820,Visakhapatnam Bhubaneswar New Intercity Express,Bhubaneswar New,00:35
+20807,Visakhapatnam Amritsar Hirakud Express,Visakhapatnam,00:25
+20807,Visakhapatnam Amritsar Hirakud Express,Vizianagaram,01:20
+20807,Visakhapatnam Amritsar Hirakud Express,Srikakulam Road,02:15
+20807,Visakhapatnam Amritsar Hirakud Express,Palasa,03:32
+20807,Visakhapatnam Amritsar Hirakud Express,Brahmapur,04:30
+20807,Visakhapatnam Amritsar Hirakud Express,Balugaon,05:30
+20807,Visakhapatnam Amritsar Hirakud Express,Khurda Road,06:35
+20807,Visakhapatnam Amritsar Hirakud Express,Bhubaneswar,07:15
+12774,Secunderabad Shalimar AC Express,Secunderabad,03:55
+12774,Secunderabad Shalimar AC Express,Warangal,05:35
+12774,Secunderabad Shalimar AC Express,Rayanapadu,08:30
+12774,Secunderabad Shalimar AC Express,Rajahmundry,11:15
+12774,Secunderabad Shalimar AC Express,Samalkot,12:00
+12774,Secunderabad Shalimar AC Express,Visakhapatnam,15:35
+12774,Secunderabad Shalimar AC Express,Vizianagaram,16:35
+12774,Secunderabad Shalimar AC Express,Srikakulam Road,17:25
+12774,Secunderabad Shalimar AC Express,Brahmapur,19:25
+12774,Secunderabad Shalimar AC Express,Khurda Road,21:30
+12774,Secunderabad Shalimar AC Express,Bhubaneswar,22:10
+12774,Secunderabad Shalimar AC Express,Cuttack,22:45
+12774,Secunderabad Shalimar AC Express,Balasore,01:40
+12774,Secunderabad Shalimar AC Express,Kharagpur,03:27
+12774,Secunderabad Shalimar AC Express,Shalimar,06:50
+12784,Secunderabad Visakapatnam AC Express,Secunderabad,21:40
+12784,Secunderabad Visakapatnam AC Express,Guntur,02:15
+12784,Secunderabad Visakapatnam AC Express,Vijayawada,03:30
+12784,Secunderabad Visakapatnam AC Express,Eluru,04:25
+12784,Secunderabad Visakapatnam AC Express,Rajahmundry,05:55
+12784,Secunderabad Visakapatnam AC Express,Samalkot,06:40
+12784,Secunderabad Visakapatnam AC Express,Duvvada,09:07
+12784,Secunderabad Visakapatnam AC Express,Visakhapatnam,09:45
+22810,Visakhapatnam Paradeep Express,Visakhapatnam,23:45
+22810,Visakhapatnam Paradeep Express,Vizianagaram,00:35
+22810,Visakhapatnam Paradeep Express,Srikakulam Road,01:35
+22810,Visakhapatnam Paradeep Express,Palasa,02:42
+22810,Visakhapatnam Paradeep Express,Sompeta,03:08
+22810,Visakhapatnam Paradeep Express,Brahmapur,03:48
+22810,Visakhapatnam Paradeep Express,Balugaon,04:52
+22810,Visakhapatnam Paradeep Express,Khurda Road,06:00
+22810,Visakhapatnam Paradeep Express,Bhubaneswar,06:33
+22810,Visakhapatnam Paradeep Express,Cuttack,07:25
+22810,Visakhapatnam Paradeep Express,Paradeep,09:30
+17264,Narasapur Bhimavaram Jn. Link Express,Narasapur,22:45
+17264,Narasapur Bhimavaram Jn. Link Express,Bhimavaram Jn.,23:30
+22204,Secunderabad Visakapatnam Duronto Express,Secunderabad,20:15
+22204,Secunderabad Visakapatnam Duronto Express,Guntur,23:55
+22204,Secunderabad Visakapatnam Duronto Express,Vijayawada,01:10
+22204,Secunderabad Visakapatnam Duronto Express,Visakhapatnam,06:30
+12862,Mehboob- nagar Visakapatnam Express,Hyderabad,16:10
+12862,Mehboob- nagar Visakapatnam Express,Kacheguda,17:55
+12862,Mehboob- nagar Visakapatnam Express,Kazipet,20:40
+12862,Mehboob- nagar Visakapatnam Express,Warangal,20:55
+12862,Mehboob- nagar Visakapatnam Express,Khammam,22:35
+12862,Mehboob- nagar Visakapatnam Express,Rayanapadu,00:15
+12862,Mehboob- nagar Visakapatnam Express,Eluru,01:20
+12862,Mehboob- nagar Visakapatnam Express,Nidadavolu,02:15
+12862,Mehboob- nagar Visakapatnam Express,Rajahmundry,02:45
+12862,Mehboob- nagar Visakapatnam Express,Samalkot,03:15
+12862,Mehboob- nagar Visakapatnam Express,Duvvada,06:17
+12862,Mehboob- nagar Visakapatnam Express,Visakhapatnam,06:50
+17257,Vijayawada Kakinada Port Express,Vijayawada,18:15
+17257,Vijayawada Kakinada Port Express,Eluru,19:10
+17257,Vijayawada Kakinada Port Express,Nidadavolu,20:35
+17257,Vijayawada Kakinada Port Express,Rajahmundry,21:20
+17257,Vijayawada Kakinada Port Express,Samalkot,22:30
+17257,Vijayawada Kakinada Port Express,Kakinada Town,22:55
+17257,Vijayawada Kakinada Port Express,Kakinada Port,23:35
+17659,Secunderabad Bhadrachalam Express,Secunderabad,17:25
+17659,Secunderabad Bhadrachalam Express,Kazipet,20:15
+17659,Secunderabad Bhadrachalam Express,Warangal,20:45
+17659,Secunderabad Bhadrachalam Express,Bhadrachalam Raod,23:55
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Secunderabad,19:50
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Kazipet,21:45
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Vijayawada,02:50
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Bhimavaram Town,04:55
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Rajahmundry,06:55
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Samalkot,07:40
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Duvvada,10:07
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Visakhapatnam,10:50
+22850,Secunderabad Shalimar Express,Secunderabad,03:55
+22850,Secunderabad Shalimar Express,Kazipet,05:20
+22850,Secunderabad Shalimar Express,Warangal,05:35
+22850,Secunderabad Shalimar Express,Rayanapadu,08:30
+22850,Secunderabad Shalimar Express,Eluru,09:35
+22850,Secunderabad Shalimar Express,Rajahmundry,11:50
+22850,Secunderabad Shalimar Express,Visakhapatnam,15:35
+22850,Secunderabad Shalimar Express,Vizianagaram,16:35
+22850,Secunderabad Shalimar Express,Palasa,18:30
+22850,Secunderabad Shalimar Express,Sompeta,18:48
+22850,Secunderabad Shalimar Express,Brahmapur,19:25
+22850,Secunderabad Shalimar Express,Khurda Road,21:30
+22850,Secunderabad Shalimar Express,Bhubaneswar,22:10
+22850,Secunderabad Shalimar Express,Cuttack,22:45
+22850,Secunderabad Shalimar Express,Bhadrak,01:02
+22850,Secunderabad Shalimar Express,Balasore,01:40
+22850,Secunderabad Shalimar Express,Kharagpur,03:27
+22850,Secunderabad Shalimar Express,Shalimar,06:50
+11019,Mumbai Bhubaneswar New Konark Express,Secunderabad,03:40
+11019,Mumbai Bhubaneswar New Konark Express,Kazipet,05:40
+11019,Mumbai Bhubaneswar New Konark Express,Warangal,06:00
+11019,Mumbai Bhubaneswar New Konark Express,Khammam,07:25
+11019,Mumbai Bhubaneswar New Konark Express,Vijayawada,09:35
+11019,Mumbai Bhubaneswar New Konark Express,Eluru,10:20
+11019,Mumbai Bhubaneswar New Konark Express,Nidadavolu,11:20
+11019,Mumbai Bhubaneswar New Konark Express,Rajahmundry,12:00
+11019,Mumbai Bhubaneswar New Konark Express,Samalkot,12:50
+11019,Mumbai Bhubaneswar New Konark Express,Visakhapatnam,16:00
+11019,Mumbai Bhubaneswar New Konark Express,Vizianagaram,17:00
+11019,Mumbai Bhubaneswar New Konark Express,Srikakulam Road,17:50
+11019,Mumbai Bhubaneswar New Konark Express,Palasa,19:15
+11019,Mumbai Bhubaneswar New Konark Express,Sompeta,19:33
+11019,Mumbai Bhubaneswar New Konark Express,Brahmapur,20:20
+11019,Mumbai Bhubaneswar New Konark Express,Balugaon,21:35
+11019,Mumbai Bhubaneswar New Konark Express,Khurda Road,22:20
+11019,Mumbai Bhubaneswar New Konark Express,Bhubaneswar,23:55
+11019,Mumbai Bhubaneswar New Konark Express,Bhubaneswar New,00:20
+17205,Sai Nagar Shirdi Kakinada Port Express,Secunderabad,08:30
+17205,Sai Nagar Shirdi Kakinada Port Express,Kazipet,11:00
+17205,Sai Nagar Shirdi Kakinada Port Express,Warangal,11:30
+17205,Sai Nagar Shirdi Kakinada Port Express,Dornakal,12:35
+17205,Sai Nagar Shirdi Kakinada Port Express,Khammam,12:55
+17205,Sai Nagar Shirdi Kakinada Port Express,Vijayawada,15:10
+17205,Sai Nagar Shirdi Kakinada Port Express,Eluru,15:55
+17205,Sai Nagar Shirdi Kakinada Port Express,Nidadavolu,16:55
+17205,Sai Nagar Shirdi Kakinada Port Express,Rajahmundry,17:30
+17205,Sai Nagar Shirdi Kakinada Port Express,Samalkot,18:20
+17205,Sai Nagar Shirdi Kakinada Port Express,Kakinada Town,18:55
+17205,Sai Nagar Shirdi Kakinada Port Express,Kakinada Port,19:45
+17207,Sai Nagar Shirdi Machilipatnam Express,Secunderabad,09:10
+17207,Sai Nagar Shirdi Machilipatnam Express,Kazipet,11:00
+17207,Sai Nagar Shirdi Machilipatnam Express,Warangal,11:30
+17207,Sai Nagar Shirdi Machilipatnam Express,Dornakal,12:35
+17207,Sai Nagar Shirdi Machilipatnam Express,Khammam,12:55
+17207,Sai Nagar Shirdi Machilipatnam Express,Vijayawada,15:05
+17207,Sai Nagar Shirdi Machilipatnam Express,Machilipatnam,17:35
+12756,Bhavnagar Kakinada Port Express,Secunderabad,06:50
+12756,Bhavnagar Kakinada Port Express,Nalgonda,09:05
+12756,Bhavnagar Kakinada Port Express,Miryalguda,09:31
+12756,Bhavnagar Kakinada Port Express,Nadikudi,10:06
+12756,Bhavnagar Kakinada Port Express,Sattenapalli,10:54
+12756,Bhavnagar Kakinada Port Express,Guntur,11:55
+12756,Bhavnagar Kakinada Port Express,Vijayawada,13:00
+12756,Bhavnagar Kakinada Port Express,Rajahmundry,15:30
+12756,Bhavnagar Kakinada Port Express,Samalkot,16:20
+12756,Bhavnagar Kakinada Port Express,Kakinada Town,16:45
+12756,Bhavnagar Kakinada Port Express,Kakinada Port,17:25
+12704,Secunderabad Howrah Falaknuma Express,Secunderabad,15:55
+12704,Secunderabad Howrah Falaknuma Express,Nalgonda,17:27
+12704,Secunderabad Howrah Falaknuma Express,Miryalguda,17:55
+12704,Secunderabad Howrah Falaknuma Express,Guntur,20:30
+12704,Secunderabad Howrah Falaknuma Express,Vijayawada,21:35
+12704,Secunderabad Howrah Falaknuma Express,Eluru,22:20
+12704,Secunderabad Howrah Falaknuma Express,Rajahmundry,23:50
+12704,Secunderabad Howrah Falaknuma Express,Samalkot,00:40
+12704,Secunderabad Howrah Falaknuma Express,Visakhapatnam,03:40
+12704,Secunderabad Howrah Falaknuma Express,Vizianagaram,04:35
+12704,Secunderabad Howrah Falaknuma Express,Srikakulam Road,05:25
+12704,Secunderabad Howrah Falaknuma Express,Palasa,06:42
+12704,Secunderabad Howrah Falaknuma Express,Brahmapur,07:30
+12704,Secunderabad Howrah Falaknuma Express,Balugaon,08:25
+12704,Secunderabad Howrah Falaknuma Express,Khurda Road,09:40
+12704,Secunderabad Howrah Falaknuma Express,Bhubaneswar,10:15
+12704,Secunderabad Howrah Falaknuma Express,Cuttack,10:45
+12704,Secunderabad Howrah Falaknuma Express,Jajpur Keonjhar Road,11:36
+12704,Secunderabad Howrah Falaknuma Express,Bhadrak,13:12
+12704,Secunderabad Howrah Falaknuma Express,Balasore,13:50
+12704,Secunderabad Howrah Falaknuma Express,Kharagpur,15:35
+12704,Secunderabad Howrah Falaknuma Express,Howrah,18:10
+17016,Secunderabad Bhubaneswar New Visakha Express,Secunderabad,16:50
+17016,Secunderabad Bhubaneswar New Visakha Express,Nalgonda,18:18
+17016,Secunderabad Bhubaneswar New Visakha Express,Miryalguda,18:45
+17016,Secunderabad Bhubaneswar New Visakha Express,Nadikudi,19:34
+17016,Secunderabad Bhubaneswar New Visakha Express,Sattenapalli,20:32
+17016,Secunderabad Bhubaneswar New Visakha Express,Guntur,21:40
+17016,Secunderabad Bhubaneswar New Visakha Express,Vijayawada,23:15
+17016,Secunderabad Bhubaneswar New Visakha Express,Bhimavaram Town,00:55
+17016,Secunderabad Bhubaneswar New Visakha Express,Nidadavolu,01:50
+17016,Secunderabad Bhubaneswar New Visakha Express,Rajahmundry,02:25
+17016,Secunderabad Bhubaneswar New Visakha Express,Samalkot,03:10
+17016,Secunderabad Bhubaneswar New Visakha Express,Duvvada,06:35
+17016,Secunderabad Bhubaneswar New Visakha Express,Visakhapatnam,07:30
+17016,Secunderabad Bhubaneswar New Visakha Express,Vizianagaram,08:35
+17016,Secunderabad Bhubaneswar New Visakha Express,Srikakulam Road,09:37
+17016,Secunderabad Bhubaneswar New Visakha Express,Palasa,11:10
+17016,Secunderabad Bhubaneswar New Visakha Express,Sompeta,11:32
+17016,Secunderabad Bhubaneswar New Visakha Express,Brahmapur,12:02
+17016,Secunderabad Bhubaneswar New Visakha Express,Balugaon,13:10
+17016,Secunderabad Bhubaneswar New Visakha Express,Khurda Road,14:20
+17016,Secunderabad Bhubaneswar New Visakha Express,Bhubaneswar,15:00
+17016,Secunderabad Bhubaneswar New Visakha Express,Bhubaneswar New,16:25
+12740,Secunderabad Visakhapatnam Garib Rath Express,Secunderabad,20:30
+12740,Secunderabad Visakhapatnam Garib Rath Express,Warangal,22:20
+12740,Secunderabad Visakhapatnam Garib Rath Express,Khammam,23:35
+12740,Secunderabad Visakhapatnam Garib Rath Express,Vijayawada,01:50
+12740,Secunderabad Visakhapatnam Garib Rath Express,Eluru,02:35
+12740,Secunderabad Visakhapatnam Garib Rath Express,Rajahmundry,03:55
+12740,Secunderabad Visakhapatnam Garib Rath Express,Samalkot,04:40
+12740,Secunderabad Visakhapatnam Garib Rath Express,Duvvada,07:00
+12740,Secunderabad Visakhapatnam Garib Rath Express,Visakhapatnam,07:50
+12738,Lingampalli Kakinada Port Gautami Express,Lingampalli,20:30
+12738,Lingampalli Kakinada Port Gautami Express,Secunderabad,21:15
+12738,Lingampalli Kakinada Port Gautami Express,Kazipet,23:10
+12738,Lingampalli Kakinada Port Gautami Express,Warangal,23:25
+12738,Lingampalli Kakinada Port Gautami Express,Khammam,00:55
+12738,Lingampalli Kakinada Port Gautami Express,Rayanapadu,02:40
+12738,Lingampalli Kakinada Port Gautami Express,Eluru,03:45
+12738,Lingampalli Kakinada Port Gautami Express,Nidadavolu,04:40
+12738,Lingampalli Kakinada Port Gautami Express,Rajahmundry,05:20
+12738,Lingampalli Kakinada Port Gautami Express,Samalkot,06:15
+12738,Lingampalli Kakinada Port Gautami Express,Kakinada Town,06:45
+12738,Lingampalli Kakinada Port Gautami Express,Kakinada Port,07:10
+12750,Bidar Machilipatnam Express,Secunderabad,22:15
+12750,Bidar Machilipatnam Express,Kazipet,00:10
+12750,Bidar Machilipatnam Express,Warangal,00:25
+12750,Bidar Machilipatnam Express,Khammam,01:50
+12750,Bidar Machilipatnam Express,Vijayawada,04:20
+12750,Bidar Machilipatnam Express,Machilipatnam,06:20
+12745,Secunderabad Manuguru Express,Secunderabad,23:45
+12745,Secunderabad Manuguru Express,Kazipet,01:40
+12745,Secunderabad Manuguru Express,Warangal,01:55
+12745,Secunderabad Manuguru Express,Bhadrachalam,04:30
+12745,Secunderabad Manuguru Express,Manuguru,05:45
+12776,Lingampalli Kakinada Cocanada AC Express,Lingampalli,19:00
+12776,Lingampalli Kakinada Cocanada AC Express,Secunderabad,19:40
+12776,Lingampalli Kakinada Cocanada AC Express,Warangal,21:30
+12776,Lingampalli Kakinada Cocanada AC Express,Khammam,22:50
+12776,Lingampalli Kakinada Cocanada AC Express,Rayanapadu,00:30
+12776,Lingampalli Kakinada Cocanada AC Express,Bhimavaram Town,02:40
+12776,Lingampalli Kakinada Cocanada AC Express,Rajahmundry,04:20
+12776,Lingampalli Kakinada Cocanada AC Express,Kakinada Town,06:10
+18504,Sai Nagar Shirdi Visakhapatnam Express,Secunderabad,18:50
+18504,Sai Nagar Shirdi Visakhapatnam Express,Kazipet,11:00
+18504,Sai Nagar Shirdi Visakhapatnam Express,Warangal,11:30
+18504,Sai Nagar Shirdi Visakhapatnam Express,Khammam,12:55
+18504,Sai Nagar Shirdi Visakhapatnam Express,Vijayawada,15:10
+18504,Sai Nagar Shirdi Visakhapatnam Express,Eluru,15:55
+18504,Sai Nagar Shirdi Visakhapatnam Express,Rajahmundry,17:30
+18504,Sai Nagar Shirdi Visakhapatnam Express,Samalkot,18:20
+18504,Sai Nagar Shirdi Visakhapatnam Express,Duvvada,21:00
+18504,Sai Nagar Shirdi Visakhapatnam Express,Visakhapatnam,21:50
+17281,Guntur Narsapur Express,Guntur,17:45
+17281,Guntur Narsapur Express,Vijayawada,18:40
+17281,Guntur Narsapur Express,Bhimavaram Town,21:10
+17281,Guntur Narsapur Express,Narsapur,22:35
+17269,Vijayawada Narsapur Express,Vijayawada,17:15
+17269,Vijayawada Narsapur Express,Bhimavaram Town,19:30
+17269,Vijayawada Narsapur Express,Narsapur,21:05
+20834,Secunderabad Visakhapatnam Vande Bharat Express,Secunderabad,15:00
+20834,Secunderabad Visakhapatnam Vande Bharat Express,Warangal,16:36
+20834,Secunderabad Visakhapatnam Vande Bharat Express,Khammam,17:46
+20834,Secunderabad Visakhapatnam Vande Bharat Express,Vijayawada,18:55
+20834,Secunderabad Visakhapatnam Vande Bharat Express,Rajahmundry,20:45
+20834,Secunderabad Visakhapatnam Vande Bharat Express,Samalkot,21:25
+20834,Secunderabad Visakhapatnam Vande Bharat Express,Visakhapatnam,23:35
+20707,Secunderabad Visakhapatnam Vande Bharat Express,Secunderabad,05:05
+20707,Secunderabad Visakhapatnam Vande Bharat Express,Warangal,06:40
+20707,Secunderabad Visakhapatnam Vande Bharat Express,Khammam,07:45
+20707,Secunderabad Visakhapatnam Vande Bharat Express,Vijayawada,09:05
+20707,Secunderabad Visakhapatnam Vande Bharat Express,Eluru,09:50
+20707,Secunderabad Visakhapatnam Vande Bharat Express,Rajahmundry,10:50
+20707,Secunderabad Visakhapatnam Vande Bharat Express,Samalkot,11:25
+20707,Secunderabad Visakhapatnam Vande Bharat Express,Visakhapatnam,13:45

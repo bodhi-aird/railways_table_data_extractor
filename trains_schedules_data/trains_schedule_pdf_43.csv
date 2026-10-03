@@ -1,0 +1,423 @@
+train_num,train_name,halt_station_name,departure_time
+11265,Jabalpur Ambikapur Express,Jabalpur,12:45
+11265,Jabalpur Ambikapur Express,Katni South,14:05
+11265,Jabalpur Ambikapur Express,Anuppur,18:15
+18235,Bhopal Bilaspur Express/ Passenger,Bhopal,10:20
+18235,Bhopal Bilaspur Express/ Passenger,Bina,13:05
+18235,Bhopal Bilaspur Express/ Passenger,Sagour,14:45
+18235,Bhopal Bilaspur Express/ Passenger,Damoh,16:30
+18235,Bhopal Bilaspur Express/ Passenger,Katni Murwara,19:20
+18235,Bhopal Bilaspur Express/ Passenger,Anuppur,23:30
+18235,Bhopal Bilaspur Express/ Passenger,Bilaspur,03:00
+11463,Somnath Jabalpur Express (via Itarsi),Ratlam,00:45
+11463,Somnath Jabalpur Express (via Itarsi),Ujjain,02:40
+11463,Somnath Jabalpur Express (via Itarsi),Maksi,03:32
+11463,Somnath Jabalpur Express (via Itarsi),Sant Hirdaram Nagar,06:15
+11463,Somnath Jabalpur Express (via Itarsi),Bhopal,07:00
+11463,Somnath Jabalpur Express (via Itarsi),Rani Kamalapati,07:15
+11463,Somnath Jabalpur Express (via Itarsi),Itarsi,09:20
+11463,Somnath Jabalpur Express (via Itarsi),Pipariya,10:15
+11463,Somnath Jabalpur Express (via Itarsi),Narsingpur,11:20
+11463,Somnath Jabalpur Express (via Itarsi),Madan Mahal,13:40
+11463,Somnath Jabalpur Express (via Itarsi),Jabalpur,14:10
+11465,Somnath Jabalpur Express (via Bina),Ratlam,00:45
+11465,Somnath Jabalpur Express (via Bina),Ujjain,02:40
+11465,Somnath Jabalpur Express (via Bina),Maksi,03:32
+11465,Somnath Jabalpur Express (via Bina),Sant Hirdaram Nagar,06:15
+11465,Somnath Jabalpur Express (via Bina),Bhopal,07:00
+11465,Somnath Jabalpur Express (via Bina),Bina,09:35
+11465,Somnath Jabalpur Express (via Bina),Sagour,10:50
+11465,Somnath Jabalpur Express (via Bina),Damoh,12:00
+11465,Somnath Jabalpur Express (via Bina),Katni Murwara,13:25
+11465,Somnath Jabalpur Express (via Bina),Jabalpur,16:15
+19323,Dr. Ambedkar Nagar Bhopal Intercity Express (via Dewas Maksi),Dr Ambedkar Nagar,06:25
+19323,Dr. Ambedkar Nagar Bhopal Intercity Express (via Dewas Maksi),Indore,06:40
+19323,Dr. Ambedkar Nagar Bhopal Intercity Express (via Dewas Maksi),Dewas,07:20
+19323,Dr. Ambedkar Nagar Bhopal Intercity Express (via Dewas Maksi),Maksi,08:00
+19323,Dr. Ambedkar Nagar Bhopal Intercity Express (via Dewas Maksi),Sant Hirdaram Nagar,10:25
+19323,Dr. Ambedkar Nagar Bhopal Intercity Express (via Dewas Maksi),Bhopal,10:55
+12061,Rani Kamalapati Madan Mahal Jan Shatabdi Express,Rani Kamalapati,17:40
+12061,Rani Kamalapati Madan Mahal Jan Shatabdi Express,Itarsi,19:15
+12061,Rani Kamalapati Madan Mahal Jan Shatabdi Express,Pipariya,20:08
+12061,Rani Kamalapati Madan Mahal Jan Shatabdi Express,Narsingpur,21:20
+12061,Rani Kamalapati Madan Mahal Jan Shatabdi Express,Madan Mahal,22:45
+12854,Bhopal Durg Amarkantak Express,Bhopal,16:00
+12854,Bhopal Durg Amarkantak Express,Rani Kamalapati,16:13
+12854,Bhopal Durg Amarkantak Express,Itarsi,17:55
+12854,Bhopal Durg Amarkantak Express,Pipariya,18:48
+12854,Bhopal Durg Amarkantak Express,Narsingpur,20:04
+12854,Bhopal Durg Amarkantak Express,Madan Mahal,21:14
+12854,Bhopal Durg Amarkantak Express,Jabalpur,21:35
+12854,Bhopal Durg Amarkantak Express,Katni South,23:05
+12854,Bhopal Durg Amarkantak Express,Anuppur,02:20
+12854,Bhopal Durg Amarkantak Express,Raipur,07:00
+12854,Bhopal Durg Amarkantak Express,Durg,08:05
+12185,Rani Kamalapati Rewa Rewanchal Express,Rani Kamalapati,21:55
+12185,Rani Kamalapati Rewa Rewanchal Express,Bhopal,22:10
+12185,Rani Kamalapati Rewa Rewanchal Express,Bina,00:30
+12185,Rani Kamalapati Rewa Rewanchal Express,Sagour,01:40
+12185,Rani Kamalapati Rewa Rewanchal Express,Damoh,02:45
+12185,Rani Kamalapati Rewa Rewanchal Express,Katni Murwara,04:20
+12185,Rani Kamalapati Rewa Rewanchal Express,Satna,06:35
+12185,Rani Kamalapati Rewa Rewanchal Express,Rewa,08:00
+18233,Indore Bilaspur Narmada Express/ Passenger,Indore,16:10
+18233,Indore Bilaspur Narmada Express/ Passenger,Dewas,16:35
+18233,Indore Bilaspur Narmada Express/ Passenger,Ujjain,17:55
+18233,Indore Bilaspur Narmada Express/ Passenger,Maksi,18:40
+18233,Indore Bilaspur Narmada Express/ Passenger,Sant Hirdaram Nagar,21:30
+18233,Indore Bilaspur Narmada Express/ Passenger,Bhopal,22:15
+18233,Indore Bilaspur Narmada Express/ Passenger,Rani Kamalapati,22:30
+18233,Indore Bilaspur Narmada Express/ Passenger,Itarsi,00:25
+18233,Indore Bilaspur Narmada Express/ Passenger,Pipariya,01:15
+18233,Indore Bilaspur Narmada Express/ Passenger,Narsingpur,02:35
+18233,Indore Bilaspur Narmada Express/ Passenger,Madan Mahal,03:55
+18233,Indore Bilaspur Narmada Express/ Passenger,Jabalpur,04:15
+18233,Indore Bilaspur Narmada Express/ Passenger,Katni South,06:55
+18233,Indore Bilaspur Narmada Express/ Passenger,Anuppur,10:36
+18233,Indore Bilaspur Narmada Express/ Passenger,Bilaspur,13:50
+22191,Indore Jabalpur Super Fast Express,Indore,19:35
+22191,Indore Jabalpur Super Fast Express,Dewas,20:03
+22191,Indore Jabalpur Super Fast Express,Maksi,20:50
+22191,Indore Jabalpur Super Fast Express,Sant Hirdaram Nagar,23:07
+22191,Indore Jabalpur Super Fast Express,Bhopal,23:35
+22191,Indore Jabalpur Super Fast Express,Rani Kamalapati,23:50
+22191,Indore Jabalpur Super Fast Express,Itarsi,01:50
+22191,Indore Jabalpur Super Fast Express,Pipariya,02:40
+22191,Indore Jabalpur Super Fast Express,Narsingpur,03:55
+22191,Indore Jabalpur Super Fast Express,Madan Mahal,05:05
+22191,Indore Jabalpur Super Fast Express,Jabalpur,05:35
+20827,Jabalpur Santragachi Humsafar Express,Jabalpur,20:20
+20827,Jabalpur Santragachi Humsafar Express,Katni South,21:25
+20827,Jabalpur Santragachi Humsafar Express,Anuppur,00:42
+20827,Jabalpur Santragachi Humsafar Express,Bilaspur,03:55
+19091,Bandra (T) Gorakhpur Humsafar Express,Ratlam,15:25
+19091,Bandra (T) Gorakhpur Humsafar Express,Ujjain,17:15
+19091,Bandra (T) Gorakhpur Humsafar Express,Sant Hirdaram Nagar,20:45
+19091,Bandra (T) Gorakhpur Humsafar Express,Bina,23:40
+19091,Bandra (T) Gorakhpur Humsafar Express,Sagour,00:50
+19091,Bandra (T) Gorakhpur Humsafar Express,Damoh,01:55
+19091,Bandra (T) Gorakhpur Humsafar Express,Katni Murwara,03:15
+19091,Bandra (T) Gorakhpur Humsafar Express,Satna,04:50
+11601,Bina Katni Memu Express,Bina,05:00
+11601,Bina Katni Memu Express,Sagour,06:35
+11601,Bina Katni Memu Express,Damoh,08:10
+11601,Bina Katni Memu Express,Katni Murwara,11:20
+11601,Bina Katni Memu Express,Katni,12:00
+11705,Jabalpur Rewa Express,Jabalpur,07:10
+11705,Jabalpur Rewa Express,Katni,08:55
+11705,Jabalpur Rewa Express,Satna,10:50
+11705,Jabalpur Rewa Express,Rewa,12:45
+2133,Bandra (T) Jabalpur Special,Ratlam,03:23
+2133,Bandra (T) Jabalpur Special,Ujjain,05:25
+2133,Bandra (T) Jabalpur Special,Sant Hirdaram Nagar,08:37
+2133,Bandra (T) Jabalpur Special,Bhopal,09:10
+2133,Bandra (T) Jabalpur Special,Itarsi,11:15
+4717,Hisar Tirupati Special,Ujjain,05:40
+4717,Hisar Tirupati Special,Sant Hirdaram Nagar,07:57
+4717,Hisar Tirupati Special,Bhopal,08:25
+4717,Hisar Tirupati Special,Itarsi,10:10
+19711,Jaipur Bhopal/ Indore Express,Ratlam,05:20
+19711,Jaipur Bhopal/ Indore Express,Ujjain,07:30
+19711,Jaipur Bhopal/ Indore Express,Maksi,08:10
+19711,Jaipur Bhopal/ Indore Express,Sant Hirdaram Nagar,10:52
+19711,Jaipur Bhopal/ Indore Express,Bhopal,11:20
+22189,Jabalpur Rewa Intercity Super Fast Express,Jabalpur,17:05
+22189,Jabalpur Rewa Intercity Super Fast Express,Katni,18:15
+22189,Jabalpur Rewa Intercity Super Fast Express,Satna,20:00
+22189,Jabalpur Rewa Intercity Super Fast Express,Rewa,21:23
+22187,Rani Kamalapati Jabalpur Intercity Express,Rani Kamalapati,05:15
+22187,Rani Kamalapati Jabalpur Intercity Express,Itarsi,06:50
+22187,Rani Kamalapati Jabalpur Intercity Express,Pipariya,07:40
+22187,Rani Kamalapati Jabalpur Intercity Express,Narsingpur,08:50
+22187,Rani Kamalapati Jabalpur Intercity Express,Madan Mahal,09:50
+22187,Rani Kamalapati Jabalpur Intercity Express,Jabalpur,10:15
+22187,Rani Kamalapati Jabalpur Intercity Express,Adhartal,11:00
+19413,Rajkot Kolkata Express,Ratlam,02:55
+19413,Rajkot Kolkata Express,Ujjain,05:15
+19413,Rajkot Kolkata Express,Sant Hirdaram Nagar,08:20
+19413,Rajkot Kolkata Express,Bina,11:05
+19413,Rajkot Kolkata Express,Sagour,12:15
+19413,Rajkot Kolkata Express,Damoh,13:20
+19413,Rajkot Kolkata Express,Katni Murwara,15:00
+22909,"Valsad Puri Express (via Bhopal, Katni)",Ratlam,02:35
+22909,"Valsad Puri Express (via Bhopal, Katni)",Ujjain,04:15
+22909,"Valsad Puri Express (via Bhopal, Katni)",Maksi,04:52
+22909,"Valsad Puri Express (via Bhopal, Katni)",Bhopal,07:20
+22909,"Valsad Puri Express (via Bhopal, Katni)",Itarsi,09:35
+22909,"Valsad Puri Express (via Bhopal, Katni)",Pipariya,10:25
+22909,"Valsad Puri Express (via Bhopal, Katni)",Jabalpur,13:00
+22909,"Valsad Puri Express (via Bhopal, Katni)",Katni South d ,15:00
+22909,"Valsad Puri Express (via Bhopal, Katni)",Anuppur,18:05
+22909,"Valsad Puri Express (via Bhopal, Katni)",Bilaspur,21:50
+22161,Bhopal Damoh Rajya Rani Express,Bhopal,17:55
+22161,Bhopal Damoh Rajya Rani Express,Bina,20:00
+22161,Bhopal Damoh Rajya Rani Express,Sagour,21:10
+22161,Bhopal Damoh Rajya Rani Express,Damoh,23:00
+11704,Dr. Ambedkar Nagar Rewa Express,Dr Ambedkar Nagar a Km (DADN),20:00
+11704,Dr. Ambedkar Nagar Rewa Express,Indore,20:25
+11704,Dr. Ambedkar Nagar Rewa Express,Dewas,21:05
+11704,Dr. Ambedkar Nagar Rewa Express,Ujjain,22:20
+11704,Dr. Ambedkar Nagar Rewa Express,Dewas,21:05
+11704,Dr. Ambedkar Nagar Rewa Express,Sant Hirdaram Nagar,01:25
+11704,Dr. Ambedkar Nagar Rewa Express,Bina,04:20
+11704,Dr. Ambedkar Nagar Rewa Express,Sagour,05:30
+11704,Dr. Ambedkar Nagar Rewa Express,Damoh,06:40
+11704,Dr. Ambedkar Nagar Rewa Express,Katni Murwara,08:10
+11704,Dr. Ambedkar Nagar Rewa Express,Satna,10:15
+11704,Dr. Ambedkar Nagar Rewa Express,Rewa,11:35
+22169,Rani Kamlapati Santraganj Humsafar Express,Rani Kamalapati,14:25
+22169,Rani Kamlapati Santraganj Humsafar Express,Bina,16:40
+22169,Rani Kamlapati Santraganj Humsafar Express,Sagour,17:50
+22169,Rani Kamlapati Santraganj Humsafar Express,Damoh,18:55
+22169,Rani Kamlapati Santraganj Humsafar Express,Katni Murwara,21:10
+22169,Rani Kamlapati Santraganj Humsafar Express,Bilaspur,04:05
+19303,Indore Bhopal Express,Indore,23:15
+19303,Indore Bhopal Express,Dewas,23:43
+19303,Indore Bhopal Express,Ujjain,00:55
+19303,Indore Bhopal Express,Dewas,23:43
+19303,Indore Bhopal Express,Maksi,01:50
+19303,Indore Bhopal Express,Sant Hirdaram Nagar,04:37
+19303,Indore Bhopal Express,Bhopal,05:10
+19489,Ahmedabad Gorakhpur Express,Ratlam,15:25
+19489,Ahmedabad Gorakhpur Express,Ujjain,17:15
+19489,Ahmedabad Gorakhpur Express,Sant Hirdaram Nagar,20:45
+19489,Ahmedabad Gorakhpur Express,Bina,23:40
+19489,Ahmedabad Gorakhpur Express,Sagour,00:50
+19489,Ahmedabad Gorakhpur Express,Damoh,01:55
+19489,Ahmedabad Gorakhpur Express,Katni Murwara,03:15
+19489,Ahmedabad Gorakhpur Express,Satna,05:00
+20173,Rani Kamalapati Rewa Vande Bharat Express,Rani Kamalapati,15:30
+20173,Rani Kamalapati Rewa Vande Bharat Express,Itarsi,16:55
+20173,Rani Kamalapati Rewa Vande Bharat Express,Pipariya,17:30
+20173,Rani Kamalapati Rewa Vande Bharat Express,Narsingpur,18:30
+20173,Rani Kamalapati Rewa Vande Bharat Express,Jabalpur,19:55
+20173,Rani Kamalapati Rewa Vande Bharat Express,Katni,21:05
+20173,Rani Kamalapati Rewa Vande Bharat Express,Satna,22:30
+20173,Rani Kamalapati Rewa Vande Bharat Express,Rewa,23:35
+20911,Indore Nagpur Vande Bharat Express,Indore,06:10
+20911,Indore Nagpur Vande Bharat Express,Ujjain,06:55
+20911,Indore Nagpur Vande Bharat Express,Indore,06:10
+20911,Indore Nagpur Vande Bharat Express,Bhopal,09:15
+20911,Indore Nagpur Vande Bharat Express,Itarsi,10:45
+7019,Jaipur Hydrabad Special,Ratlam,00:35
+7019,Jaipur Hydrabad Special,Ujjain,02:30
+7019,Jaipur Hydrabad Special,Bhopal,06:20
+7019,Jaipur Hydrabad Special,Itarsi,08:10
+22145,Bhopal Rewa Express,Bhopal,23:00
+22145,Bhopal Rewa Express,Rani Kamalapati,23:15
+22145,Bhopal Rewa Express,Itarsi,01:00
+22145,Bhopal Rewa Express,Pipariya,01:50
+22145,Bhopal Rewa Express,Narsingpur,03:00
+22145,Bhopal Rewa Express,Jabalpur,04:40
+22145,Bhopal Rewa Express,Katni,05:55
+22145,Bhopal Rewa Express,Satna,07:15
+22145,Bhopal Rewa Express,Rewa,09:15
+11266,Ambikapur Jabalpur Express,Anuppur,09:30
+11266,Ambikapur Jabalpur Express,Katni South,13:10
+11266,Ambikapur Jabalpur Express,Jabalpur,15:05
+12062,Madan Mahal Rani Kamalapati Jan Shatabdi Express,Madan Mahal,05:40
+12062,Madan Mahal Rani Kamalapati Jan Shatabdi Express,Narsingpur,06:35
+12062,Madan Mahal Rani Kamalapati Jan Shatabdi Express,Pipariya,07:45
+12062,Madan Mahal Rani Kamalapati Jan Shatabdi Express,Itarsi,09:20
+12062,Madan Mahal Rani Kamalapati Jan Shatabdi Express,Rani Kamalapati,11:15
+19324,"Bhopal Dr. Amedkar Nagar Intercity Express (via Maksi, Dewas)",Bhopal,17:10
+19324,"Bhopal Dr. Amedkar Nagar Intercity Express (via Maksi, Dewas)",Sant Hirdaram Nagar,17:32
+19324,"Bhopal Dr. Amedkar Nagar Intercity Express (via Maksi, Dewas)",Maksi,19:15
+19324,"Bhopal Dr. Amedkar Nagar Intercity Express (via Maksi, Dewas)",Dewas,19:47
+19324,"Bhopal Dr. Amedkar Nagar Intercity Express (via Maksi, Dewas)",Indore,21:00
+19324,"Bhopal Dr. Amedkar Nagar Intercity Express (via Maksi, Dewas)",Dr Ambedkar Nagar,22:05
+11466,Jabalpur Somnath Express (via Bina),Jabalpur,12:30
+11466,Jabalpur Somnath Express (via Bina),Katni Murwara,13:50
+11466,Jabalpur Somnath Express (via Bina),Damoh,15:15
+11466,Jabalpur Somnath Express (via Bina),Sagour,16:25
+11466,Jabalpur Somnath Express (via Bina),Bina,17:50
+11466,Jabalpur Somnath Express (via Bina),Bhopal,20:10
+11466,Jabalpur Somnath Express (via Bina),Sant Hirdaram Nagar,20:47
+11466,Jabalpur Somnath Express (via Bina),Maksi,23:01
+11466,Jabalpur Somnath Express (via Bina),Ujjain,23:59
+11466,Jabalpur Somnath Express (via Bina),Ratlam,01:55
+11464,Jabalpur Somnath Express (via Itarsi),Jabalpur,14:00
+11464,Jabalpur Somnath Express (via Itarsi),Narsingpur,15:12
+11464,Jabalpur Somnath Express (via Itarsi),Pipariya,16:30
+11464,Jabalpur Somnath Express (via Itarsi),Itarsi,18:15
+11464,Jabalpur Somnath Express (via Itarsi),Rani Kamalapati,19:45
+11464,Jabalpur Somnath Express (via Itarsi),Bhopal,20:10
+11464,Jabalpur Somnath Express (via Itarsi),Sant Hirdaram Nagar,20:47
+11464,Jabalpur Somnath Express (via Itarsi),Maksi,23:01
+11464,Jabalpur Somnath Express (via Itarsi),Ujjain,23:59
+11464,Jabalpur Somnath Express (via Itarsi),Ratlam,01:55
+18234,Bilaspur Indore Narmada Express/ Passenger,Bilaspur,11:35
+18234,Bilaspur Indore Narmada Express/ Passenger,Anuppur,14:22
+18234,Bilaspur Indore Narmada Express/ Passenger,Katni South,18:45
+18234,Bilaspur Indore Narmada Express/ Passenger,Jabalpur,20:50
+18234,Bilaspur Indore Narmada Express/ Passenger,Madan Mahal,21:00
+18234,Bilaspur Indore Narmada Express/ Passenger,Narsingpur,22:10
+18234,Bilaspur Indore Narmada Express/ Passenger,Pipariya,23:30
+18234,Bilaspur Indore Narmada Express/ Passenger,Itarsi,01:50
+18234,Bilaspur Indore Narmada Express/ Passenger,Rani Kamalapati,04:00
+18234,Bilaspur Indore Narmada Express/ Passenger,Bhopal,04:25
+18234,Bilaspur Indore Narmada Express/ Passenger,Sant Hirdaram Nagar,04:55
+18234,Bilaspur Indore Narmada Express/ Passenger,Maksi,07:12
+18234,Bilaspur Indore Narmada Express/ Passenger,Ujjain,08:40
+18234,Bilaspur Indore Narmada Express/ Passenger,Dewas,09:55
+18234,Bilaspur Indore Narmada Express/ Passenger,Indore,10:55
+18236,Bilaspur Bhopal Express/ Passenger,Bilaspur,22:20
+18236,Bilaspur Bhopal Express/ Passenger,Anuppur,01:03
+18236,Bilaspur Bhopal Express/ Passenger,Katni Murwara,06:10
+18236,Bilaspur Bhopal Express/ Passenger,Damoh,08:20
+18236,Bilaspur Bhopal Express/ Passenger,Sagour,10:05
+18236,Bilaspur Bhopal Express/ Passenger,Bina,13:00
+18236,Bilaspur Bhopal Express/ Passenger,Bhopal,17:00
+12853,Durg Bhopal Amarkantak Express,Durg,18:25
+12853,Durg Bhopal Amarkantak Express,Raipur,19:10
+12853,Durg Bhopal Amarkantak Express,Anuppur,23:27
+12853,Durg Bhopal Amarkantak Express,Katni South,02:55
+12853,Durg Bhopal Amarkantak Express,Jabalpur,04:25
+12853,Durg Bhopal Amarkantak Express,Madan Mahal,04:35
+12853,Durg Bhopal Amarkantak Express,Narsingpur,05:35
+12853,Durg Bhopal Amarkantak Express,Pipariya,06:50
+12853,Durg Bhopal Amarkantak Express,Itarsi,08:30
+12853,Durg Bhopal Amarkantak Express,Rani Kamalapati,10:05
+12853,Durg Bhopal Amarkantak Express,Bhopal,10:30
+12186,Rewa Rani Kamalapati Rewanchal Express (via Bina),Rewa,19:55
+12186,Rewa Rani Kamalapati Rewanchal Express (via Bina),Satna,20:45
+12186,Rewa Rani Kamalapati Rewanchal Express (via Bina),Katni Murwara,22:40
+12186,Rewa Rani Kamalapati Rewanchal Express (via Bina),Damoh,23:55
+12186,Rewa Rani Kamalapati Rewanchal Express (via Bina),Sagour,00:50
+12186,Rewa Rani Kamalapati Rewanchal Express (via Bina),Bina,02:55
+12186,Rewa Rani Kamalapati Rewanchal Express (via Bina),Bhopal,05:00
+12186,Rewa Rani Kamalapati Rewanchal Express (via Bina),Rani Kamalapati,05:35
+19712,Bhopal/ Indore Jaipur Express,Bhopal,16:30
+19712,Bhopal/ Indore Jaipur Express,Sant Hirdaram Nagar,16:55
+19712,Bhopal/ Indore Jaipur Express,Maksi,19:06
+19712,Bhopal/ Indore Jaipur Express,Ujjain,20:20
+19712,Bhopal/ Indore Jaipur Express,Ratlam,22:40
+22170,Santragachi Rani Kamlapati Humsafar Express,Bilaspur,07:20
+22170,Santragachi Rani Kamlapati Humsafar Express,Katni Murwara,13:30
+22170,Santragachi Rani Kamlapati Humsafar Express,Damoh,14:50
+22170,Santragachi Rani Kamlapati Humsafar Express,Sagour,16:00
+22170,Santragachi Rani Kamlapati Humsafar Express,Bina,17:40
+22170,Santragachi Rani Kamlapati Humsafar Express,Rani Kamalapati,20:05
+19304,Bhopal Indore Express,Bhopal,23:10
+19304,Bhopal Indore Express,Sant Hirdaram Nagar,23:35
+19304,Bhopal Indore Express,Maksi,01:45
+19304,Bhopal Indore Express,Ujjain,03:05
+19304,Bhopal Indore Express,Dewas d ,03:43
+19304,Bhopal Indore Express,Indore,04:40
+19092,Gorakhpur Bandra (T) Humsafar Express,Satna,08:20
+19092,Gorakhpur Bandra (T) Humsafar Express,Katni Murwara,10:00
+19092,Gorakhpur Bandra (T) Humsafar Express,Damoh,11:25
+19092,Gorakhpur Bandra (T) Humsafar Express,Sagour,12:35
+19092,Gorakhpur Bandra (T) Humsafar Express,Bina,14:55
+19092,Gorakhpur Bandra (T) Humsafar Express,Sant Hirdaram Nagar,17:20
+19092,Gorakhpur Bandra (T) Humsafar Express,Ujjain,20:00
+19092,Gorakhpur Bandra (T) Humsafar Express,Ratlam,22:15
+11602,Katni Bina Memu Express,Katni,12:10
+11602,Katni Bina Memu Express,Katni Murwara,12:20
+11602,Katni Bina Memu Express,Damoh,14:50
+11602,Katni Bina Memu Express,Sagour,16:35
+11602,Katni Bina Memu Express,Bina,19:05
+2134,Jabalpur Bandra (T) Special,Itarsi,20:45
+2134,Jabalpur Bandra (T) Special,Bhopal,22:35
+2134,Jabalpur Bandra (T) Special,Sant Hirdaram Nagar,23:05
+2134,Jabalpur Bandra (T) Special,Ujjain,01:45
+2134,Jabalpur Bandra (T) Special,Ratlam,03:55
+7020,Hydrabad Jaipur Special,Itarsi,12:05
+7020,Hydrabad Jaipur Special,Bhopal,14:05
+7020,Hydrabad Jaipur Special,Ujjain,17:00
+7020,Hydrabad Jaipur Special,Ratlam,19:15
+22190,Rewa Jabalpur Intercity S/F,Rewa,05:50
+22190,Rewa Jabalpur Intercity S/F,Satna,06:40
+22190,Rewa Jabalpur Intercity S/F,Katni,08:05
+22190,Rewa Jabalpur Intercity S/F,Jabalpur,10:00
+22192,Jabalpur Indore Super Fast Express,Jabalpur,23:30
+22192,Jabalpur Indore Super Fast Express,Madan Mahal,23:42
+22192,Jabalpur Indore Super Fast Express,Narsingpur,00:35
+22192,Jabalpur Indore Super Fast Express,Pipariya,01:45
+22192,Jabalpur Indore Super Fast Express,Itarsi,03:25
+22192,Jabalpur Indore Super Fast Express,Rani Kamalapati,04:55
+22192,Jabalpur Indore Super Fast Express,Bhopal,05:15
+22192,Jabalpur Indore Super Fast Express,Sant Hirdaram a Nagar,05:50
+22192,Jabalpur Indore Super Fast Express,Maksi,08:05
+22192,Jabalpur Indore Super Fast Express,Dewas,08:37
+22192,Jabalpur Indore Super Fast Express,Indore,09:38
+22910,"Puri Valsad Express (via Katni, Bhopal)",Bilaspur,11:15
+22910,"Puri Valsad Express (via Katni, Bhopal)",Anuppur,13:50
+22910,"Puri Valsad Express (via Katni, Bhopal)",Katni South d ,17:20
+22910,"Puri Valsad Express (via Katni, Bhopal)",Jabalpur,18:35
+22910,"Puri Valsad Express (via Katni, Bhopal)",Pipariya,20:35
+22910,"Puri Valsad Express (via Katni, Bhopal)",Itarsi,22:30
+22910,"Puri Valsad Express (via Katni, Bhopal)",Bhopal,00:15
+22910,"Puri Valsad Express (via Katni, Bhopal)",Maksi,02:14
+22910,"Puri Valsad Express (via Katni, Bhopal)",Ujjain,03:15
+22910,"Puri Valsad Express (via Katni, Bhopal)",Ratlam,04:55
+19414,Kolkata Rajkot Express,Katni Murwara,10:50
+19414,Kolkata Rajkot Express,Damoh,12:15
+19414,Kolkata Rajkot Express,Sagour,13:30
+19414,Kolkata Rajkot Express,Bina,16:10
+19414,Kolkata Rajkot Express,Sant Hirdaram a Nagar,19:05
+19414,Kolkata Rajkot Express,Ujjain,21:40
+19414,Kolkata Rajkot Express,Ratlam,00:15
+22188,Jabalpur Rani Kamalapati Intercity Express,Adhartal,16:15
+22188,Jabalpur Rani Kamalapati Intercity Express,Jabalpur,16:35
+22188,Jabalpur Rani Kamalapati Intercity Express,Madan Mahal,16:46
+22188,Jabalpur Rani Kamalapati Intercity Express,Narsingpur,17:45
+22188,Jabalpur Rani Kamalapati Intercity Express,Pipariya,18:55
+22188,Jabalpur Rani Kamalapati Intercity Express,Itarsi,20:30
+22188,Jabalpur Rani Kamalapati Intercity Express,Rani Kamalapati,22:23
+22162,Damoh Bhopal Rajya Rani Express,Damoh,05:30
+22162,Damoh Bhopal Rajya Rani Express,Sagour,06:45
+22162,Damoh Bhopal Rajya Rani Express,Bina,08:15
+22162,Damoh Bhopal Rajya Rani Express,Bhopal,10:45
+11703,Rewa Dr. Ambedkar Nagar Express,Rewa,23:05
+11703,Rewa Dr. Ambedkar Nagar Express,Satna,23:58
+11703,Rewa Dr. Ambedkar Nagar Express,Katni Murwara,01:40
+11703,Rewa Dr. Ambedkar Nagar Express,Damoh,03:10
+11703,Rewa Dr. Ambedkar Nagar Express,Sagour,04:15
+11703,Rewa Dr. Ambedkar Nagar Express,Bina,06:30
+11703,Rewa Dr. Ambedkar Nagar Express,Sant Hirdaram a Nagar,09:35
+11703,Rewa Dr. Ambedkar Nagar Express,Ujjain,12:30
+11703,Rewa Dr. Ambedkar Nagar Express,Dewas,13:23
+11703,Rewa Dr. Ambedkar Nagar Express,Indore,14:20
+11703,Rewa Dr. Ambedkar Nagar Express,Dr Ambedkar Nagar,15:00
+20828,Santragachi Jabalpur Humsafar Express,Bilaspur,07:20
+20828,Santragachi Jabalpur Humsafar Express,Anuppur,09:55
+20828,Santragachi Jabalpur Humsafar Express,Katni South d ,13:35
+20828,Santragachi Jabalpur Humsafar Express,Jabalpur,15:25
+19490,Gorakhpur Ahmedabad Express,Satna,08:00
+19490,Gorakhpur Ahmedabad Express,Katni Murwara,10:00
+19490,Gorakhpur Ahmedabad Express,Damoh,11:25
+19490,Gorakhpur Ahmedabad Express,Sagour,12:35
+19490,Gorakhpur Ahmedabad Express,Bina,14:55
+19490,Gorakhpur Ahmedabad Express,Sant Hirdaram a Nagar,17:20
+19490,Gorakhpur Ahmedabad Express,Ujjain,20:00
+19490,Gorakhpur Ahmedabad Express,Ratlam,22:15
+11706,Rewa Jabalpur Express,Rewa,14:00
+11706,Rewa Jabalpur Express,Satna,15:05
+11706,Rewa Jabalpur Express,Katni,17:05
+11706,Rewa Jabalpur Express,Jabalpur,20:35
+20174,Rewa Rani Kamalapati Vande Bharat Express,Rewa,05:20
+20174,Rewa Rani Kamalapati Vande Bharat Express,Satna,06:05
+20174,Rewa Rani Kamalapati Vande Bharat Express,Katni,07:20
+20174,Rewa Rani Kamalapati Vande Bharat Express,Jabalpur,08:35
+20174,Rewa Rani Kamalapati Vande Bharat Express,Narsingpur,09:32
+20174,Rewa Rani Kamalapati Vande Bharat Express,Pipariya,10:30
+20174,Rewa Rani Kamalapati Vande Bharat Express,Itarsi,12:00
+20174,Rewa Rani Kamalapati Vande Bharat Express,Rani Kamalapati,13:30
+20912,Nagpur Indore Vande Bharat Express,Itarsi,19:05
+20912,Nagpur Indore Vande Bharat Express,Bhopal,20:43
+20912,Nagpur Indore Vande Bharat Express,Ujjain,22:45
+20912,Nagpur Indore Vande Bharat Express,Indore,23:50
+4718,Tirupati Hisar Special,Itarsi,01:40
+4718,Tirupati Hisar Special,Bhopal,03:25
+4718,Tirupati Hisar Special,Sant Hirdaram a Nagar,03:50
+4718,Tirupati Hisar Special,Ujjain,06:45
+22146,Rewa Bhopal Express,Rewa,22:20
+22146,Rewa Bhopal Express,Satna,23:35
+22146,Rewa Bhopal Express,Katni,00:55
+22146,Rewa Bhopal Express,Jabalpur,02:20
+22146,Rewa Bhopal Express,Narsingpur,03:30
+22146,Rewa Bhopal Express,Pipariya,04:40
+22146,Rewa Bhopal Express,Itarsi,06:10
+22146,Rewa Bhopal Express,Rani Kamalapati,07:45
+22146,Rewa Bhopal Express,Bhopal,08:15

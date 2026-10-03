@@ -1,0 +1,575 @@
+train_num,train_name,halt_station_name,departure_time
+12138,Firozpur Mumbai CSMT Punjab Mail,New Delhi,05:10
+12138,Firozpur Mumbai CSMT Punjab Mail,Faridabad,05:40
+12138,Firozpur Mumbai CSMT Punjab Mail,Mathura,07:28
+12138,Firozpur Mumbai CSMT Punjab Mail,Raja-ki-Mandi,07:50
+12138,Firozpur Mumbai CSMT Punjab Mail,Agra Cantt.,08:15
+12138,Firozpur Mumbai CSMT Punjab Mail,Dhaulpur,09:15
+12138,Firozpur Mumbai CSMT Punjab Mail,Gwalior,10:21
+12138,Firozpur Mumbai CSMT Punjab Mail,Datia,11:20
+12138,Firozpur Mumbai CSMT Punjab Mail,Virangana Lakshmibai Jhansi,12:23
+12138,Firozpur Mumbai CSMT Punjab Mail,Lalitpur,13:25
+12138,Firozpur Mumbai CSMT Punjab Mail,Bina,14:40
+12138,Firozpur Mumbai CSMT Punjab Mail,Vidisha,15:40
+12138,Firozpur Mumbai CSMT Punjab Mail,Bhopal,16:40
+12138,Firozpur Mumbai CSMT Punjab Mail,Rani Kamalapati,16:55
+12138,Firozpur Mumbai CSMT Punjab Mail,Narmadapuram,18:00
+12138,Firozpur Mumbai CSMT Punjab Mail,Itarsi,18:45
+12138,Firozpur Mumbai CSMT Punjab Mail,Harda,19:38
+12138,Firozpur Mumbai CSMT Punjab Mail,Khandwa,21:40
+12138,Firozpur Mumbai CSMT Punjab Mail,Burhanpur,22:30
+12138,Firozpur Mumbai CSMT Punjab Mail,Bhusaval,23:30
+12138,Firozpur Mumbai CSMT Punjab Mail,Jalgaon,00:03
+12138,Firozpur Mumbai CSMT Punjab Mail,Chalisgaon,01:02
+12138,Firozpur Mumbai CSMT Punjab Mail,Manmad,02:00
+12138,Firozpur Mumbai CSMT Punjab Mail,Nasik Road,03:05
+12138,Firozpur Mumbai CSMT Punjab Mail,Kalyan,06:15
+12138,Firozpur Mumbai CSMT Punjab Mail,Dadar,07:05
+12138,Firozpur Mumbai CSMT Punjab Mail,Mumbai CSMT,07:35
+12002,New Delhi Rani Kamalapati Shatabdi,New Delhi,06:00
+12002,New Delhi Rani Kamalapati Shatabdi,Mathura,07:20
+12002,New Delhi Rani Kamalapati Shatabdi,Agra Cantt.,07:55
+12002,New Delhi Rani Kamalapati Shatabdi,Dhaulpur,08:39
+12002,New Delhi Rani Kamalapati Shatabdi,Gwalior,09:28
+12002,New Delhi Rani Kamalapati Shatabdi,Virangana Lakshmibai Jhansi,10:50
+12002,New Delhi Rani Kamalapati Shatabdi,Lalitpur,11:42
+12002,New Delhi Rani Kamalapati Shatabdi,Bina,12:42
+12002,New Delhi Rani Kamalapati Shatabdi,Bhopal,14:15
+12002,New Delhi Rani Kamalapati Shatabdi,Rani Kamalapati,14:40
+12280,New Delhi Virangana Laxmibai Jhansi Taj Express,New Delhi,06:55
+12280,New Delhi Virangana Laxmibai Jhansi Taj Express,H.Nizamuddin,07:08
+12280,New Delhi Virangana Laxmibai Jhansi Taj Express,Faridabad,07:26
+12280,New Delhi Virangana Laxmibai Jhansi Taj Express,Mathura,08:40
+12280,New Delhi Virangana Laxmibai Jhansi Taj Express,Raja-ki-Mandi,09:10
+12280,New Delhi Virangana Laxmibai Jhansi Taj Express,Agra Cantt.,09:30
+12280,New Delhi Virangana Laxmibai Jhansi Taj Express,Dhaulpur,10:25
+12280,New Delhi Virangana Laxmibai Jhansi Taj Express,Gwalior,11:55
+12280,New Delhi Virangana Laxmibai Jhansi Taj Express,Datia,13:02
+12280,New Delhi Virangana Laxmibai Jhansi Taj Express,Virangana Lakshmibai Jhansi,13:55
+12050,Nizamuddin Virangana Laxmibai Jhansi Gatiman Express,H.Nizamuddin,08:10
+12050,Nizamuddin Virangana Laxmibai Jhansi Gatiman Express,Agra Cantt.,09:55
+12050,Nizamuddin Virangana Laxmibai Jhansi Gatiman Express,Gwalior,11:09
+12050,Nizamuddin Virangana Laxmibai Jhansi Gatiman Express,Virangana Lakshmibai Jhansi,12:35
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,H.Nizamuddin,05:35
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,Faridabad,05:52
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,Mathura,07:45
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,Agra Cantt.,08:25
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,Gwalior,10:33
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,Virangana Lakshmibai Jhansi,12:08
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,Bina,14:30
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,Bhopal,16:25
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,Itarsi,18:25
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,Khandwa,20:55
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,Burhanpur,21:45
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,Bhusaval,22:45
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,Manmad,01:05
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,Nasik Road,02:08
+12618,Nizamuddin Ernakulam Mangala Lakshadweep Express,Kalyan,05:20
+12406,Nizamuddin Bhusaval Gondwana Express,H.Nizamuddin,15:05
+12406,Nizamuddin Bhusaval Gondwana Express,Mathura,16:27
+12406,Nizamuddin Bhusaval Gondwana Express,Agra Cantt.,17:20
+12406,Nizamuddin Bhusaval Gondwana Express,Gwalior,19:30
+12406,Nizamuddin Bhusaval Gondwana Express,Virangana Lakshmibai Jhansi,21:03
+12406,Nizamuddin Bhusaval Gondwana Express,Lalitpur,21:58
+12406,Nizamuddin Bhusaval Gondwana Express,Bina,23:20
+12406,Nizamuddin Bhusaval Gondwana Express,Vidisha,00:22
+12406,Nizamuddin Bhusaval Gondwana Express,Bhopal,01:10
+12406,Nizamuddin Bhusaval Gondwana Express,Narmadapuram,02:14
+12406,Nizamuddin Bhusaval Gondwana Express,Itarsi,02:55
+12406,Nizamuddin Bhusaval Gondwana Express, Amla,05:09
+12406,Nizamuddin Bhusaval Gondwana Express,Bhusaval,15:05
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Virangana Lakshmibai Jhansi,01:50
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Lalitpur,02:50
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Bina,04:10
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Bhopal,06:10
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Rani Kamalapati,06:30
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Itarsi,07:55
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Harda,09:35
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Khandwa,11:20
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Burhanpur,12:12
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Bhusaval,13:20
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Manmad,15:55
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Nasik Road,16:55
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Kalyan,19:50
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Thane,20:15
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Lokmanya Tilak (T),20:50
+14212,New Delhi Agra Cantt. Intercity,New Delhi,17:40
+14212,New Delhi Agra Cantt. Intercity,H.Nizamuddin,18:01
+14212,New Delhi Agra Cantt. Intercity,Faridabad,18:25
+14212,New Delhi Agra Cantt. Intercity,Mathura,20:18
+14212,New Delhi Agra Cantt. Intercity,Raja-ki-Mandi,21:05
+14212,New Delhi Agra Cantt. Intercity,Agra Cantt.,22:05
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Agra Cantt.,19:45
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Gwalior,21:17
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Virangana Lakshmibai Jhansi,22:58
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Bina,00:53
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Rani Kamalapati,02:50
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Itarsi,04:20
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Harda,05:13
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Khandwa,06:45
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Burhanpur,07:40
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Bhusaval,08:30
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Jalgaon,09:02
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Manmad,10:40
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Nasik Road,11:40
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Kalyan,14:45
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Thane,15:10
+12162,Agra Lokmanya Tilak (T) Lashkar Express,Lokmanya Tilak (T),16:05
+14314,Bareilly Lokmanya Tilak (T) Express,Agra Cantt.,18:55
+14314,Bareilly Lokmanya Tilak (T) Express,Gwalior,20:42
+14314,Bareilly Lokmanya Tilak (T) Express,Virangana Lakshmibai Jhansi,22:28
+14314,Bareilly Lokmanya Tilak (T) Express,Bina,01:05
+14314,Bareilly Lokmanya Tilak (T) Express,Bhopal,03:05
+14314,Bareilly Lokmanya Tilak (T) Express,Rani Kamalapati,03:19
+14314,Bareilly Lokmanya Tilak (T) Express,Itarsi,04:40
+14314,Bareilly Lokmanya Tilak (T) Express,Harda,05:33
+14314,Bareilly Lokmanya Tilak (T) Express,Khandwa,07:15
+14314,Bareilly Lokmanya Tilak (T) Express,Burhanpur,08:05
+14314,Bareilly Lokmanya Tilak (T) Express,Bhusaval,09:05
+14314,Bareilly Lokmanya Tilak (T) Express,Jalgaon,09:37
+14314,Bareilly Lokmanya Tilak (T) Express,Manmad,11:35
+14314,Bareilly Lokmanya Tilak (T) Express,Nasik Road,12:30
+14314,Bareilly Lokmanya Tilak (T) Express,Kalyan,15:15
+14314,Bareilly Lokmanya Tilak (T) Express,Thane,15:35
+14314,Bareilly Lokmanya Tilak (T) Express,Lokmanya Tilak (T),16:15
+11058,Amritsar Mumbai CSMT Express,New Delhi,20:40
+11058,Amritsar Mumbai CSMT Express,H.Nizamuddin,20:53
+11058,Amritsar Mumbai CSMT Express,Faridabad,21:12
+11058,Amritsar Mumbai CSMT Express,Mathura,22:55
+11058,Amritsar Mumbai CSMT Express,Agra Cantt.,23:50
+11058,Amritsar Mumbai CSMT Express,Dhaulpur,00:48
+11058,Amritsar Mumbai CSMT Express,Gwalior,01:51
+11058,Amritsar Mumbai CSMT Express,Datia,02:54
+11058,Amritsar Mumbai CSMT Express,Virangana Lakshmibai Jhansi,04:10
+11058,Amritsar Mumbai CSMT Express,Lalitpur,05:56
+11058,Amritsar Mumbai CSMT Express,Bina,07:10
+11058,Amritsar Mumbai CSMT Express,Vidisha,08:22
+11058,Amritsar Mumbai CSMT Express,Bhopal,09:20
+11058,Amritsar Mumbai CSMT Express,Rani Kamalapati,09:34
+11058,Amritsar Mumbai CSMT Express,Narmadapuram,10:50
+11058,Amritsar Mumbai CSMT Express,Itarsi,11:25
+11058,Amritsar Mumbai CSMT Express,Harda,12:24
+11058,Amritsar Mumbai CSMT Express,Khandwa,14:25
+11058,Amritsar Mumbai CSMT Express,Burhanpur,15:25
+11058,Amritsar Mumbai CSMT Express,Bhusaval,16:35
+11058,Amritsar Mumbai CSMT Express,Jalgaon,17:02
+11058,Amritsar Mumbai CSMT Express,Pachora,17:35
+11058,Amritsar Mumbai CSMT Express,Chalisgaon,18:12
+11058,Amritsar Mumbai CSMT Express,Manmad,19:15
+11058,Amritsar Mumbai CSMT Express,Nasik Road,20:13
+11058,Amritsar Mumbai CSMT Express,Devlali,20:20
+11058,Amritsar Mumbai CSMT Express,Kalyan,22:50
+11058,Amritsar Mumbai CSMT Express,Thane,23:15
+11058,Amritsar Mumbai CSMT Express,Dadar,23:40
+11058,Amritsar Mumbai CSMT Express,Mumbai CSMT,00:05
+12156,Nizamuddin Rani Kamalapati Bhopal Express,H.Nizamuddin,20:40
+12156,Nizamuddin Rani Kamalapati Bhopal Express,Agra Cantt.,22:40
+12156,Nizamuddin Rani Kamalapati Bhopal Express,Gwalior,00:26
+12156,Nizamuddin Rani Kamalapati Bhopal Express,Virangana Lakshmibai Jhansi,01:58
+12156,Nizamuddin Rani Kamalapati Bhopal Express,Bina,03:52
+12156,Nizamuddin Rani Kamalapati Bhopal Express,Vidisha,04:52
+12156,Nizamuddin Rani Kamalapati Bhopal Express,Bhopal,05:45
+12156,Nizamuddin Rani Kamalapati Bhopal Express,Rani Kamalapati,06:20
+12154,Rani Kamlapati Lokmanya Tilak (T) Express,Rani Kamalapati,18:00
+12154,Rani Kamlapati Lokmanya Tilak (T) Express,Narmadapuram,18:57
+12154,Rani Kamlapati Lokmanya Tilak (T) Express,Itarsi,19:20
+12154,Rani Kamlapati Lokmanya Tilak (T) Express,Harda,20:07
+12154,Rani Kamlapati Lokmanya Tilak (T) Express,Khandwa,22:15
+12154,Rani Kamlapati Lokmanya Tilak (T) Express,Bhusaval,00:10
+12154,Rani Kamlapati Lokmanya Tilak (T) Express,Kalyan,06:20
+12154,Rani Kamlapati Lokmanya Tilak (T) Express,Thane,06:40
+12154,Rani Kamlapati Lokmanya Tilak (T) Express,Lokmanya Tilak (T),07:25
+12172,Haridwar Lokmanya Tilak (T) AC Express,H.Nizamuddin,22:40
+12172,Haridwar Lokmanya Tilak (T) AC Express,Agra Cantt.,00:55
+12172,Haridwar Lokmanya Tilak (T) AC Express,Virangana Lakshmibai Jhansi,03:55
+12172,Haridwar Lokmanya Tilak (T) AC Express,Bhopal,07:50
+12172,Haridwar Lokmanya Tilak (T) AC Express,Khandwa,12:25
+12172,Haridwar Lokmanya Tilak (T) AC Express,Bhusaval,14:20
+12172,Haridwar Lokmanya Tilak (T) AC Express,Nasik Road,17:35
+12172,Haridwar Lokmanya Tilak (T) AC Express,Kalyan,20:25
+12172,Haridwar Lokmanya Tilak (T) AC Express,Lokmanya Tilak (T),21:30
+20424,irozpur-Seon Patalkot Superfast Express,New Delhi,11:20
+20424,irozpur-Seon Patalkot Superfast Express,Mathura,13:35
+20424,irozpur-Seon Patalkot Superfast Express,Agra Cantt.,14:20
+20424,irozpur-Seon Patalkot Superfast Express,Gwalior,16:07
+20424,irozpur-Seon Patalkot Superfast Express,Virangana Lakshmibai Jhansi,17:53
+20424,irozpur-Seon Patalkot Superfast Express,Lalitpur,18:48
+20424,irozpur-Seon Patalkot Superfast Express,Bina,20:00
+20424,irozpur-Seon Patalkot Superfast Express,Vidisha,21:00
+20424,irozpur-Seon Patalkot Superfast Express,Bhopal,21:55
+20424,irozpur-Seon Patalkot Superfast Express,Rani Kamalapati,22:10
+20424,irozpur-Seon Patalkot Superfast Express,Narmadapuram,23:08
+20424,irozpur-Seon Patalkot Superfast Express,Itarsi,23:55
+20424,irozpur-Seon Patalkot Superfast Express, Amla,02:25
+20424,irozpur-Seon Patalkot Superfast Express, Chhindwara,05:10
+20424,irozpur-Seon Patalkot Superfast Express, Seoni,06:20
+22456,Kalka Sai Nagar Shirdi Express,New Delhi,22:25
+22456,Kalka Sai Nagar Shirdi Express,Nizamuddin,22:38
+22456,Kalka Sai Nagar Shirdi Express,Mathura,00:10
+22456,Kalka Sai Nagar Shirdi Express,Agra Cantt.,00:55
+22456,Kalka Sai Nagar Shirdi Express,Gwalior,02:29
+22456,Kalka Sai Nagar Shirdi Express,Virangana Lakshmibai Jhansi,03:55
+22456,Kalka Sai Nagar Shirdi Express,Bhopal,07:50
+22456,Kalka Sai Nagar Shirdi Express,Itarsi,09:35
+22456,Kalka Sai Nagar Shirdi Express,Khandwa,12:25
+22456,Kalka Sai Nagar Shirdi Express,Bhusaval,14:10
+22456,Kalka Sai Nagar Shirdi Express,Manmad,16:30
+22456,Kalka Sai Nagar Shirdi Express,Sainagar Shirdi,18:40
+22710,Amb Andaura Hazur Sahib Nanded Express,New Delhi,23:15
+22710,Amb Andaura Hazur Sahib Nanded Express,Mathura,00:43
+22710,Amb Andaura Hazur Sahib Nanded Express,Agra Cantt.,01:25
+22710,Amb Andaura Hazur Sahib Nanded Express,Gwalior,03:00
+22710,Amb Andaura Hazur Sahib Nanded Express,Virangana Lakshmibai Jhansi,04:38
+22710,Amb Andaura Hazur Sahib Nanded Express,Bina,06:35
+22710,Amb Andaura Hazur Sahib Nanded Express,Bhopal,08:35
+22710,Amb Andaura Hazur Sahib Nanded Express,Rani Kamalapati,08:49
+22710,Amb Andaura Hazur Sahib Nanded Express,Itarsi,10:20
+22710,Amb Andaura Hazur Sahib Nanded Express,Khandwa,13:10
+14320,Bareilly Indore Express,Agra Cantt.,18:55
+14320,Bareilly Indore Express,Gwalior,20:42
+14320,Bareilly Indore Express,Virangana Lakshmibai Jhansi,22:28
+14320,Bareilly Indore Express,Bina,01:00
+14320,Bareilly Indore Express,Vidisha,02:00
+11842,Kurukshetra Jn. Khajuraho Jn. Express,New Delhi,18:20
+11842,Kurukshetra Jn. Khajuraho Jn. Express,Nizamuddin,18:33
+11842,Kurukshetra Jn. Khajuraho Jn. Express,Faridabad,18:52
+11842,Kurukshetra Jn. Khajuraho Jn. Express,Mathura,20:40
+11842,Kurukshetra Jn. Khajuraho Jn. Express,Agra Cantt.,21:30
+11842,Kurukshetra Jn. Khajuraho Jn. Express,Dhaulpur,22:43
+11842,Kurukshetra Jn. Khajuraho Jn. Express,Gwalior,00:18
+11842,Kurukshetra Jn. Khajuraho Jn. Express,Virangana Lakshmibai Jhansi,02:13
+11842,Kurukshetra Jn. Khajuraho Jn. Express,Lalitpur,04:05
+22164,juraho Bho ahamana S Express,Virangana Lakshmibai Jhansi,16:30
+22164,juraho Bho ahamana S Express,Lalitpur,19:16
+22164,juraho Bho ahamana S Express,Bina,20:50
+22164,juraho Bho ahamana S Express,Vidisha,22:03
+22164,juraho Bho ahamana S Express,Bhopal,23:05
+22222,Nizamudin Mumbai CSMT Rajdhani Express,Nizamuddin,16:55
+22222,Nizamudin Mumbai CSMT Rajdhani Express,Agra Cantt.,18:47
+22222,Nizamudin Mumbai CSMT Rajdhani Express,Gwalior,20:10
+22222,Nizamudin Mumbai CSMT Rajdhani Express,Virangana Lakshmibai Jhansi,21:33
+22222,Nizamudin Mumbai CSMT Rajdhani Express,Bhopal,00:40
+22222,Nizamudin Mumbai CSMT Rajdhani Express,Bhusaval,05:17
+22222,Nizamudin Mumbai CSMT Rajdhani Express,Jalgaon,05:40
+22222,Nizamudin Mumbai CSMT Rajdhani Express,Nasik Road,08:10
+22222,Nizamudin Mumbai CSMT Rajdhani Express,Kalyan,10:15
+22222,Nizamudin Mumbai CSMT Rajdhani Express,Mumbai CSMT,11:15
+22548,Sabarmati Gwalior Express,Agra Cantt.,07:05
+22548,Sabarmati Gwalior Express,Dhaulpur,07:55
+22548,Sabarmati Gwalior Express,Gwalior,09:25
+19484,Saharsa Ahmedabad Express,Lalitpur,16:05
+19484,Saharsa Ahmedabad Express,Rani Kamalapati,20:20
+19484,Saharsa Ahmedabad Express,Itarsi,22:00
+19484,Saharsa Ahmedabad Express,Khandwa,00:32
+19484,Saharsa Ahmedabad Express,Burhanpur,01:21
+19484,Saharsa Ahmedabad Express,Bhusaval,02:30
+11606,Bina Bhopal MEMU Express,Bina,11:15
+11606,Bina Bhopal MEMU Express,Vidisha,12:28
+11606,Bina Bhopal MEMU Express,Bhopal,13:40
+19436,Asansol Ahmedabad Express,Lalitpur,16:05
+19436,Asansol Ahmedabad Express,Rani Kamalapati,20:20
+19436,Asansol Ahmedabad Express,Itarsi,22:00
+19436,Asansol Ahmedabad Express,Bhusaval,02:30
+20172,Nizamuddin Rani Kamalapati Vande Bharat Express,Nizamuddin,14:40
+20172,Nizamuddin Rani Kamalapati Vande Bharat Express,Agra Cantt.,16:20
+20172,Nizamuddin Rani Kamalapati Vande Bharat Express,Gwalior,17:42
+20172,Nizamuddin Rani Kamalapati Vande Bharat Express,Virangana Lakshmibai Jhansi,19:00
+20172,Nizamuddin Rani Kamalapati Vande Bharat Express,Rani Kamalapati,22:16
+11906,Hoshiarpur Agra Cantt. Express,Mathura,09:25
+11906,Hoshiarpur Agra Cantt. Express,Agra Cantt.,11:00
+11012,Dhule- Mumbai CSMT Express,Chalisgaon,07:33
+11012,Dhule- Mumbai CSMT Express,Manmad,08:40
+11012,Dhule- Mumbai CSMT Express,Nasik Road,09:33
+11012,Dhule- Mumbai CSMT Express,Igatpuri,10:35
+11012,Dhule- Mumbai CSMT Express,Kalyan,12:22
+11012,Dhule- Mumbai CSMT Express,Thane,12:39
+11012,Dhule- Mumbai CSMT Express,Dadar,13:15
+11012,Dhule- Mumbai CSMT Express,Mumbai CSMT,14:15
+12405,Bhusaval Nizamuddin Gondwana Express,Bhusaval,06:00
+12405,Bhusaval Nizamuddin Gondwana Express, Amla,15:02
+12405,Bhusaval Nizamuddin Gondwana Express,Itarsi,17:50
+12405,Bhusaval Nizamuddin Gondwana Express,Narmadapuram,18:10
+12405,Bhusaval Nizamuddin Gondwana Express,Bhopal,19:35
+12405,Bhusaval Nizamuddin Gondwana Express,Vidisha,20:17
+12405,Bhusaval Nizamuddin Gondwana Express,Bina,21:40
+12405,Bhusaval Nizamuddin Gondwana Express,Lalitpur,22:20
+12405,Bhusaval Nizamuddin Gondwana Express,Virangana Lakshmibai Jhansi,23:38
+12405,Bhusaval Nizamuddin Gondwana Express,Gwalior,00:50
+12405,Bhusaval Nizamuddin Gondwana Express,Agra Cantt.,02:20
+12405,Bhusaval Nizamuddin Gondwana Express,Mathura,02:57
+12405,Bhusaval Nizamuddin Gondwana Express,Nizamuddin,05:00
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Lokmanya Tilak (T),06:00
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Thane,06:20
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Kalyan,06:40
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Igatpuri,08:32
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Nasik Road,09:45
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Manmad,10:55
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Bhusaval,13:10
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Burhanpur,14:00
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Khandwa,15:15
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Harda,16:22
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Itarsi,17:40
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Rani Kamalapati,19:30
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Bhopal,19:50
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Bina,21:50
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Lalitpur,22:32
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Virangana Lakshmibai Jhansi,00:12
+12155,Rani Kamlapati Nizamuddin Bhopal Express,Rani Kamalapati,22:40
+12155,Rani Kamlapati Nizamuddin Bhopal Express,Bhopal,22:58
+12155,Rani Kamlapati Nizamuddin Bhopal Express,Vidisha,23:35
+12155,Rani Kamlapati Nizamuddin Bhopal Express,Bina,00:47
+12155,Rani Kamlapati Nizamuddin Bhopal Express,Virangana Lakshmibai Jhansi,02:32
+12155,Rani Kamlapati Nizamuddin Bhopal Express,Gwalior,03:32
+12155,Rani Kamlapati Nizamuddin Bhopal Express,Agra Cantt.,05:17
+12155,Rani Kamlapati Nizamuddin Bhopal Express,Nizamuddin,08:00
+14211,Agra Cantt. New Delhi Intercity Express,Agra Cantt.,05:45
+14211,Agra Cantt. New Delhi Intercity Express,Raja-ki-Mandi,05:53
+14211,Agra Cantt. New Delhi Intercity Express,Mathura,06:25
+14211,Agra Cantt. New Delhi Intercity Express,Faridabad,08:51
+14211,Agra Cantt. New Delhi Intercity Express,Nizamuddin,09:17
+14211,Agra Cantt. New Delhi Intercity Express,New Delhi,10:00
+14313,Lokmanya Tilak (T) Bareilly Express,Lokmanya Tilak (T),08:05
+14313,Lokmanya Tilak (T) Bareilly Express,Kalyan,08:40
+14313,Lokmanya Tilak (T) Bareilly Express,Nasik Road,11:20
+14313,Lokmanya Tilak (T) Bareilly Express,Manmad,12:20
+14313,Lokmanya Tilak (T) Bareilly Express,Jalgaon,14:10
+14313,Lokmanya Tilak (T) Bareilly Express,Bhusaval,14:50
+14313,Lokmanya Tilak (T) Bareilly Express,Burhanpur,15:40
+14313,Lokmanya Tilak (T) Bareilly Express,Khandwa,16:50
+14313,Lokmanya Tilak (T) Bareilly Express,Harda,18:10
+14313,Lokmanya Tilak (T) Bareilly Express,Itarsi,19:45
+14313,Lokmanya Tilak (T) Bareilly Express,Rani Kamalapati,21:15
+14313,Lokmanya Tilak (T) Bareilly Express,Bhopal,21:40
+14313,Lokmanya Tilak (T) Bareilly Express,Bina,00:15
+14313,Lokmanya Tilak (T) Bareilly Express,Virangana Lakshmibai Jhansi,03:13
+14313,Lokmanya Tilak (T) Bareilly Express,Gwalior,04:27
+14313,Lokmanya Tilak (T) Bareilly Express,Agra Cantt.,06:30
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Kalyan,13:30
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Nasik Road,16:40
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Manmad,17:35
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Bhusaval,19:55
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Burhanpur,20:45
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Khandwa,22:20
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Itarsi,01:05
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Bhopal,02:55
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Bina,04:50
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Virangana Lakshmibai Jhansi,06:38
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Gwalior,07:52
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Agra Cantt.,10:00
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Mathura,10:38
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Faridabad,12:50
+12617,Ernakulam Nizamuddin Mangala Lakshadweep Express,Nizamuddin,13:35
+12049,Virangana Laxmibai Jhansi Nizamuddin Gatiman Express,Virangana Lakshmibai Jhansi,15:00
+12049,Virangana Laxmibai Jhansi Nizamuddin Gatiman Express,Gwalior,16:05
+12049,Virangana Laxmibai Jhansi Nizamuddin Gatiman Express,Agra Cantt.,17:35
+12049,Virangana Laxmibai Jhansi Nizamuddin Gatiman Express,Nizamuddin,19:30
+12137,Mumbai CSMT Firozpur Punjab Mail,Mumbai CSMT,19:35
+12137,Mumbai CSMT Firozpur Punjab Mail,Dadar,19:50
+12137,Mumbai CSMT Firozpur Punjab Mail,Kalyan,20:35
+12137,Mumbai CSMT Firozpur Punjab Mail,Nasik Road,23:00
+12137,Mumbai CSMT Firozpur Punjab Mail,Manmad,00:10
+12137,Mumbai CSMT Firozpur Punjab Mail,Chalisgaon,00:55
+12137,Mumbai CSMT Firozpur Punjab Mail,Jalgaon,02:05
+12137,Mumbai CSMT Firozpur Punjab Mail,Bhusaval,02:45
+12137,Mumbai CSMT Firozpur Punjab Mail,Burhanpur,03:30
+12137,Mumbai CSMT Firozpur Punjab Mail,Khandwa,04:55
+12137,Mumbai CSMT Firozpur Punjab Mail,Harda,06:03
+12137,Mumbai CSMT Firozpur Punjab Mail,Itarsi,07:40
+12137,Mumbai CSMT Firozpur Punjab Mail,Narmadapuram,08:00
+12137,Mumbai CSMT Firozpur Punjab Mail,Rani Kamalapati,09:30
+12137,Mumbai CSMT Firozpur Punjab Mail,Bhopal,09:50
+12137,Mumbai CSMT Firozpur Punjab Mail,Vidisha,10:27
+12137,Mumbai CSMT Firozpur Punjab Mail,Bina,12:05
+12137,Mumbai CSMT Firozpur Punjab Mail,Lalitpur,12:50
+12137,Mumbai CSMT Firozpur Punjab Mail,Virangana Lakshmibai Jhansi,14:23
+12137,Mumbai CSMT Firozpur Punjab Mail,Datia,14:46
+12137,Mumbai CSMT Firozpur Punjab Mail,Gwalior,15:42
+12137,Mumbai CSMT Firozpur Punjab Mail,Dhaulpur,17:20
+12137,Mumbai CSMT Firozpur Punjab Mail,Agra Cantt.,18:05
+12137,Mumbai CSMT Firozpur Punjab Mail,Raja-ki-Mandi,18:13
+12137,Mumbai CSMT Firozpur Punjab Mail,Mathura,18:50
+12137,Mumbai CSMT Firozpur Punjab Mail,Faridabad,20:35
+12137,Mumbai CSMT Firozpur Punjab Mail,Nizamuddin,20:57
+12137,Mumbai CSMT Firozpur Punjab Mail,New Delhi,21:40
+12279,Virangana Laxmibai Jhansi New Delhi Taj Express,Virangana Lakshmibai Jhansi,15:10
+12279,Virangana Laxmibai Jhansi New Delhi Taj Express,Datia,15:31
+12279,Virangana Laxmibai Jhansi New Delhi Taj Express,Gwalior,16:29
+12279,Virangana Laxmibai Jhansi New Delhi Taj Express,Dhaulpur,17:40
+12279,Virangana Laxmibai Jhansi New Delhi Taj Express,Agra Cantt.,18:20
+12279,Virangana Laxmibai Jhansi New Delhi Taj Express,Raja-ki-Mandi,18:28
+12279,Virangana Laxmibai Jhansi New Delhi Taj Express,Mathura,19:05
+12279,Virangana Laxmibai Jhansi New Delhi Taj Express,Faridabad,20:45
+12279,Virangana Laxmibai Jhansi New Delhi Taj Express,Nizamuddin,21:07
+12279,Virangana Laxmibai Jhansi New Delhi Taj Express,New Delhi,21:35
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Lokmanya Tilak (T),16:25
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Thane,16:45
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Kalyan,17:10
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Nasik Road,19:30
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Manmad,20:37
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Jalgaon,22:32
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Bhusaval,23:20
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Burhanpur,00:12
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Khandwa,01:30
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Harda,02:32
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Itarsi,04:00
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Rani Kamalapati,05:50
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Bina,08:05
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Virangana Lakshmibai Jhansi,11:40
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Gwalior,12:47
+12161,Lokmanya Tilak (T) Agra Cantt. Lashkar Express,Agra Cantt.,15:20
+12153,Lokmanya Tilak (T) Rani Kamlapati Express,Lokmanya Tilak (T),16:25
+12153,Lokmanya Tilak (T) Rani Kamlapati Express,Thane,16:45
+12153,Lokmanya Tilak (T) Rani Kamlapati Express,Kalyan,17:10
+12153,Lokmanya Tilak (T) Rani Kamlapati Express,Bhusaval,23:20
+12153,Lokmanya Tilak (T) Rani Kamlapati Express,Khandwa,01:30
+12153,Lokmanya Tilak (T) Rani Kamlapati Express,Harda,02:32
+12153,Lokmanya Tilak (T) Rani Kamlapati Express,Itarsi,04:00
+12153,Lokmanya Tilak (T) Rani Kamlapati Express,Narmadapuram,04:20
+12153,Lokmanya Tilak (T) Rani Kamlapati Express,Rani Kamalapati,05:50
+12001,Rani Kamlapati New Delhi Shatabdi Express,Rani Kamalapati,15:10
+12001,Rani Kamlapati New Delhi Shatabdi Express,Bhopal,15:25
+12001,Rani Kamlapati New Delhi Shatabdi Express,Bina,17:02
+12001,Rani Kamlapati New Delhi Shatabdi Express,Lalitpur,17:35
+12001,Rani Kamlapati New Delhi Shatabdi Express,Virangana Lakshmibai Jhansi,18:45
+12001,Rani Kamlapati New Delhi Shatabdi Express,Gwalior,19:45
+12001,Rani Kamlapati New Delhi Shatabdi Express,Dhaulpur,20:45
+12001,Rani Kamlapati New Delhi Shatabdi Express,Agra Cantt.,21:25
+12001,Rani Kamlapati New Delhi Shatabdi Express,Mathura,22:01
+12001,Rani Kamlapati New Delhi Shatabdi Express,New Delhi,23:50
+11057,Mumbai CSMT Amritsar Express,Mumbai CSMT,23:30
+11057,Mumbai CSMT Amritsar Express,Dadar,23:40
+11057,Mumbai CSMT Amritsar Express,Thane,00:05
+11057,Mumbai CSMT Amritsar Express,Kalyan,00:35
+11057,Mumbai CSMT Amritsar Express,Devlali,02:44
+11057,Mumbai CSMT Amritsar Express,Nasik Road,02:55
+11057,Mumbai CSMT Amritsar Express,Manmad,04:05
+11057,Mumbai CSMT Amritsar Express,Chalisgaon,05:00
+11057,Mumbai CSMT Amritsar Express,Pachora,05:30
+11057,Mumbai CSMT Amritsar Express,Jalgaon,06:15
+11057,Mumbai CSMT Amritsar Express,Bhusaval,06:50
+11057,Mumbai CSMT Amritsar Express,Burhanpur,07:45
+11057,Mumbai CSMT Amritsar Express,Khandwa,09:20
+11057,Mumbai CSMT Amritsar Express,Harda,10:55
+11057,Mumbai CSMT Amritsar Express,Itarsi,12:35
+11057,Mumbai CSMT Amritsar Express,Narmadapuram,12:54
+11057,Mumbai CSMT Amritsar Express,Rani Kamalapati,14:48
+11057,Mumbai CSMT Amritsar Express,Bhopal,15:30
+11057,Mumbai CSMT Amritsar Express,Vidisha,16:10
+11057,Mumbai CSMT Amritsar Express,Bina,17:55
+11057,Mumbai CSMT Amritsar Express,Lalitpur,18:41
+11057,Mumbai CSMT Amritsar Express,Virangana Lakshmibai Jhansi,20:28
+11057,Mumbai CSMT Amritsar Express,Datia,20:51
+11057,Mumbai CSMT Amritsar Express,Gwalior,21:53
+11057,Mumbai CSMT Amritsar Express,Dhaulpur,23:00
+11057,Mumbai CSMT Amritsar Express,Agra Cantt.,23:50
+11057,Mumbai CSMT Amritsar Express,Mathura,00:35
+11057,Mumbai CSMT Amritsar Express,Faridabad,02:47
+11057,Mumbai CSMT Amritsar Express,Nizamuddin,03:09
+11057,Mumbai CSMT Amritsar Express,New Delhi,03:45
+12171,Lokmanya Tilak (T) Haridwar AC Express,Lokmanya Tilak (T),07:55
+12171,Lokmanya Tilak (T) Haridwar AC Express,Kalyan,08:35
+12171,Lokmanya Tilak (T) Haridwar AC Express,Nasik Road,11:00
+12171,Lokmanya Tilak (T) Haridwar AC Express,Bhusaval,14:15
+12171,Lokmanya Tilak (T) Haridwar AC Express,Khandwa,16:15
+12171,Lokmanya Tilak (T) Haridwar AC Express,Bhopal,20:50
+12171,Lokmanya Tilak (T) Haridwar AC Express,Virangana Lakshmibai Jhansi,00:45
+12171,Lokmanya Tilak (T) Haridwar AC Express,Agra Cantt.,03:42
+12171,Lokmanya Tilak (T) Haridwar AC Express,Nizamuddin,06:55
+20423,Seoni Patalkot- Firozpur Superfast Express, Seoni,08:20
+20423,Seoni Patalkot- Firozpur Superfast Express, Chhindwara,09:45
+20423,Seoni Patalkot- Firozpur Superfast Express, Amla,12:13
+20423,Seoni Patalkot- Firozpur Superfast Express,Itarsi,14:45
+20423,Seoni Patalkot- Firozpur Superfast Express,Narmadapuram,15:04
+20423,Seoni Patalkot- Firozpur Superfast Express,Rani Kamalapati,16:15
+20423,Seoni Patalkot- Firozpur Superfast Express,Bhopal,16:50
+20423,Seoni Patalkot- Firozpur Superfast Express,Vidisha,17:27
+20423,Seoni Patalkot- Firozpur Superfast Express,Bina,19:10
+20423,Seoni Patalkot- Firozpur Superfast Express,Lalitpur,19:49
+20423,Seoni Patalkot- Firozpur Superfast Express,Virangana Lakshmibai Jhansi,21:15
+20423,Seoni Patalkot- Firozpur Superfast Express,Gwalior,22:28
+20423,Seoni Patalkot- Firozpur Superfast Express,Agra Cantt.,00:15
+20423,Seoni Patalkot- Firozpur Superfast Express,Mathura,00:55
+20423,Seoni Patalkot- Firozpur Superfast Express,Nizamuddin,03:40
+22455,Sai Nagar Shirdi Kalka Express,Sainagar Shirdi,10:00
+22455,Sai Nagar Shirdi Kalka Express,Manmad,11:40
+22455,Sai Nagar Shirdi Kalka Express,Bhusaval,14:15
+22455,Sai Nagar Shirdi Kalka Express,Khandwa,16:15
+22455,Sai Nagar Shirdi Kalka Express,Itarsi,18:50
+22455,Sai Nagar Shirdi Kalka Express,Bhopal,20:50
+22455,Sai Nagar Shirdi Kalka Express,V Jh ir a a n n s g i ana Lakshmibai,00:45
+22455,Sai Nagar Shirdi Kalka Express,Gwalior,01:57
+22455,Sai Nagar Shirdi Kalka Express,Agra Cantt.,03:42
+22455,Sai Nagar Shirdi Kalka Express,Mathura,04:35
+22455,Sai Nagar Shirdi Kalka Express,Nizamuddin,06:30
+22455,Sai Nagar Shirdi Kalka Express,New Delhi,07:10
+22709,Hazur Sahib Nanded Amb Andaura Express,Khandwa,20:15
+22709,Hazur Sahib Nanded Amb Andaura Express,Itarsi,22:45
+22709,Hazur Sahib Nanded Amb Andaura Express,Rani Kamalapati a d ,00:08
+22709,Hazur Sahib Nanded Amb Andaura Express,Bhopal,00:30
+22709,Hazur Sahib Nanded Amb Andaura Express,Bina a d ,02:18
+22709,Hazur Sahib Nanded Amb Andaura Express,V Jh ir a a n n s g i ana Lakshmibai,04:09
+22709,Hazur Sahib Nanded Amb Andaura Express,Gwalior,05:11
+22709,Hazur Sahib Nanded Amb Andaura Express,Agra Cantt.,06:50
+22709,Hazur Sahib Nanded Amb Andaura Express,Mathura,07:30
+22709,Hazur Sahib Nanded Amb Andaura Express,New Delhi,10:25
+14319,Indore Bareilly Express,Vidisha d ,22:20
+14319,Indore Bareilly Express,Bina a d ,00:15
+14319,Indore Bareilly Express,V Jh ir a a n n s g i ana Lakshmibai,03:13
+14319,Indore Bareilly Express,Gwalior,04:27
+14319,Indore Bareilly Express,Agra Cantt.,06:30
+11841,Khajuraho Jn. Kurukshetra Jn. Express,Lalitpur,22:10
+11841,Khajuraho Jn. Kurukshetra Jn. Express,V Jh ir a a n n s g i ana Lakshmibai,23:53
+11841,Khajuraho Jn. Kurukshetra Jn. Express,Gwalior,01:44
+11841,Khajuraho Jn. Kurukshetra Jn. Express,Dhaulpur d ,02:58
+11841,Khajuraho Jn. Kurukshetra Jn. Express,Agra Cantt.,03:55
+11841,Khajuraho Jn. Kurukshetra Jn. Express,Mathura,05:05
+11841,Khajuraho Jn. Kurukshetra Jn. Express,Faridabad,07:33
+11841,Khajuraho Jn. Kurukshetra Jn. Express,Nizamuddin,08:14
+11841,Khajuraho Jn. Kurukshetra Jn. Express,New Delhi,09:00
+22163,Bhopal Khajuraho Mahamana SF Express,Bhopal,06:30
+22163,Bhopal Khajuraho Mahamana SF Express,Vidisha d ,07:10
+22163,Bhopal Khajuraho Mahamana SF Express,Bina a d ,08:35
+22163,Bhopal Khajuraho Mahamana SF Express,Lalitpur,09:25
+22163,Bhopal Khajuraho Mahamana SF Express,V Jh ir a a n n s g i ana Lakshmibai,12:55
+22221,Mumbai CSMT Nizamudin Rajdhani Express,Mumbai CSMT,16:00
+22221,Mumbai CSMT Nizamudin Rajdhani Express,Kalyan,16:45
+22221,Mumbai CSMT Nizamudin Rajdhani Express,Nasik Road,18:19
+22221,Mumbai CSMT Nizamudin Rajdhani Express,Jalgaon,20:45
+22221,Mumbai CSMT Nizamudin Rajdhani Express,Bhusaval,21:17
+22221,Mumbai CSMT Nizamudin Rajdhani Express,Bhopal,02:00
+22221,Mumbai CSMT Nizamudin Rajdhani Express,V Jh ir a a n n s g i ana Lakshmibai,05:11
+22221,Mumbai CSMT Nizamudin Rajdhani Express,Gwalior,06:11
+22221,Mumbai CSMT Nizamudin Rajdhani Express,Agra Cantt.,07:32
+22221,Mumbai CSMT Nizamudin Rajdhani Express,Nizamuddin,09:55
+22547,Gwalior Sabarmati Express,Gwalior,20:10
+22547,Gwalior Sabarmati Express,Dhaulpur d ,20:58
+22547,Gwalior Sabarmati Express,Agra Cantt.,22:00
+19483,Ahmedabad Saharsa Express,Bhusaval,11:35
+19483,Ahmedabad Saharsa Express,Burhanpur,12:30
+19483,Ahmedabad Saharsa Express,Khandwa,13:45
+19483,Ahmedabad Saharsa Express,Itarsi,16:10
+19483,Ahmedabad Saharsa Express,Rani Kamalapati a d ,17:45
+19483,Ahmedabad Saharsa Express,Lalitpur,20:53
+11605,Bhopal Bina MEMU Express,Bhopal,14:20
+11605,Bhopal Bina MEMU Express,Vidisha d ,15:20
+11605,Bhopal Bina MEMU Express,Bina a d ,16:55
+19435,Ahmedabad Asansol Express,Bhusaval,11:35
+19435,Ahmedabad Asansol Express,Itarsi,16:10
+19435,Ahmedabad Asansol Express,Rani Kamalapati a d ,17:45
+19435,Ahmedabad Asansol Express,Lalitpur,20:53
+20171,Rani Kamalapati Nizamuddin Vande Bharat Express,Rani Kamalapati a d ,05:40
+20171,Rani Kamalapati Nizamuddin Vande Bharat Express,V Jh ir a a n n s g i ana Lakshmibai,08:43
+20171,Rani Kamalapati Nizamuddin Vande Bharat Express,Gwalior,09:45
+20171,Rani Kamalapati Nizamuddin Vande Bharat Express,Agra Cantt.,11:05
+20171,Rani Kamalapati Nizamuddin Vande Bharat Express,Nizamuddin,13:16
+11905,Agra Cantt. Hoshiarpur Express,Agra Cantt.,19:10
+11905,Agra Cantt. Hoshiarpur Express,Mathura,19:55
+11011,Mumbai CSMT Dhule Express,Mumbai CSMT,12:00
+11011,Mumbai CSMT Dhule Express,Dadar,12:12
+11011,Mumbai CSMT Dhule Express,Thane,12:37
+11011,Mumbai CSMT Dhule Express,Kalyan,13:00
+11011,Mumbai CSMT Dhule Express,Igatpuri,15:15
+11011,Mumbai CSMT Dhule Express,Nasik Road,15:52
+11011,Mumbai CSMT Dhule Express,Manmad,17:10
+11011,Mumbai CSMT Dhule Express,Chalisgaon,19:00
+26505,Khajuraho- Banaras Vande Bharat Express,V Jh ir a a n n s g i ana Lakshmibai,15:20

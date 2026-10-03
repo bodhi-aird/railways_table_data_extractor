@@ -1,0 +1,550 @@
+train_num,train_name,halt_station_name,departure_time
+12709,Gudur Secunderabad Simhapuri Express,Gudur,18:35
+12709,Gudur Secunderabad Simhapuri Express,Nellore,19:00
+12709,Gudur Secunderabad Simhapuri Express,Ongole,20:30
+12709,Gudur Secunderabad Simhapuri Express,Tenali,22:10
+12709,Gudur Secunderabad Simhapuri Express,Vijayawada,23:00
+12709,Gudur Secunderabad Simhapuri Express,Khammam,00:35
+12709,Gudur Secunderabad Simhapuri Express,Warangal,02:12
+12709,Gudur Secunderabad Simhapuri Express,Kazipet,02:30
+12709,Gudur Secunderabad Simhapuri Express,Secunderabad,05:45
+17405,Tirupati Adilabad Krishna Express,Tirupati,05:45
+17405,Tirupati Adilabad Krishna Express,Renigunta,06:08
+17405,Tirupati Adilabad Krishna Express,Gudur,07:20
+17405,Tirupati Adilabad Krishna Express,Nellore,08:00
+17405,Tirupati Adilabad Krishna Express,Ongole,10:10
+17405,Tirupati Adilabad Krishna Express,Tenali,12:00
+17405,Tirupati Adilabad Krishna Express,Vijayawada,13:00
+17405,Tirupati Adilabad Krishna Express,Khammam,14:53
+17405,Tirupati Adilabad Krishna Express,Warangal,16:42
+17405,Tirupati Adilabad Krishna Express,Kazipet,16:57
+17405,Tirupati Adilabad Krishna Express,Cherlapalli,20:10
+17405,Tirupati Adilabad Krishna Express,Nizamabad,23:40
+17405,Tirupati Adilabad Krishna Express,Adilabad,06:15
+12707,Tirupati Nizamuddin Andhra Pradesh Sampark Kranti Express,Tirupati,06:00
+12707,Tirupati Nizamuddin Andhra Pradesh Sampark Kranti Express,Renigunta,06:25
+12707,Tirupati Nizamuddin Andhra Pradesh Sampark Kranti Express,Cuddapah,07:50
+12707,Tirupati Nizamuddin Andhra Pradesh Sampark Kranti Express,Tadipatri,09:10
+12707,Tirupati Nizamuddin Andhra Pradesh Sampark Kranti Express,Dhone,11:15
+12707,Tirupati Nizamuddin Andhra Pradesh Sampark Kranti Express,Kurnool City,12:10
+12707,Tirupati Nizamuddin Andhra Pradesh Sampark Kranti Express,Mahabubnagar,14:15
+12707,Tirupati Nizamuddin Andhra Pradesh Sampark Kranti Express,Kacheguda,16:30
+12077,Chennai Vijayawada Jan Shatabdi Express,MGR Chennai Central,07:25
+12077,Chennai Vijayawada Jan Shatabdi Express,Gudur,09:30
+12077,Chennai Vijayawada Jan Shatabdi Express,Nellore,09:55
+12077,Chennai Vijayawada Jan Shatabdi Express,Ongole,11:30
+12077,Chennai Vijayawada Jan Shatabdi Express,Tenali,13:10
+12077,Chennai Vijayawada Jan Shatabdi Express,New Guntur,13:40
+12077,Chennai Vijayawada Jan Shatabdi Express,Vijayawada,14:55
+12805,Visakhapatnam Lingampalli Janmabhoomi Express,Tenali,12:55
+12805,Visakhapatnam Lingampalli Janmabhoomi Express,Guntur,13:15
+12805,Visakhapatnam Lingampalli Janmabhoomi Express,Sattenapalli,13:57
+12805,Visakhapatnam Lingampalli Janmabhoomi Express,Nadikudi,14:44
+12805,Visakhapatnam Lingampalli Janmabhoomi Express,Miryalguda,15:13
+12805,Visakhapatnam Lingampalli Janmabhoomi Express,Nalgonda,15:43
+12805,Visakhapatnam Lingampalli Janmabhoomi Express,Secunderabad,18:30
+12805,Visakhapatnam Lingampalli Janmabhoomi Express,Lingampalli,19:40
+12705,Guntur Secunderabad Inter City Express,Guntur,15:35
+12705,Guntur Secunderabad Inter City Express,Vijayawada,16:25
+12705,Guntur Secunderabad Inter City Express,Khammam,17:40
+12705,Guntur Secunderabad Inter City Express,Warangal,19:17
+12705,Guntur Secunderabad Inter City Express,Kazipet,19:37
+12705,Guntur Secunderabad Inter City Express,Secunderabad,22:20
+20702,Tirupati Secunderabad Vande Bharat Express,Tirupati,15:15
+20702,Tirupati Secunderabad Vande Bharat Express,Nellore,16:35
+20702,Tirupati Secunderabad Vande Bharat Express,Ongole,17:45
+20702,Tirupati Secunderabad Vande Bharat Express,Guntur,19:45
+20702,Tirupati Secunderabad Vande Bharat Express,Miryalguda,21:18
+20702,Tirupati Secunderabad Vande Bharat Express,Nalgonda,21:50
+20702,Tirupati Secunderabad Vande Bharat Express,Secunderabad,23:40
+12712,Chennai Vijayawada Pinakini Express,MGR Chennai Central,14:05
+12712,Chennai Vijayawada Pinakini Express,Gudur,16:15
+12712,Chennai Vijayawada Pinakini Express,Nellore,16:50
+12712,Chennai Vijayawada Pinakini Express,Ongole,18:45
+12712,Chennai Vijayawada Pinakini Express,Tenali,20:20
+12712,Chennai Vijayawada Pinakini Express,Vijayawada,21:35
+12603,Chennai Hyderabad Express,MGR Chennai Central,16:45
+12603,Chennai Hyderabad Express,Gudur,19:00
+12603,Chennai Hyderabad Express,Nellore,19:30
+12603,Chennai Hyderabad Express,Ongole,21:05
+12603,Chennai Hyderabad Express,Tenali,22:55
+12603,Chennai Hyderabad Express,Guntur,23:45
+12603,Chennai Hyderabad Express,Sattenapalli,00:20
+12603,Chennai Hyderabad Express,Nadikudi,01:21
+12603,Chennai Hyderabad Express,Miryalguda,01:56
+12603,Chennai Hyderabad Express,Nalgonda,02:30
+12603,Chennai Hyderabad Express,Cherlapalli,05:10
+12763,Tirupati Secunderabad Padmavati Express,Tirupati,16:55
+12763,Tirupati Secunderabad Padmavati Express,Renigunta,17:17
+12763,Tirupati Secunderabad Padmavati Express,Gudur,18:45
+12763,Tirupati Secunderabad Padmavati Express,Nellore,19:15
+12763,Tirupati Secunderabad Padmavati Express,Ongole,20:40
+12763,Tirupati Secunderabad Padmavati Express,Tenali,22:20
+12763,Tirupati Secunderabad Padmavati Express,Vijayawada,23:10
+12763,Tirupati Secunderabad Padmavati Express,Khammam,00:45
+12763,Tirupati Secunderabad Padmavati Express,Warangal,02:30
+12763,Tirupati Secunderabad Padmavati Express,Kazipet,02:45
+12763,Tirupati Secunderabad Padmavati Express,Secunderabad,06:10
+12798,Chittoor Kacheguda Venkatadri Express,Chittoor,17:35
+12798,Chittoor Kacheguda Venkatadri Express,Tirupati,18:45
+12798,Chittoor Kacheguda Venkatadri Express,Renigunta,19:10
+12798,Chittoor Kacheguda Venkatadri Express,Cuddapah,20:50
+12798,Chittoor Kacheguda Venkatadri Express,Tadipatri,22:30
+12798,Chittoor Kacheguda Venkatadri Express,Gooty,23:45
+12798,Chittoor Kacheguda Venkatadri Express,Dhone,01:05
+12798,Chittoor Kacheguda Venkatadri Express,Kurnool City,01:50
+12798,Chittoor Kacheguda Venkatadri Express,Mahabubnagar,04:00
+12798,Chittoor Kacheguda Venkatadri Express,Kacheguda,06:20
+16003,Chennai Nagarsol Express,MGR Chennai Central,09:15
+16003,Chennai Nagarsol Express,Renigunta,11:40
+16003,Chennai Nagarsol Express,Cuddapah,13:20
+16003,Chennai Nagarsol Express,Tadipatri,14:55
+16003,Chennai Nagarsol Express,Gooty,16:00
+16003,Chennai Nagarsol Express,Dhone,17:15
+16003,Chennai Nagarsol Express,Kurnool City,18:00
+16003,Chennai Nagarsol Express,Mahabubnagar,20:48
+16003,Chennai Nagarsol Express,Kacheguda,23:00
+16003,Chennai Nagarsol Express,Nizamabad,02:40
+17626,Repalle Vikarabad Express,Repalle,22:40
+17626,Repalle Vikarabad Express,Tenali,23:30
+17626,Repalle Vikarabad Express,Guntur,23:55
+17626,Repalle Vikarabad Express,Secunderabad,06:45
+17626,Repalle Vikarabad Express,Nizamabad,09:20
+17646,Repalle Secunderabad Express,Repalle,07:10
+17646,Repalle Secunderabad Express,Tenali,08:05
+17646,Repalle Secunderabad Express,Guntur,08:50
+17646,Repalle Secunderabad Express,Sattenapalli,09:55
+17646,Repalle Secunderabad Express,Nadikudi,11:31
+17646,Repalle Secunderabad Express,Miryalguda,12:07
+17646,Repalle Secunderabad Express,Nalgonda,11:41
+17646,Repalle Secunderabad Express,Secunderabad,15:55
+17253,Guntur Aurangabad Express,Tirupati,07:20
+17253,Guntur Aurangabad Express,Dhone,14:25
+17253,Guntur Aurangabad Express,Kurnool City,15:35
+17253,Guntur Aurangabad Express,Mahabubnagar,19:07
+17253,Guntur Aurangabad Express,Kacheguda,21:15
+17253,Guntur Aurangabad Express,Secunderabad,22:10
+17253,Guntur Aurangabad Express,Lingampalli,22:47
+17251,Guntur Kacheguda Express,Tirupati,17:30
+17251,Guntur Kacheguda Express,Dhone,01:25
+17251,Guntur Kacheguda Express,Kurnool City,02:15
+17251,Guntur Kacheguda Express,Mahabubnagar,04:50
+17251,Guntur Kacheguda Express,Kacheguda,07:30
+17238,ennai Suburb Bitragunta Express,MGR Chennai Central,16:30
+17238,ennai Suburb Bitragunta Express,Gudur,19:10
+17238,ennai Suburb Bitragunta Express,Nellore,19:45
+17238,ennai Suburb Bitragunta Express,Ongole,20:55
+17314,MGR Chennai SSS Hubballi Express,MGR Chennai Central,15:50
+17314,MGR Chennai SSS Hubballi Express,Renigunta,18:15
+17314,MGR Chennai SSS Hubballi Express,Cuddapah,20:10
+17314,MGR Chennai SSS Hubballi Express,Guntakal,23:20
+12759,Tambaram- Hy- derabad Charmi- nar Super Fast Express,Tambaram,17:30
+12759,Tambaram- Hy- derabad Charmi- nar Super Fast Express,Chennai Egmore,18:05
+12759,Tambaram- Hy- derabad Charmi- nar Super Fast Express,Gudur,20:40
+12759,Tambaram- Hy- derabad Charmi- nar Super Fast Express,Nellore,21:15
+12759,Tambaram- Hy- derabad Charmi- nar Super Fast Express,Ongole,22:45
+12759,Tambaram- Hy- derabad Charmi- nar Super Fast Express,Tenali,00:15
+12759,Tambaram- Hy- derabad Charmi- nar Super Fast Express,Vijayawada,01:10
+12759,Tambaram- Hy- derabad Charmi- nar Super Fast Express,Khammam,02:30
+12759,Tambaram- Hy- derabad Charmi- nar Super Fast Express,Warangal,04:20
+12759,Tambaram- Hy- derabad Charmi- nar Super Fast Express,Kazipet,04:35
+12759,Tambaram- Hy- derabad Charmi- nar Super Fast Express,Secunderabad,06:40
+12759,Tambaram- Hy- derabad Charmi- nar Super Fast Express,Hyderabad,08:10
+12733,Tirupati Lingampalli Narayanadri Express,Tirupati,18:20
+12733,Tirupati Lingampalli Narayanadri Express,Renigunta,18:42
+12733,Tirupati Lingampalli Narayanadri Express,Gudur,19:50
+12733,Tirupati Lingampalli Narayanadri Express,Nellore,20:20
+12733,Tirupati Lingampalli Narayanadri Express,Ongole,22:05
+12733,Tirupati Lingampalli Narayanadri Express,Tenali,23:50
+12733,Tirupati Lingampalli Narayanadri Express,Guntur,00:30
+12733,Tirupati Lingampalli Narayanadri Express,Sattenapalli,01:15
+12733,Tirupati Lingampalli Narayanadri Express,Nadikudi,02:09
+12733,Tirupati Lingampalli Narayanadri Express,Miryalguda,02:45
+12733,Tirupati Lingampalli Narayanadri Express,Nalgonda,03:16
+12733,Tirupati Lingampalli Narayanadri Express,Secunderabad,05:40
+12733,Tirupati Lingampalli Narayanadri Express,Lingampalli,06:45
+12793,Tirupati Nizamabad Rayalaseema Express,Tirupati,17:25
+12793,Tirupati Nizamabad Rayalaseema Express,Renigunta,17:50
+12793,Tirupati Nizamabad Rayalaseema Express,Cuddapah,19:30
+12793,Tirupati Nizamabad Rayalaseema Express,Tadipatri,20:50
+12793,Tirupati Nizamabad Rayalaseema Express,Gooty,21:45
+12793,Tirupati Nizamabad Rayalaseema Express,Guntakal,22:25
+12793,Tirupati Nizamabad Rayalaseema Express,Adoni,23:10
+12793,Tirupati Nizamabad Rayalaseema Express,Raichur,00:20
+12793,Tirupati Nizamabad Rayalaseema Express,Secunderabad,05:50
+12793,Tirupati Nizamabad Rayalaseema Express,Nizamabad,09:20
+17651,Chengalpattu Kacheguda Express,Chengalpattu Jn,15:35
+17651,Chengalpattu Kacheguda Express,Tambaram,16:05
+17651,Chengalpattu Kacheguda Express,Chennai Egmore,16:40
+17651,Chengalpattu Kacheguda Express,Renigunta,19:55
+17651,Chengalpattu Kacheguda Express,Cuddapah,21:45
+17651,Chengalpattu Kacheguda Express,Tadipatri,23:30
+17651,Chengalpattu Kacheguda Express,Gooty,00:20
+17651,Chengalpattu Kacheguda Express,Dhone,02:20
+17651,Chengalpattu Kacheguda Express,Kurnool City,03:05
+17651,Chengalpattu Kacheguda Express,Mahabubnagar,05:15
+17651,Chengalpattu Kacheguda Express,Kacheguda,07:50
+17654,Puducherry Kacheguda Express,Puducherry,13:00
+17654,Puducherry Kacheguda Express,Chengalpattu Jn,15:20
+17654,Puducherry Kacheguda Express,Tambaram,15:50
+17654,Puducherry Kacheguda Express,Chennai Egmore,16:40
+17654,Puducherry Kacheguda Express,Renigunta,19:55
+17654,Puducherry Kacheguda Express,Cuddapah,21:45
+17654,Puducherry Kacheguda Express,Tadipatri,23:30
+17654,Puducherry Kacheguda Express,Gooty,00:20
+17654,Puducherry Kacheguda Express,Dhone,02:20
+17654,Puducherry Kacheguda Express,Kurnool City,03:05
+17654,Puducherry Kacheguda Express,Mahabubnagar,05:15
+17654,Puducherry Kacheguda Express,Kacheguda,07:50
+12713,Vijayawada Secunderabad Satavahana Express,Vijayawada,06:25
+12713,Vijayawada Secunderabad Satavahana Express,Khammam,07:40
+12713,Vijayawada Secunderabad Satavahana Express,Warangal,09:20
+12713,Vijayawada Secunderabad Satavahana Express,Kazipet,09:35
+12713,Vijayawada Secunderabad Satavahana Express,Secunderabad,12:30
+17201,Guntur Secunder- abad Golconda Express,Guntur,06:00
+17201,Guntur Secunder- abad Golconda Express,Vijayawada,07:00
+17201,Guntur Secunder- abad Golconda Express,Khammam,08:45
+17201,Guntur Secunder- abad Golconda Express,Warangal,10:40
+17201,Guntur Secunder- abad Golconda Express,Kazipet,11:00
+17201,Guntur Secunder- abad Golconda Express,Secunderabad,13:55
+20630,Thiruvanantha- puram Central Secunderabad Sabari Express,Chittoor,21:55
+20630,Thiruvanantha- puram Central Secunderabad Sabari Express,Tirupati,23:15
+20630,Thiruvanantha- puram Central Secunderabad Sabari Express,Renigunta,23:55
+20630,Thiruvanantha- puram Central Secunderabad Sabari Express,Gudur,01:10
+20630,Thiruvanantha- puram Central Secunderabad Sabari Express,Nellore,01:40
+20630,Thiruvanantha- puram Central Secunderabad Sabari Express,Ongole,03:25
+20630,Thiruvanantha- puram Central Secunderabad Sabari Express,Tenali,05:20
+20630,Thiruvanantha- puram Central Secunderabad Sabari Express,Guntur,06:15
+20630,Thiruvanantha- puram Central Secunderabad Sabari Express,Sattenapalli,06:55
+20630,Thiruvanantha- puram Central Secunderabad Sabari Express,Nadikudi,07:40
+20630,Thiruvanantha- puram Central Secunderabad Sabari Express,Miryalguda,08:10
+20630,Thiruvanantha- puram Central Secunderabad Sabari Express,Nalgonda,08:40
+20630,Thiruvanantha- puram Central Secunderabad Sabari Express,Secunderabad,10:00
+16733,Rameswaram Okha Express,Tirupati,11:25
+16733,Rameswaram Okha Express,Renigunta,12:00
+16733,Rameswaram Okha Express,Cuddapah,13:30
+16733,Rameswaram Okha Express,Dhone,17:30
+16733,Rameswaram Okha Express,Kurnool City,18:25
+16733,Rameswaram Okha Express,Mahabubnagar,20:55
+16733,Rameswaram Okha Express,Kacheguda,23:30
+16733,Rameswaram Okha Express,Nizamabad,02:40
+11304,Sri Chhatrapati Shahu Maharaj (T) Manuguru Express,Guntakal,21:40
+11304,Sri Chhatrapati Shahu Maharaj (T) Manuguru Express,Adoni,22:25
+11304,Sri Chhatrapati Shahu Maharaj (T) Manuguru Express,Raichur,23:20
+11304,Sri Chhatrapati Shahu Maharaj (T) Manuguru Express,Secunderabad,05:55
+11304,Sri Chhatrapati Shahu Maharaj (T) Manuguru Express,Manuguru,13:30
+12761,Tirupati Karim Nagar Express,Tirupati,20:05
+12761,Tirupati Karim Nagar Express,Renigunta,20:28
+12761,Tirupati Karim Nagar Express,Vijayawada,01:50
+12761,Tirupati Karim Nagar Express,Khammam,03:20
+12761,Tirupati Karim Nagar Express,Warangal,04:42
+12761,Tirupati Karim Nagar Express,Karimnagar,08:40
+12790,Murudeswar Kacheguda Express,Renigunta,12:00
+12790,Murudeswar Kacheguda Express,Cuddapah,13:30
+12790,Murudeswar Kacheguda Express,Gooty,16:25
+12790,Murudeswar Kacheguda Express,Dhone,17:30
+12790,Murudeswar Kacheguda Express,Kurnool Town,18:25
+12790,Murudeswar Kacheguda Express,Mahabubnagar,20:55
+12790,Murudeswar Kacheguda Express,Kacheguda,23:40
+16354,Nagercoil Kacheguda Express,Chittoor,23:05
+16354,Nagercoil Kacheguda Express,Tirupati,00:35
+16354,Nagercoil Kacheguda Express,Renigunta,01:10
+16354,Nagercoil Kacheguda Express,Cuddapah,03:00
+16354,Nagercoil Kacheguda Express,Tadipatri,04:20
+16354,Nagercoil Kacheguda Express,Gooty,05:30
+16354,Nagercoil Kacheguda Express,Dhone,07:10
+16354,Nagercoil Kacheguda Express,Kurnool Town,07:55
+16354,Nagercoil Kacheguda Express,Mahabubnagar,10:10
+16354,Nagercoil Kacheguda Express,Kacheguda,12:40
+18112,Yesvantapur Tatanagar Express,Adoni,23:00
+18112,Yesvantapur Tatanagar Express,Raichur,23:55
+18112,Yesvantapur Tatanagar Express,Vijayawada,12:25
+18112,Yesvantapur Tatanagar Express,Khammam,09:40
+18112,Yesvantapur Tatanagar Express,Warangal,08:00
+18112,Yesvantapur Tatanagar Express,Secunderabad,06:00
+17488,Vishakapatnam Cuddapah Tirumala Express,Tirupati,04:30
+17488,Vishakapatnam Cuddapah Tirumala Express,Renigunta,04:53
+17488,Vishakapatnam Cuddapah Tirumala Express,Nandalur,06:05
+17488,Vishakapatnam Cuddapah Tirumala Express,Cuddapah,07:25
+22705,Tirupathi Jammu Tawi Humsafar Express,Tirupati,21:10
+22705,Tirupathi Jammu Tawi Humsafar Express,Guntakal,02:00
+22705,Tirupathi Jammu Tawi Humsafar Express,Raichur,03:40
+22705,Tirupathi Jammu Tawi Humsafar Express,Kazipet,10:30
+22705,Tirupathi Jammu Tawi Humsafar Express,Secunderabad,09:15
+20702,Tirupathi- Secunderabad Vande Bharat Express,Tirupati,15:15
+20702,Tirupathi- Secunderabad Vande Bharat Express,Nellore,16:35
+20702,Tirupathi- Secunderabad Vande Bharat Express,Ongole,17:45
+20702,Tirupathi- Secunderabad Vande Bharat Express,Guntur,19:45
+20702,Tirupathi- Secunderabad Vande Bharat Express,Miryalguda,21:18
+20702,Tirupathi- Secunderabad Vande Bharat Express,Nalgonda,21:50
+20702,Tirupathi- Secunderabad Vande Bharat Express,Secunderabad,23:40
+17406,Adilabad Tirupati Krishna Express,Adilabad,21:05
+17406,Adilabad Tirupati Krishna Express,Nizamabad,02:05
+17406,Adilabad Tirupati Krishna Express,Cheralapalli,05:55
+17406,Adilabad Tirupati Krishna Express,Kazipet,08:15
+17406,Adilabad Tirupati Krishna Express,Warangal,08:40
+17406,Adilabad Tirupati Krishna Express,Khammam,10:35
+17406,Adilabad Tirupati Krishna Express,Vijayawada,13:00
+17406,Adilabad Tirupati Krishna Express,Tenali,13:45
+17406,Adilabad Tirupati Krishna Express,Ongole,15:55
+17406,Adilabad Tirupati Krishna Express,Nellore,18:20
+17406,Adilabad Tirupati Krishna Express,Gudur,19:15
+17406,Adilabad Tirupati Krishna Express,Renigunta,20:50
+17406,Adilabad Tirupati Krishna Express,Tirupati,21:40
+12078,Vijayawada Chennai Jan Shatabdi Express,Vijayawada,15:30
+12078,Vijayawada Chennai Jan Shatabdi Express,New Guntur,16:10
+12078,Vijayawada Chennai Jan Shatabdi Express,Tenali,16:35
+12078,Vijayawada Chennai Jan Shatabdi Express,Ongole,18:05
+12078,Vijayawada Chennai Jan Shatabdi Express,Nellore,19:30
+12078,Vijayawada Chennai Jan Shatabdi Express,Gudur,20:15
+12078,Vijayawada Chennai Jan Shatabdi Express,MGR Chennai Central,22:55
+12806,Lingampalli Visakhapatnam Janmabhoomi Express,Lingampalli,06:15
+12806,Lingampalli Visakhapatnam Janmabhoomi Express,Secunderabad,07:00
+12806,Lingampalli Visakhapatnam Janmabhoomi Express,Nalgonda,08:32
+12806,Lingampalli Visakhapatnam Janmabhoomi Express,Miryalguda,08:58
+12806,Lingampalli Visakhapatnam Janmabhoomi Express,Nadikudi,09:30
+12806,Lingampalli Visakhapatnam Janmabhoomi Express,Sattenapalli,10:15
+12806,Lingampalli Visakhapatnam Janmabhoomi Express,Guntur,11:40
+12806,Lingampalli Visakhapatnam Janmabhoomi Express,Tenali,12:40
+12706,Secunderabad Guntur Inter City Express,Secunderabad,07:45
+12706,Secunderabad Guntur Inter City Express,Kazipet,09:47
+12706,Secunderabad Guntur Inter City Express,Warangal,10:00
+12706,Secunderabad Guntur Inter City Express,Khammam,11:30
+12706,Secunderabad Guntur Inter City Express,Vijayawada,13:20
+12706,Secunderabad Guntur Inter City Express,Guntur,14:40
+12708,Nizamuddin Tirupati A.P. Sampark Kranti Express,Kacheguda,08:55
+12708,Nizamuddin Tirupati A.P. Sampark Kranti Express,Mahabubnagar,10:40
+12708,Nizamuddin Tirupati A.P. Sampark Kranti Express,Kurnool City,13:10
+12708,Nizamuddin Tirupati A.P. Sampark Kranti Express,Dhone,14:45
+12708,Nizamuddin Tirupati A.P. Sampark Kranti Express,Tadipatri,16:15
+12708,Nizamuddin Tirupati A.P. Sampark Kranti Express,Cuddapah,17:55
+12708,Nizamuddin Tirupati A.P. Sampark Kranti Express,Renigunta,20:00
+12708,Nizamuddin Tirupati A.P. Sampark Kranti Express,Tirupati,21:00
+20629,Secunderabad Thiruvanatha- puram Central Sabari Express,Secunderabad,14:25
+20629,Secunderabad Thiruvanatha- puram Central Sabari Express,Nalgonda,13:53
+20629,Secunderabad Thiruvanatha- puram Central Sabari Express,Miryalguda,14:23
+20629,Secunderabad Thiruvanatha- puram Central Sabari Express,Nadikudi,14:55
+20629,Secunderabad Thiruvanatha- puram Central Sabari Express,Sattenapalli,15:41
+20629,Secunderabad Thiruvanatha- puram Central Sabari Express,Guntur,17:00
+20629,Secunderabad Thiruvanatha- puram Central Sabari Express,Tenali,19:35
+20629,Secunderabad Thiruvanatha- puram Central Sabari Express,Ongole,21:15
+20629,Secunderabad Thiruvanatha- puram Central Sabari Express,Nellore,22:40
+20629,Secunderabad Thiruvanatha- puram Central Sabari Express,Gudur,23:30
+20629,Secunderabad Thiruvanatha- puram Central Sabari Express,Renigunta,00:55
+20629,Secunderabad Thiruvanatha- puram Central Sabari Express,Tirupati,01:25
+20629,Secunderabad Thiruvanatha- puram Central Sabari Express,Chittoor,02:25
+17202,Secunderabad Guntur Golcon- da Express,Secunderabad,12:30
+17202,Secunderabad Guntur Golcon- da Express,Kazipet,14:50
+17202,Secunderabad Guntur Golcon- da Express,Warangal,15:10
+17202,Secunderabad Guntur Golcon- da Express,Khammam,16:50
+17202,Secunderabad Guntur Golcon- da Express,Vijayawada,19:40
+17202,Secunderabad Guntur Golcon- da Express,Guntur,21:35
+16353,Kacheguda Nagercoil Express,Kacheguda,15:45
+16353,Kacheguda Nagercoil Express,Mahabubnagar,17:15
+16353,Kacheguda Nagercoil Express,Kurnool City,19:35
+16353,Kacheguda Nagercoil Express,Dhone,20:45
+16353,Kacheguda Nagercoil Express,Gooty,21:45
+16353,Kacheguda Nagercoil Express,Tadipatri,22:30
+16353,Kacheguda Nagercoil Express,Cuddapah,23:50
+16353,Kacheguda Nagercoil Express,Renigunta,02:10
+16353,Kacheguda Nagercoil Express,Tirupati,03:05
+16353,Kacheguda Nagercoil Express,Chittoor,04:20
+17652,Kacheguda Chengalpattu Express,Kacheguda,17:00
+17652,Kacheguda Chengalpattu Express,Mahabubnagar,18:25
+17652,Kacheguda Chengalpattu Express,Kurnool City,20:40
+17652,Kacheguda Chengalpattu Express,Dhone,22:10
+17652,Kacheguda Chengalpattu Express,Gooty,23:20
+17652,Kacheguda Chengalpattu Express,Tadipatri,00:05
+17652,Kacheguda Chengalpattu Express,Cuddapah,01:30
+17652,Kacheguda Chengalpattu Express,Renigunta,03:50
+17652,Kacheguda Chengalpattu Express,Chennai Egmore,07:10
+17652,Kacheguda Chengalpattu Express,Chengalpattu Jn,08:45
+17653,Kacheguda Puducherry Express,Kacheguda,17:00
+17653,Kacheguda Puducherry Express,Mahabubnagar,18:25
+17653,Kacheguda Puducherry Express,Kurnool City,20:40
+17653,Kacheguda Puducherry Express,Dhone,22:10
+17653,Kacheguda Puducherry Express,Gooty,23:20
+17653,Kacheguda Puducherry Express,Tadipatri,00:05
+17653,Kacheguda Puducherry Express,Cuddapah,01:30
+17653,Kacheguda Puducherry Express,Renigunta,03:50
+17653,Kacheguda Puducherry Express,Chennai Egmore,07:15
+17653,Kacheguda Puducherry Express,Chengalpattu Jn,08:20
+17653,Kacheguda Puducherry Express,Puducherry,11:05
+12604,Cheralapalli Chennai Express,Hyderabad d CHZ,17:25
+12604,Cheralapalli Chennai Express,Secunderabad,17:10
+12604,Cheralapalli Chennai Express,Nalgonda,18:49
+12604,Cheralapalli Chennai Express,Miryalguda,19:15
+12604,Cheralapalli Chennai Express,Nadikudi,19:47
+12604,Cheralapalli Chennai Express,Sattenapalli,20:54
+12604,Cheralapalli Chennai Express,Guntur,22:10
+12604,Cheralapalli Chennai Express,Tenali,23:00
+12604,Cheralapalli Chennai Express,Ongole,00:40
+12604,Cheralapalli Chennai Express,Nellore,02:15
+12604,Cheralapalli Chennai Express,Gudur,03:05
+12604,Cheralapalli Chennai Express,MGR Chennai Central,05:40
+12714,Secunderabad Vijayawada Satavahana Express,Secunderabad,16:25
+12714,Secunderabad Vijayawada Satavahana Express,Kazipet,18:07
+12714,Secunderabad Vijayawada Satavahana Express,Warangal,18:22
+12714,Secunderabad Vijayawada Satavahana Express,Khammam,19:55
+12714,Secunderabad Vijayawada Satavahana Express,Vijayawada,22:15
+16004,Nagersol Chennai Express,Nizamabad,21:25
+16004,Nagersol Chennai Express,Kacheguda,01:10
+16004,Nagersol Chennai Express,Kurnool City,05:40
+16004,Nagersol Chennai Express,Dhone,07:00
+16004,Nagersol Chennai Express,Gooty,08:00
+16004,Nagersol Chennai Express,Tadipatri,08:40
+16004,Nagersol Chennai Express,Cuddapah,10:20
+16004,Nagersol Chennai Express,Renigunta,12:35
+16004,Nagersol Chennai Express,MGR Chennai Central,15:40
+12789,Kacheguda Murudeswar Express,Kacheguda,06:05
+12789,Kacheguda Murudeswar Express,Mahabubnagar,07:30
+12789,Kacheguda Murudeswar Express,Kurnool City,09:47
+12789,Kacheguda Murudeswar Express,Dhone,11:05
+12789,Kacheguda Murudeswar Express,Gooty,12:00
+12789,Kacheguda Murudeswar Express,Cuddapah,14:10
+12789,Kacheguda Murudeswar Express,Renigunta,16:50
+18111,Tatanagar Yesvantapur Express,Secunderabad,21:00
+18111,Tatanagar Yesvantapur Express,Raichur,01:35
+18111,Tatanagar Yesvantapur Express,Adoni,02:40
+17625,Kacheguda Repalle Express,Kacheguda,22:20
+17625,Kacheguda Repalle Express,Guntur,04:15
+17625,Kacheguda Repalle Express,Tenali,04:45
+17625,Kacheguda Repalle Express,Repalle,06:15
+17645,Secunderabad Repalle Express,Secunderabad,12:40
+17645,Secunderabad Repalle Express,Nalgonda,15:12
+17645,Secunderabad Repalle Express,Miryalguda,16:01
+17645,Secunderabad Repalle Express,Nadikudi,16:50
+17645,Secunderabad Repalle Express,Sattenapalli,17:43
+17645,Secunderabad Repalle Express,Guntur,18:55
+17645,Secunderabad Repalle Express,Tenali,19:10
+17645,Secunderabad Repalle Express,Repalle,21:15
+17254,urangaba Guntur Express,Secunderabad,05:15
+17254,urangaba Guntur Express,Mahabubnagar,08:10
+17254,urangaba Guntur Express,Kurnool City,11:12
+17254,urangaba Guntur Express,Dhone,13:20
+17254,urangaba Guntur Express,Guntakal,21:55
+17252,achegud ntur Expr,Kacheguda,21:20
+17252,achegud ntur Expr,Mahabubnagar,23:00
+17252,achegud ntur Expr,Kurnool City,02:20
+17252,achegud ntur Expr,Dhone,04:25
+17252,achegud ntur Expr,Guntakal,12:25
+12764,Secunderabad Tirupati Padmavati Express,Secunderabad,18:40
+12764,Secunderabad Tirupati Padmavati Express,Kazipet,20:30
+12764,Secunderabad Tirupati Padmavati Express,Warangal,20:45
+12764,Secunderabad Tirupati Padmavati Express,Mahabububad,21:40
+12764,Secunderabad Tirupati Padmavati Express,Khammam,22:20
+12764,Secunderabad Tirupati Padmavati Express,Madhira,22:50
+12764,Secunderabad Tirupati Padmavati Express,Vijayawada,00:20
+12764,Secunderabad Tirupati Padmavati Express,Tenali,00:50
+12764,Secunderabad Tirupati Padmavati Express,Ongole,02:25
+12764,Secunderabad Tirupati Padmavati Express,Nellore,03:50
+12764,Secunderabad Tirupati Padmavati Express,Gudur,04:30
+12764,Secunderabad Tirupati Padmavati Express,Renigunta,06:00
+12764,Secunderabad Tirupati Padmavati Express,Tirupati,06:55
+12797,Kacheguda Chittoor Venkatadri Express,Kacheguda,20:05
+12797,Kacheguda Chittoor Venkatadri Express,Mahabubnagar,21:35
+12797,Kacheguda Chittoor Venkatadri Express,Kurnool City,23:40
+12797,Kacheguda Chittoor Venkatadri Express,Dhone,01:10
+12797,Kacheguda Chittoor Venkatadri Express,Gooty,02:00
+12797,Kacheguda Chittoor Venkatadri Express,Tadipatri,02:40
+12797,Kacheguda Chittoor Venkatadri Express,Cuddapah,04:10
+12797,Kacheguda Chittoor Venkatadri Express,Renigunta,06:20
+12797,Kacheguda Chittoor Venkatadri Express,Tirupati,07:00
+12797,Kacheguda Chittoor Venkatadri Express,Chittoor,08:52
+12794,Nizamabad Tirupati Rayalaseema Express,Nizamabad,14:15
+12794,Nizamabad Tirupati Rayalaseema Express,Secunderabad,17:20
+12794,Nizamabad Tirupati Rayalaseema Express,Raichur,22:30
+12794,Nizamabad Tirupati Rayalaseema Express,Adoni,23:30
+12794,Nizamabad Tirupati Rayalaseema Express,Guntakal,00:30
+12794,Nizamabad Tirupati Rayalaseema Express,Gooty,00:55
+12794,Nizamabad Tirupati Rayalaseema Express,Tadipatri,01:40
+12794,Nizamabad Tirupati Rayalaseema Express,Cuddapah,03:05
+12794,Nizamabad Tirupati Rayalaseema Express,Renigunta,05:25
+12794,Nizamabad Tirupati Rayalaseema Express,Tirupati,06:15
+12734,Lingampalli Tirupati Narayanadri Express,Manuguru,17:30
+12734,Lingampalli Tirupati Narayanadri Express,Secunderabad,18:10
+12734,Lingampalli Tirupati Narayanadri Express,Nalgonda,19:38
+12734,Lingampalli Tirupati Narayanadri Express,Miryalguda,20:11
+12734,Lingampalli Tirupati Narayanadri Express,Nadikudi,20:45
+12734,Lingampalli Tirupati Narayanadri Express,Sattenapalli,21:33
+12734,Lingampalli Tirupati Narayanadri Express,Guntur,22:55
+12734,Lingampalli Tirupati Narayanadri Express,Tenali,23:40
+12734,Lingampalli Tirupati Narayanadri Express,Ongole,01:15
+12734,Lingampalli Tirupati Narayanadri Express,Nellore,02:50
+12734,Lingampalli Tirupati Narayanadri Express,Gudur,03:35
+12734,Lingampalli Tirupati Narayanadri Express,Renigunta,05:10
+12734,Lingampalli Tirupati Narayanadri Express,Tirupati,05:55
+12760,Hyderabad- Tambaram Charminnar Super Fast Express,Hyderabad,18:00
+12760,Hyderabad- Tambaram Charminnar Super Fast Express,Secunderabad,18:25
+12760,Hyderabad- Tambaram Charminnar Super Fast Express,Kazipet,20:00
+12760,Hyderabad- Tambaram Charminnar Super Fast Express,Warangal,20:15
+12760,Hyderabad- Tambaram Charminnar Super Fast Express,Mahabububad,21:00
+12760,Hyderabad- Tambaram Charminnar Super Fast Express,Khammam,21:40
+12760,Hyderabad- Tambaram Charminnar Super Fast Express,Vijayawada,00:10
+12760,Hyderabad- Tambaram Charminnar Super Fast Express,Tenali,00:35
+12760,Hyderabad- Tambaram Charminnar Super Fast Express,Ongole,02:00
+12760,Hyderabad- Tambaram Charminnar Super Fast Express,Nellore,03:35
+12760,Hyderabad- Tambaram Charminnar Super Fast Express,Gudur,04:20
+12760,Hyderabad- Tambaram Charminnar Super Fast Express,Chennai Egmore,07:00
+12760,Hyderabad- Tambaram Charminnar Super Fast Express,Tambaram,08:00
+12710,Secunderabad Gudur Simhapuri Express,Secunderabad,22:05
+12710,Secunderabad Gudur Simhapuri Express,Kazipet,23:50
+12710,Secunderabad Gudur Simhapuri Express,Warangal,00:10
+12710,Secunderabad Gudur Simhapuri Express,Mahabububad,01:00
+12710,Secunderabad Gudur Simhapuri Express,Khammam,01:35
+12710,Secunderabad Gudur Simhapuri Express,Vijayawada,03:40
+12710,Secunderabad Gudur Simhapuri Express,Tenali,04:10
+12710,Secunderabad Gudur Simhapuri Express,Ongole,06:10
+12710,Secunderabad Gudur Simhapuri Express,Nellore,07:45
+12710,Secunderabad Gudur Simhapuri Express,Gudur,08:55
+12711,ada Chennai ini Express,Vijayawada,06:10
+12711,ada Chennai ini Express,Tenali,06:35
+12711,ada Chennai ini Express,Ongole,08:15
+12711,ada Chennai ini Express,Nellore,09:50
+12711,ada Chennai ini Express,Gudur,10:30
+12711,ada Chennai ini Express,MGR Chennai Central,13:05
+16734,Okha Rameswaram Express,Nizamabad,14:20
+16734,Okha Rameswaram Express,Kacheguda,17:30
+16734,Okha Rameswaram Express,Mahabubnagar,19:20
+16734,Okha Rameswaram Express,Kurnool City,21:25
+16734,Okha Rameswaram Express,Dhone,23:30
+16734,Okha Rameswaram Express,Cuddapah,02:15
+16734,Okha Rameswaram Express,Renigunta,04:20
+16734,Okha Rameswaram Express,Tirupati,05:00
+17313,SSS Hubballi MGR Chennai Express,Guntakal,03:10
+17313,SSS Hubballi MGR Chennai Express,Cuddapah,06:00
+17313,SSS Hubballi MGR Chennai Express,Renigunta,08:20
+17313,SSS Hubballi MGR Chennai Express,MGR Chennai Central,11:10
+11303,Manuguru Sri Chhatratati Shahu Maharaj (T) Express,Manuguru,15:00
+11303,Manuguru Sri Chhatratati Shahu Maharaj (T) Express,Secunderabad,23:10
+11303,Manuguru Sri Chhatratati Shahu Maharaj (T) Express,Raichur,03:40
+11303,Manuguru Sri Chhatratati Shahu Maharaj (T) Express,Adoni,05:20
+11303,Manuguru Sri Chhatratati Shahu Maharaj (T) Express,Guntakal,06:30
+12762,Karimnagar Tirupati Expres,Karimnagar,19:15
+12762,Karimnagar Tirupati Expres,Warangal,21:15
+12762,Karimnagar Tirupati Expres,Mahabububad,22:03
+12762,Karimnagar Tirupati Expres,Khammam,22:50
+12762,Karimnagar Tirupati Expres,Vijayawada,01:10
+12762,Karimnagar Tirupati Expres,Gudur,05:35
+12762,Karimnagar Tirupati Expres,Renigunta,07:00
+12762,Karimnagar Tirupati Expres,Tirupati,08:00
+18522,Cuddapah Vishakapatnam Tirumala Express,Cuddapah,17:40
+18522,Cuddapah Vishakapatnam Tirumala Express,Nandalur,18:10
+18522,Cuddapah Vishakapatnam Tirumala Express,Renigunta,20:55
+18522,Cuddapah Vishakapatnam Tirumala Express,Tirupati,20:30
+22706,Jammu Tawi Tirupathi Humsafar Express,Secunderabad,18:05
+22706,Jammu Tawi Tirupathi Humsafar Express,Kazipet,15:50
+22706,Jammu Tawi Tirupathi Humsafar Express,Raichur,22:45
+22706,Jammu Tawi Tirupathi Humsafar Express,Guntakal,00:45
+22706,Jammu Tawi Tirupathi Humsafar Express,Tirupati,06:40
+17237,Bitragunta Chennai Express,Tenali,04:25
+17237,Bitragunta Chennai Express,Nellore,05:30
+17237,Bitragunta Chennai Express,Gudur,06:20
+17237,Bitragunta Chennai Express,MGR Chennai Central,09:05
+20701,Secunderabad Tirupathi Vande Bharat Express,Secunderabad,06:10
+20701,Secunderabad Tirupathi Vande Bharat Express,Nalgonda,07:25
+20701,Secunderabad Tirupathi Vande Bharat Express,Miryalguda,07:46
+20701,Secunderabad Tirupathi Vande Bharat Express,Guntur,09:40
+20701,Secunderabad Tirupathi Vande Bharat Express,Ongole,11:05
+20701,Secunderabad Tirupathi Vande Bharat Express,Nellore,12:20
+20701,Secunderabad Tirupathi Vande Bharat Express,Tirupati,14:35

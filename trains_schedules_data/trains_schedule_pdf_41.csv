@@ -1,0 +1,401 @@
+train_num,train_name,halt_station_name,departure_time
+18611,Ranchi Banaras Express,Ranchi,20:10
+18611,Ranchi Banaras Express,Muri,21:05
+18611,Ranchi Banaras Express,Barkakana,23:00
+18611,Ranchi Banaras Express,Barwadih,01:11
+18611,Ranchi Banaras Express,Daltonganj,01:40
+18611,Ranchi Banaras Express,Garwa Road,03:25
+18611,Ranchi Banaras Express,Dehri on sone,05:26
+18611,Ranchi Banaras Express,Pt Deen Dayal Upadhyaya Jn.,07:50
+18611,Ranchi Banaras Express,Varanasi,09:10
+18523,Visakha- patnam Banaras Express,Rourkela,15:35
+18523,Visakha- patnam Banaras Express,Hatia,19:30
+18523,Visakha- patnam Banaras Express,Ranchi,20:05
+18523,Visakha- patnam Banaras Express,Muri,21:05
+18523,Visakha- patnam Banaras Express,Barkakana,23:00
+18523,Visakha- patnam Banaras Express,Barwadih,01:11
+18523,Visakha- patnam Banaras Express,Daltonganj,01:33
+18523,Visakha- patnam Banaras Express,Garwa Road,03:25
+18523,Visakha- patnam Banaras Express,Dehri on sone,05:26
+18523,Visakha- patnam Banaras Express,Pt Deen Dayal Upadhyaya Jn.,07:50
+18523,Visakha- patnam Banaras Express,Varanasi,09:10
+18523,Visakha- patnam Banaras Express,Banaras,09:25
+12873,Hatia Anand Vihar (T) Jharkhand Swarna- Jayanti Express,Hatia,13:40
+12873,Hatia Anand Vihar (T) Jharkhand Swarna- Jayanti Express,Ranchi,14:05
+12873,Hatia Anand Vihar (T) Jharkhand Swarna- Jayanti Express,Muri,15:05
+12873,Hatia Anand Vihar (T) Jharkhand Swarna- Jayanti Express,Barkakana,16:40
+12873,Hatia Anand Vihar (T) Jharkhand Swarna- Jayanti Express,Daltonganj,19:05
+12873,Hatia Anand Vihar (T) Jharkhand Swarna- Jayanti Express,Garwa Road,20:05
+12873,Hatia Anand Vihar (T) Jharkhand Swarna- Jayanti Express,Chopan,23:40
+12873,Hatia Anand Vihar (T) Jharkhand Swarna- Jayanti Express,Chunar,02:25
+12873,Hatia Anand Vihar (T) Jharkhand Swarna- Jayanti Express,Prayagraj,04:25
+12873,Hatia Anand Vihar (T) Jharkhand Swarna- Jayanti Express,Kanpur Central,06:40
+12873,Hatia Anand Vihar (T) Jharkhand Swarna- Jayanti Express,Anand Vihar (T ),13:10
+18103,Tatanagar Amritsar Tatanagar Jallianwala Bagh Express,Tatanagar,20:30
+18103,Tatanagar Amritsar Tatanagar Jallianwala Bagh Express,Bokaro Steel City,00:10
+18103,Tatanagar Amritsar Tatanagar Jallianwala Bagh Express,NSCB Gomoh,00:20
+18103,Tatanagar Amritsar Tatanagar Jallianwala Bagh Express,Gaya,03:55
+18103,Tatanagar Amritsar Tatanagar Jallianwala Bagh Express,Dehri on sone,04:58
+18103,Tatanagar Amritsar Tatanagar Jallianwala Bagh Express,Pt Deen Dayal Upadhyaya Jn.,07:05
+18103,Tatanagar Amritsar Tatanagar Jallianwala Bagh Express,Varanasi,08:10
+18103,Tatanagar Amritsar Tatanagar Jallianwala Bagh Express,Ambala Cantt.,02:16
+18103,Tatanagar Amritsar Tatanagar Jallianwala Bagh Express,Ludhiana,03:54
+18103,Tatanagar Amritsar Tatanagar Jallianwala Bagh Express,Jalandhar City,05:10
+18103,Tatanagar Amritsar Tatanagar Jallianwala Bagh Express,Beas,05:43
+18103,Tatanagar Amritsar Tatanagar Jallianwala Bagh Express,Amritsar,06:30
+12817,Hatia Anand Vihar (T) Jharkhand Swarna Jayanti Express,Hatia,14:25
+12817,Hatia Anand Vihar (T) Jharkhand Swarna Jayanti Express,Ranchi,14:50
+12817,Hatia Anand Vihar (T) Jharkhand Swarna Jayanti Express,Muri,15:52
+12817,Hatia Anand Vihar (T) Jharkhand Swarna Jayanti Express,Bokaro Steel City,17:15
+12817,Hatia Anand Vihar (T) Jharkhand Swarna Jayanti Express,NSCB Gomoh,18:30
+12817,Hatia Anand Vihar (T) Jharkhand Swarna Jayanti Express,Gaya,21:20
+12817,Hatia Anand Vihar (T) Jharkhand Swarna Jayanti Express,Dehri on sone,22:48
+12817,Hatia Anand Vihar (T) Jharkhand Swarna Jayanti Express,Pt Deen Dayal Upadhyaya Jn.,02:10
+12817,Hatia Anand Vihar (T) Jharkhand Swarna Jayanti Express,Prayagraj,04:25
+12817,Hatia Anand Vihar (T) Jharkhand Swarna Jayanti Express,Kanpur Central,06:40
+12817,Hatia Anand Vihar (T) Jharkhand Swarna Jayanti Express,Anand Vihar (T ),13:10
+18101,Tatanagar Jammu Tawi Express,Tatanagar,16:55
+18101,Tatanagar Jammu Tawi Express,Chandil,18:00
+18101,Tatanagar Jammu Tawi Express,Muri,18:55
+18101,Tatanagar Jammu Tawi Express,Rourkela,13:23
+18101,Tatanagar Jammu Tawi Express,Hatia,16:40
+18101,Tatanagar Jammu Tawi Express,Ranchi,17:10
+18101,Tatanagar Jammu Tawi Express,Muri,18:25
+18101,Tatanagar Jammu Tawi Express,Barkakana,20:50
+18101,Tatanagar Jammu Tawi Express,Barwadih,23:03
+18101,Tatanagar Jammu Tawi Express,Daltonganj,23:23
+18101,Tatanagar Jammu Tawi Express,Garwa Road,00:21
+18101,Tatanagar Jammu Tawi Express,Chopan,04:45
+18101,Tatanagar Jammu Tawi Express,Chunar,07:40
+18101,Tatanagar Jammu Tawi Express,Mirzapur,08:12
+18101,Tatanagar Jammu Tawi Express,Prayagraj,09:50
+18101,Tatanagar Jammu Tawi Express,Kanpur Central,13:10
+18101,Tatanagar Jammu Tawi Express,Tundla,16:50
+18101,Tatanagar Jammu Tawi Express,Delhi,21:25
+18101,Tatanagar Jammu Tawi Express,Karnal,23:10
+18101,Tatanagar Jammu Tawi Express,Kurukshetra,23:35
+18101,Tatanagar Jammu Tawi Express,Ambala Cantt.,02:10
+18101,Tatanagar Jammu Tawi Express,Ludhiana,05:16
+18101,Tatanagar Jammu Tawi Express,Jalandhar City,06:45
+18101,Tatanagar Jammu Tawi Express,Beas,07:18
+18101,Tatanagar Jammu Tawi Express,Amritsar,08:25
+18101,Tatanagar Jammu Tawi Express,Pathankot,11:10
+18101,Tatanagar Jammu Tawi Express,Jammu Tawi,14:10
+18609,Ranchi Lok- manya Tilak (T) Express,Ranchi,20:45
+18609,Ranchi Lok- manya Tilak (T) Express,Muri,21:45
+18609,Ranchi Lok- manya Tilak (T) Express,Bokaro Steel City,23:10
+18609,Ranchi Lok- manya Tilak (T) Express,NSCB Gomoh,00:25
+18609,Ranchi Lok- manya Tilak (T) Express,Gaya,03:05
+18609,Ranchi Lok- manya Tilak (T) Express,Dehri on sone,04:16
+18609,Ranchi Lok- manya Tilak (T) Express,Pt Deen Dayal Upadhyaya Jn.,06:15
+18609,Ranchi Lok- manya Tilak (T) Express,Varanasi,07:30
+18609,Ranchi Lok- manya Tilak (T) Express,Prayagraj,10:20
+12825,Ranchi Anand Vihar (T) Jharkhand Sampark Kranti Express,Ranchi,23:55
+12825,Ranchi Anand Vihar (T) Jharkhand Sampark Kranti Express,Muri,00:50
+12825,Ranchi Anand Vihar (T) Jharkhand Sampark Kranti Express,Bokaro Steel City,02:00
+12825,Ranchi Anand Vihar (T) Jharkhand Sampark Kranti Express,NSCB Gomoh,03:15
+12825,Ranchi Anand Vihar (T) Jharkhand Sampark Kranti Express,Pt Deen Dayal Upadhyaya Jn.,08:40
+12825,Ranchi Anand Vihar (T) Jharkhand Sampark Kranti Express,Kanpur Central,13:25
+12825,Ranchi Anand Vihar (T) Jharkhand Sampark Kranti Express,Anand Vihar (T ),19:35
+12453,Ranchi New Delhi Rajdhani Express (via Renukut),Ranchi,17:15
+12453,Ranchi New Delhi Rajdhani Express (via Renukut),Daltonganj,20:24
+12453,Ranchi New Delhi Rajdhani Express (via Renukut),Garwa Road,21:20
+12453,Ranchi New Delhi Rajdhani Express (via Renukut),Chopan,00:08
+12453,Ranchi New Delhi Rajdhani Express (via Renukut),Prayagraj,03:35
+12453,Ranchi New Delhi Rajdhani Express (via Renukut),Kanpur Central,05:40
+12453,Ranchi New Delhi Rajdhani Express (via Renukut),New Delhi,11:10
+12877,Ranchi New Delhi Garib Rath Express,Ranchi,16:25
+12877,Ranchi New Delhi Garib Rath Express,Muri,17:25
+12877,Ranchi New Delhi Garib Rath Express,Barkakana,19:00
+12877,Ranchi New Delhi Garib Rath Express,Daltonganj,21:16
+12877,Ranchi New Delhi Garib Rath Express,Garwa Road,22:30
+12877,Ranchi New Delhi Garib Rath Express,Dehri on sone,23:56
+12877,Ranchi New Delhi Garib Rath Express,Pt Deen Dayal Upadhyaya Jn.,01:40
+12877,Ranchi New Delhi Garib Rath Express,Prayagraj,03:35
+12877,Ranchi New Delhi Garib Rath Express,Kanpur Central,05:40
+12877,Ranchi New Delhi Garib Rath Express,New Delhi,11:10
+20839,Ranchi New Delhi Rajdhani Express (via Gomoh),Ranchi,18:00
+20839,Ranchi New Delhi Rajdhani Express (via Gomoh),Bokaro Steel City,20:00
+20839,Ranchi New Delhi Rajdhani Express (via Gomoh),Gaya,23:20
+20839,Ranchi New Delhi Rajdhani Express (via Gomoh),Dehri on sone,00:14
+20839,Ranchi New Delhi Rajdhani Express (via Gomoh),Pt Deen Dayal Upadhyaya Jn.,01:40
+20839,Ranchi New Delhi Rajdhani Express (via Gomoh),Kanpur Central,05:40
+20839,Ranchi New Delhi Rajdhani Express (via Gomoh),New Delhi,11:10
+18613,Ranchi Chopan Express (Via Barkaka- na),Ranchi,07:45
+18613,Ranchi Chopan Express (Via Barkaka- na),Muri,08:58
+18613,Ranchi Chopan Express (Via Barkaka- na),Barkakana,10:40
+18613,Ranchi Chopan Express (Via Barkaka- na),Barwadih,13:07
+18613,Ranchi Chopan Express (Via Barkaka- na),Daltonganj,13:28
+18613,Ranchi Chopan Express (Via Barkaka- na),Garwa Road,14:10
+18613,Ranchi Chopan Express (Via Barkaka- na),Chopan,17:40
+18009,Sant- ragachi Ajmer Ex- press,Tatanagar,16:22
+18009,Sant- ragachi Ajmer Ex- press,Muri,18:07
+18009,Sant- ragachi Ajmer Ex- press,Barkakana,20:30
+18009,Sant- ragachi Ajmer Ex- press,Daltonganj,22:51
+18009,Sant- ragachi Ajmer Ex- press,Garwa Road,23:55
+18009,Sant- ragachi Ajmer Ex- press,Chopan,02:30
+22805,Bhuba- neswar Anand Vihar (T) Express,Rourkela,20:10
+22805,Bhuba- neswar Anand Vihar (T) Express,Muri,00:22
+22805,Bhuba- neswar Anand Vihar (T) Express,Bokaro Steel City,02:00
+22805,Bhuba- neswar Anand Vihar (T) Express,NSCB Gomoh,03:15
+22805,Bhuba- neswar Anand Vihar (T) Express,Gaya,05:40
+22805,Bhuba- neswar Anand Vihar (T) Express,Pt Deen Dayal Upadhyaya Jn.,08:40
+22805,Bhuba- neswar Anand Vihar (T) Express,Prayagraj,11:00
+22805,Bhuba- neswar Anand Vihar (T) Express,Kanpur Central,13:25
+22805,Bhuba- neswar Anand Vihar (T) Express,Anand Vihar (T ),19:35
+18635,Ranchi Sasaram Express,Ranchi,17:00
+18635,Ranchi Sasaram Express,Barwadih,20:18
+18635,Ranchi Sasaram Express,Daltonganj,20:36
+18635,Ranchi Sasaram Express,Garwa Road,22:02
+18635,Ranchi Sasaram Express,Dehri on sone,23:38
+18635,Ranchi Sasaram Express,Varanasi,01:10
+18631,Ranchi Chopan Express (Via Tori),Ranchi,09:50
+18631,Ranchi Chopan Express (Via Tori),Barwadih,13:07
+18631,Ranchi Chopan Express (Via Tori),Daltonganj,13:28
+18631,Ranchi Chopan Express (Via Tori),Garwa Road,14:10
+18631,Ranchi Chopan Express (Via Tori),Chopan,17:40
+20407,Ranchi New Delhi Raj- dhani Express,Ranchi,18:25
+20407,Ranchi New Delhi Raj- dhani Express,Daltonganj,21:39
+20407,Ranchi New Delhi Raj- dhani Express,Garwa Road,22:55
+20407,Ranchi New Delhi Raj- dhani Express,Pt Deen Dayal Upadhyaya Jn.,01:40
+20407,Ranchi New Delhi Raj- dhani Express,Prayagraj,03:35
+20407,Ranchi New Delhi Raj- dhani Express,Kanpur Central,05:45
+20407,Ranchi New Delhi Raj- dhani Express,New Delhi,11:10
+20887,Ranchi Varanasi Vande Bharat Express,Ranchi,05:10
+20887,Ranchi Varanasi Vande Bharat Express,Muri,06:02
+20887,Ranchi Varanasi Vande Bharat Express,Bokaro Steel City,06:55
+20887,Ranchi Varanasi Vande Bharat Express,Gaya,09:55
+20887,Ranchi Varanasi Vande Bharat Express,Pt Deen Dayal Upadhyaya Jn.,12:15
+20887,Ranchi Varanasi Vande Bharat Express,Varanasi,13:00
+19604,Godda- Daurai Ex- press,Chunar,17:50
+19604,Godda- Daurai Ex- press,Mirzapur,18:32
+19604,Godda- Daurai Ex- press,Prayagraj,20:00
+19604,Godda- Daurai Ex- press,Kanpur Central,22:35
+19604,Godda- Daurai Ex- press,Etawah,00:47
+19604,Godda- Daurai Ex- press,Tundla,02:05
+19604,Godda- Daurai Ex- press,Khurja,04:02
+18614,Chopan Ranchi Express (Via Barkakana),Chopan,08:10
+18614,Chopan Ranchi Express (Via Barkakana),Garwa Road,10:50
+18614,Chopan Ranchi Express (Via Barkakana),Daltonganj,11:15
+18614,Chopan Ranchi Express (Via Barkakana),Barwadih,11:49
+18614,Chopan Ranchi Express (Via Barkakana),Barkakana,16:15
+18614,Chopan Ranchi Express (Via Barkakana),Muri,17:20
+18614,Chopan Ranchi Express (Via Barkakana),Ranchi,19:10
+18612,Banaras Ranchi Express,None None,15:00
+18612,Banaras Ranchi Express,Varanasi,15:20
+18612,Banaras Ranchi Express,Pt Deen Dayal a Upadhyaya Jn.,16:30
+18612,Banaras Ranchi Express,Dehri on sone,18:22
+18612,Banaras Ranchi Express,Garwa Road,21:20
+18612,Banaras Ranchi Express,Daltonganj,21:54
+18612,Banaras Ranchi Express,Barwadih,22:20
+18612,Banaras Ranchi Express,Barkakana,01:50
+18612,Banaras Ranchi Express,Muri,02:50
+18612,Banaras Ranchi Express,,04:20
+18524,Banaras Visakha- patnam Express,None None,15:00
+18524,Banaras Visakha- patnam Express,Varanasi,15:20
+18524,Banaras Visakha- patnam Express,Pt Deen Dayal a Upadhyaya Jn.,16:30
+18524,Banaras Visakha- patnam Express,Dehri on sone,18:22
+18524,Banaras Visakha- patnam Express,Garwa Road,21:20
+18524,Banaras Visakha- patnam Express,Daltonganj,21:47
+18524,Banaras Visakha- patnam Express,Barwadih,22:20
+18524,Banaras Visakha- patnam Express,Barkakana,01:50
+18524,Banaras Visakha- patnam Express,Muri,02:50
+18524,Banaras Visakha- patnam Express,Ranchi,03:55
+18524,Banaras Visakha- patnam Express,Hatia,04:15
+18524,Banaras Visakha- patnam Express,Rourkela,07:30
+18610,Lokmanya Tilak (T) Ranchi Express,Prayagraj,16:40
+18610,Lokmanya Tilak (T) Ranchi Express,Varanasi,20:05
+18610,Lokmanya Tilak (T) Ranchi Express,Pt Deen Dayal a Upadhyaya Jn.,21:20
+18610,Lokmanya Tilak (T) Ranchi Express,Dehri on sone,23:00
+18610,Lokmanya Tilak (T) Ranchi Express,Gaya,00:15
+18610,Lokmanya Tilak (T) Ranchi Express,NSCB Gomoh,02:45
+18610,Lokmanya Tilak (T) Ranchi Express,Bokaro Steel Citya,04:00
+18610,Lokmanya Tilak (T) Ranchi Express,Muri,04:52
+18610,Lokmanya Tilak (T) Ranchi Express,,06:50
+18104,Amritsar- Tatanagar Tatanagar Jallianwala Bagh Express,Amritsar,12:45
+18104,Amritsar- Tatanagar Tatanagar Jallianwala Bagh Express,Beas,13:13
+18104,Amritsar- Tatanagar Tatanagar Jallianwala Bagh Express,Jalandhar City,13:58
+18104,Amritsar- Tatanagar Tatanagar Jallianwala Bagh Express,Ludhiana,15:02
+18104,Amritsar- Tatanagar Tatanagar Jallianwala Bagh Express,Ambala Cantt.,16:50
+18104,Amritsar- Tatanagar Tatanagar Jallianwala Bagh Express,Varanasi,09:30
+18104,Amritsar- Tatanagar Tatanagar Jallianwala Bagh Express,Pt Deen Dayal a Upadhyaya Jn.,10:40
+18104,Amritsar- Tatanagar Tatanagar Jallianwala Bagh Express,Dehri on sone,12:03
+18104,Amritsar- Tatanagar Tatanagar Jallianwala Bagh Express,Gaya,13:55
+18104,Amritsar- Tatanagar Tatanagar Jallianwala Bagh Express,NSCB Gomoh,16:25
+18104,Amritsar- Tatanagar Tatanagar Jallianwala Bagh Express,Bokaro Steel Citya,17:40
+18104,Amritsar- Tatanagar Tatanagar Jallianwala Bagh Express,Tatanagar,22:00
+12818,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Anand Vihar (T),20:45
+12818,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Kanpur Central,01:50
+12818,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Prayagraj,04:20
+12818,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Pt Deen Dayal a Upadhyaya Jn.,06:55
+12818,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Dehri on sone,08:32
+12818,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Gaya,10:10
+12818,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,NSCB Gomoh,12:40
+12818,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Bokaro Steel Citya,13:35
+12818,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Muri,14:35
+12818,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Ranchi,15:50
+12818,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Hatia,17:15
+12874,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Anand Vihar (T),20:45
+12874,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Kanpur Central,01:50
+12874,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Prayagraj,04:20
+12874,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Chunar,06:25
+12874,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Chopan,09:55
+12874,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Garwa Road,12:13
+12874,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Daltonganj,12:42
+12874,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Barkakana,17:45
+12874,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Muri,17:40
+12874,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Ranchi,18:50
+12874,Anand Vihar (T) Hatia Jharkhand Swarna Jayanti Express,Hatia,20:00
+12826,Anand Vihar (T) Ranchi Jharkhand Sampark Kranti Express,Anand Vihar (T),08:00
+12826,Anand Vihar (T) Ranchi Jharkhand Sampark Kranti Express,Kanpur Central,13:45
+12826,Anand Vihar (T) Ranchi Jharkhand Sampark Kranti Express,Pt Deen Dayal a Upadhyaya Jn.,19:05
+12826,Anand Vihar (T) Ranchi Jharkhand Sampark Kranti Express,NSCB Gomoh,00:10
+12826,Anand Vihar (T) Ranchi Jharkhand Sampark Kranti Express,Bokaro Steel Citya,02:05
+12826,Anand Vihar (T) Ranchi Jharkhand Sampark Kranti Express,Muri,03:00
+12826,Anand Vihar (T) Ranchi Jharkhand Sampark Kranti Express,Ranchi,05:15
+22806,Anand Vihar (T) Bhubane- shwar Express,Anand Vihar (T),08:00
+22806,Anand Vihar (T) Bhubane- shwar Express,Kanpur Central,13:45
+22806,Anand Vihar (T) Bhubane- shwar Express,Prayagraj,16:30
+22806,Anand Vihar (T) Bhubane- shwar Express,Pt Deen Dayal a Upadhyaya Jn.,19:05
+22806,Anand Vihar (T) Bhubane- shwar Express,Gaya,21:45
+22806,Anand Vihar (T) Bhubane- shwar Express,NSCB Gomoh,00:10
+22806,Anand Vihar (T) Bhubane- shwar Express,Bokaro Steel Citya,02:05
+22806,Anand Vihar (T) Bhubane- shwar Express,Muri,03:00
+22806,Anand Vihar (T) Bhubane- shwar Express,Rourkela,07:13
+12454,New Delhi Ranchi Rajdhani Express (via Renukut),New Delhi,16:10
+12454,New Delhi Ranchi Rajdhani Express (via Renukut),Kanpur Central,20:55
+12454,New Delhi Ranchi Rajdhani Express (via Renukut),Prayagraj,23:00
+12454,New Delhi Ranchi Rajdhani Express (via Renukut),Chopan,02:50
+12454,New Delhi Ranchi Rajdhani Express (via Renukut),Garwa Road,05:05
+12454,New Delhi Ranchi Rajdhani Express (via Renukut),Daltonganj,05:42
+12454,New Delhi Ranchi Rajdhani Express (via Renukut),Ranchi,09:45
+12878,New Delhi Ranchi Garib Rath Express,New Delhi,16:10
+12878,New Delhi Ranchi Garib Rath Express,Kanpur Central,20:55
+12878,New Delhi Ranchi Garib Rath Express,Prayagraj,23:00
+12878,New Delhi Ranchi Garib Rath Express,Pt Deen Dayal a Upadhyaya Jn.,01:10
+12878,New Delhi Ranchi Garib Rath Express,Dehri on sone,02:32
+12878,New Delhi Ranchi Garib Rath Express,Garwa Road,04:51
+12878,New Delhi Ranchi Garib Rath Express,Daltonganj,05:19
+12878,New Delhi Ranchi Garib Rath Express,Barkakana,08:45
+12878,New Delhi Ranchi Garib Rath Express,Muri,09:32
+12878,New Delhi Ranchi Garib Rath Express,,11:30
+20840,New Delhi Ranchi Rajdhani Express (via Gomoh),New Delhi,16:10
+20840,New Delhi Ranchi Rajdhani Express (via Gomoh),Kanpur Central,20:55
+20840,New Delhi Ranchi Rajdhani Express (via Gomoh),Pt Deen Dayal a Upadhyaya Jn.,01:10
+20840,New Delhi Ranchi Rajdhani Express (via Gomoh),Dehri on sone,02:24
+20840,New Delhi Ranchi Rajdhani Express (via Gomoh),Gaya,03:30
+20840,New Delhi Ranchi Rajdhani Express (via Gomoh),Bokaro Steel Citya,06:30
+20840,New Delhi Ranchi Rajdhani Express (via Gomoh),,09:05
+18010,Ajmer Sant- ragachi Express,Chopan,23:30
+18010,Ajmer Sant- ragachi Express,Garwa Road,02:20
+18010,Ajmer Sant- ragachi Express,Daltonganj,02:46
+18010,Ajmer Sant- ragachi Express,Barkakana,06:55
+18010,Ajmer Sant- ragachi Express,Muri,07:50
+18010,Ajmer Sant- ragachi Express,Tatanagar,10:35
+18636,Sasaram Ranchi Express,Varanasi,03:15
+18636,Sasaram Ranchi Express,Dehri on sone,03:30
+18636,Sasaram Ranchi Express,Garwa Road,05:45
+18636,Sasaram Ranchi Express,Daltonganj,06:15
+18636,Sasaram Ranchi Express,Barwadih,06:48
+18636,Sasaram Ranchi Express,,10:45
+20408,New Delhi Ranchi Rajdhani Express,New Delhi,16:10
+20408,New Delhi Ranchi Rajdhani Express,Kanpur Central,20:55
+20408,New Delhi Ranchi Rajdhani Express,Prayagraj,23:00
+20408,New Delhi Ranchi Rajdhani Express,Pt Deen Dayal a Upadhyaya Jn.,01:10
+20408,New Delhi Ranchi Rajdhani Express,Garwa Road,04:15
+20408,New Delhi Ranchi Rajdhani Express,Daltonganj,04:41
+20408,New Delhi Ranchi Rajdhani Express,,08:25
+20888,Varanasi Ranchi Vande Bharat Express,Varanasi,16:05
+20888,Varanasi Ranchi Vande Bharat Express,Pt Deen Dayal a Upadhyaya Jn.,16:40
+20888,Varanasi Ranchi Vande Bharat Express,Gaya,18:50
+20888,Varanasi Ranchi Vande Bharat Express,Bokaro Steel Citya,21:35
+20888,Varanasi Ranchi Vande Bharat Express,Muri,22:30
+20888,Varanasi Ranchi Vande Bharat Express,,23:55
+19603,Daurai- Godda Ex- press,Khurja,01:02
+19603,Daurai- Godda Ex- press,Tundla,02:05
+19603,Daurai- Godda Ex- press,Etawah,03:07
+19603,Daurai- Godda Ex- press,Kanpur Central,04:55
+19603,Daurai- Godda Ex- press,Prayagraj,07:25
+19603,Daurai- Godda Ex- press,Mirzapur,08:42
+19603,Daurai- Godda Ex- press,Chunar,09:12
+18309,Sambalpur Jammu Tawi Express,Tatanagar,16:55
+18309,Sambalpur Jammu Tawi Express,Chandil,18:00
+18309,Sambalpur Jammu Tawi Express,Muri,18:55
+18309,Sambalpur Jammu Tawi Express,Rourkela,13:23
+18309,Sambalpur Jammu Tawi Express,Hatia,16:40
+18309,Sambalpur Jammu Tawi Express,Ranchi,17:10
+18309,Sambalpur Jammu Tawi Express,Muri,18:25
+18309,Sambalpur Jammu Tawi Express,Barkakana,20:50
+18309,Sambalpur Jammu Tawi Express,Barwadih,23:03
+18309,Sambalpur Jammu Tawi Express,Daltonganj,23:23
+18309,Sambalpur Jammu Tawi Express,Garwa Road,00:21
+18309,Sambalpur Jammu Tawi Express,Chopan,04:45
+18309,Sambalpur Jammu Tawi Express,Chunar,07:40
+18309,Sambalpur Jammu Tawi Express,Mirzapur,08:12
+18309,Sambalpur Jammu Tawi Express,Prayagraj,09:50
+18309,Sambalpur Jammu Tawi Express,Kanpur Central,13:10
+18309,Sambalpur Jammu Tawi Express,Tundla,16:50
+18309,Sambalpur Jammu Tawi Express,Delhi,21:25
+18309,Sambalpur Jammu Tawi Express,Karnal,23:10
+18309,Sambalpur Jammu Tawi Express,Kurukshetra,23:35
+18309,Sambalpur Jammu Tawi Express,Ambala Cantt.,02:10
+18309,Sambalpur Jammu Tawi Express,Ludhiana,05:16
+18309,Sambalpur Jammu Tawi Express,Jalandhar City,06:45
+18309,Sambalpur Jammu Tawi Express,Beas,07:18
+18309,Sambalpur Jammu Tawi Express,Amritsar,08:25
+18309,Sambalpur Jammu Tawi Express,Pathankot,11:10
+18309,Sambalpur Jammu Tawi Express,Jammu Tawi,14:10
+18102,Jammu Tawi Tatanagar Express,Jammu Tawi,14:20
+18102,Jammu Tawi Tatanagar Express,Pathankot,16:57
+18102,Jammu Tawi Tatanagar Express,Amritsar,19:50
+18102,Jammu Tawi Tatanagar Express,Beas,20:30
+18102,Jammu Tawi Tatanagar Express,Jalandhar City,21:15
+18102,Jammu Tawi Tatanagar Express,Ludhiana,23:10
+18102,Jammu Tawi Tatanagar Express,Ambala Cantt.,02:40
+18102,Jammu Tawi Tatanagar Express,Kurukshetra,03:15
+18102,Jammu Tawi Tatanagar Express,Karnal,03:40
+18102,Jammu Tawi Tatanagar Express,Delhi,06:50
+18102,Jammu Tawi Tatanagar Express,Tundla,10:10
+18102,Jammu Tawi Tatanagar Express,Kanpur Central,14:25
+18102,Jammu Tawi Tatanagar Express,Prayagraj,17:20
+18102,Jammu Tawi Tatanagar Express,Mirzapur,18:47
+18102,Jammu Tawi Tatanagar Express,Chunar,19:30
+18102,Jammu Tawi Tatanagar Express,Chopan,22:40
+18102,Jammu Tawi Tatanagar Express,Garwa Road,01:45
+18102,Jammu Tawi Tatanagar Express,Daltonganj,02:12
+18102,Jammu Tawi Tatanagar Express,Barwadih,02:46
+18102,Jammu Tawi Tatanagar Express,Barkakana,06:00
+18102,Jammu Tawi Tatanagar Express,Muri,07:05
+18102,Jammu Tawi Tatanagar Express,Ranchi,08:25
+18102,Jammu Tawi Tatanagar Express,Hatia,08:50
+18102,Jammu Tawi Tatanagar Express,Rourkela,12:45
+18102,Jammu Tawi Tatanagar Express,Muri,07:05
+18102,Jammu Tawi Tatanagar Express,Chandil,08:45
+18102,Jammu Tawi Tatanagar Express,Tatanagar,10:20
+18310,Jammu Tawi Sambalpur Express,Jammu Tawi,14:20
+18310,Jammu Tawi Sambalpur Express,Pathankot,16:57
+18310,Jammu Tawi Sambalpur Express,Amritsar,19:50
+18310,Jammu Tawi Sambalpur Express,Beas,20:30
+18310,Jammu Tawi Sambalpur Express,Jalandhar City,21:15
+18310,Jammu Tawi Sambalpur Express,Ludhiana,23:10
+18310,Jammu Tawi Sambalpur Express,Ambala Cantt.,02:40
+18310,Jammu Tawi Sambalpur Express,Kurukshetra,03:15
+18310,Jammu Tawi Sambalpur Express,Karnal,03:40
+18310,Jammu Tawi Sambalpur Express,Delhi,06:50
+18310,Jammu Tawi Sambalpur Express,Tundla,10:10
+18310,Jammu Tawi Sambalpur Express,Kanpur Central,14:25
+18310,Jammu Tawi Sambalpur Express,Prayagraj,17:20
+18310,Jammu Tawi Sambalpur Express,Mirzapur,18:47
+18310,Jammu Tawi Sambalpur Express,Chunar,19:30
+18310,Jammu Tawi Sambalpur Express,Chopan,22:40
+18310,Jammu Tawi Sambalpur Express,Garwa Road,01:45
+18310,Jammu Tawi Sambalpur Express,Daltonganj,02:12
+18310,Jammu Tawi Sambalpur Express,Barwadih,02:46
+18310,Jammu Tawi Sambalpur Express,Barkakana,06:00
+18310,Jammu Tawi Sambalpur Express,Muri,07:05
+18310,Jammu Tawi Sambalpur Express,Ranchi,08:25
+18310,Jammu Tawi Sambalpur Express,Hatia,08:50
+18310,Jammu Tawi Sambalpur Express,Rourkela,12:45
+18310,Jammu Tawi Sambalpur Express,Muri,07:05
+18310,Jammu Tawi Sambalpur Express,Chandil,08:45
+18310,Jammu Tawi Sambalpur Express,Tatanagar,10:20

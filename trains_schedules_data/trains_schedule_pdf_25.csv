@@ -1,0 +1,635 @@
+train_num,train_name,halt_station_name,departure_time
+12582,New Delhi Banaras Express,New Delhi,22:50
+12582,New Delhi Banaras Express,Ghaziabad,23:22
+12582,New Delhi Banaras Express,Tundla,01:25
+12582,New Delhi Banaras Express,Kanpur,04:25
+12582,New Delhi Banaras Express,Prayagraj,07:25
+12582,New Delhi Banaras Express,Banaras,10:05
+20963,Sabarmati Varanasi Express,Delhi,15:10
+20963,Sabarmati Varanasi Express,Moradabad,18:08
+20963,Sabarmati Varanasi Express,Bareilly,19:32
+20963,Sabarmati Varanasi Express,Lucknow/ Lucknow Jn.,23:45
+20963,Sabarmati Varanasi Express,Sultanpur,02:10
+20963,Sabarmati Varanasi Express,Varanasi,05:30
+12372,Bikaner Howrah Express,Delhi,15:10
+12372,Bikaner Howrah Express,Ghaziabad,16:00
+12372,Bikaner Howrah Express,Moradabad,18:08
+12372,Bikaner Howrah Express,Bareilly,19:32
+12372,Bikaner Howrah Express,Lucknow/ Lucknow Jn.,23:45
+12372,Bikaner Howrah Express,Rae Bareli,01:05
+12372,Bikaner Howrah Express,Maa Belha Devi Dham Pratapgarh,02:40
+12372,Bikaner Howrah Express,Varanasi,04:45
+15716,Ajmer Kishan ganj Garib Nawaz Express,Delhi,20:35
+15716,Ajmer Kishan ganj Garib Nawaz Express,Moradabad,23:58
+15716,Ajmer Kishan ganj Garib Nawaz Express,Bareilly,01:16
+15716,Ajmer Kishan ganj Garib Nawaz Express,Lucknow/ Lucknow Jn.,05:25
+15716,Ajmer Kishan ganj Garib Nawaz Express,Ayodhya Cantt,07:40
+15716,Ajmer Kishan ganj Garib Nawaz Express,Shahganj,10:25
+15716,Ajmer Kishan ganj Garib Nawaz Express,Azamgarh,11:15
+15716,Ajmer Kishan ganj Garib Nawaz Express,Mau,12:10
+24204,Lucknow Varanasi Intercity Express,Lucknow/ Lucknow Jn.,06:35
+24204,Lucknow Varanasi Intercity Express,Rae Bareli,08:02
+24204,Lucknow Varanasi Intercity Express,Maa Belha Devi Dham Pratapgarh,09:35
+24204,Lucknow Varanasi Intercity Express,Varanasi,11:55
+14210,Lucknow Prayagraj Sangam Intercity Express,Lucknow/ Lucknow Jn.,07:35
+14210,Lucknow Prayagraj Sangam Intercity Express,Rae Bareli,09:05
+14210,Lucknow Prayagraj Sangam Intercity Express,Prayag,11:22
+14210,Lucknow Prayagraj Sangam Intercity Express,Prayagraj,11:45
+12004,New Delhi Lucknow Jn. Shatabdi Express,New Delhi,06:10
+12004,New Delhi Lucknow Jn. Shatabdi Express,Ghaziabad,06:42
+12004,New Delhi Lucknow Jn. Shatabdi Express,Aligarh,07:49
+12004,New Delhi Lucknow Jn. Shatabdi Express,Tundla,08:47
+12004,New Delhi Lucknow Jn. Shatabdi Express,Kanpur,11:28
+12004,New Delhi Lucknow Jn. Shatabdi Express,Lucknow/ Lucknow Jn.,13:00
+15074,Tanakpur Singrauli/ Triveni Express,Bareilly,11:24
+15074,Tanakpur Singrauli/ Triveni Express,Lucknow/ Lucknow Jn.,16:05
+15074,Tanakpur Singrauli/ Triveni Express,Rae Bareli,17:50
+15074,Tanakpur Singrauli/ Triveni Express,Phaphamau,20:59
+15074,Tanakpur Singrauli/ Triveni Express,Prayag,21:33
+15074,Tanakpur Singrauli/ Triveni Express,Prayagraj,22:15
+15074,Tanakpur Singrauli/ Triveni Express,Vindhyachal,00:38
+15074,Tanakpur Singrauli/ Triveni Express,Chopan,06:00
+15074,Tanakpur Singrauli/ Triveni Express,Singrauli,08:10
+15076,Tanakpur Shakti- nagar/ Triveni Express,Bareilly,11:24
+15076,Tanakpur Shakti- nagar/ Triveni Express,Lucknow/ Lucknow Jn.,16:05
+15076,Tanakpur Shakti- nagar/ Triveni Express,Rae Bareli,17:50
+15076,Tanakpur Shakti- nagar/ Triveni Express,Phaphamau,20:59
+15076,Tanakpur Shakti- nagar/ Triveni Express,Prayag,21:33
+15076,Tanakpur Shakti- nagar/ Triveni Express,Prayagraj,22:15
+15076,Tanakpur Shakti- nagar/ Triveni Express,Vindhyachal,00:38
+15076,Tanakpur Shakti- nagar/ Triveni Express,Chopan,06:00
+15076,Tanakpur Shakti- nagar/ Triveni Express,Shaktinagar,08:35
+20402,Lucknow Varanasi SF Express,Lucknow/ Lucknow Jn.,18:00
+20402,Lucknow Varanasi SF Express,Sultanpur,19:52
+20402,Lucknow Varanasi SF Express,Varanasi,22:15
+14216,Lucknow Prayagraj Sangam anga Gom Express,Lucknow/ Lucknow Jn.,18:15
+14216,Lucknow Prayagraj Sangam anga Gom Express,Rae Bareli,19:40
+14216,Lucknow Prayagraj Sangam anga Gom Express,Phaphamau,21:51
+14216,Lucknow Prayagraj Sangam anga Gom Express,Prayag,22:07
+14216,Lucknow Prayagraj Sangam anga Gom Express,Prayagraj,22:25
+14124,Kanpur Maa Belha Devi Dham Pratapgarh Express,Kanpur,17:30
+14124,Kanpur Maa Belha Devi Dham Pratapgarh Express,Lucknow/ Lucknow Jn.,19:05
+14124,Kanpur Maa Belha Devi Dham Pratapgarh Express,Rae Bareli,20:35
+14124,Kanpur Maa Belha Devi Dham Pratapgarh Express,Maa Belha Devi Dham Pratapgarh,22:55
+14308,Bareilly Prayag Express,Bareilly,17:46
+14308,Bareilly Prayag Express,Lucknow/ Lucknow Jn.,23:05
+14308,Bareilly Prayag Express,Rae Bareli,00:25
+14308,Bareilly Prayag Express,Prayag,02:40
+14308,Bareilly Prayag Express,Prayagraj,03:10
+12392,New Delhi Rajgir Shramjeevi,New Delhi,13:10
+12392,New Delhi Rajgir Shramjeevi,Ghaziabad,13:53
+12392,New Delhi Rajgir Shramjeevi,Moradabad,15:57
+12392,New Delhi Rajgir Shramjeevi,Bareilly,19:20
+12392,New Delhi Rajgir Shramjeevi,Lucknow/ Lucknow Jn.,21:30
+12392,New Delhi Rajgir Shramjeevi,Sultanpur,23:35
+12392,New Delhi Rajgir Shramjeevi,Varanasi,02:20
+15128,New Delhi Varanasi Kashi Viswanath Express,New Delhi,11:35
+15128,New Delhi Varanasi Kashi Viswanath Express,Ghaziabad,12:17
+15128,New Delhi Varanasi Kashi Viswanath Express,Hapur,13:02
+15128,New Delhi Varanasi Kashi Viswanath Express,Moradabad,15:15
+15128,New Delhi Varanasi Kashi Viswanath Express,Bareilly,16:36
+15128,New Delhi Varanasi Kashi Viswanath Express,Lucknow/ Lucknow Jn.,21:15
+15128,New Delhi Varanasi Kashi Viswanath Express,Rae Bareli,22:45
+15128,New Delhi Varanasi Kashi Viswanath Express,Maa Belha Devi Dham Pratapgarh,00:30
+15128,New Delhi Varanasi Kashi Viswanath Express,Banaras,04:40
+12420,New Delhi Lucknow Gomti Express,New Delhi,12:55
+12420,New Delhi Lucknow Gomti Express,Ghaziabad,13:31
+12420,New Delhi Lucknow Gomti Express,Khurja,14:16
+12420,New Delhi Lucknow Gomti Express,Aligarh,14:50
+12420,New Delhi Lucknow Gomti Express,Tundla,15:57
+12420,New Delhi Lucknow Gomti Express,Shikohabad,16:35
+12420,New Delhi Lucknow Gomti Express,Kanpur,19:50
+12420,New Delhi Lucknow Gomti Express,Lucknow/ Lucknow Jn.,21:30
+22542,Anand Vihar (T) Banaras Garib Rath Express,Anand Vihar(T),18:15
+22542,Anand Vihar (T) Banaras Garib Rath Express,Moradabad,21:10
+22542,Anand Vihar (T) Banaras Garib Rath Express,Bareilly,22:31
+22542,Anand Vihar (T) Banaras Garib Rath Express,Lucknow/ Lucknow Jn.,02:35
+22542,Anand Vihar (T) Banaras Garib Rath Express,Rae Bareli,04:00
+22542,Anand Vihar (T) Banaras Garib Rath Express,Maa Belha Devi Dham Pratapgarh,05:35
+22542,Anand Vihar (T) Banaras Garib Rath Express,Banaras,08:10
+12430,New Delhi Lucknow AC Express,New Delhi,23:25
+12430,New Delhi Lucknow AC Express,Ghaziabad,00:05
+12430,New Delhi Lucknow AC Express,Moradabad,02:18
+12430,New Delhi Lucknow AC Express,Bareilly,03:37
+12430,New Delhi Lucknow AC Express,Lucknow/ Lucknow Jn.,07:25
+13346,Singrauli Varanasi Intercity Express,Singrauli,05:30
+13346,Singrauli Varanasi Intercity Express,Chopan,07:45
+13346,Singrauli Varanasi Intercity Express,Varanasi,12:45
+14152,Anand Vihar (T) Kanpur Express,Anand Vihar(T),20:45
+14152,Anand Vihar (T) Kanpur Express,Aligarh,22:25
+14152,Anand Vihar (T) Kanpur Express,Tundla,23:20
+14152,Anand Vihar (T) Kanpur Express,Shikohabad,00:07
+14152,Anand Vihar (T) Kanpur Express,Farrukhabad,03:05
+14152,Anand Vihar (T) Kanpur Express,Kanauj,04:14
+14152,Anand Vihar (T) Kanpur Express,Kanpur,06:20
+15026,Anand Vihar (T) Mau Express,Anand Vihar(T),13:25
+15026,Anand Vihar (T) Mau Express,Ghaziabad,13:55
+15026,Anand Vihar (T) Mau Express,Aligarh,15:00
+15026,Anand Vihar (T) Mau Express,Kanpur,19:15
+15026,Anand Vihar (T) Mau Express,Lucknow/ Lucknow Jn.,21:00
+15026,Anand Vihar (T) Mau Express,Ayodhya Cantt,23:55
+15026,Anand Vihar (T) Mau Express,Shahganj,03:25
+15026,Anand Vihar (T) Mau Express,Azamgarh,04:10
+15026,Anand Vihar (T) Mau Express,Mau,05:35
+13344,Shakti nagar Varanasi Intercity Express,Shaktinagar,05:00
+13344,Shakti nagar Varanasi Intercity Express,Chopan,07:45
+13344,Shakti nagar Varanasi Intercity Express,Varanasi,12:45
+13430,Anand Vihar (T) Malda Town Express,Anand Vihar(T),17:10
+13430,Anand Vihar (T) Malda Town Express,Ghaziabad,17:45
+13430,Anand Vihar (T) Malda Town Express,Hapur,18:25
+13430,Anand Vihar (T) Malda Town Express,Moradabad,20:30
+13430,Anand Vihar (T) Malda Town Express,Bareilly,22:52
+13430,Anand Vihar (T) Malda Town Express,Lucknow/ Lucknow Jn.,02:50
+13430,Anand Vihar (T) Malda Town Express,Rae Bareli,04:20
+13430,Anand Vihar (T) Malda Town Express,Maa Belha Devi Dham Pratapgarh,05:55
+13430,Anand Vihar (T) Malda Town Express,Varanasi,08:50
+12584,Anand Vihar (T) Lucknow Jn. AC Double Decker Express,Anand Vihar(T),14:05
+12584,Anand Vihar (T) Lucknow Jn. AC Double Decker Express,Ghaziabad,14:35
+12584,Anand Vihar (T) Lucknow Jn. AC Double Decker Express,Moradabad,16:47
+12584,Anand Vihar (T) Lucknow Jn. AC Double Decker Express,Bareilly,18:10
+12584,Anand Vihar (T) Lucknow Jn. AC Double Decker Express,Lucknow/ Lucknow Jn.,22:25
+82502,New Delhi Lucknow Tejas Express,New Delhi,15:30
+82502,New Delhi Lucknow Tejas Express,Ghaziabad,16:04
+82502,New Delhi Lucknow Tejas Express,Tundla,17:59
+82502,New Delhi Lucknow Tejas Express,Kanpur,20:40
+82502,New Delhi Lucknow Tejas Express,Lucknow/ Lucknow Jn.,22:05
+13310,Prayagraj Chopan Express,Prayagraj,14:50
+13310,Prayagraj Chopan Express,Vindhyachal,17:30
+13310,Prayagraj Chopan Express,Chopan,23:15
+22540,Anand Vihar (T) Mau SF Express,Anand Vihar(T),16:45
+22540,Anand Vihar (T) Mau SF Express,Kanpur,21:40
+22540,Anand Vihar (T) Mau SF Express,Lucknow/ Lucknow Jn.,23:20
+22540,Anand Vihar (T) Mau SF Express,Sultanpur,01:50
+22540,Anand Vihar (T) Mau SF Express,Jaunpur,04:20
+22540,Anand Vihar (T) Mau SF Express,Mau,06:20
+22426,Anand Vihar (T) Ayodhya Cantt Vande Bharat Express,Anand Vihar(T),06:10
+22426,Anand Vihar (T) Ayodhya Cantt Vande Bharat Express,Khurja,07:10
+22426,Anand Vihar (T) Ayodhya Cantt Vande Bharat Express,Aligarh,07:32
+22426,Anand Vihar (T) Ayodhya Cantt Vande Bharat Express,Kanpur,11:05
+22426,Anand Vihar (T) Ayodhya Cantt Vande Bharat Express,Lucknow/ Lucknow Jn.,12:40
+22426,Anand Vihar (T) Ayodhya Cantt Vande Bharat Express,Ayodhya Cantt,14:30
+22582,New Delhi Ballia Superfast Express,New Delhi,22:50
+22582,New Delhi Ballia Superfast Express,Ghaziabad,23:22
+22582,New Delhi Ballia Superfast Express,Tundla,01:25
+22582,New Delhi Ballia Superfast Express,Kanpur,04:25
+22582,New Delhi Ballia Superfast Express,Prayagraj,07:25
+22582,New Delhi Ballia Superfast Express,Varanasi,10:45
+14008,Anand Vihar (T) Raxaul Sadhbhavana Express,Anand Vihar (T),16:20
+14008,Anand Vihar (T) Raxaul Sadhbhavana Express,Ghaziabad,17:06
+14008,Anand Vihar (T) Raxaul Sadhbhavana Express,Hapur,17:49
+14008,Anand Vihar (T) Raxaul Sadhbhavana Express,Moradabad,19:45
+14008,Anand Vihar (T) Raxaul Sadhbhavana Express,Lucknow,02:25
+14008,Anand Vihar (T) Raxaul Sadhbhavana Express,Sultanpur,05:40
+14008,Anand Vihar (T) Raxaul Sadhbhavana Express,Varanasi,09:15
+14016,Anand Vihar (T) Raxaul Sadhbhavana Express,Anand Vihar (T),16:20
+14016,Anand Vihar (T) Raxaul Sadhbhavana Express,Ghaziabad,17:06
+14016,Anand Vihar (T) Raxaul Sadhbhavana Express,Hapur,17:49
+14016,Anand Vihar (T) Raxaul Sadhbhavana Express,Moradabad,19:45
+14016,Anand Vihar (T) Raxaul Sadhbhavana Express,Lucknow,02:25
+14016,Anand Vihar (T) Raxaul Sadhbhavana Express,Sultanpur,05:40
+14016,Anand Vihar (T) Raxaul Sadhbhavana Express,Varanasi,09:15
+14014,Anand Vihar (T) Sultanpur Sadhbhavana Express,Anand Vihar (T),16:20
+14014,Anand Vihar (T) Sultanpur Sadhbhavana Express,Ghaziabad,17:06
+14014,Anand Vihar (T) Sultanpur Sadhbhavana Express,Hapur,17:49
+14014,Anand Vihar (T) Sultanpur Sadhbhavana Express,Moradabad,19:45
+14014,Anand Vihar (T) Sultanpur Sadhbhavana Express,Lucknow,02:25
+14014,Anand Vihar (T) Sultanpur Sadhbhavana Express,Sultanpur,05:55
+14018,Anand Vihar (T) Raxaul Sadh- bhavana Express,Anand Vihar (T),16:20
+14018,Anand Vihar (T) Raxaul Sadh- bhavana Express,Ghaziabad,17:06
+14018,Anand Vihar (T) Raxaul Sadh- bhavana Express,Hapur,17:49
+14018,Anand Vihar (T) Raxaul Sadh- bhavana Express,Moradabad,19:45
+14018,Anand Vihar (T) Raxaul Sadh- bhavana Express,Lucknow,02:25
+14018,Anand Vihar (T) Raxaul Sadh- bhavana Express,Ayodhya Cantt,05:30
+14018,Anand Vihar (T) Raxaul Sadh- bhavana Express,Ayodhya Dham,05:50
+14018,Anand Vihar (T) Raxaul Sadh- bhavana Express,Shahganj,07:28
+14018,Anand Vihar (T) Raxaul Sadh- bhavana Express,Varanasi,10:40
+12560,New Delhi Banaras Shiv Ganga Express,New Delhi,20:05
+12560,New Delhi Banaras Shiv Ganga Express,Kanpur,01:05
+12560,New Delhi Banaras Shiv Ganga Express,Prayagraj,03:55
+12560,New Delhi Banaras Shiv Ganga Express,Banaras,06:10
+12226,Delhi Azamgarh Kaifiyaat Express,Delhi,20:25
+12226,Delhi Azamgarh Kaifiyaat Express,Ghaziabad,21:02
+12226,Delhi Azamgarh Kaifiyaat Express,Aligarh,22:15
+12226,Delhi Azamgarh Kaifiyaat Express,Kanpur,02:00
+12226,Delhi Azamgarh Kaifiyaat Express,Aishbagh,03:55
+12226,Delhi Azamgarh Kaifiyaat Express,Ayodhya Cantt,06:37
+12226,Delhi Azamgarh Kaifiyaat Express,Ayodhya Dham,06:57
+12226,Delhi Azamgarh Kaifiyaat Express,Shahganj,09:40
+12226,Delhi Azamgarh Kaifiyaat Express,Azamgarh,10:55
+14206,Delhi Ayodhya Cantt Express,Delhi,18:20
+14206,Delhi Ayodhya Cantt Express,Ghaziabad,19:05
+14206,Delhi Ayodhya Cantt Express,Hapur,19:44
+14206,Delhi Ayodhya Cantt Express,Moradabad,22:10
+14206,Delhi Ayodhya Cantt Express,Bareilly d ,23:51
+14206,Delhi Ayodhya Cantt Express,Lucknow,03:30
+14206,Delhi Ayodhya Cantt Express,Ayodhya Cantt,06:20
+14208,Delhi Maa Belha Devi Dham Partapgarh Padmavat Express,Delhi,19:50
+14208,Delhi Maa Belha Devi Dham Partapgarh Padmavat Express,Ghaziabad,20:32
+14208,Delhi Maa Belha Devi Dham Partapgarh Padmavat Express,Hapur,21:20
+14208,Delhi Maa Belha Devi Dham Partapgarh Padmavat Express,Moradabad,23:10
+14208,Delhi Maa Belha Devi Dham Partapgarh Padmavat Express,Bareilly d ,00:31
+14208,Delhi Maa Belha Devi Dham Partapgarh Padmavat Express,Lucknow,04:50
+14208,Delhi Maa Belha Devi Dham Partapgarh Padmavat Express,Rae Bareli,06:15
+14208,Delhi Maa Belha Devi Dham Partapgarh Padmavat Express,Maa Belha Devi Dham,08:20
+14650,Amritsar Darbhanga Saryu Yamuna Express,Moradabad,00:16
+14650,Amritsar Darbhanga Saryu Yamuna Express,Bareilly d ,01:37
+14650,Amritsar Darbhanga Saryu Yamuna Express,Lucknow,06:10
+14650,Amritsar Darbhanga Saryu Yamuna Express,Ayodhya Cantt,08:33
+14650,Amritsar Darbhanga Saryu Yamuna Express,Ayodhya Dham,08:52
+14650,Amritsar Darbhanga Saryu Yamuna Express,Shahganj,11:20
+14650,Amritsar Darbhanga Saryu Yamuna Express,Azamgarh,12:20
+14650,Amritsar Darbhanga Saryu Yamuna Express,Mau,13:10
+15744,Bhatinda Balurghat Farakka Express,Delhi,21:40
+15744,Bhatinda Balurghat Farakka Express,Ghaziabad,22:27
+15744,Bhatinda Balurghat Farakka Express,Khurja,23:10
+15744,Bhatinda Balurghat Farakka Express,Aligarh,00:20
+15744,Bhatinda Balurghat Farakka Express,Tundla,01:35
+15744,Bhatinda Balurghat Farakka Express,Kanpur,06:25
+15744,Bhatinda Balurghat Farakka Express,Lucknow,08:25
+15744,Bhatinda Balurghat Farakka Express,Ayodhya Cantt,10:45
+15744,Bhatinda Balurghat Farakka Express,Ayodhya Dham,11:05
+15744,Bhatinda Balurghat Farakka Express,Shahganj,12:50
+15744,Bhatinda Balurghat Farakka Express,Zafarabad,13:58
+15744,Bhatinda Balurghat Farakka Express,Varanasi,17:10
+15734,Bhatinda Balurghat Farakka Express,Delhi,21:40
+15734,Bhatinda Balurghat Farakka Express,Ghaziabad,22:27
+15734,Bhatinda Balurghat Farakka Express,Khurja,23:10
+15734,Bhatinda Balurghat Farakka Express,Aligarh,00:20
+15734,Bhatinda Balurghat Farakka Express,Tundla,01:35
+15734,Bhatinda Balurghat Farakka Express,Kanpur,06:25
+15734,Bhatinda Balurghat Farakka Express,Lucknow,08:25
+15734,Bhatinda Balurghat Farakka Express,Sultanpur,11:50
+15734,Bhatinda Balurghat Farakka Express,Zafarabad,13:58
+15734,Bhatinda Balurghat Farakka Express,Varanasi,17:10
+12230,New Delhi Lucknow Jn. Mail,New Delhi,22:00
+12230,New Delhi Lucknow Jn. Mail,Ghaziabad,22:45
+12230,New Delhi Lucknow Jn. Mail,Hapur,23:26
+12230,New Delhi Lucknow Jn. Mail,Moradabad,01:15
+12230,New Delhi Lucknow Jn. Mail,Bareilly,02:39
+12230,New Delhi Lucknow Jn. Mail,Lucknow,06:40
+14118,Bhiwani Prayagraj Kalindi Express,Delhi,22:50
+14118,Bhiwani Prayagraj Kalindi Express,Ghaziabad,23:34
+14118,Bhiwani Prayagraj Kalindi Express,Aligarh,00:48
+14118,Bhiwani Prayagraj Kalindi Express,Tundla,02:00
+14118,Bhiwani Prayagraj Kalindi Express,Shikohabad,02:55
+14118,Bhiwani Prayagraj Kalindi Express,Farrukhabad,06:00
+14118,Bhiwani Prayagraj Kalindi Express,Kannauj,07:35
+14118,Bhiwani Prayagraj Kalindi Express,Kanpur,09:30
+14118,Bhiwani Prayagraj Kalindi Express,Prayagraj,12:50
+14234,Mankapur Prayagraj Sangam Express,Ayodhya Cantt,04:10
+14234,Mankapur Prayagraj Sangam Express,Ayodhya Dham,03:42
+14234,Mankapur Prayagraj Sangam Express,Sultanpur,05:27
+14234,Mankapur Prayagraj Sangam Express,Maa Belha Devi Dham Pratapgarh,06:30
+14234,Mankapur Prayagraj Sangam Express,Phaphamau,07:36
+14234,Mankapur Prayagraj Sangam Express,Prayagraj,08:25
+14236,Bareilly Varanasi Express,Bareilly,16:45
+14236,Bareilly Varanasi Express,Lucknow,22:00
+14236,Bareilly Varanasi Express,Ayodhya Cantt,01:15
+14236,Bareilly Varanasi Express,Ayodhya Dham,01:35
+14236,Bareilly Varanasi Express,Shahganj,03:30
+14236,Bareilly Varanasi Express,Zafarabad,04:56
+14236,Bareilly Varanasi Express,Varanasi,07:00
+12540,Lucknow Yesvantpur Express,Lucknow,20:25
+12540,Lucknow Yesvantpur Express,Rae Bareli,21:45
+12540,Lucknow Yesvantpur Express,Maa Belha Devi Dham Pratapgarh,23:25
+12540,Lucknow Yesvantpur Express,Prayagraj,01:35
+20939,Sabarmati Sultanpur Express,Delhi,23:25
+20939,Sabarmati Sultanpur Express,Moradabad,03:25
+20939,Sabarmati Sultanpur Express,Bareilly,04:44
+20939,Sabarmati Sultanpur Express,Lucknow,09:05
+20939,Sabarmati Sultanpur Express,Nihalgarh,10:32
+20939,Sabarmati Sultanpur Express,Sultanpur,12:00
+14202,Rae Bareli Jaunpur Express,Rae Bareli,07:35
+14202,Rae Bareli Jaunpur Express,Maa Belha Devi Dham Pratapgarh,09:20
+14202,Rae Bareli Jaunpur Express,Janghai,10:25
+14202,Rae Bareli Jaunpur Express,Jaunpur,12:20
+22684,Lucknow Yesvantpur Express,Lucknow,18:40
+22684,Lucknow Yesvantpur Express,Rae Bareli,20:20
+22684,Lucknow Yesvantpur Express,Maa Belha Devi Dham Pratapgarh,21:50
+22684,Lucknow Yesvantpur Express,Prayagraj,00:45
+22418,New Delhi Varanasi Mahamana Express,New Delhi,18:40
+22418,New Delhi Varanasi Mahamana Express,Ghaziabad,19:25
+22418,New Delhi Varanasi Mahamana Express,Moradabad,21:50
+22418,New Delhi Varanasi Mahamana Express,Bareilly,23:07
+22418,New Delhi Varanasi Mahamana Express,Lucknow,03:15
+22418,New Delhi Varanasi Mahamana Express,Sultanpur,05:15
+22418,New Delhi Varanasi Mahamana Express,Varanasi,08:25
+12581,Banaras New Delhi Express,Banaras,23:10
+12581,Banaras New Delhi Express,Prayagraj,01:15
+12581,Banaras New Delhi Express,Kanpur Central,03:55
+12581,Banaras New Delhi Express,Tundla,06:25
+12581,Banaras New Delhi Express,Ghaziabad,08:55
+12581,Banaras New Delhi Express,New Delhi,09:45
+20964,Varanasi Sabarmati Express,Varanasi,15:35
+20964,Varanasi Sabarmati Express,Sultanpur,18:05
+20964,Varanasi Sabarmati Express,Lucknow/ Lucknow Jn.,21:10
+20964,Varanasi Sabarmati Express,Bareilly,01:12
+20964,Varanasi Sabarmati Express,Moradabad,03:05
+20964,Varanasi Sabarmati Express,Delhi,06:20
+14207,Maa Belha Devi Dham Pratapgarh Delhi Padmavat Express,Maa Belha Devi Dham Pratapgarh,17:45
+14207,Maa Belha Devi Dham Pratapgarh Delhi Padmavat Express,Rae Bareli,19:30
+14207,Maa Belha Devi Dham Pratapgarh Delhi Padmavat Express,Lucknow/ Lucknow Jn.,21:40
+14207,Maa Belha Devi Dham Pratapgarh Delhi Padmavat Express,Bareilly,01:27
+14207,Maa Belha Devi Dham Pratapgarh Delhi Padmavat Express,Moradabad,03:18
+14207,Maa Belha Devi Dham Pratapgarh Delhi Padmavat Express,Hapur,04:43
+14207,Maa Belha Devi Dham Pratapgarh Delhi Padmavat Express,Ghaziabad,05:39
+14207,Maa Belha Devi Dham Pratapgarh Delhi Padmavat Express,Delhi,06:30
+14205,Faizabad Delhi Express,Ayodhya Cantt,17:25
+14205,Faizabad Delhi Express,Lucknow/ Lucknow Jn.,19:50
+14205,Faizabad Delhi Express,Bareilly,23:35
+14205,Faizabad Delhi Express,Moradabad,01:23
+14205,Faizabad Delhi Express,Hapur,02:45
+14205,Faizabad Delhi Express,Ghaziabad,03:38
+14205,Faizabad Delhi Express,Delhi,04:20
+15715,Kishanganj Ajmer Garib Nawaz Express,Mau,19:55
+15715,Kishanganj Ajmer Garib Nawaz Express,Azamgarh,20:45
+15715,Kishanganj Ajmer Garib Nawaz Express,Shahganj,23:10
+15715,Kishanganj Ajmer Garib Nawaz Express,Ayodhya Cantt,01:15
+15715,Kishanganj Ajmer Garib Nawaz Express,Lucknow/ Lucknow Jn.,04:40
+15715,Kishanganj Ajmer Garib Nawaz Express,Bareilly,08:21
+15715,Kishanganj Ajmer Garib Nawaz Express,Moradabad,09:39
+15715,Kishanganj Ajmer Garib Nawaz Express,Delhi,13:30
+12225,Azamgarh Delhi Kaifiyaat Express,Azamgarh,16:30
+12225,Azamgarh Delhi Kaifiyaat Express,Shahganj,18:05
+12225,Azamgarh Delhi Kaifiyaat Express,Ayodhya Cantt,20:02
+12225,Azamgarh Delhi Kaifiyaat Express,Aishbagh,22:55
+12225,Azamgarh Delhi Kaifiyaat Express,Kanpur Central,00:45
+12225,Azamgarh Delhi Kaifiyaat Express,Aligarh,04:32
+12225,Azamgarh Delhi Kaifiyaat Express,Ghaziabad,06:25
+12225,Azamgarh Delhi Kaifiyaat Express,Delhi,07:05
+12419,Lucknow New Delhi Gomti Express,Lucknow/ Lucknow Jn.,05:45
+12419,Lucknow New Delhi Gomti Express,Kanpur Central,07:35
+12419,Lucknow New Delhi Gomti Express,Shikohabad,10:06
+12419,Lucknow New Delhi Gomti Express,Tundla,11:05
+12419,Lucknow New Delhi Gomti Express,Aligarh,12:10
+12419,Lucknow New Delhi Gomti Express,Khurja,12:38
+12419,Lucknow New Delhi Gomti Express,Ghaziabad,14:15
+12419,Lucknow New Delhi Gomti Express,New Delhi,15:00
+14307,Prayagraj Sanam Bareilly Express,Singrauli,01:20
+14307,Prayagraj Sanam Bareilly Express,Prayag,01:38
+14307,Prayagraj Sanam Bareilly Express,Rae Bareli,03:57
+14307,Prayagraj Sanam Bareilly Express,Lucknow/ Lucknow Jn.,06:25
+14307,Prayagraj Sanam Bareilly Express,Bareilly,10:50
+14123,Maa Belha Devi Dham Pratapgarh Kanpur Express,Maa Belha Devi Dham Pratapgarh,04:25
+14123,Maa Belha Devi Dham Pratapgarh Kanpur Express,Rae Bareli,06:03
+14123,Maa Belha Devi Dham Pratapgarh Kanpur Express,Lucknow/ Lucknow Jn.,07:45
+14123,Maa Belha Devi Dham Pratapgarh Kanpur Express,Kanpur Central,09:40
+15075,Shakti- nagar/ Tanakpur Triveni Express,Shaktinagar,15:45
+15075,Shakti- nagar/ Tanakpur Triveni Express,Chopan,18:25
+15075,Shakti- nagar/ Tanakpur Triveni Express,Prayagraj,02:45
+15075,Shakti- nagar/ Tanakpur Triveni Express,Prayag,03:10
+15075,Shakti- nagar/ Tanakpur Triveni Express,Phaphamau,03:25
+15075,Shakti- nagar/ Tanakpur Triveni Express,Rae Bareli,05:35
+15075,Shakti- nagar/ Tanakpur Triveni Express,Lucknow/ Lucknow Jn.,08:05
+15075,Shakti- nagar/ Tanakpur Triveni Express,Bareilly,12:15
+15073,Singrauli/ Tanakpur Triveni Express,Singrauli,16:15
+15073,Singrauli/ Tanakpur Triveni Express,Chopan,18:25
+15073,Singrauli/ Tanakpur Triveni Express,Prayagraj,02:45
+15073,Singrauli/ Tanakpur Triveni Express,Prayag,03:10
+15073,Singrauli/ Tanakpur Triveni Express,Phaphamau,03:25
+15073,Singrauli/ Tanakpur Triveni Express,Rae Bareli,05:35
+15073,Singrauli/ Tanakpur Triveni Express,Lucknow/ Lucknow Jn.,08:05
+15073,Singrauli/ Tanakpur Triveni Express,Bareilly,12:15
+14215,Prayagra Sangam Lucknow Ganga Gomti Express,Singrauli,05:40
+14215,Prayagra Sangam Lucknow Ganga Gomti Express,Prayag,05:58
+14215,Prayagra Sangam Lucknow Ganga Gomti Express,Phaphamau,06:12
+14215,Prayagra Sangam Lucknow Ganga Gomti Express,Rae Bareli,08:10
+14215,Prayagra Sangam Lucknow Ganga Gomti Express,Lucknow/ Lucknow Jn.,09:55
+20401,Varanasi Lucknow Varuna Express,Varanasi,05:55
+20401,Varanasi Lucknow Varuna Express,Sultanpur,08:05
+20401,Varanasi Lucknow Varuna Express,Nihalgarh,08:46
+20401,Varanasi Lucknow Varuna Express,Lucknow/ Lucknow Jn.,10:10
+12003,Lucknow Jn. New Delhi Shatabdi Express,Lucknow/ Lucknow Jn.,15:30
+12003,Lucknow Jn. New Delhi Shatabdi Express,Kanpur Central,16:53
+12003,Lucknow Jn. New Delhi Shatabdi Express,Tundla,19:28
+12003,Lucknow Jn. New Delhi Shatabdi Express,Aligarh,20:17
+12003,Lucknow Jn. New Delhi Shatabdi Express,Ghaziabad,21:40
+12003,Lucknow Jn. New Delhi Shatabdi Express,New Delhi,22:35
+14007,Raxaul Anand Vihar (T) Sadh- bhavana Express,Varanasi,11:45
+14007,Raxaul Anand Vihar (T) Sadh- bhavana Express,Jaunpur Jn./Jaunpur City,12:44
+14007,Raxaul Anand Vihar (T) Sadh- bhavana Express,Sultanpur,15:40
+14007,Raxaul Anand Vihar (T) Sadh- bhavana Express,Nihalgarh,16:16
+14007,Raxaul Anand Vihar (T) Sadh- bhavana Express,Lucknow/ Lucknow Jn.,18:15
+14007,Raxaul Anand Vihar (T) Sadh- bhavana Express,Moradabad,01:13
+14007,Raxaul Anand Vihar (T) Sadh- bhavana Express,Hapur,03:13
+14007,Raxaul Anand Vihar (T) Sadh- bhavana Express,Ghaziabad,04:12
+14007,Raxaul Anand Vihar (T) Sadh- bhavana Express,Anand Vihar (T),04:45
+14015,Raxaul Anand Vihar (T) Sadh- bhavana Express,Varanasi,11:45
+14015,Raxaul Anand Vihar (T) Sadh- bhavana Express,Jaunpur Jn./Jaunpur City,12:48
+14015,Raxaul Anand Vihar (T) Sadh- bhavana Express,Sultanpur,15:40
+14015,Raxaul Anand Vihar (T) Sadh- bhavana Express,Nihalgarh,16:16
+14015,Raxaul Anand Vihar (T) Sadh- bhavana Express,Lucknow/ Lucknow Jn.,18:15
+14015,Raxaul Anand Vihar (T) Sadh- bhavana Express,Moradabad,01:13
+14015,Raxaul Anand Vihar (T) Sadh- bhavana Express,Hapur,03:13
+14015,Raxaul Anand Vihar (T) Sadh- bhavana Express,Ghaziabad,04:12
+14015,Raxaul Anand Vihar (T) Sadh- bhavana Express,Anand Vihar (T),04:45
+14013,Sultan pur Anand Vihar (T) Sadhbhavana Express,Sultanpur,15:40
+14013,Sultan pur Anand Vihar (T) Sadhbhavana Express,Nihalgarh,16:16
+14013,Sultan pur Anand Vihar (T) Sadhbhavana Express,Lucknow/ Lucknow Jn.,18:15
+14013,Sultan pur Anand Vihar (T) Sadhbhavana Express,Moradabad,01:13
+14013,Sultan pur Anand Vihar (T) Sadhbhavana Express,Hapur,03:13
+14013,Sultan pur Anand Vihar (T) Sadhbhavana Express,Ghaziabad,04:12
+14013,Sultan pur Anand Vihar (T) Sadhbhavana Express,Anand Vihar (T),04:45
+12429,Lucknow New Delhi AC Express,Lucknow/ Lucknow Jn.,23:30
+12429,Lucknow New Delhi AC Express,Bareilly d ,02:58
+12429,Lucknow New Delhi AC Express,Moradabad,04:35
+12429,Lucknow New Delhi AC Express,Ghaziabad,06:47
+12429,Lucknow New Delhi AC Express,New Delhi,07:30
+12539,Yesvantpur Lucknow Express,Prayagraj,05:05
+12539,Yesvantpur Lucknow Express,Maa Belha Devi Dham Pratapgarh,06:25
+12539,Yesvantpur Lucknow Express,Rae Bareli,07:55
+12539,Yesvantpur Lucknow Express,Lucknow/ Lucknow Jn.,10:55
+20940,Sultanpur Sabarmati Express,Sultanpur,18:05
+20940,Sultanpur Sabarmati Express,Nihalgarh,18:52
+20940,Sultanpur Sabarmati Express,Lucknow/ Lucknow Jn.,21:10
+20940,Sultanpur Sabarmati Express,Bareilly d ,01:12
+20940,Sultanpur Sabarmati Express,Moradabad,03:05
+20940,Sultanpur Sabarmati Express,Delhi,06:20
+13345,Varanasi Singrauli Express,Varanasi,14:00
+13345,Varanasi Singrauli Express,Chopan,19:20
+13345,Varanasi Singrauli Express,Singrauli,22:00
+13343,Varanasi Shakthi nagar Express,Varanasi,14:00
+13343,Varanasi Shakthi nagar Express,Chopan,19:20
+13343,Varanasi Shakthi nagar Express,Shaktinagar,22:10
+14151,Kanpur Anand Vihar (T) Express,Kanpur Central,07:45
+14151,Kanpur Anand Vihar (T) Express,Kannauj,09:07
+14151,Kanpur Anand Vihar (T) Express,Farrukhabad,11:20
+14151,Kanpur Anand Vihar (T) Express,Shikohabad,13:55
+14151,Kanpur Anand Vihar (T) Express,Tundla,15:10
+14151,Kanpur Anand Vihar (T) Express,Aligarh,16:05
+14151,Kanpur Anand Vihar (T) Express,Anand Vihar (T),18:20
+15025,Mau Anand Vihar (T) Express,Mau,11:10
+15025,Mau Anand Vihar (T) Express,Azamgarh,12:00
+15025,Mau Anand Vihar (T) Express,Shahganj,13:30
+15025,Mau Anand Vihar (T) Express,Ayodhya Cantt,15:40
+15025,Mau Anand Vihar (T) Express,Lucknow/ Lucknow Jn.,18:40
+15025,Mau Anand Vihar (T) Express,Kanpur Central,20:40
+15025,Mau Anand Vihar (T) Express,Aligarh,00:32
+15025,Mau Anand Vihar (T) Express,Ghaziabad,02:25
+15025,Mau Anand Vihar (T) Express,Anand Vihar (T),03:00
+22683,Yesvantpur Lucknow Express,Prayagraj,13:00
+22683,Yesvantpur Lucknow Express,Maa Belha Devi Dham Pratapgarh,14:15
+22683,Yesvantpur Lucknow Express,Rae Bareli,15:45
+22683,Yesvantpur Lucknow Express,Lucknow/ Lucknow Jn.,18:00
+13429,Malda Town Anand Vihar (T) Express,Varanasi,23:55
+13429,Malda Town Anand Vihar (T) Express,Maa Belha Devi Dham Pratapgarh,02:00
+13429,Malda Town Anand Vihar (T) Express,Rae Bareli,03:35
+13429,Malda Town Anand Vihar (T) Express,Lucknow/ Lucknow Jn.,06:15
+13429,Malda Town Anand Vihar (T) Express,Bareilly,09:46
+13429,Malda Town Anand Vihar (T) Express,Moradabad,11:24
+13429,Malda Town Anand Vihar (T) Express,Hapur,12:44
+13429,Malda Town Anand Vihar (T) Express,Ghaziabad,13:46
+13429,Malda Town Anand Vihar (T) Express,Anand Vihar (T),14:25
+12583,Lucknow Jn. Anand Vihar (T) Double Decker AC Express,Lucknow/ Lucknow Jn.,04:55
+12583,Lucknow Jn. Anand Vihar (T) Double Decker AC Express,Bareilly,08:21
+12583,Lucknow Jn. Anand Vihar (T) Double Decker AC Express,Moradabad,09:39
+12583,Lucknow Jn. Anand Vihar (T) Double Decker AC Express,Ghaziabad,12:14
+12583,Lucknow Jn. Anand Vihar (T) Double Decker AC Express,Anand Vihar (T),12:55
+14209,rayagraj Sanga ucknow Interci Express,Chopan,15:20
+14209,rayagraj Sanga ucknow Interci Express,Prayag,15:38
+14209,rayagraj Sanga ucknow Interci Express,Rae Bareli,17:25
+14209,rayagraj Sanga ucknow Interci Express,Lucknow/ Lucknow Jn.,19:35
+82501,Lucknow Jn. New Delhi Tejas Express,Lucknow/ Lucknow Jn.,06:10
+82501,Lucknow Jn. New Delhi Tejas Express,Kanpur Central,07:25
+82501,Lucknow Jn. New Delhi Tejas Express,Tundla,09:42
+82501,Lucknow Jn. New Delhi Tejas Express,Ghaziabad,11:54
+82501,Lucknow Jn. New Delhi Tejas Express,New Delhi,12:35
+13309,Prayagraj Chopan Express,Chopan,06:00
+13309,Prayagraj Chopan Express,Prayagraj,13:00
+22425,Ayodhya Cantt Anand Vihar (T) Vande Bharat Express,Ayodhya Cantt,15:25
+22425,Ayodhya Cantt Anand Vihar (T) Vande Bharat Express,Lucknow/ Lucknow Jn.,17:15
+22425,Ayodhya Cantt Anand Vihar (T) Vande Bharat Express,Kanpur Central,18:40
+22425,Ayodhya Cantt Anand Vihar (T) Vande Bharat Express,Aligarh,21:35
+22425,Ayodhya Cantt Anand Vihar (T) Vande Bharat Express,Khurja,22:03
+22425,Ayodhya Cantt Anand Vihar (T) Vande Bharat Express,Anand Vihar (T),23:40
+22581,Ballia New Delhi Super Fast Express,Varanasi,22:30
+22581,Ballia New Delhi Super Fast Express,Prayagraj,01:15
+22581,Ballia New Delhi Super Fast Express,Kanpur Central,03:55
+22581,Ballia New Delhi Super Fast Express,Tundla,06:25
+22581,Ballia New Delhi Super Fast Express,Ghaziabad,08:55
+22581,Ballia New Delhi Super Fast Express,New Delhi,09:45
+14201,Jaunpur Rae Bareli Express,Jaunpur,16:30
+14201,Jaunpur Rae Bareli Express,Janghai,17:35
+14201,Jaunpur Rae Bareli Express,Maa Belha Devi Dham Pratapgarh,18:52
+14201,Jaunpur Rae Bareli Express,Raebareli,21:55
+12371,Howrah Bikaner Express,Varanasi,19:10
+12371,Howrah Bikaner Express,Maa Belha Devi Dham Pratapgarh,21:35
+12371,Howrah Bikaner Express,Raebareli,23:05
+12371,Howrah Bikaner Express,Lucknow/ Lucknow Jn.,01:05
+12371,Howrah Bikaner Express,Bareilly,04:39
+12371,Howrah Bikaner Express,Moradabad,06:25
+12371,Howrah Bikaner Express,Ghaziabad,08:55
+12371,Howrah Bikaner Express,Delhi,10:05
+14017,Raxaul Anand Vihar (T) Sadhbhavana Express,Varanasi,11:45
+14017,Raxaul Anand Vihar (T) Sadhbhavana Express,Shahganj,13:30
+14017,Raxaul Anand Vihar (T) Sadhbhavana Express,Jaunpur,12:53
+14017,Raxaul Anand Vihar (T) Sadhbhavana Express,Ayodhyadham,15:10
+14017,Raxaul Anand Vihar (T) Sadhbhavana Express,Ayodhya Cantt,15:40
+14017,Raxaul Anand Vihar (T) Sadhbhavana Express,Lucknow/ Lucknow Jn.,18:15
+14017,Raxaul Anand Vihar (T) Sadhbhavana Express,Moradabad,01:13
+14017,Raxaul Anand Vihar (T) Sadhbhavana Express,Hapur,03:13
+14017,Raxaul Anand Vihar (T) Sadhbhavana Express,Ghaziabad,04:12
+14017,Raxaul Anand Vihar (T) Sadhbhavana Express,Anand Vihar (T),04:45
+22417,Varanasi New Delhi Ma- hamana Express,Varanasi,18:55
+22417,Varanasi New Delhi Ma- hamana Express,Sultanpur,21:02
+22417,Varanasi New Delhi Ma- hamana Express,Lucknow/ Lucknow Jn.,23:55
+22417,Varanasi New Delhi Ma- hamana Express,Bareilly,03:22
+22417,Varanasi New Delhi Ma- hamana Express,Moradabad,05:02
+22417,Varanasi New Delhi Ma- hamana Express,Ghaziabad,07:20
+22417,Varanasi New Delhi Ma- hamana Express,New Delhi,08:05
+15743,Balurghat Bhatinda Farakka Express,Varanasi,11:25
+15743,Balurghat Bhatinda Farakka Express,Zafarabad,12:15
+15743,Balurghat Bhatinda Farakka Express,Shahganj,13:30
+15743,Balurghat Bhatinda Farakka Express,Ayodhyadham,15:10
+15743,Balurghat Bhatinda Farakka Express,Ayodhya Cantt,15:40
+15743,Balurghat Bhatinda Farakka Express,Lucknow/ Lucknow Jn.,18:55
+15743,Balurghat Bhatinda Farakka Express,Kanpur Central,21:45
+15743,Balurghat Bhatinda Farakka Express,Tundla,01:00
+15743,Balurghat Bhatinda Farakka Express,Aligarh,02:15
+15743,Balurghat Bhatinda Farakka Express,Khurja,02:45
+15743,Balurghat Bhatinda Farakka Express,Ghaziabad,04:57
+15743,Balurghat Bhatinda Farakka Express,Delhi,06:30
+15733,Balurghat Bhatinda Farakka Express,Varanasi,11:25
+15733,Balurghat Bhatinda Farakka Express,Zafarabad,12:15
+15733,Balurghat Bhatinda Farakka Express,Sultanpur,14:15
+15733,Balurghat Bhatinda Farakka Express,Lucknow/ Lucknow Jn.,18:55
+15733,Balurghat Bhatinda Farakka Express,Kanpur Central,21:45
+15733,Balurghat Bhatinda Farakka Express,Tundla,01:00
+15733,Balurghat Bhatinda Farakka Express,Aligarh,02:15
+15733,Balurghat Bhatinda Farakka Express,Khurja,02:45
+15733,Balurghat Bhatinda Farakka Express,Ghaziabad,04:57
+15733,Balurghat Bhatinda Farakka Express,Delhi,06:30
+15127,Banaras ew Delh ashi Vis wanath Express,Varanasi,13:30
+15127,Banaras ew Delh ashi Vis wanath Express,Janghai,15:15
+15127,Banaras ew Delh ashi Vis wanath Express,Maa Belha Devi Dham Pratapgarh,16:20
+15127,Banaras ew Delh ashi Vis wanath Express,Raebareli,18:00
+15127,Banaras ew Delh ashi Vis wanath Express,Lucknow/ Lucknow Jn.,20:20
+15127,Banaras ew Delh ashi Vis wanath Express,Bareilly,00:20
+15127,Banaras ew Delh ashi Vis wanath Express,Moradabad,02:07
+15127,Banaras ew Delh ashi Vis wanath Express,Hapur,03:57
+15127,Banaras ew Delh ashi Vis wanath Express,Ghaziabad,04:59
+15127,Banaras ew Delh ashi Vis wanath Express,New Delhi,05:45
+12229,Lucknow Jn. New Delhi Lucknow Mail,Lucknow/ Lucknow Jn.,22:00
+12229,Lucknow Jn. New Delhi Lucknow Mail,Bareilly,01:42
+12229,Lucknow Jn. New Delhi Lucknow Mail,Moradabad,03:33
+12229,Lucknow Jn. New Delhi Lucknow Mail,Hapur,05:00
+12229,Lucknow Jn. New Delhi Lucknow Mail,Ghaziabad,05:55
+12229,Lucknow Jn. New Delhi Lucknow Mail,New Delhi,06:55
+14649,Jaynagar Amritsar Saryu Yamuna Express,Mau,17:25
+14649,Jaynagar Amritsar Saryu Yamuna Express,Azamgarh,18:15
+14649,Jaynagar Amritsar Saryu Yamuna Express,Shahganj,20:30
+14649,Jaynagar Amritsar Saryu Yamuna Express,Ayodhyadham,22:02
+14649,Jaynagar Amritsar Saryu Yamuna Express,Ayodhya Cantt,22:25
+14649,Jaynagar Amritsar Saryu Yamuna Express,Lucknow/ Lucknow Jn.,00:50
+14649,Jaynagar Amritsar Saryu Yamuna Express,Bareilly,04:25
+14649,Jaynagar Amritsar Saryu Yamuna Express,Moradabad,06:13
+14117,Prayagraj Bhiwani Kalindi Express,Prayagraj,15:50
+14117,Prayagraj Bhiwani Kalindi Express,Kanpur Central,18:20
+14117,Prayagraj Bhiwani Kalindi Express,Kannauj,19:59
+14117,Prayagraj Bhiwani Kalindi Express,Farrukhabad,22:10
+14117,Prayagraj Bhiwani Kalindi Express,Shikohabad,00:15
+14117,Prayagraj Bhiwani Kalindi Express,Tundla,01:10
+14117,Prayagraj Bhiwani Kalindi Express,Aligarh,02:15
+14117,Prayagraj Bhiwani Kalindi Express,Ghaziabad,04:45
+14117,Prayagraj Bhiwani Kalindi Express,Delhi,05:45
+14233,Prayagraj Sangam Mankapur Express,Mau,18:30
+14233,Prayagraj Sangam Mankapur Express,Phaphamau,19:03
+14233,Prayagraj Sangam Mankapur Express,Maa Belha Devi Dham Pratapgarh,20:39
+14233,Prayagraj Sangam Mankapur Express,Sultanpur,21:35
+14233,Prayagraj Sangam Mankapur Express,Ayodhyadham,23:54
+14233,Prayagraj Sangam Mankapur Express,Ayodhya Cantt,23:25
+12391,Rajgir New Delhi Shramjeevi Express,Varanasi,15:15
+12391,Rajgir New Delhi Shramjeevi Express,Sultanpur,17:12
+12391,Rajgir New Delhi Shramjeevi Express,Lucknow/ Lucknow Jn.,20:05
+12391,Rajgir New Delhi Shramjeevi Express,Bareilly,23:49
+12391,Rajgir New Delhi Shramjeevi Express,Moradabad,01:37
+12391,Rajgir New Delhi Shramjeevi Express,Ghaziabad,03:54
+12391,Rajgir New Delhi Shramjeevi Express,New Delhi,04:40
+24203,Varanasi Lucknow Intercity Express,Varanasi,17:50
+24203,Varanasi Lucknow Intercity Express,Janghai,18:57
+24203,Varanasi Lucknow Intercity Express,Maa Belha Devi Dham Pratapgarh,19:48
+24203,Varanasi Lucknow Intercity Express,Raebareli,21:14
+24203,Varanasi Lucknow Intercity Express,Lucknow/ Lucknow Jn.,22:50
+12559,Banaras New Delhi Shiv Ganga Express,Banaras,22:15
+12559,Banaras New Delhi Shiv Ganga Express,Prayagraj,00:30
+12559,Banaras New Delhi Shiv Ganga Express,Kanpur Central,02:50
+12559,Banaras New Delhi Shiv Ganga Express,New Delhi,08:30
+14235,Varanasi Bareilly Express,Varanasi,23:05
+14235,Varanasi Bareilly Express,Shahganj,00:57
+14235,Varanasi Bareilly Express,Ayodhyadham,02:46
+14235,Varanasi Bareilly Express,Ayodhya Cantt,03:15
+14235,Varanasi Bareilly Express,Lucknow/ Lucknow Jn.,06:50
+14235,Varanasi Bareilly Express,Bareilly,11:55
+22541,Banara Anand ihar (T arib Ra Expres,Varanasi,19:20
+22541,Banara Anand ihar (T arib Ra Expres,Maa Belha Devi Dham Pratapgarh,21:35
+22541,Banara Anand ihar (T arib Ra Expres,Raebareli,23:05
+22541,Banara Anand ihar (T arib Ra Expres,Lucknow/ Lucknow Jn.,01:05
+22541,Banara Anand ihar (T arib Ra Expres,Bareilly,04:39
+22541,Banara Anand ihar (T arib Ra Expres,Moradabad,06:25
+22541,Banara Anand ihar (T arib Ra Expres,Anand Vihar (T),09:30
+22539,Mau Anand Vihar (T) Express,Mau,20:50
+22539,Mau Anand Vihar (T) Express,Jaunpur,23:15
+22539,Mau Anand Vihar (T) Express,Sultanpur,00:50
+22539,Mau Anand Vihar (T) Express,Lucknow/ Lucknow Jn.,04:10
+22539,Mau Anand Vihar (T) Express,Kanpur Central,06:10
+22539,Mau Anand Vihar (T) Express,Anand Vihar (T),11:30

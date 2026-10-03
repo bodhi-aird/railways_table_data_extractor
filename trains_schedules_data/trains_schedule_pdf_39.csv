@@ -1,0 +1,306 @@
+train_num,train_name,halt_station_name,departure_time
+14718,Haridwar Bikaner Express,Rohtak,23:05
+14718,Haridwar Bikaner Express,Bhiwani,00:35
+14718,Haridwar Bikaner Express,Hissar,02:05
+14718,Haridwar Bikaner Express,Bikaner,07:55
+12485,Hazur Sahib Nanded Sri Ganga- Nagar Express,New Delhi,10:25
+12485,Hazur Sahib Nanded Sri Ganga- Nagar Express,Rohtak,11:32
+12485,Hazur Sahib Nanded Sri Ganga- Nagar Express,Jind,12:14
+12485,Hazur Sahib Nanded Sri Ganga- Nagar Express,Jakhal,13:43
+12485,Hazur Sahib Nanded Sri Ganga- Nagar Express,Bathinda,17:00
+12485,Hazur Sahib Nanded Sri Ganga- Nagar Express,Sri Ganga Nagar,19:15
+15909,Dibrugarh Lalgarh Avadh Assam Express,Delhi,16:10
+15909,Dibrugarh Lalgarh Avadh Assam Express,Rohtak,17:37
+15909,Dibrugarh Lalgarh Avadh Assam Express,Jind,18:17
+15909,Dibrugarh Lalgarh Avadh Assam Express,Narwana,18:44
+15909,Dibrugarh Lalgarh Avadh Assam Express,Jakhal,19:24
+15909,Dibrugarh Lalgarh Avadh Assam Express,Bathinda,22:00
+15909,Dibrugarh Lalgarh Avadh Assam Express,Hanumangarh,23:45
+15909,Dibrugarh Lalgarh Avadh Assam Express,Suratgarh,00:45
+15909,Dibrugarh Lalgarh Avadh Assam Express,Lalgarh,04:35
+14117,Prayagraj Bhiwani Kalindi Express,Delhi,05:45
+14117,Prayagraj Bhiwani Kalindi Express,Rohtak,07:25
+14117,Prayagraj Bhiwani Kalindi Express,Bhiwani,09:25
+12481,Delhi Sri Ganga- Nagar Express,Delhi,13:15
+12481,Delhi Sri Ganga- Nagar Express,Rohtak,14:36
+12481,Delhi Sri Ganga- Nagar Express,Jind,15:18
+12481,Delhi Sri Ganga- Nagar Express,Narwana,15:45
+12481,Delhi Sri Ganga- Nagar Express,Jakhal,16:17
+12481,Delhi Sri Ganga- Nagar Express,Bathinda,18:30
+12481,Delhi Sri Ganga- Nagar Express,Sri Ganga Nagar,20:35
+14731,Delhi Bathinda Kissan Express,Delhi,14:00
+14731,Delhi Bathinda Kissan Express,Rohtak,15:32
+14731,Delhi Bathinda Kissan Express,Bhiwani City,16:20
+14731,Delhi Bathinda Kissan Express,Hissar,18:05
+14731,Delhi Bathinda Kissan Express,Sirsa,19:30
+14731,Delhi Bathinda Kissan Express,Bathinda,21:15
+14085,Tilak Bridge Sirsa Haryana Express,Tilak Bridge,17:35
+14085,Tilak Bridge Sirsa Haryana Express,New Delhi,17:55
+14085,Tilak Bridge Sirsa Haryana Express,Delhi Sarai Rohilla,18:11
+14085,Tilak Bridge Sirsa Haryana Express,Rewari,20:35
+14085,Tilak Bridge Sirsa Haryana Express,Bhiwani,22:05
+14085,Tilak Bridge Sirsa Haryana Express,Hissar,23:20
+14085,Tilak Bridge Sirsa Haryana Express,Sirsa,01:20
+12137,Mumbai CSMT Firozpur Punjab Mail,New Delhi,21:40
+12137,Mumbai CSMT Firozpur Punjab Mail,Rohtak,22:58
+12137,Mumbai CSMT Firozpur Punjab Mail,Jind,23:46
+12137,Mumbai CSMT Firozpur Punjab Mail,Narwana,00:13
+12137,Mumbai CSMT Firozpur Punjab Mail,Jakhal,00:55
+12137,Mumbai CSMT Firozpur Punjab Mail,Bathinda,03:05
+12137,Mumbai CSMT Firozpur Punjab Mail,Kotkapura,03:50
+12137,Mumbai CSMT Firozpur Punjab Mail,Firozpur,05:15
+12555,Gorakhpur Bhatinda Gorakh- dham Express,New Delhi,05:30
+12555,Gorakhpur Bhatinda Gorakh- dham Express,Rohtak,06:50
+12555,Gorakhpur Bhatinda Gorakh- dham Express,Bhiwani,08:45
+12555,Gorakhpur Bhatinda Gorakh- dham Express,Hissar,09:40
+12555,Gorakhpur Bhatinda Gorakh- dham Express,Sirsa,10:45
+12555,Gorakhpur Bhatinda Gorakh- dham Express,Bathinda,12:25
+12455,Delhi Sa- rai Rohilla Bikaner Express,Delhi Sarai Rohilla,22:45
+12455,Delhi Sa- rai Rohilla Bikaner Express,Rohtak,23:44
+12455,Delhi Sa- rai Rohilla Bikaner Express,Jind,00:28
+12455,Delhi Sa- rai Rohilla Bikaner Express,Jakhal,01:43
+12455,Delhi Sa- rai Rohilla Bikaner Express,Bathinda,04:40
+12455,Delhi Sa- rai Rohilla Bikaner Express,Sri Ganga Nagar,07:50
+12455,Delhi Sa- rai Rohilla Bikaner Express,Suratgarh,10:00
+12455,Delhi Sa- rai Rohilla Bikaner Express,Lalgarh,12:19
+12455,Delhi Sa- rai Rohilla Bikaner Express,Bikaner,13:20
+14602,Hanuman- garh Firozpur Express,Hanumangarh,11:30
+14602,Hanuman- garh Firozpur Express,Sri Ganga Nagar,12:50
+14602,Hanuman- garh Firozpur Express,Firozpur,16:25
+12421,Hazur Sahib Nanded Amritsar Express,New Delhi,10:25
+12421,Hazur Sahib Nanded Amritsar Express,Rohtak,11:32
+12421,Hazur Sahib Nanded Amritsar Express,Narwana,12:35
+12421,Hazur Sahib Nanded Amritsar Express,Jakhal,13:43
+14625,Haridwar Firozpur Cantt Express,Bathinda,22:40
+14625,Haridwar Firozpur Cantt Express,Kotkapura,23:24
+14625,Haridwar Firozpur Cantt Express,Firozpur,00:35
+20423,Seoni Firozpur Patalkot Super Fast Express,Delhi Safdarjung,03:40
+20423,Seoni Firozpur Patalkot Super Fast Express,Rohtak,05:25
+20423,Seoni Firozpur Patalkot Super Fast Express,Jind,06:09
+20423,Seoni Firozpur Patalkot Super Fast Express,Narwana,06:41
+20423,Seoni Firozpur Patalkot Super Fast Express,Jakhal,07:18
+20423,Seoni Firozpur Patalkot Super Fast Express,Bathinda,09:40
+20423,Seoni Firozpur Patalkot Super Fast Express,Kotkapura,10:26
+20423,Seoni Firozpur Patalkot Super Fast Express,Firozpur,11:25
+22724,Srigan- ganagar Hazur Sahib Nanded SF,Sri Ganga Nagar,14:10
+22724,Srigan- ganagar Hazur Sahib Nanded SF,Suratgarh,16:00
+22724,Srigan- ganagar Hazur Sahib Nanded SF,Bikaner,19:20
+12439,Hazur Sahib Nanded Srigan- ganagar Express,Hanumangarh,18:35
+12439,Hazur Sahib Nanded Srigan- ganagar Express,Sri Ganga Nagar,19:50
+16311,Srigan- ganagar Kochu- velli Express,Sri Ganga Nagar,14:10
+16311,Srigan- ganagar Kochu- velli Express,Suratgarh,16:00
+16311,Srigan- ganagar Kochu- velli Express,Lalgarh,18:33
+16311,Srigan- ganagar Kochu- velli Express,Bikaner,19:20
+14729,Rewari Fazilka Express,Rewari,04:40
+14729,Rewari Fazilka Express,Bhiwani,06:40
+14729,Rewari Fazilka Express,Hissar,08:00
+14729,Rewari Fazilka Express,Sirsa,09:50
+14729,Rewari Fazilka Express,Bathinda,12:40
+14729,Rewari Fazilka Express,Kotkapura,13:47
+14729,Rewari Fazilka Express,Fazilka,15:45
+14030,Meerut Sri Gan a Naga Express,Tilak Bridge,06:45
+14030,Meerut Sri Gan a Naga Express,New Delhi,09:03
+14030,Meerut Sri Gan a Naga Express,Rewari,12:45
+14030,Meerut Sri Gan a Naga Express,Bhiwani,14:40
+14030,Meerut Sri Gan a Naga Express,Hissar,16:10
+14030,Meerut Sri Gan a Naga Express,Sirsa,18:10
+14030,Meerut Sri Gan a Naga Express,Bathinda,21:05
+14030,Meerut Sri Gan a Naga Express,Sri Ganga Nagar,23:40
+14738,Tilak Bridge Bhiwani Express,Tilak Bridge,18:35
+14738,Tilak Bridge Bhiwani Express,New Delhi,18:50
+14738,Tilak Bridge Bhiwani Express,Rohtak,21:00
+14738,Tilak Bridge Bhiwani Express,Bhiwani,22:50
+14619,Agartala Firozpur Express,New Delhi,13:00
+14619,Agartala Firozpur Express,Rohtak,14:20
+14619,Agartala Firozpur Express,Bhiwani City,14:54
+14619,Agartala Firozpur Express,Hissar,16:30
+14619,Agartala Firozpur Express,Sirsa,18:20
+14619,Agartala Firozpur Express,Bathinda,20:40
+14619,Agartala Firozpur Express,Kotkapura,21:15
+14619,Agartala Firozpur Express,Firozpur,22:55
+20409,Delhi Bhatinda Express,Delhi Safdarjung,07:40
+20409,Delhi Bhatinda Express,Rohtak,08:59
+20409,Delhi Bhatinda Express,Jind,09:39
+20409,Delhi Bhatinda Express,Narwana,10:06
+20409,Delhi Bhatinda Express,Jakhal,10:36
+20409,Delhi Bhatinda Express,Bathinda,12:30
+14027,Jind Firozpur Express,Jind,07:40
+14027,Jind Firozpur Express,Narwana,08:05
+14027,Jind Firozpur Express,Jakhal,08:45
+14027,Jind Firozpur Express,Bathinda,10:50
+14027,Jind Firozpur Express,Kotkapura,11:38
+14027,Jind Firozpur Express,Firozpur,12:40
+14527,Bhatinda Srigan- ganagar Express,Bathinda,17:15
+14527,Bhatinda Srigan- ganagar Express,Sri Ganga Nagar,19:45
+14720,Am- ritsar Bikaner Ex- press,Sri Ganga Nagar,17:10
+14720,Am- ritsar Bikaner Ex- press,Suratgarh,20:20
+14720,Am- ritsar Bikaner Ex- press,Lalgarh,23:05
+14720,Am- ritsar Bikaner Ex- press,Bikaner,00:45
+15743,Balurghat Bhatinda Farakka Express,Delhi,06:30
+15743,Balurghat Bhatinda Farakka Express,Rohtak,07:38
+15743,Balurghat Bhatinda Farakka Express,Jind,08:20
+15743,Balurghat Bhatinda Farakka Express,Narwana,08:48
+15743,Balurghat Bhatinda Farakka Express,Jakhal,09:24
+15743,Balurghat Bhatinda Farakka Express,Bathinda,11:50
+15733,Balurghat Bhatinda Farakka Express,Delhi,06:30
+15733,Balurghat Bhatinda Farakka Express,Jind,09:20
+15733,Balurghat Bhatinda Farakka Express,Narwana,09:56
+15733,Balurghat Bhatinda Farakka Express,Jakhal,10:33
+15733,Balurghat Bhatinda Farakka Express,Bathinda,12:55
+12489,Srigan- ganagar Dadar SF Express,Sri Ganga Nagar,09:45
+12489,Srigan- ganagar Dadar SF Express,Suratgarh,11:40
+12489,Srigan- ganagar Dadar SF Express,Bikaner,15:20
+14717,Bikaner Haridwar Express,Bikaner,23:10
+14717,Bikaner Haridwar Express,Hissar s,03:55
+14717,Bikaner Haridwar Express,Bhiwani,05:30
+14717,Bikaner Haridwar Express,Rohtak,07:28
+12486,Sri Ganga Nagar Hazur Sahib Nand- ed Express,Sri Ganga Nagar,14:30
+12486,Sri Ganga Nagar Hazur Sahib Nand- ed Express,Bathinda,16:55
+12486,Sri Ganga Nagar Hazur Sahib Nand- ed Express,Jakhal,19:42
+12486,Sri Ganga Nagar Hazur Sahib Nand- ed Express,Jind,20:32
+12486,Sri Ganga Nagar Hazur Sahib Nand- ed Express,Rohtak,21:12
+12486,Sri Ganga Nagar Hazur Sahib Nand- ed Express,New Delhi,23:15
+15910,Lalgarh Dibrugarh Avadh Assam Express,Lalgarh,19:50
+15910,Lalgarh Dibrugarh Avadh Assam Express,Suratgarh,22:25
+15910,Lalgarh Dibrugarh Avadh Assam Express,Hanumangarh,23:25
+15910,Lalgarh Dibrugarh Avadh Assam Express,Bathinda,02:00
+15910,Lalgarh Dibrugarh Avadh Assam Express,Jakhal,03:26
+15910,Lalgarh Dibrugarh Avadh Assam Express,Narwana,04:00
+15910,Lalgarh Dibrugarh Avadh Assam Express,Jind,04:29
+15910,Lalgarh Dibrugarh Avadh Assam Express,Rohtak,05:15
+15910,Lalgarh Dibrugarh Avadh Assam Express,Delhi,07:22
+12138,Firozpur Mumbai CSMT Punjab Mail,Firozpur,21:50
+12138,Firozpur Mumbai CSMT Punjab Mail,Kotkapura,22:46
+12138,Firozpur Mumbai CSMT Punjab Mail,Bathinda,23:55
+12138,Firozpur Mumbai CSMT Punjab Mail,Jakhal,01:26
+12138,Firozpur Mumbai CSMT Punjab Mail,Narwana,02:00
+12138,Firozpur Mumbai CSMT Punjab Mail,Jind,02:32
+12138,Firozpur Mumbai CSMT Punjab Mail,Rohtak,03:17
+12138,Firozpur Mumbai CSMT Punjab Mail,New Delhi,05:10
+14086,irsa Tila Bridge Haryana Express,Sirsa,02:50
+14086,irsa Tila Bridge Haryana Express,Hissar s,04:20
+14086,irsa Tila Bridge Haryana Express,Bhiwani,05:25
+14086,irsa Tila Bridge Haryana Express,Rewari,07:45
+14086,irsa Tila Bridge Haryana Express,Delhi Sarai Rohilla,19:20
+14086,irsa Tila Bridge Haryana Express,Delhi,10:25
+14086,irsa Tila Bridge Haryana Express,New Delhi,09:52
+12482,Sri Ganga- Nagar Delhi Express,Sri Ganga Nagar,06:10
+12482,Sri Ganga- Nagar Delhi Express,Bathinda,08:40
+12482,Sri Ganga- Nagar Delhi Express,Jakhal,10:04
+12482,Sri Ganga- Nagar Delhi Express,Narwana,10:33
+12482,Sri Ganga- Nagar Delhi Express,Jind,11:02
+12482,Sri Ganga- Nagar Delhi Express,Rohtak,11:45
+12482,Sri Ganga- Nagar Delhi Express,Delhi,13:35
+14732,Bathinda Delhi Kissan Express,Bathinda,05:00
+14732,Bathinda Delhi Kissan Express,Sirsa,06:15
+14732,Bathinda Delhi Kissan Express,Hissar s,07:40
+14732,Bathinda Delhi Kissan Express,Bhiwani City,09:00
+14732,Bathinda Delhi Kissan Express,Rohtak,10:18
+14732,Bathinda Delhi Kissan Express,Delhi,12:20
+14118,Bhiwani Prayagraj Kalindi Express,Bhiwani,19:35
+14118,Bhiwani Prayagraj Kalindi Express,Rohtak,20:56
+14118,Bhiwani Prayagraj Kalindi Express,Delhi,22:50
+12556,Bathinda Gorakhpur Gorakh- dham Express,Bathinda,14:15
+12556,Bathinda Gorakhpur Gorakh- dham Express,Sirsa,15:25
+12556,Bathinda Gorakhpur Gorakh- dham Express,Hissar s,16:40
+12556,Bathinda Gorakhpur Gorakh- dham Express,Bhiwani,18:05
+12556,Bathinda Gorakhpur Gorakh- dham Express,Rohtak,19:35
+12556,Bathinda Gorakhpur Gorakh- dham Express,New Delhi,21:25
+12456,Bikaner Delhi Sarai Rohilla Express,Bikaner,16:45
+12456,Bikaner Delhi Sarai Rohilla Express,Lalgarh,16:57
+12456,Bikaner Delhi Sarai Rohilla Express,Suratgarh,19:25
+12456,Bikaner Delhi Sarai Rohilla Express,Sri Ganga Nagar,22:30
+12456,Bikaner Delhi Sarai Rohilla Express,Bathinda,01:00
+12456,Bikaner Delhi Sarai Rohilla Express,Jakhal,04:02
+12456,Bikaner Delhi Sarai Rohilla Express,Jind,04:55
+12456,Bikaner Delhi Sarai Rohilla Express,Rohtak,05:39
+12456,Bikaner Delhi Sarai Rohilla Express,Delhi Sarai Rohilla,07:20
+14601,Firozpur Hanu- mangarh Express,Firozpur,05:05
+14601,Firozpur Hanu- mangarh Express,Sri Ganga Nagar,09:00
+14601,Firozpur Hanu- mangarh Express,Hanumangarh,10:25
+12422,Amritsar Hazur Sahib Nanded Express,Jakhal,19:42
+12422,Amritsar Hazur Sahib Nanded Express,Narwana,20:09
+12422,Amritsar Hazur Sahib Nanded Express,Rohtak,21:12
+12422,Amritsar Hazur Sahib Nanded Express,New Delhi,23:15
+14626,Firozpur Cantt Haridwar Express,Firozpur,22:40
+14626,Firozpur Cantt Haridwar Express,Kotkapura,23:26
+14626,Firozpur Cantt Haridwar Express,Bathinda,00:40
+20424,Firozpur Seoni Patalkot Super Fast Express,Firozpur,04:10
+20424,Firozpur Seoni Patalkot Super Fast Express,Kotkapura,04:57
+20424,Firozpur Seoni Patalkot Super Fast Express,Bathinda,06:25
+20424,Firozpur Seoni Patalkot Super Fast Express,Jakhal,07:51
+20424,Firozpur Seoni Patalkot Super Fast Express,Narwana,08:25
+20424,Firozpur Seoni Patalkot Super Fast Express,Jind,08:58
+20424,Firozpur Seoni Patalkot Super Fast Express,Rohtak,09:41
+20424,Firozpur Seoni Patalkot Super Fast Express,Delhi Safdarjung,11:20
+22723,Hazur Sahib Nanded Sriganga- nagar SF,Bikaner,13:30
+22723,Hazur Sahib Nanded Sriganga- nagar SF,Suratgarh,16:25
+22723,Hazur Sahib Nanded Sriganga- nagar SF,Sri Ganga Nagar,19:00
+12440,Sriganga- nagar Hazur Sahib Nanded Express,Sri Ganga Nagar,13:25
+12440,Sriganga- nagar Hazur Sahib Nanded Express,Hanumangarh,14:25
+12440,Sriganga- nagar Hazur Sahib Nanded Express,Bathinda,16:55
+12440,Sriganga- nagar Hazur Sahib Nanded Express,Jakhal,19:42
+12440,Sriganga- nagar Hazur Sahib Nanded Express,Jind,20:32
+12440,Sriganga- nagar Hazur Sahib Nanded Express,Rohtak,21:12
+12440,Sriganga- nagar Hazur Sahib Nanded Express,New Delhi,23:15
+16312,Kochivalli Srigan- ganagar Express,Bikaner,20:25
+16312,Kochivalli Srigan- ganagar Express,Lalgarh,20:40
+16312,Kochivalli Srigan- ganagar Express,Suratgarh,23:30
+16312,Kochivalli Srigan- ganagar Express,Sri Ganga Nagar,02:05
+14730,Fazilka Rewari Express,Firozpur,08:45
+14730,Fazilka Rewari Express,Kotkapura,10:48
+14730,Fazilka Rewari Express,Bathinda,12:40
+14730,Fazilka Rewari Express,Sirsa,14:25
+14730,Fazilka Rewari Express,Hissar s,16:45
+14730,Fazilka Rewari Express,Bhiwani,18:15
+14730,Fazilka Rewari Express,Rewari,20:50
+14029,Sri Ganga Nagar Delhi Express,Sri Ganga Nagar,01:40
+14029,Sri Ganga Nagar Delhi Express,Bathinda,04:20
+14029,Sri Ganga Nagar Delhi Express,Sirsa,06:35
+14029,Sri Ganga Nagar Delhi Express,Hissar s,08:50
+14029,Sri Ganga Nagar Delhi Express,Bhiwani,10:15
+14029,Sri Ganga Nagar Delhi Express,Rewari,13:00
+14029,Sri Ganga Nagar Delhi Express,Delhi Sarai Rohilla,15:03
+14029,Sri Ganga Nagar Delhi Express,Delhi,15:40
+14737,Bhiwani Tilak Bridge Express,Bhiwani,04:50
+14737,Bhiwani Tilak Bridge Express,Rohtak,06:08
+14737,Bhiwani Tilak Bridge Express,Delhi Safdarjung,08:41
+14737,Bhiwani Tilak Bridge Express,New Delhi,08:21
+14620,Firozpur Cantt. Agartala Express,Kotkapura,14:09
+14620,Firozpur Cantt. Agartala Express,Bathinda,15:25
+14620,Firozpur Cantt. Agartala Express,Sirsa,16:45
+14620,Firozpur Cantt. Agartala Express,Hissar s,18:40
+14620,Firozpur Cantt. Agartala Express,Bhiwani City,19:52
+14620,Firozpur Cantt. Agartala Express,Rohtak,21:48
+14620,Firozpur Cantt. Agartala Express,New Delhi,23:45
+20410,Bhatin- da Delhi Express,Bathinda,15:55
+20410,Bhatin- da Delhi Express,Jakhal,17:04
+20410,Bhatin- da Delhi Express,Narwana,17:33
+20410,Bhatin- da Delhi Express,Jind,17:59
+20410,Bhatin- da Delhi Express,Rohtak,18:44
+20410,Bhatin- da Delhi Express,Delhi,20:45
+14028,Firozpur Jind Express,Kotkapura,15:45
+14028,Firozpur Jind Express,Bathinda,17:20
+14028,Firozpur Jind Express,Jakhal,18:55
+14028,Firozpur Jind Express,Narwana,19:29
+14028,Firozpur Jind Express,Jind,20:10
+14528,Sriganga- nagar Bhatinda Express,Sri Ganga Nagar,20:45
+14528,Sriganga- nagar Bhatinda Express,Bathinda,23:20
+14719,Bikaner Amritsar Express,Bikaner,15:00
+14719,Bikaner Amritsar Express,Lalgarh,15:12
+14719,Bikaner Amritsar Express,Suratgarh,18:25
+14719,Bikaner Amritsar Express,Sri Ganga Nagar,21:45
+15744,Bhatinda Balurghat Farakka Express,Bathinda,16:25
+15744,Bhatinda Balurghat Farakka Express,Jakhal,17:31
+15744,Bhatinda Balurghat Farakka Express,Narwana,18:05
+15744,Bhatinda Balurghat Farakka Express,Jind,18:35
+15744,Bhatinda Balurghat Farakka Express,Rohtak,19:17
+15744,Bhatinda Balurghat Farakka Express,Delhi,21:40
+15734,Bhatinda Balurghat Farakka Express,Bathinda,15:00
+15734,Bhatinda Balurghat Farakka Express,Jakhal,16:26
+15734,Bhatinda Balurghat Farakka Express,Narwana,17:00
+15734,Bhatinda Balurghat Farakka Express,Jind,17:40
+15734,Bhatinda Balurghat Farakka Express,Delhi,21:40
+12490,Dadar Sriganga- nagar SF Express,Bikaner,12:25
+12490,Dadar Sriganga- nagar SF Express,Suratgarh,15:25
+12490,Dadar Sriganga- nagar SF Express,Sri Ganga Nagar,17:55

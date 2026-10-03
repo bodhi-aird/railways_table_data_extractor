@@ -1,0 +1,497 @@
+train_num,train_name,halt_station_name,departure_time
+18238,Amritsar Bilaspur Chhattisgarh Express,Nizamuddin,04:25
+18238,Amritsar Bilaspur Chhattisgarh Express,Mathura,06:30
+18238,Amritsar Bilaspur Chhattisgarh Express,Agra Cantt.,07:20
+18238,Amritsar Bilaspur Chhattisgarh Express,Gwalior,10:54
+18238,Amritsar Bilaspur Chhattisgarh Express,Virangna Lakshmibai Jhansi,12:55
+18238,Amritsar Bilaspur Chhattisgarh Express,Bina,16:00
+18238,Amritsar Bilaspur Chhattisgarh Express,Bhopal,18:00
+18238,Amritsar Bilaspur Chhattisgarh Express,Narmadapuram,19:19
+18238,Amritsar Bilaspur Chhattisgarh Express,Itarsi,20:30
+18238,Amritsar Bilaspur Chhattisgarh Express,Amla,22:27
+18238,Amritsar Bilaspur Chhattisgarh Express,Nagpur,02:25
+18238,Amritsar Bilaspur Chhattisgarh Express,Gondia,04:40
+18238,Amritsar Bilaspur Chhattisgarh Express,Dongargarh,06:00
+18238,Amritsar Bilaspur Chhattisgarh Express,Durg,07:35
+18238,Amritsar Bilaspur Chhattisgarh Express,Raipur,08:35
+18238,Amritsar Bilaspur Chhattisgarh Express,Bhatapara,09:35
+18238,Amritsar Bilaspur Chhattisgarh Express,Bilaspur,10:55
+20844,Bhagat Ki Kothi Bilaspur Express,Bhopal,19:50
+20844,Bhagat Ki Kothi Bilaspur Express,Narmadapuram,21:04
+20844,Bhagat Ki Kothi Bilaspur Express,Itarsi,21:50
+20844,Bhagat Ki Kothi Bilaspur Express,Nagpur,02:50
+20844,Bhagat Ki Kothi Bilaspur Express,Gondia,04:30
+20844,Bhagat Ki Kothi Bilaspur Express,Durg,07:20
+20844,Bhagat Ki Kothi Bilaspur Express,Raipur,08:10
+20844,Bhagat Ki Kothi Bilaspur Express,Bhatapara,09:04
+20844,Bhagat Ki Kothi Bilaspur Express,Bilaspur,10:25
+20846,Bikaner Bilaspur Express,Bhopal,19:50
+20846,Bikaner Bilaspur Express,Itarsi,21:50
+20846,Bikaner Bilaspur Express,Nagpur,02:50
+20846,Bikaner Bilaspur Express,Gondia,04:30
+20846,Bikaner Bilaspur Express,Durg,07:20
+20846,Bikaner Bilaspur Express,Raipur,08:10
+20846,Bikaner Bilaspur Express,Bhatapara,09:04
+20846,Bikaner Bilaspur Express,Bilaspur,10:25
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Nizamuddin,05:10
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Mathura,06:45
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Agra Cantt.,07:25
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Gwalior,09:43
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Virangna Lakshmibai Jhansi,11:28
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Bina,13:40
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Bhopal,15:30
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Narmadapuram,16:42
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Itarsi,17:20
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Nagpur,21:55
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Balharshah,01:20
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Warangal,04:25
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Vijayawada,08:30
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Rajahmundry,10:35
+12804,Nizamuddin Visakhapat- nam Swarna Jayanti Express,Visakhapatnam,14:45
+20829,Durg Visakhapat- nam Vande Bharat Express,Durg,05:45
+20829,Durg Visakhapat- nam Vande Bharat Express,Raipur,06:18
+20829,Durg Visakhapat- nam Vande Bharat Express,Raipur,06:18
+20829,Durg Visakhapat- nam Vande Bharat Express,Titlagarh,08:50
+20829,Durg Visakhapat- nam Vande Bharat Express,Rayagada,10:52
+20829,Durg Visakhapat- nam Vande Bharat Express,Vizianagaram,12:32
+20829,Durg Visakhapat- nam Vande Bharat Express,Visakhapatnam,13:50
+12808,Nizamuddin Visakhapat- nam Samta Express,Nizamuddin,07:00
+12808,Nizamuddin Visakhapat- nam Samta Express,Mathura,08:25
+12808,Nizamuddin Visakhapat- nam Samta Express,Agra Cantt.,09:15
+12808,Nizamuddin Visakhapat- nam Samta Express,Gwalior,11:20
+12808,Nizamuddin Visakhapat- nam Samta Express,Virangna Lakshmibai Jhansi,13:23
+12808,Nizamuddin Visakhapat- nam Samta Express,Bina,15:45
+12808,Nizamuddin Visakhapat- nam Samta Express,Bhopal,17:45
+12808,Nizamuddin Visakhapat- nam Samta Express,Itarsi,19:30
+12808,Nizamuddin Visakhapat- nam Samta Express,Nagpur,00:50
+12808,Nizamuddin Visakhapat- nam Samta Express,Gondia,02:40
+12808,Nizamuddin Visakhapat- nam Samta Express,Dongargarh,03:45
+12808,Nizamuddin Visakhapat- nam Samta Express,Durg,05:12
+12808,Nizamuddin Visakhapat- nam Samta Express,Raipur,05:57
+12808,Nizamuddin Visakhapat- nam Samta Express,Raipur,05:57
+12808,Nizamuddin Visakhapat- nam Samta Express,Titlagarh,10:00
+12808,Nizamuddin Visakhapat- nam Samta Express,Rayagada,13:10
+12808,Nizamuddin Visakhapat- nam Samta Express,Bobbili,14:20
+12808,Nizamuddin Visakhapat- nam Samta Express,Vizianagaram,15:10
+12808,Nizamuddin Visakhapat- nam Samta Express,Visakhapatnam,16:30
+12410,Nizamuddin Raigarh Gondwana Express,Nizamuddin,15:05
+12410,Nizamuddin Raigarh Gondwana Express,Mathura,16:25
+12410,Nizamuddin Raigarh Gondwana Express,Agra Cantt.,17:20
+12410,Nizamuddin Raigarh Gondwana Express,Gwalior,19:30
+12410,Nizamuddin Raigarh Gondwana Express,Virangna Lakshmibai Jhansi,21:03
+12410,Nizamuddin Raigarh Gondwana Express,Bina,23:20
+12410,Nizamuddin Raigarh Gondwana Express,Bhopal,01:10
+12410,Nizamuddin Raigarh Gondwana Express,Narmadapuram,02:14
+12410,Nizamuddin Raigarh Gondwana Express,Itarsi,02:55
+12410,Nizamuddin Raigarh Gondwana Express,Amla,05:09
+12410,Nizamuddin Raigarh Gondwana Express,Nagpur,08:35
+12410,Nizamuddin Raigarh Gondwana Express,Gondia,10:20
+12410,Nizamuddin Raigarh Gondwana Express,Dongargarh,11:20
+12410,Nizamuddin Raigarh Gondwana Express,Durg,12:55
+12410,Nizamuddin Raigarh Gondwana Express,Raipur,13:35
+12410,Nizamuddin Raigarh Gondwana Express,Bhatapara,14:30
+12410,Nizamuddin Raigarh Gondwana Express,Bilaspur,15:45
+12410,Nizamuddin Raigarh Gondwana Express,Champa,16:35
+12410,Nizamuddin Raigarh Gondwana Express,Raigarh,18:05
+12442,New Delhi Bilaspur Rajdhani Express,New Delhi,15:25
+12442,New Delhi Bilaspur Rajdhani Express,Gwalior,18:53
+12442,New Delhi Bilaspur Rajdhani Express,Virangna Lakshmibai Jhansi,20:15
+12442,New Delhi Bilaspur Rajdhani Express,Bhopal,23:40
+12442,New Delhi Bilaspur Rajdhani Express,Nagpur,05:30
+12442,New Delhi Bilaspur Rajdhani Express,Gondia,07:07
+12442,New Delhi Bilaspur Rajdhani Express,Durg,09:20
+12442,New Delhi Bilaspur Rajdhani Express,Raipur,10:00
+12442,New Delhi Bilaspur Rajdhani Express,Bilaspur,12:00
+18517,Korba Vi- sakhapatnam Express,Korba,16:10
+18517,Korba Vi- sakhapatnam Express,Champa,16:51
+18517,Korba Vi- sakhapatnam Express,Bilaspur,18:10
+18517,Korba Vi- sakhapatnam Express,Bhatapara,18:50
+18517,Korba Vi- sakhapatnam Express,Raipur,20:10
+18517,Korba Vi- sakhapatnam Express,Titlagarh,23:55
+18517,Korba Vi- sakhapatnam Express,Rayagada,03:15
+18517,Korba Vi- sakhapatnam Express,Bobbili,04:25
+18517,Korba Vi- sakhapatnam Express,Vizianagaram,05:20
+18517,Korba Vi- sakhapatnam Express,Visakhapatnam,06:45
+18239,Korba NSCB Itwari Express/ Passenger,Korba,18:13
+18239,Korba NSCB Itwari Express/ Passenger,Champa,19:11
+18239,Korba NSCB Itwari Express/ Passenger,Bilaspur,20:50
+18239,Korba NSCB Itwari Express/ Passenger,Bhatapara,21:34
+18239,Korba NSCB Itwari Express/ Passenger,Raipur,22:40
+12852,Chennai Bilaspur Express,Nagbhir,07:10
+12852,Chennai Bilaspur Express,Gondia,09:25
+12852,Chennai Bilaspur Express,Durg,11:55
+12852,Chennai Bilaspur Express,Raipur,12:35
+12852,Chennai Bilaspur Express,Bilaspur,14:30
+12852,Chennai Bilaspur Express,Vijayawada,22:00
+20814,Jodhpur Puri Express,Bhopal,07:20
+20814,Jodhpur Puri Express,Itarsi,09:20
+20814,Jodhpur Puri Express,Nagpur,14:40
+20814,Jodhpur Puri Express,Gondia,16:25
+20814,Jodhpur Puri Express,Durg,18:55
+20814,Jodhpur Puri Express,Raipur,19:35
+20814,Jodhpur Puri Express,Bhatapara,20:25
+20814,Jodhpur Puri Express,Bilaspur,21:50
+20814,Jodhpur Puri Express,Champa,22:40
+20814,Jodhpur Puri Express,Raigarh,23:38
+12722,Nizamuddin Hyderabad Dakshin Express,Nizamuddin,22:50
+12722,Nizamuddin Hyderabad Dakshin Express,Mathura,00:35
+12722,Nizamuddin Hyderabad Dakshin Express,Agra Cantt.,01:15
+12722,Nizamuddin Hyderabad Dakshin Express,Gwalior,03:22
+12722,Nizamuddin Hyderabad Dakshin Express,Virangna Lakshmibai Jhansi,05:10
+12722,Nizamuddin Hyderabad Dakshin Express,Bina,07:30
+12722,Nizamuddin Hyderabad Dakshin Express,Bhopal,09:40
+12722,Nizamuddin Hyderabad Dakshin Express,Narmadapuram,11:02
+12722,Nizamuddin Hyderabad Dakshin Express,Itarsi,12:00
+12722,Nizamuddin Hyderabad Dakshin Express,Amla,14:08
+12722,Nizamuddin Hyderabad Dakshin Express,Nagpur,17:10
+12722,Nizamuddin Hyderabad Dakshin Express,Balharshah,21:00
+12722,Nizamuddin Hyderabad Dakshin Express,Kazipet,00:20
+22648,Thiruvana- mthapuram North Korba Express,Nagpur,16:40
+22648,Thiruvana- mthapuram North Korba Express,Gondia,18:30
+22648,Thiruvana- mthapuram North Korba Express,Dongargarh,19:30
+22648,Thiruvana- mthapuram North Korba Express,Durg,21:25
+22648,Thiruvana- mthapuram North Korba Express,Raipur,22:05
+22648,Thiruvana- mthapuram North Korba Express,Bhatapara,22:55
+22648,Thiruvana- mthapuram North Korba Express,Bilaspur,00:25
+22648,Thiruvana- mthapuram North Korba Express,Champa,01:26
+22648,Thiruvana- mthapuram North Korba Express,Korba,03:00
+22648,Thiruvana- mthapuram North Korba Express,Vijayawada,05:45
+12251,Yesvantpur Korba Wainganga Express,Gondia,21:05
+12251,Yesvantpur Korba Wainganga Express,Dongargarh,22:00
+12251,Yesvantpur Korba Wainganga Express,Durg,23:30
+12251,Yesvantpur Korba Wainganga Express,Raipur,00:10
+12251,Yesvantpur Korba Wainganga Express,Bhatapara,01:00
+12251,Yesvantpur Korba Wainganga Express,Bilaspur,02:25
+12251,Yesvantpur Korba Wainganga Express,Champa,03:33
+12251,Yesvantpur Korba Wainganga Express,Korba,04:30
+17481,Bilaspur Tirupati Express,Bilaspur,15:35
+17481,Bilaspur Tirupati Express,Bhatapara,16:15
+17481,Bilaspur Tirupati Express,Raipur,17:35
+17481,Bilaspur Tirupati Express,Titlagarh,21:05
+17481,Bilaspur Tirupati Express,Rayagada,23:50
+17481,Bilaspur Tirupati Express,Bobbili,01:00
+17481,Bilaspur Tirupati Express,Vizianagaram,01:50
+17481,Bilaspur Tirupati Express,Vijayawada,12:05
+17481,Bilaspur Tirupati Express,Rajahmundry,07:20
+17481,Bilaspur Tirupati Express,Visakhapatnam,03:25
+22620,Tirunelveli Bilaspur Express,Nagpur,14:10
+22620,Tirunelveli Bilaspur Express,Gondia,16:10
+22620,Tirunelveli Bilaspur Express,Dongargarh,17:25
+22620,Tirunelveli Bilaspur Express,Durg,18:55
+22620,Tirunelveli Bilaspur Express,Raipur,19:35
+22620,Tirunelveli Bilaspur Express,Bhatapara,20:25
+22620,Tirunelveli Bilaspur Express,Bilaspur,21:35
+22620,Tirunelveli Bilaspur Express,Vijayawada,03:10
+22816,Ernakulam Bilaspur Express,Nagpur,14:10
+22816,Ernakulam Bilaspur Express,Gondia,16:10
+22816,Ernakulam Bilaspur Express,Durg,18:55
+22816,Ernakulam Bilaspur Express,Raipur,19:35
+22816,Ernakulam Bilaspur Express,Bhatapara,20:25
+22816,Ernakulam Bilaspur Express,Bilaspur,21:35
+22816,Ernakulam Bilaspur Express,Vijayawada,03:10
+22848,Lokmanya Tilak (T) Vi- sakhapatnam Express,Nagpur,13:40
+22848,Lokmanya Tilak (T) Vi- sakhapatnam Express,Gondia,15:15
+22848,Lokmanya Tilak (T) Vi- sakhapatnam Express,Durg,17:30
+22848,Lokmanya Tilak (T) Vi- sakhapatnam Express,Raipur,18:15
+22848,Lokmanya Tilak (T) Vi- sakhapatnam Express,Raipur,18:15
+22848,Lokmanya Tilak (T) Vi- sakhapatnam Express,Titlagarh,22:05
+22848,Lokmanya Tilak (T) Vi- sakhapatnam Express,Rayagada,01:30
+22848,Lokmanya Tilak (T) Vi- sakhapatnam Express,Bobbili,02:35
+22848,Lokmanya Tilak (T) Vi- sakhapatnam Express,Vizianagaram,03:40
+22848,Lokmanya Tilak (T) Vi- sakhapatnam Express,Visakhapatnam,05:20
+18574,Bhagat Ki Kothi (Jodhpur) Visakhapatnam Express,Bhatapara,22:26
+18574,Bhagat Ki Kothi (Jodhpur) Visakhapatnam Express,Raipur,23:55
+18574,Bhagat Ki Kothi (Jodhpur) Visakhapatnam Express,Titlagarh,03:25
+18574,Bhagat Ki Kothi (Jodhpur) Visakhapatnam Express,Rayagada,06:30
+18574,Bhagat Ki Kothi (Jodhpur) Visakhapatnam Express,Bobbili,07:45
+18574,Bhagat Ki Kothi (Jodhpur) Visakhapatnam Express,Vizianagaram,08:50
+18574,Bhagat Ki Kothi (Jodhpur) Visakhapatnam Express,Visakhapatnam,10:30
+18250,Korba Raipur Hasdeo Express,Korba,06:30
+18250,Korba Raipur Hasdeo Express,Champa,07:10
+18250,Korba Raipur Hasdeo Express,Bilaspur,08:25
+18250,Korba Raipur Hasdeo Express,Bhatapara,09:13
+18250,Korba Raipur Hasdeo Express,Raipur,10:35
+18252,Korba Raipur Hasdeo Express,Korba,06:30
+18252,Korba Raipur Hasdeo Express,Champa,07:10
+18252,Korba Raipur Hasdeo Express,Bilaspur,08:25
+18252,Korba Raipur Hasdeo Express,Bhatapara,09:13
+18252,Korba Raipur Hasdeo Express,Raipur,10:35
+17005,Hyderabad Raxaul Express,Gondia,09:25
+17005,Hyderabad Raxaul Express,Durg,11:55
+17005,Hyderabad Raxaul Express,Raipur,12:35
+17005,Hyderabad Raxaul Express,Bilaspur,14:40
+17005,Hyderabad Raxaul Express,Raigarh,16:20
+17007,Secun- derabad Darbhanga Express,Gondia,09:25
+17007,Secun- derabad Darbhanga Express,Durg,11:55
+17007,Secun- derabad Darbhanga Express,Raipur,12:35
+17007,Secun- derabad Darbhanga Express,Bilaspur,14:40
+17007,Secun- derabad Darbhanga Express,Raigarh,16:20
+20806,New Delhi Vishakhapatnam Andhra Pradesh AC Express,New Delhi,20:00
+20806,New Delhi Vishakhapatnam Andhra Pradesh AC Express,Agra Cantt.,22:00
+20806,New Delhi Vishakhapatnam Andhra Pradesh AC Express,Gwalior,23:45
+20806,New Delhi Vishakhapatnam Andhra Pradesh AC Express,Virangna Lakshmibai Jhansi,01:15
+20806,New Delhi Vishakhapatnam Andhra Pradesh AC Express,Bhopal,04:45
+20806,New Delhi Vishakhapatnam Andhra Pradesh AC Express,Nagpur,10:30
+20806,New Delhi Vishakhapatnam Andhra Pradesh AC Express,Balharshah,14:05
+20806,New Delhi Vishakhapatnam Andhra Pradesh AC Express,Warangal,17:30
+20806,New Delhi Vishakhapatnam Andhra Pradesh AC Express,Vijayawada,21:40
+20806,New Delhi Vishakhapatnam Andhra Pradesh AC Express,Rajahmundry,00:05
+20806,New Delhi Vishakhapatnam Andhra Pradesh AC Express,Visakhapatnam,04:20
+18529,Durg Vishakhapa- tnam Express,Durg,18:33
+18529,Durg Vishakhapa- tnam Express,Raipur,20:15
+18529,Durg Vishakhapa- tnam Express,Raipur,20:15
+18529,Durg Vishakhapa- tnam Express,Titlagarh,00:20
+18529,Durg Vishakhapa- tnam Express,Rayagada,05:30
+18529,Durg Vishakhapa- tnam Express,Bobbili,07:00
+18529,Durg Vishakhapa- tnam Express,Vizianagaram,08:05
+18529,Durg Vishakhapa- tnam Express,Visakhapatnam,10:05
+20813,Puri Jodhpur Express,Raigarh,01:27
+20813,Puri Jodhpur Express,Champa,02:32
+20813,Puri Jodhpur Express,Bilaspur,04:00
+20813,Puri Jodhpur Express,Bhatapara,04:40
+20813,Puri Jodhpur Express,Raipur,05:40
+20813,Puri Jodhpur Express,Durg,06:35
+20813,Puri Jodhpur Express,Gondia,08:35
+20813,Puri Jodhpur Express,Nagpur,11:15
+20813,Puri Jodhpur Express,Itarsi,16:00
+20813,Puri Jodhpur Express,Bhopal,18:00
+12409,Raigarh Nizamuddin Gondwana Express,Raigarh,03:25
+12409,Raigarh Nizamuddin Gondwana Express,Champa,04:31
+12409,Raigarh Nizamuddin Gondwana Express,Bilaspur,05:50
+12409,Raigarh Nizamuddin Gondwana Express,Bhatapara,06:30
+12409,Raigarh Nizamuddin Gondwana Express,Raipur,07:40
+12409,Raigarh Nizamuddin Gondwana Express,Durg,08:35
+12409,Raigarh Nizamuddin Gondwana Express,Dongargarh,09:21
+12409,Raigarh Nizamuddin Gondwana Express,Gondia,10:30
+12409,Raigarh Nizamuddin Gondwana Express,Nagpur,12:55
+12409,Raigarh Nizamuddin Gondwana Express,Amla,15:02
+12409,Raigarh Nizamuddin Gondwana Express,Itarsi,17:50
+12409,Raigarh Nizamuddin Gondwana Express,Narmadapuram,18:10
+12409,Raigarh Nizamuddin Gondwana Express,Bhopal,19:35
+12409,Raigarh Nizamuddin Gondwana Express,Bina,21:40
+12409,Raigarh Nizamuddin Gondwana Express,Virangna Lakshmibai Jhansi,23:38
+12409,Raigarh Nizamuddin Gondwana Express,Gwalior,00:50
+12409,Raigarh Nizamuddin Gondwana Express,Agra Cantt.,02:20
+12409,Raigarh Nizamuddin Gondwana Express,Mathura,02:55
+12409,Raigarh Nizamuddin Gondwana Express,Nizamuddin,05:00
+12441,Bilaspur New Delhi Rajdhani Express,Bilaspur,14:00
+12441,Bilaspur New Delhi Rajdhani Express,Raipur,15:35
+12441,Bilaspur New Delhi Rajdhani Express,Durg,16:30
+12441,Bilaspur New Delhi Rajdhani Express,Gondia,18:10
+12441,Bilaspur New Delhi Rajdhani Express,Nagpur,20:35
+12441,Bilaspur New Delhi Rajdhani Express,Bhopal,02:15
+12441,Bilaspur New Delhi Rajdhani Express,Virangna Lakshmibai Jhansi,05:25
+12441,Bilaspur New Delhi Rajdhani Express,Gwalior,06:25
+12441,Bilaspur New Delhi Rajdhani Express,New Delhi,10:40
+12851,Bilaspur Chennai Express,Bilaspur,08:45
+12851,Bilaspur Chennai Express,Raipur,10:30
+12851,Bilaspur Chennai Express,Durg,11:30
+12851,Bilaspur Chennai Express,Gondia,13:30
+12851,Bilaspur Chennai Express,Nagbhir,15:10
+18237,Korba Amritsar Chhattisgarh Express,Korba,11:33
+18237,Korba Amritsar Chhattisgarh Express,Champa,12:36
+18237,Korba Amritsar Chhattisgarh Express,Bilaspur,14:15
+18237,Korba Amritsar Chhattisgarh Express,Bhatapara,15:00
+18237,Korba Amritsar Chhattisgarh Express,Raipur,16:15
+18237,Korba Amritsar Chhattisgarh Express,Durg,17:20
+18237,Korba Amritsar Chhattisgarh Express,Dongargarh,18:10
+18237,Korba Amritsar Chhattisgarh Express,Gondia,19:25
+18237,Korba Amritsar Chhattisgarh Express,Nagpur,22:20
+18237,Korba Amritsar Chhattisgarh Express,Amla,00:42
+18237,Korba Amritsar Chhattisgarh Express,Itarsi,04:20
+18237,Korba Amritsar Chhattisgarh Express,Narmadapuram,04:39
+18237,Korba Amritsar Chhattisgarh Express,Bhopal,06:15
+18237,Korba Amritsar Chhattisgarh Express,Bina,09:20
+18237,Korba Amritsar Chhattisgarh Express,Virangna Lakshmibai Jhansi,12:00
+18237,Korba Amritsar Chhattisgarh Express,Gwalior,13:47
+18237,Korba Amritsar Chhattisgarh Express,Agra Cantt.,16:20
+18237,Korba Amritsar Chhattisgarh Express,Mathura,17:05
+18237,Korba Amritsar Chhattisgarh Express,Nizamuddin,20:05
+12807,Visakhapa- tnam Nizamuddin Samta Express,Visakhapatnam,09:20
+12807,Visakhapa- tnam Nizamuddin Samta Express,Vizianagaram,10:20
+12807,Visakhapa- tnam Nizamuddin Samta Express,Bobbili,11:00
+12807,Visakhapa- tnam Nizamuddin Samta Express,Rayagada,12:25
+12807,Visakhapa- tnam Nizamuddin Samta Express,Titlagarh,14:50
+12807,Visakhapa- tnam Nizamuddin Samta Express,Raipur,19:10
+12807,Visakhapa- tnam Nizamuddin Samta Express,Raipur,19:10
+12807,Visakhapa- tnam Nizamuddin Samta Express,Durg,20:00
+12807,Visakhapa- tnam Nizamuddin Samta Express,Dongargarh,20:46
+12807,Visakhapa- tnam Nizamuddin Samta Express,Gondia,22:00
+12807,Visakhapa- tnam Nizamuddin Samta Express,Nagpur,00:40
+12807,Visakhapa- tnam Nizamuddin Samta Express,Itarsi,05:35
+12807,Visakhapa- tnam Nizamuddin Samta Express,Bhopal,07:10
+12807,Visakhapa- tnam Nizamuddin Samta Express,Bina,09:05
+12807,Visakhapa- tnam Nizamuddin Samta Express,Virangna Lakshmibai Jhansi,11:40
+12807,Visakhapa- tnam Nizamuddin Samta Express,Gwalior,12:47
+12807,Visakhapa- tnam Nizamuddin Samta Express,Agra Cantt.,15:05
+12807,Visakhapa- tnam Nizamuddin Samta Express,Mathura,15:50
+12807,Visakhapa- tnam Nizamuddin Samta Express,Nizamuddin,18:10
+20843,Bilaspur Bhagat Ki Kothi (Jodhpur) Express,Bilaspur,18:25
+20843,Bilaspur Bhagat Ki Kothi (Jodhpur) Express,Bhatapara,19:05
+20843,Bilaspur Bhagat Ki Kothi (Jodhpur) Express,Raipur,20:10
+20843,Bilaspur Bhagat Ki Kothi (Jodhpur) Express,Durg,21:10
+20843,Bilaspur Bhagat Ki Kothi (Jodhpur) Express,Gondia,23:00
+20843,Bilaspur Bhagat Ki Kothi (Jodhpur) Express,Nagpur,01:30
+20843,Bilaspur Bhagat Ki Kothi (Jodhpur) Express,Itarsi,06:25
+20843,Bilaspur Bhagat Ki Kothi (Jodhpur) Express,Narmadapuram,06:44
+20843,Bilaspur Bhagat Ki Kothi (Jodhpur) Express,Bhopal,08:35
+20845,Bilaspur Bikaner Express,Bilaspur,18:25
+20845,Bilaspur Bikaner Express,Bhatapara,19:05
+20845,Bilaspur Bikaner Express,Raipur,20:10
+20845,Bilaspur Bikaner Express,Durg,21:10
+20845,Bilaspur Bikaner Express,Gondia,23:00
+20845,Bilaspur Bikaner Express,Nagpur,01:30
+20845,Bilaspur Bikaner Express,Itarsi,06:25
+20845,Bilaspur Bikaner Express,Bhopal,08:35
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Visakhapatnam,08:20
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Rajahmundry,11:10
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Vijayawada,14:10
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Warangal,17:00
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Balharshah,21:10
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Nagpur,00:25
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Itarsi,05:05
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Narmadapuram,05:24
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Bhopal,06:50
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Bina,08:50
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Virangna Lakshmibai Jhansi,11:50
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Gwalior,13:12
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Agra Cantt.,15:30
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Mathura,16:17
+12803,Visakhapatnam Nizamuddin Swarna Jayanti Express,Nizamuddin,18:45
+12721,Hyderabad Nizamuddin Express,Kazipet,01:15
+12721,Hyderabad Nizamuddin Express,Balharshah,06:00
+12721,Hyderabad Nizamuddin Express,Nagpur,09:25
+12721,Hyderabad Nizamuddin Express,Amla,11:45
+12721,Hyderabad Nizamuddin Express,Itarsi,15:25
+12721,Hyderabad Nizamuddin Express,Narmadapuram,15:44
+12721,Hyderabad Nizamuddin Express,Bhopal,17:15
+12721,Hyderabad Nizamuddin Express,Bina,19:25
+12721,Hyderabad Nizamuddin Express,Virangna Lakshmibai Jhansi,21:28
+12721,Hyderabad Nizamuddin Express,Gwalior,22:46
+12721,Hyderabad Nizamuddin Express,Agra Cantt.,00:35
+12721,Hyderabad Nizamuddin Express,Mathura,01:15
+12721,Hyderabad Nizamuddin Express,Nizamuddin,03:45
+20830,Visakhapatnam Durg Vande Bharat Express,Visakhapatnam,14:50
+20830,Visakhapatnam Durg Vande Bharat Express,Vizianagaram,15:35
+20830,Visakhapatnam Durg Vande Bharat Express,Rayagada,17:15
+20830,Visakhapatnam Durg Vande Bharat Express,Titlagarh,19:10
+20830,Visakhapatnam Durg Vande Bharat Express,Raipur,22:10
+20830,Visakhapatnam Durg Vande Bharat Express,Raipur,22:05
+20830,Visakhapatnam Durg Vande Bharat Express,Durg,22:50
+18518,Visakhapa- tnam Korba Express,Visakhapatnam,21:00
+18518,Visakhapa- tnam Korba Express,Vizianagaram,22:00
+18518,Visakhapa- tnam Korba Express,Bobbili,22:47
+18518,Visakhapa- tnam Korba Express,Rayagada,00:15
+18518,Visakhapa- tnam Korba Express,Titlagarh,02:50
+18518,Visakhapa- tnam Korba Express,Raipur,07:20
+18518,Visakhapa- tnam Korba Express,Bhatapara,08:15
+18518,Visakhapa- tnam Korba Express,Bilaspur,09:20
+18518,Visakhapa- tnam Korba Express,Champa,10:21
+18518,Visakhapa- tnam Korba Express,Korba,11:15
+12252,Korba Yesvantpur Wainganga Express,Korba,08:05
+12252,Korba Yesvantpur Wainganga Express,Champa,08:44
+12252,Korba Yesvantpur Wainganga Express,Bilaspur,10:05
+12252,Korba Yesvantpur Wainganga Express,Bhatapara,10:45
+12252,Korba Yesvantpur Wainganga Express,Raipur,11:45
+12252,Korba Yesvantpur Wainganga Express,Durg,12:45
+12252,Korba Yesvantpur Wainganga Express,Dongargarh,13:30
+12252,Korba Yesvantpur Wainganga Express,Gondia,14:45
+22647,Korba Thiru- vanamtha- puram North Express,Warangal,12:00
+22647,Korba Thiru- vanamtha- puram North Express,Balharshah,08:45
+22647,Korba Thiru- vanamtha- puram North Express,Korba,19:40
+22647,Korba Thiru- vanamtha- puram North Express,Champa,20:21
+22647,Korba Thiru- vanamtha- puram North Express,Bilaspur,21:35
+22647,Korba Thiru- vanamtha- puram North Express,Bhatapara,22:15
+22647,Korba Thiru- vanamtha- puram North Express,Raipur,23:15
+22647,Korba Thiru- vanamtha- puram North Express,Durg,00:10
+22647,Korba Thiru- vanamtha- puram North Express,Dongargarh,00:59
+22647,Korba Thiru- vanamtha- puram North Express,Gondia,02:05
+22647,Korba Thiru- vanamtha- puram North Express,Nagpur,04:30
+17482,Tirupati Bilaspur Express,Visakhapatnam,05:05
+17482,Tirupati Bilaspur Express,Vizianagaram,06:15
+17482,Tirupati Bilaspur Express,Bobbili,07:00
+17482,Tirupati Bilaspur Express,Rayagada,08:15
+17482,Tirupati Bilaspur Express,Titlagarh,10:40
+17482,Tirupati Bilaspur Express,Raipur,15:15
+17482,Tirupati Bilaspur Express,Bhatapara,16:10
+17482,Tirupati Bilaspur Express,Bilaspur,17:25
+18240,NSCB Itwari Korba Express,Raipur,05:05
+18240,NSCB Itwari Korba Express,Bhatapara,06:00
+18240,NSCB Itwari Korba Express,Bilaspur,07:25
+18240,NSCB Itwari Korba Express,Champa,08:24
+18240,NSCB Itwari Korba Express,Korba,09:20
+22619,Bilaspur Tirunelveli Express (via Thiruvanan- thapuram),Vijayawada,02:00
+22619,Bilaspur Tirunelveli Express (via Thiruvanan- thapuram),Balharshah,18:30
+22619,Bilaspur Tirunelveli Express (via Thiruvanan- thapuram),Vizianagaram,21:40
+22619,Bilaspur Tirunelveli Express (via Thiruvanan- thapuram),Bilaspur,08:15
+22619,Bilaspur Tirunelveli Express (via Thiruvanan- thapuram),Bhatapara,08:55
+22619,Bilaspur Tirunelveli Express (via Thiruvanan- thapuram),Raipur,10:00
+22619,Bilaspur Tirunelveli Express (via Thiruvanan- thapuram),Durg,11:00
+22619,Bilaspur Tirunelveli Express (via Thiruvanan- thapuram),Dongargarh,11:45
+22619,Bilaspur Tirunelveli Express (via Thiruvanan- thapuram),Gondia,12:45
+22619,Bilaspur Tirunelveli Express (via Thiruvanan- thapuram),Nagpur,15:00
+22815,Bilaspur Ernakulam Express,Vijayawada,02:00
+22815,Bilaspur Ernakulam Express,Balharshah,18:30
+22815,Bilaspur Ernakulam Express,Vizianagaram,21:40
+22815,Bilaspur Ernakulam Express,Bilaspur,08:15
+22815,Bilaspur Ernakulam Express,Bhatapara,08:55
+22815,Bilaspur Ernakulam Express,Raipur,10:00
+22815,Bilaspur Ernakulam Express,Durg,11:00
+22815,Bilaspur Ernakulam Express,Gondia,12:45
+22815,Bilaspur Ernakulam Express,Nagpur,15:00
+22847,Visakhapa- tnam Lokmanya Tilak (T) Express,Visakhapatnam,08:20
+22847,Visakhapa- tnam Lokmanya Tilak (T) Express,Vizianagaram,09:15
+22847,Visakhapa- tnam Lokmanya Tilak (T) Express,Bobbili,10:00
+22847,Visakhapa- tnam Lokmanya Tilak (T) Express,Rayagada,11:15
+22847,Visakhapa- tnam Lokmanya Tilak (T) Express,Titlagarh,13:45
+22847,Visakhapa- tnam Lokmanya Tilak (T) Express,Raipur,18:40
+22847,Visakhapa- tnam Lokmanya Tilak (T) Express,Raipur,18:40
+22847,Visakhapa- tnam Lokmanya Tilak (T) Express,Durg,19:35
+22847,Visakhapa- tnam Lokmanya Tilak (T) Express,Gondia,21:20
+22847,Visakhapa- tnam Lokmanya Tilak (T) Express,Nagpur,00:05
+18573,Visakhapat- nam Bhagat Ki Kothi (Jodhpur) Express,Visakhapatnam,05:20
+18573,Visakhapat- nam Bhagat Ki Kothi (Jodhpur) Express,Vizianagaram,06:20
+18573,Visakhapat- nam Bhagat Ki Kothi (Jodhpur) Express,Bobbili,07:05
+18573,Visakhapat- nam Bhagat Ki Kothi (Jodhpur) Express,Rayagada,08:15
+18573,Visakhapat- nam Bhagat Ki Kothi (Jodhpur) Express,Titlagarh,10:40
+18573,Visakhapat- nam Bhagat Ki Kothi (Jodhpur) Express,Raipur,15:15
+18573,Visakhapat- nam Bhagat Ki Kothi (Jodhpur) Express,Bhatapara,16:10
+18249,Raipur Korba Hasdeo Express,Raipur,18:00
+18249,Raipur Korba Hasdeo Express,Bhatapara,18:55
+18249,Raipur Korba Hasdeo Express,Bilaspur,20:00
+18249,Raipur Korba Hasdeo Express,Champa,20:58
+18249,Raipur Korba Hasdeo Express,Korba,21:50
+18251,Raipur Korba Hasdeo Express,Raipur,18:00
+18251,Raipur Korba Hasdeo Express,Bhatapara,18:55
+18251,Raipur Korba Hasdeo Express,Bilaspur,20:00
+18251,Raipur Korba Hasdeo Express,Champa,20:58
+18251,Raipur Korba Hasdeo Express,Korba,21:50
+17006,Raxaul Hyderabad Express,Raigarh,02:40
+17006,Raxaul Hyderabad Express,Bilaspur,04:50
+17006,Raxaul Hyderabad Express,Raipur,06:25
+17006,Raxaul Hyderabad Express,Durg,07:20
+17006,Raxaul Hyderabad Express,Gondia,09:30
+17008,Darbhan- ga Secun- derabad Express,Raigarh,02:40
+17008,Darbhan- ga Secun- derabad Express,Bilaspur,04:50
+17008,Darbhan- ga Secun- derabad Express,Raipur,06:25
+17008,Darbhan- ga Secun- derabad Express,Durg,07:20
+17008,Darbhan- ga Secun- derabad Express,Gondia,09:30
+20805,Visakhapa- tnam New Delhi Andhra Pradesh AC Express,Visakhapatnam,22:00
+20805,Visakhapa- tnam New Delhi Andhra Pradesh AC Express,Rajahmundry,00:45
+20805,Visakhapa- tnam New Delhi Andhra Pradesh AC Express,Vijayawada,03:40
+20805,Visakhapa- tnam New Delhi Andhra Pradesh AC Express,Warangal,06:40
+20805,Visakhapa- tnam New Delhi Andhra Pradesh AC Express,Balharshah,11:10
+20805,Visakhapa- tnam New Delhi Andhra Pradesh AC Express,Nagpur,14:15
+20805,Visakhapa- tnam New Delhi Andhra Pradesh AC Express,Bhopal,20:30
+20805,Visakhapa- tnam New Delhi Andhra Pradesh AC Express,Virangna Lakshmibai Jhansi,00:11
+20805,Visakhapa- tnam New Delhi Andhra Pradesh AC Express,Gwalior,01:11
+20805,Visakhapa- tnam New Delhi Andhra Pradesh AC Express,Agra Cantt.,02:42
+20805,Visakhapa- tnam New Delhi Andhra Pradesh AC Express,New Delhi,05:40
+18530,Vishakhapa- tnam Durg Express,Visakhapatnam,16:50
+18530,Vishakhapa- tnam Durg Express,Vizianagaram,18:00
+18530,Vishakhapa- tnam Durg Express,Bobbili,19:02
+18530,Vishakhapa- tnam Durg Express,Rayagada,20:40
+18530,Vishakhapa- tnam Durg Express,Titlagarh,23:30
+18530,Vishakhapa- tnam Durg Express,Raipur,04:40
+18530,Vishakhapa- tnam Durg Express,Raipur,04:40
+18530,Vishakhapa- tnam Durg Express,Durg,06:10

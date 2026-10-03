@@ -1,0 +1,722 @@
+train_num,train_name,halt_station_name,departure_time
+17418,Sai Nagar Shirdi Trupathi Express,Vikarabad,10:25
+17418,Sai Nagar Shirdi Trupathi Express,Secunderabad,09:05
+17418,Sai Nagar Shirdi Trupathi Express,Raichur,14:20
+17418,Sai Nagar Shirdi Trupathi Express,Adoni,15:20
+17418,Sai Nagar Shirdi Trupathi Express,Guntakal,16:30
+17418,Sai Nagar Shirdi Trupathi Express,Gooty,17:15
+17418,Sai Nagar Shirdi Trupathi Express,Cuddapah,19:35
+17418,Sai Nagar Shirdi Trupathi Express,Renigunta,21:45
+17418,Sai Nagar Shirdi Trupathi Express,Tirupati,23:00
+20954,Ahmedabad Chennai Express,Kalyan,16:55
+20954,Ahmedabad Chennai Express,Pune,20:15
+20954,Ahmedabad Chennai Express,Solapur,00:06
+20954,Ahmedabad Chennai Express,Kalaburagi,01:28
+20954,Ahmedabad Chennai Express,Wadi,02:50
+20954,Ahmedabad Chennai Express,Raichur,04:35
+20954,Ahmedabad Chennai Express,Adoni,05:30
+20954,Ahmedabad Chennai Express,Guntakal,07:00
+20954,Ahmedabad Chennai Express,Gooty,07:25
+20954,Ahmedabad Chennai Express,Cuddapah,09:35
+20954,Ahmedabad Chennai Express,Renigunta,12:00
+20954,Ahmedabad Chennai Express,Arakkonam,13:20
+20954,Ahmedabad Chennai Express,MGR Chennai Central,15:25
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Mumbai CSMT,08:10
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Dadar,08:25
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Kalyan,09:05
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Lonavla,10:35
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Pune,11:45
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Daund,13:00
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Kurduwadi,14:15
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Solapur,15:40
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Kalaburagi,17:35
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Shahabad,17:50
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Wadi,18:35
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Raichur,20:13
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Adoni,21:20
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Guntakal,22:25
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Anantapur,23:30
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Dharmavaram,00:40
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Sri Sathya Sai Prashanti Nilayam,01:12
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Hindupur,01:57
+11301,Mumbai CSMT KSR Bengaluru Udyan Express,Bengaluru,06:00
+22732,Mumbai CSMT Hyderabad Express,Mumbai CSMT,14:10
+22732,Mumbai CSMT Hyderabad Express,Dadar,14:25
+22732,Mumbai CSMT Hyderabad Express,Kalyan,15:05
+22732,Mumbai CSMT Hyderabad Express,Lonavla,16:45
+22732,Mumbai CSMT Hyderabad Express,Pune,18:10
+22732,Mumbai CSMT Hyderabad Express,Daund,19:27
+22732,Mumbai CSMT Hyderabad Express,Kurduwadi,20:55
+22732,Mumbai CSMT Hyderabad Express,Solapur,22:10
+22732,Mumbai CSMT Hyderabad Express,Kalaburagi,23:40
+22732,Mumbai CSMT Hyderabad Express,Wadi,00:45
+22732,Mumbai CSMT Hyderabad Express,Vikarabad,02:30
+22732,Mumbai CSMT Hyderabad Express,Hyderabad,04:30
+12163,Lokmanya Tilak (T) Chennai Express,Lokmanya Tilak (T),18:30
+12163,Lokmanya Tilak (T) Chennai Express,Kalyan,19:30
+12163,Lokmanya Tilak (T) Chennai Express,Lonavla,20:58
+12163,Lokmanya Tilak (T) Chennai Express,Pune,22:10
+12163,Lokmanya Tilak (T) Chennai Express,Solapur,01:50
+12163,Lokmanya Tilak (T) Chennai Express,Kalaburagi,03:13
+12163,Lokmanya Tilak (T) Chennai Express,Wadi,04:15
+12163,Lokmanya Tilak (T) Chennai Express,Raichur,05:55
+12163,Lokmanya Tilak (T) Chennai Express,Adoni,06:55
+12163,Lokmanya Tilak (T) Chennai Express,Guntakal,08:10
+12163,Lokmanya Tilak (T) Chennai Express,Gooty,08:35
+12163,Lokmanya Tilak (T) Chennai Express,Cuddapah,10:45
+12163,Lokmanya Tilak (T) Chennai Express,Renigunta,13:00
+12163,Lokmanya Tilak (T) Chennai Express,Arakkonam,14:20
+12163,Lokmanya Tilak (T) Chennai Express,MGR Chennai Central,16:10
+11019,Mumbai CSMT Bhubaneswar New Konark Express,Mumbai CSMT,14:00
+11019,Mumbai CSMT Bhubaneswar New Konark Express,Dadar,14:15
+11019,Mumbai CSMT Bhubaneswar New Konark Express,Kalyan,14:58
+11019,Mumbai CSMT Bhubaneswar New Konark Express,Lonavla,16:30
+11019,Mumbai CSMT Bhubaneswar New Konark Express,Pune,18:00
+11019,Mumbai CSMT Bhubaneswar New Konark Express,Daund,19:12
+11019,Mumbai CSMT Bhubaneswar New Konark Express,Solapur,21:45
+11019,Mumbai CSMT Bhubaneswar New Konark Express,Kalaburagi,23:10
+11019,Mumbai CSMT Bhubaneswar New Konark Express,Shahabad,23:40
+11019,Mumbai CSMT Bhubaneswar New Konark Express,Wadi,00:15
+11019,Mumbai CSMT Bhubaneswar New Konark Express,Secunderabad,03:40
+16381,Pune Kanniyakumari Express,Pune,23:45
+16381,Pune Kanniyakumari Express,Daund,01:00
+16381,Pune Kanniyakumari Express,Kurduwadi,02:15
+16381,Pune Kanniyakumari Express,Solapur,03:30
+16381,Pune Kanniyakumari Express,Kalaburagi,04:55
+16381,Pune Kanniyakumari Express,Wadi,06:05
+16381,Pune Kanniyakumari Express,Raichur,07:40
+16381,Pune Kanniyakumari Express,Adoni,08:40
+16381,Pune Kanniyakumari Express,Guntakal,09:40
+16381,Pune Kanniyakumari Express,Gooty,10:15
+16381,Pune Kanniyakumari Express,Cuddapah,12:25
+16381,Pune Kanniyakumari Express,Renigunta,14:40
+16381,Pune Kanniyakumari Express,Tirupati,15:15
+22157,Mumbai CSMT Chennai Egmore Express,Mumbai CSMT,22:52
+22157,Mumbai CSMT Chennai Egmore Express,Dadar,23:08
+22157,Mumbai CSMT Chennai Egmore Express,Kalyan,23:55
+22157,Mumbai CSMT Chennai Egmore Express,Lonavla,01:37
+22157,Mumbai CSMT Chennai Egmore Express,Pune,02:55
+22157,Mumbai CSMT Chennai Egmore Express,Daund,04:10
+22157,Mumbai CSMT Chennai Egmore Express,Kurduwadi,05:35
+22157,Mumbai CSMT Chennai Egmore Express,Solapur,06:55
+22157,Mumbai CSMT Chennai Egmore Express,Kalaburagi,08:50
+22157,Mumbai CSMT Chennai Egmore Express,Shahabad,09:20
+22157,Mumbai CSMT Chennai Egmore Express,Wadi,09:45
+22157,Mumbai CSMT Chennai Egmore Express,Raichur,11:30
+22157,Mumbai CSMT Chennai Egmore Express,Adoni,12:35
+22157,Mumbai CSMT Chennai Egmore Express,Guntakal,13:45
+22157,Mumbai CSMT Chennai Egmore Express,Gooty,14:15
+22157,Mumbai CSMT Chennai Egmore Express,Cuddapah,16:35
+22157,Mumbai CSMT Chennai Egmore Express,Renigunta,19:00
+22157,Mumbai CSMT Chennai Egmore Express,Arakkonam,20:30
+22157,Mumbai CSMT Chennai Egmore Express,Chennai Egmore,22:15
+12701,Mumbai CSMT Hyderabad Hussainsagar Express,Mumbai CSMT,21:50
+12701,Mumbai CSMT Hyderabad Hussainsagar Express,Kalyan,22:40
+12701,Mumbai CSMT Hyderabad Hussainsagar Express,Pune,01:25
+12701,Mumbai CSMT Hyderabad Hussainsagar Express,Kurduwadi,04:10
+12701,Mumbai CSMT Hyderabad Hussainsagar Express,Solapur,05:25
+12701,Mumbai CSMT Hyderabad Hussainsagar Express,Kalaburagi,07:05
+12701,Mumbai CSMT Hyderabad Hussainsagar Express,Shahabad,07:30
+12701,Mumbai CSMT Hyderabad Hussainsagar Express,Wadi,08:20
+12701,Mumbai CSMT Hyderabad Hussainsagar Express,Vikarabad,10:15
+12701,Mumbai CSMT Hyderabad Hussainsagar Express,Hyderabad,12:05
+11013,Lokmanya Tilak (T) Coimbatore Express,Lokmanya Tilak (T),22:35
+11013,Lokmanya Tilak (T) Coimbatore Express,Kalyan,23:20
+11013,Lokmanya Tilak (T) Coimbatore Express,Pune,01:55
+11013,Lokmanya Tilak (T) Coimbatore Express,Kurduwadi,04:25
+11013,Lokmanya Tilak (T) Coimbatore Express,Solapur,06:05
+11013,Lokmanya Tilak (T) Coimbatore Express,Kalaburagi,07:40
+11013,Lokmanya Tilak (T) Coimbatore Express,Shahabad,08:20
+11013,Lokmanya Tilak (T) Coimbatore Express,Wadi,09:10
+11013,Lokmanya Tilak (T) Coimbatore Express,Raichur,10:55
+11013,Lokmanya Tilak (T) Coimbatore Express,Adoni,12:00
+11013,Lokmanya Tilak (T) Coimbatore Express,Guntakal,13:10
+11013,Lokmanya Tilak (T) Coimbatore Express,Anantapur,14:30
+11013,Lokmanya Tilak (T) Coimbatore Express,Dharmavaram,15:20
+11013,Lokmanya Tilak (T) Coimbatore Express,Sri Sathya Sai Prashanti Nilayam,16:00
+11013,Lokmanya Tilak (T) Coimbatore Express,Hindupur,17:02
+11013,Lokmanya Tilak (T) Coimbatore Express,Bengaluru,21:50
+12115,Mumbai CSMT Solapur Siddheshwar Express,Mumbai CSMT,22:40
+12115,Mumbai CSMT Solapur Siddheshwar Express,Dadar,23:00
+12115,Mumbai CSMT Solapur Siddheshwar Express,Kalyan,23:45
+12115,Mumbai CSMT Solapur Siddheshwar Express,Pune,02:20
+12115,Mumbai CSMT Solapur Siddheshwar Express,Daund,03:35
+12115,Mumbai CSMT Solapur Siddheshwar Express,Kurduwadi,05:05
+12115,Mumbai CSMT Solapur Siddheshwar Express,Solapur,06:45
+22159,Mumbai CSMT MGR Chennai Central,Mumbai CSMT,12:45
+22159,Mumbai CSMT MGR Chennai Central,Dadar,12:55
+22159,Mumbai CSMT MGR Chennai Central,Kalyan,13:40
+22159,Mumbai CSMT MGR Chennai Central,Lonavla,15:10
+22159,Mumbai CSMT MGR Chennai Central,Pune,16:25
+22159,Mumbai CSMT MGR Chennai Central,Daund,17:35
+22159,Mumbai CSMT MGR Chennai Central,Kurduwadi,18:50
+22159,Mumbai CSMT MGR Chennai Central,Solapur,20:00
+22159,Mumbai CSMT MGR Chennai Central,Kalaburagi,21:25
+22159,Mumbai CSMT MGR Chennai Central,Wadi,22:30
+22159,Mumbai CSMT MGR Chennai Central,Raichur,00:20
+22159,Mumbai CSMT MGR Chennai Central,Adoni,01:25
+22159,Mumbai CSMT MGR Chennai Central,Guntakal,02:45
+22159,Mumbai CSMT MGR Chennai Central,Gooty,03:10
+22159,Mumbai CSMT MGR Chennai Central,Cuddapah,05:15
+22159,Mumbai CSMT MGR Chennai Central,Renigunta,07:35
+22159,Mumbai CSMT MGR Chennai Central,Arakkonam,09:00
+22159,Mumbai CSMT MGR Chennai Central,MGR Chennai Central,10:45
+9419,Ahmedabad Tiruchirappalli Special,Wadi,03:00
+9419,Ahmedabad Tiruchirappalli Special,Raichur,04:35
+9419,Ahmedabad Tiruchirappalli Special,Adoni,05:30
+9419,Ahmedabad Tiruchirappalli Special,Guntakal,07:00
+9419,Ahmedabad Tiruchirappalli Special,Cuddapah,09:35
+9419,Ahmedabad Tiruchirappalli Special,Renigunta,12:00
+9419,Ahmedabad Tiruchirappalli Special,Arakkonam,13:20
+9419,Ahmedabad Tiruchirappalli Special,Chennai Egmore,15:20
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Lokmanya Tilak (T),06:55
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Kalyan,07:34
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Lonavla,09:15
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Pune,10:20
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Solapur,13:55
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Kalaburagi,15:25
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Wadi,16:25
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Vikarabad,18:20
+18520,Lokmanya Tilak (T) Visakhapatnam Express,Secunderabad,19:50
+11017,Lokmanya Tilak (T) Karaikal Express,Lokmanya Tilak (T),13:15
+11017,Lokmanya Tilak (T) Karaikal Express,Kalyan,14:05
+11017,Lokmanya Tilak (T) Karaikal Express,Lonavla,15:30
+11017,Lokmanya Tilak (T) Karaikal Express,Pune,16:40
+11017,Lokmanya Tilak (T) Karaikal Express,Solapur,20:35
+11017,Lokmanya Tilak (T) Karaikal Express,Kalaburagi,22:00
+11017,Lokmanya Tilak (T) Karaikal Express,Wadi,23:10
+11017,Lokmanya Tilak (T) Karaikal Express,Raichur,00:40
+11017,Lokmanya Tilak (T) Karaikal Express,Guntakal,02:50
+11017,Lokmanya Tilak (T) Karaikal Express,Gooty,03:20
+11017,Lokmanya Tilak (T) Karaikal Express,Cuddapah,05:25
+11017,Lokmanya Tilak (T) Karaikal Express,Renigunta,08:00
+11017,Lokmanya Tilak (T) Karaikal Express,Arakkonam,09:15
+11017,Lokmanya Tilak (T) Karaikal Express,Chennai Egmore,11:15
+17222,Lokmanya Tilak (T) Kakinada Port Express,Lokmanya Tilak (T),13:15
+17222,Lokmanya Tilak (T) Kakinada Port Express,Kalyan,14:05
+17222,Lokmanya Tilak (T) Kakinada Port Express,Lonavla,15:30
+17222,Lokmanya Tilak (T) Kakinada Port Express,Pune,16:40
+17222,Lokmanya Tilak (T) Kakinada Port Express,Solapur,20:35
+17222,Lokmanya Tilak (T) Kakinada Port Express,Kalaburagi,22:00
+17222,Lokmanya Tilak (T) Kakinada Port Express,Wadi,23:10
+17222,Lokmanya Tilak (T) Kakinada Port Express,Secunderabad,02:15
+17621,Aurangabad Tirupati Express,Vikarabad,07:40
+17621,Aurangabad Tirupati Express,Raichur,11:50
+17621,Aurangabad Tirupati Express,Adoni,12:55
+17621,Aurangabad Tirupati Express,Guntakal,14:05
+17621,Aurangabad Tirupati Express,Gooty,14:35
+17621,Aurangabad Tirupati Express,Cuddapah,16:50
+17621,Aurangabad Tirupati Express,Renigunta,19:30
+17621,Aurangabad Tirupati Express,Tirupati,20:30
+22179,Lokmanya Tilak (T) Chennai Express,Lokmanya Tilak (T),13:15
+22179,Lokmanya Tilak (T) Chennai Express,Kalyan,14:05
+22179,Lokmanya Tilak (T) Chennai Express,Pune,16:40
+22179,Lokmanya Tilak (T) Chennai Express,Solapur,20:35
+22179,Lokmanya Tilak (T) Chennai Express,Kalaburagi,22:00
+22179,Lokmanya Tilak (T) Chennai Express,Wadi,23:10
+22179,Lokmanya Tilak (T) Chennai Express,Raichur,00:40
+22179,Lokmanya Tilak (T) Chennai Express,Guntakal,02:50
+22179,Lokmanya Tilak (T) Chennai Express,Gooty,03:20
+22179,Lokmanya Tilak (T) Chennai Express,Cuddapah,05:25
+22179,Lokmanya Tilak (T) Chennai Express,Renigunta,08:00
+22179,Lokmanya Tilak (T) Chennai Express,Arakkonam,09:15
+22179,Lokmanya Tilak (T) Chennai Express,MGR Chennai Central,10:55
+12219,Lokmanya Tilak (T) Secunderabad Duronto Express,Lokmanya Tilak (T),23:05
+12219,Lokmanya Tilak (T) Secunderabad Duronto Express,Pune,02:05
+12219,Lokmanya Tilak (T) Secunderabad Duronto Express,Solapur,05:40
+12219,Lokmanya Tilak (T) Secunderabad Duronto Express,Wadi,07:53
+12219,Lokmanya Tilak (T) Secunderabad Duronto Express,Secunderabad,11:30
+22920,Ahmedabad Chennai Humsafar Express,Kalyan,16:55
+22920,Ahmedabad Chennai Humsafar Express,Pune,20:15
+22920,Ahmedabad Chennai Humsafar Express,Solapur,00:06
+22920,Ahmedabad Chennai Humsafar Express,Kalaburagi,01:28
+22920,Ahmedabad Chennai Humsafar Express,Raichur,04:35
+22920,Ahmedabad Chennai Humsafar Express,Guntakal,07:00
+22920,Ahmedabad Chennai Humsafar Express,Renigunta,12:00
+22920,Ahmedabad Chennai Humsafar Express,MGR Chennai Central,15:05
+20916,Indore Lingampalli Humsafar Express,Pune,03:05
+20916,Indore Lingampalli Humsafar Express,Solapur,07:10
+20916,Indore Lingampalli Humsafar Express,Kalaburagi,09:03
+20916,Indore Lingampalli Humsafar Express,Vikarabad,11:25
+20916,Indore Lingampalli Humsafar Express,Hyderabad,12:55
+11027,Dadar Satara Express,Dadar,23:55
+11027,Dadar Satara Express,Kalyan,00:45
+11027,Dadar Satara Express,Lonavla,02:17
+11027,Dadar Satara Express,Pune,03:35
+11027,Dadar Satara Express,Daund,05:05
+11027,Dadar Satara Express,Kurduwadi,07:05
+11027,Dadar Satara Express,Kalaburagi,14:10
+11041,Dadar Sai nagar Shirdi Express,Dadar,23:55
+11041,Dadar Sai nagar Shirdi Express,Kalyan,00:45
+11041,Dadar Sai nagar Shirdi Express,Lonavla,02:17
+11041,Dadar Sai nagar Shirdi Express,Pune,03:35
+11041,Dadar Sai nagar Shirdi Express,Kalaburagi,09:35
+20920,Ekta Nagar MGR Chennai Express,Kalyan,16:55
+20920,Ekta Nagar MGR Chennai Express,Pune,20:15
+20920,Ekta Nagar MGR Chennai Express,Solapur,00:06
+20920,Ekta Nagar MGR Chennai Express,Raichur,04:35
+20920,Ekta Nagar MGR Chennai Express,Guntakal,07:00
+20920,Ekta Nagar MGR Chennai Express,Cuddapah,09:35
+20920,Ekta Nagar MGR Chennai Express,Renigunta,12:00
+20920,Ekta Nagar MGR Chennai Express,MGR Chennai Central,15:05
+22225,Mumbai CSMT Solapur Vande Bharat Express,Mumbai CSMT,16:05
+22225,Mumbai CSMT Solapur Vande Bharat Express,Dadar,16:17
+22225,Mumbai CSMT Solapur Vande Bharat Express,Kalyan,16:53
+22225,Mumbai CSMT Solapur Vande Bharat Express,Pune,19:15
+22225,Mumbai CSMT Solapur Vande Bharat Express,Kurduwadi,21:30
+22225,Mumbai CSMT Solapur Vande Bharat Express,Solapur,22:40
+22156,Chatrapati Shahu Maharaj (T) Kalaburagi Express,Miraj,16:45
+22156,Chatrapati Shahu Maharaj (T) Kalaburagi Express,Pandharpur,18:45
+22156,Chatrapati Shahu Maharaj (T) Kalaburagi Express,Kurduwadi,19:40
+22156,Chatrapati Shahu Maharaj (T) Kalaburagi Express,Solapur,20:50
+22156,Chatrapati Shahu Maharaj (T) Kalaburagi Express,Kalaburagi,22:45
+12025,Pune Secunderabad Shatabdi Express,Pune,06:00
+12025,Pune Secunderabad Shatabdi Express,Solapur,09:03
+12025,Pune Secunderabad Shatabdi Express,Kalaburagi,10:25
+12025,Pune Secunderabad Shatabdi Express,Wadi,11:20
+12025,Pune Secunderabad Shatabdi Express,Secunderabad,14:15
+22602,Sai Nagar Shirdi Chennai Express,Sai Nagar Shirdi,08:55
+22602,Sai Nagar Shirdi Chennai Express,Daund d ,12:10
+22602,Sai Nagar Shirdi Chennai Express,Solapur,14:25
+22602,Sai Nagar Shirdi Chennai Express,Kalaburagi,16:00
+22602,Sai Nagar Shirdi Chennai Express,Wadi,17:00
+22602,Sai Nagar Shirdi Chennai Express,Raichur,18:30
+22602,Sai Nagar Shirdi Chennai Express,Adoni,19:30
+22602,Sai Nagar Shirdi Chennai Express,Guntakal,20:50
+22602,Sai Nagar Shirdi Chennai Express,Anantapur,21:50
+22602,Sai Nagar Shirdi Chennai Express,Dharmavaram,23:10
+22602,Sai Nagar Shirdi Chennai Express,Sri Sathya Sai,23:42
+22602,Sai Nagar Shirdi Chennai Express,Hindupur,00:25
+22602,Sai Nagar Shirdi Chennai Express,Arakkonam,08:05
+22602,Sai Nagar Shirdi Chennai Express,Perambur,08:55
+22602,Sai Nagar Shirdi Chennai Express,MGR Chennai Central,09:25
+22881,Pune Bhubaneswar Express,Pune,11:20
+22881,Pune Bhubaneswar Express,Solapur,14:25
+22881,Pune Bhubaneswar Express,Kalaburagi,16:00
+22881,Pune Bhubaneswar Express,Wadi,17:00
+22881,Pune Bhubaneswar Express,Secunderabad,20:05
+12157,Pune Solapur Hutatma Express,Pune,17:50
+12157,Pune Solapur Hutatma Express,Daund d ,18:57
+12157,Pune Solapur Hutatma Express,Kurduwadi,20:12
+12157,Pune Solapur Hutatma Express,Solapur,21:30
+12169,Pune Solapur Intercity Express,Pune,09:25
+12169,Pune Solapur Intercity Express,Daund d ,10:35
+12169,Pune Solapur Intercity Express,Kurduwadi,12:05
+12169,Pune Solapur Intercity Express,Solapur,13:15
+12756,Bhavnagar Kakinada Port Express,Kalyan,17:50
+12756,Bhavnagar Kakinada Port Express,Lonavla,19:40
+12756,Bhavnagar Kakinada Port Express,Pune,21:15
+12756,Bhavnagar Kakinada Port Express,Daund d ,22:25
+12756,Bhavnagar Kakinada Port Express,Solapur,01:05
+12756,Bhavnagar Kakinada Port Express,Kalaburagi,02:38
+12756,Bhavnagar Kakinada Port Express,Wadi,03:25
+12756,Bhavnagar Kakinada Port Express,Secunderabad,06:50
+17308,Bagalkot Mysuru Basava Express,Bagalkot,14:50
+17308,Bagalkot Mysuru Basava Express,Vijayapura,16:40
+17308,Bagalkot Mysuru Basava Express,Solapur,19:30
+17308,Bagalkot Mysuru Basava Express,Kalaburagi,21:15
+17308,Bagalkot Mysuru Basava Express,Shahabad d ,21:40
+17308,Bagalkot Mysuru Basava Express,Wadi,22:20
+17308,Bagalkot Mysuru Basava Express,Raichur,23:45
+17308,Bagalkot Mysuru Basava Express,Adoni,00:50
+17308,Bagalkot Mysuru Basava Express,Guntakal,02:00
+17308,Bagalkot Mysuru Basava Express,Anantapur,03:10
+17308,Bagalkot Mysuru Basava Express,Dharmavaram,04:10
+17308,Bagalkot Mysuru Basava Express,Sri Sathya Sai,04:45
+17308,Bagalkot Mysuru Basava Express,Hindupur,05:35
+17308,Bagalkot Mysuru Basava Express,Yesvantpur,07:35
+11311,Solapur Hassan Express,Solapur,19:20
+11311,Solapur Hassan Express,Kalaburagi,20:45
+11311,Solapur Hassan Express,Shahabad d ,21:10
+11311,Solapur Hassan Express,Wadi,21:35
+11311,Solapur Hassan Express,Raichur,23:10
+11311,Solapur Hassan Express,Guntakal,01:05
+11311,Solapur Hassan Express,Anantapur,02:20
+11311,Solapur Hassan Express,Dharmavaram,03:20
+11311,Solapur Hassan Express,Yesvantpur,07:15
+16218,Sai Nagar Shirdi Mysuru Express,Sai Nagar Shirdi,00:25
+16218,Sai Nagar Shirdi Mysuru Express,Daund d ,04:20
+16218,Sai Nagar Shirdi Mysuru Express,Kurduwadi,05:47
+16218,Sai Nagar Shirdi Mysuru Express,Bagalkot,11:12
+16218,Sai Nagar Shirdi Mysuru Express,Vijayapura,09:10
+16218,Sai Nagar Shirdi Mysuru Express,Solapur,07:10
+17319,SSS Hubballi Hyderabad Express,Bagalkot,23:59
+17319,SSS Hubballi Hyderabad Express,Vijayapura,02:10
+17319,SSS Hubballi Hyderabad Express,Kalaburagi,06:00
+17319,SSS Hubballi Hyderabad Express,Shahabad d ,06:30
+17319,SSS Hubballi Hyderabad Express,Wadi,07:05
+17319,SSS Hubballi Hyderabad Express,Hyderabad,10:40
+11417,Pune Solapur Express,Pune,23:00
+11417,Pune Solapur Express,Daund d ,00:40
+11417,Pune Solapur Express,Kurduwadi d ,04:35
+11417,Pune Solapur Express,Solapur,07:45
+11421,Hadapsar Solapur Express,Panvel,08:10
+11421,Hadapsar Solapur Express,Daund d ,09:35
+11421,Hadapsar Solapur Express,Kurduwadi d ,11:40
+11421,Hadapsar Solapur Express,Solapur,15:00
+17029,Vijayapura Hyderabad Express,Vijayapura,19:20
+17029,Vijayapura Hyderabad Express,Solapur,22:25
+17029,Vijayapura Hyderabad Express,Kalaburagi,00:50
+17029,Vijayapura Hyderabad Express,Shahabad d ,01:20
+17029,Vijayapura Hyderabad Express,Wadi,02:40
+17029,Vijayapura Hyderabad Express,Hyderabad,07:10
+17417,Tirupathi Sai Nagar Shirdi Express,Tirupati,08:15
+17417,Tirupathi Sai Nagar Shirdi Express,Renigunta,08:38
+17417,Tirupathi Sai Nagar Shirdi Express,Cuddappah,10:20
+17417,Tirupathi Sai Nagar Shirdi Express,$/,12:45
+17417,Tirupathi Sai Nagar Shirdi Express,Guntakal,13:30
+17417,Tirupathi Sai Nagar Shirdi Express,Adoni,14:20
+17417,Tirupathi Sai Nagar Shirdi Express,Raichur,15:42
+17417,Tirupathi Sai Nagar Shirdi Express,Secunderabad,20:45
+17417,Tirupathi Sai Nagar Shirdi Express,Vikarabad,19:20
+20919,Chennai Ekta Nagar Express,MGR Chennai Central,15:50
+20919,Chennai Ekta Nagar Express,Arakkonam,16:50
+20919,Chennai Ekta Nagar Express,Renigunta,18:15
+20919,Chennai Ekta Nagar Express,Cuddappah,20:00
+20919,Chennai Ekta Nagar Express,$/,22:45
+20919,Chennai Ekta Nagar Express,Guntakal,23:20
+20919,Chennai Ekta Nagar Express,Adoni,00:10
+20919,Chennai Ekta Nagar Express,Raichur,01:20
+20919,Chennai Ekta Nagar Express,Wadi,03:25
+20919,Chennai Ekta Nagar Express,Kalaburagi,04:00
+20919,Chennai Ekta Nagar Express,Solapur,06:40
+20919,Chennai Ekta Nagar Express,Pune,11:05
+20919,Chennai Ekta Nagar Express,Kalyan,13:25
+16382,Kanniya kumari Pune Express,Tirupati,04:35
+16382,Kanniya kumari Pune Express,Renigunta,05:05
+16382,Kanniya kumari Pune Express,Nandalur,06:20
+16382,Kanniya kumari Pune Express,Cuddappah,06:55
+16382,Kanniya kumari Pune Express,$/,09:05
+16382,Kanniya kumari Pune Express,Guntakal,09:40
+16382,Kanniya kumari Pune Express,Adoni,10:30
+16382,Kanniya kumari Pune Express,Raichur,11:45
+16382,Kanniya kumari Pune Express,Wadi,14:07
+16382,Kanniya kumari Pune Express,Kalaburagi,14:55
+16382,Kanniya kumari Pune Express,Solapur,17:05
+16382,Kanniya kumari Pune Express,Kurduwadi,18:05
+16382,Kanniya kumari Pune Express,Daund,20:15
+16382,Kanniya kumari Pune Express,Pune,21:50
+12702,Hydera bad Mumbai CSMT Hussain- sagar Express,Hyderabad,14:50
+12702,Hydera bad Mumbai CSMT Hussain- sagar Express,Vikarabad,16:02
+12702,Hydera bad Mumbai CSMT Hussain- sagar Express,Wadi,18:02
+12702,Hydera bad Mumbai CSMT Hussain- sagar Express,Shahabad,18:15
+12702,Hydera bad Mumbai CSMT Hussain- sagar Express,Kalaburagi,18:43
+12702,Hydera bad Mumbai CSMT Hussain- sagar Express,Solapur,20:30
+12702,Hydera bad Mumbai CSMT Hussain- sagar Express,Kurduwadi,21:30
+12702,Hydera bad Mumbai CSMT Hussain- sagar Express,Pune,00:50
+12702,Hydera bad Mumbai CSMT Hussain- sagar Express,Kalyan,03:28
+12702,Hydera bad Mumbai CSMT Hussain- sagar Express,Dadar,04:18
+12702,Hydera bad Mumbai CSMT Hussain- sagar Express,Mumbai CSMT,04:55
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Chennai Egmore,06:35
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Renigunta,09:20
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Cuddappah,11:10
+22158,Chennai Egmore Lokmanya Tilak (T) Express,$/,13:30
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Guntakal,14:15
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Adoni,15:05
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Raichur,16:30
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Wadi,18:55
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Shahabad,19:10
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Kalaburagi,19:33
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Solapur,21:50
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Kurduwadi,22:50
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Daund,00:35
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Pune,01:50
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Lonavla,02:52
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Kalyan,04:20
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Dadar,05:20
+22158,Chennai Egmore Lokmanya Tilak (T) Express,Mumbai CSMT,05:50
+12755,Kakinada Port Bhavnagar Express,Secunderabad,15:10
+12755,Kakinada Port Bhavnagar Express,Vikarabad,16:15
+12755,Kakinada Port Bhavnagar Express,Wadi,18:20
+12755,Kakinada Port Bhavnagar Express,Kalaburagi,19:07
+12755,Kakinada Port Bhavnagar Express,Solapur,21:05
+12755,Kakinada Port Bhavnagar Express,Daund,00:10
+12755,Kakinada Port Bhavnagar Express,Pune,01:25
+12755,Kakinada Port Bhavnagar Express,Lonavla,02:27
+12755,Kakinada Port Bhavnagar Express,Kalyan,03:52
+11014,Coimbatoree Lokmanya Tilak (T) Express,KSR Bengaluru,16:00
+11014,Coimbatoree Lokmanya Tilak (T) Express,Hindupur,17:53
+11014,Coimbatoree Lokmanya Tilak (T) Express,Sri Sathya Sai Prashanti Nilayam,19:00
+11014,Coimbatoree Lokmanya Tilak (T) Express,Dharmavaram,20:15
+11014,Coimbatoree Lokmanya Tilak (T) Express,Anantapur,20:45
+11014,Coimbatoree Lokmanya Tilak (T) Express,Guntakal,21:50
+11014,Coimbatoree Lokmanya Tilak (T) Express,Adoni,22:40
+11014,Coimbatoree Lokmanya Tilak (T) Express,Raichur,23:52
+11014,Coimbatoree Lokmanya Tilak (T) Express,Wadi,02:40
+11014,Coimbatoree Lokmanya Tilak (T) Express,Shahabad,02:55
+11014,Coimbatoree Lokmanya Tilak (T) Express,Kalaburagi,03:15
+11014,Coimbatoree Lokmanya Tilak (T) Express,Solapur,05:35
+11014,Coimbatoree Lokmanya Tilak (T) Express,Kurduwadi,06:35
+11014,Coimbatoree Lokmanya Tilak (T) Express,Daund,08:50
+11014,Coimbatoree Lokmanya Tilak (T) Express,Pune,10:20
+11014,Coimbatoree Lokmanya Tilak (T) Express,Kalyan,12:50
+11014,Coimbatoree Lokmanya Tilak (T) Express,Lokmanya Tilak(T),13:55
+17307,Mysuru Bagalkot Basava Express,KSR Bengaluru,16:40
+17307,Mysuru Bagalkot Basava Express,Yesvantpur,16:55
+17307,Mysuru Bagalkot Basava Express,Hindupur,18:30
+17307,Mysuru Bagalkot Basava Express,Sri Sathya Sai Prashanti Nilayam,19:25
+17307,Mysuru Bagalkot Basava Express,Dharmavaram,20:45
+17307,Mysuru Bagalkot Basava Express,Anantapur,21:15
+17307,Mysuru Bagalkot Basava Express,Guntakal,22:40
+17307,Mysuru Bagalkot Basava Express,Adoni,23:30
+17307,Mysuru Bagalkot Basava Express,Raichur,00:45
+17307,Mysuru Bagalkot Basava Express,Wadi,02:50
+17307,Mysuru Bagalkot Basava Express,Shahabad,03:05
+17307,Mysuru Bagalkot Basava Express,Kalaburagi,03:35
+17307,Mysuru Bagalkot Basava Express,Solapur,06:20
+17307,Mysuru Bagalkot Basava Express,Vijayapura,08:35
+17307,Mysuru Bagalkot Basava Express,Bagalkot,10:55
+22731,Hyderabad Mumbai CSMT Express,Hyderabad,22:35
+22731,Hyderabad Mumbai CSMT Express,Vikarabad,23:40
+22731,Hyderabad Mumbai CSMT Express,Wadi,02:02
+22731,Hyderabad Mumbai CSMT Express,Kalaburagi,02:38
+22731,Hyderabad Mumbai CSMT Express,Solapur,04:40
+22731,Hyderabad Mumbai CSMT Express,Kurduwadi,05:40
+22731,Hyderabad Mumbai CSMT Express,Daund,07:25
+22731,Hyderabad Mumbai CSMT Express,Pune,09:00
+22731,Hyderabad Mumbai CSMT Express,Lonavla,10:00
+22731,Hyderabad Mumbai CSMT Express,Kalyan,11:50
+22731,Hyderabad Mumbai CSMT Express,Dadar,12:35
+22731,Hyderabad Mumbai CSMT Express,Mumbai CSMT,13:05
+22160,MGR Chennai Mumbai CSMT Express,MGR Chennai Central,13:15
+22160,MGR Chennai Mumbai CSMT Express,Arakkonam,14:20
+22160,MGR Chennai Mumbai CSMT Express,Renigunta,15:50
+22160,MGR Chennai Mumbai CSMT Express,Cuddappah,17:40
+22160,MGR Chennai Mumbai CSMT Express,$/,19:55
+22160,MGR Chennai Mumbai CSMT Express,Guntakal,20:35
+22160,MGR Chennai Mumbai CSMT Express,Adoni,21:25
+22160,MGR Chennai Mumbai CSMT Express,Raichur,22:20
+22160,MGR Chennai Mumbai CSMT Express,Wadi,01:20
+22160,MGR Chennai Mumbai CSMT Express,Kalaburagi,01:58
+22160,MGR Chennai Mumbai CSMT Express,Solapur,04:05
+22160,MGR Chennai Mumbai CSMT Express,Kurduwadi,05:05
+22160,MGR Chennai Mumbai CSMT Express,Daund,06:50
+22160,MGR Chennai Mumbai CSMT Express,Pune,08:20
+22160,MGR Chennai Mumbai CSMT Express,Kalyan,10:50
+22160,MGR Chennai Mumbai CSMT Express,Dadar,11:55
+22160,MGR Chennai Mumbai CSMT Express,Mumbai CSMT,12:30
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,KSR Bengaluru,20:40
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Hindupur,22:35
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Sri Sathya Sai Prashanti Nilayam,23:25
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Dharmavaram,00:40
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Anantapur,01:10
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Guntakal,02:30
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Adoni,03:15
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Raichur,04:35
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Wadi,07:10
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Shahabad,07:23
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Kalaburagi,07:55
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Solapur,11:00
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Kurduwadi,12:02
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Daund,14:30
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Pune,16:05
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Lonavla,17:25
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Kalyan,18:55
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Dadar,19:45
+11302,KSR Bengaluru Mumbai CSMT Udyan Express,Mumbai CSMT,20:15
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,MGR Chennai Central,18:25
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,Arakkonam,19:25
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,Renigunta,20:50
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,Cuddappah,22:35
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,$/,00:55
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,Guntakal,01:35
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,Adoni,02:20
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,Raichur,03:20
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,Wadi,05:32
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,Kalaburagi,06:15
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,Solapur,07:45
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,Pune,11:45
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,Lonavla,12:52
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,Kalyan,14:20
+12164,Chennai Mumbai Lokmanya Tilak (T) Mail,Lokmanya Tilak(T),15:55
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Secunderabad,13:00
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Vikarabad,14:20
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Wadi,16:30
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Kalaburagi,17:05
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Solapur,19:50
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Pune,00:40
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Lonavla,01:56
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Kalyan,03:12
+18519,Visakhapatnam Lokmanya Tilak (T) Express,Lokmanya Tilak(T),04:30
+17320,Hyderabad Hubballi Express,Hyderabad,15:50
+17320,Hyderabad Hubballi Express,Vikarabad,17:11
+17320,Hyderabad Hubballi Express,Wadi,19:15
+17320,Hyderabad Hubballi Express,Shahabad,19:28
+17320,Hyderabad Hubballi Express,Kalaburagi,20:00
+17320,Hyderabad Hubballi Express,Vijayapura,00:10
+17320,Hyderabad Hubballi Express,Bagalkot,02:05
+22882,Bhubaneswar Pune Express,Secunderabad,16:25
+22882,Bhubaneswar Pune Express,Wadi,21:15
+22882,Bhubaneswar Pune Express,Kalaburagi,21:55
+22882,Bhubaneswar Pune Express,Solapur,23:35
+22882,Bhubaneswar Pune Express,Pune,03:40
+17221,Kakinada Port Lokmanya Tilak (T) Express,Secunderabad,20:25
+17221,Kakinada Port Lokmanya Tilak (T) Express,Wadi,00:10
+17221,Kakinada Port Lokmanya Tilak (T) Express,Kalaburagi,00:50
+17221,Kakinada Port Lokmanya Tilak (T) Express,Solapur,02:55
+17221,Kakinada Port Lokmanya Tilak (T) Express,Pune,07:55
+17221,Kakinada Port Lokmanya Tilak (T) Express,Lonavla,08:51
+17221,Kakinada Port Lokmanya Tilak (T) Express,Kalyan,10:11
+17221,Kakinada Port Lokmanya Tilak (T) Express,Lokmanya Tilak(T),11:15
+11018,Karaikal Lokmanya Tilak (T) Express,Chennai Egmore,22:15
+11018,Karaikal Lokmanya Tilak (T) Express,Arakkonam,23:50
+11018,Karaikal Lokmanya Tilak (T) Express,Renigunta,01:10
+11018,Karaikal Lokmanya Tilak (T) Express,Cuddappah,03:00
+11018,Karaikal Lokmanya Tilak (T) Express,$/,05:20
+11018,Karaikal Lokmanya Tilak (T) Express,Guntakal,06:00
+11018,Karaikal Lokmanya Tilak (T) Express,Raichur,08:00
+11018,Karaikal Lokmanya Tilak (T) Express,Wadi,10:15
+11018,Karaikal Lokmanya Tilak (T) Express,Kalaburagi,10:55
+11018,Karaikal Lokmanya Tilak (T) Express,Solapur,12:25
+11018,Karaikal Lokmanya Tilak (T) Express,Pune,16:40
+11018,Karaikal Lokmanya Tilak (T) Express,Lonavla,17:55
+11018,Karaikal Lokmanya Tilak (T) Express,Kalyan,19:30
+11018,Karaikal Lokmanya Tilak (T) Express,Lokmanya Tilak(T),20:30
+22180,Dr MGR Chennai Lokmanya Tilak (T) Express,MGR Chennai Central,15:50
+22180,Dr MGR Chennai Lokmanya Tilak (T) Express,Arakkonam,16:50
+22180,Dr MGR Chennai Lokmanya Tilak (T) Express,Renigunta,18:15
+22180,Dr MGR Chennai Lokmanya Tilak (T) Express,Cuddappah,20:00
+22180,Dr MGR Chennai Lokmanya Tilak (T) Express,$/,22:45
+22180,Dr MGR Chennai Lokmanya Tilak (T) Express,Guntakal,23:20
+22180,Dr MGR Chennai Lokmanya Tilak (T) Express,Adoni,00:10
+22180,Dr MGR Chennai Lokmanya Tilak (T) Express,Raichur,01:20
+22180,Dr MGR Chennai Lokmanya Tilak (T) Express,Wadi,03:25
+22180,Dr MGR Chennai Lokmanya Tilak (T) Express,Kalaburagi,04:00
+22180,Dr MGR Chennai Lokmanya Tilak (T) Express,Solapur,06:40
+22180,Dr MGR Chennai Lokmanya Tilak (T) Express,Pune,11:05
+22180,Dr MGR Chennai Lokmanya Tilak (T) Express,Kalyan,13:25
+22180,Dr MGR Chennai Lokmanya Tilak (T) Express,Lokmanya Tilak(T),14:25
+9420,Tiruchchirap- palli Jn. Ahmedabad Special,Renigunta,18:15
+9420,Tiruchchirap- palli Jn. Ahmedabad Special,Cuddappah,20:00
+9420,Tiruchchirap- palli Jn. Ahmedabad Special,Guntakal,23:20
+9420,Tiruchchirap- palli Jn. Ahmedabad Special,Raichur,01:20
+17622,Tirupati Aurangabad Express,Tirupati,22:55
+17622,Tirupati Aurangabad Express,Renigunta,23:18
+17622,Tirupati Aurangabad Express,Cuddappah,00:30
+17622,Tirupati Aurangabad Express,$/,02:55
+17622,Tirupati Aurangabad Express,Guntakal,03:30
+17622,Tirupati Aurangabad Express,Adoni,04:25
+17622,Tirupati Aurangabad Express,Raichur,05:37
+17622,Tirupati Aurangabad Express,Vikarabad,09:40
+20915,Lingampalli Indore Humsafar Express,Hyderabad,22:05
+20915,Lingampalli Indore Humsafar Express,Vikarabad,22:20
+20915,Lingampalli Indore Humsafar Express,Kalaburagi,00:50
+20915,Lingampalli Indore Humsafar Express,Solapur,02:55
+20915,Lingampalli Indore Humsafar Express,Pune,07:55
+22919,Dr MGR Chennai Ahmedabad Humsafar Express,MGR Chennai Central,16:00
+22919,Dr MGR Chennai Ahmedabad Humsafar Express,Renigunta,18:15
+22919,Dr MGR Chennai Ahmedabad Humsafar Express,Guntakal,23:20
+22919,Dr MGR Chennai Ahmedabad Humsafar Express,Raichur,01:20
+22919,Dr MGR Chennai Ahmedabad Humsafar Express,Wadi,03:25
+22919,Dr MGR Chennai Ahmedabad Humsafar Express,Kalaburagi,04:00
+22919,Dr MGR Chennai Ahmedabad Humsafar Express,Solapur,06:40
+22919,Dr MGR Chennai Ahmedabad Humsafar Express,Pune,11:05
+22919,Dr MGR Chennai Ahmedabad Humsafar Express,Kalyan,13:25
+11028,Satara Dadar Express,Daund,00:55
+11028,Satara Dadar Express,Pune,02:20
+11028,Satara Dadar Express,Lonavla,03:52
+11028,Satara Dadar Express,Kalyan,05:32
+11028,Satara Dadar Express,Dadar,06:35
+11042,Sai Nagar Shirdi Dadar Express,Shahabad,21:25
+11042,Sai Nagar Shirdi Dadar Express,Daund,00:55
+11042,Sai Nagar Shirdi Dadar Express,Pune,02:20
+11042,Sai Nagar Shirdi Dadar Express,Lonavla,03:52
+11042,Sai Nagar Shirdi Dadar Express,Kalyan,05:32
+11042,Sai Nagar Shirdi Dadar Express,Dadar,06:35
+20953,Dr MGR Chennai Ahmedabad Express,MGR Chennai Central,22:40
+20953,Dr MGR Chennai Ahmedabad Express,Renigunta,01:10
+20953,Dr MGR Chennai Ahmedabad Express,Cuddappah,03:00
+20953,Dr MGR Chennai Ahmedabad Express,$/,05:20
+20953,Dr MGR Chennai Ahmedabad Express,Guntakal,06:00
+20953,Dr MGR Chennai Ahmedabad Express,Raichur,08:00
+20953,Dr MGR Chennai Ahmedabad Express,Kalaburagi,10:55
+20953,Dr MGR Chennai Ahmedabad Express,Solapur,12:25
+20953,Dr MGR Chennai Ahmedabad Express,Pune,16:40
+20953,Dr MGR Chennai Ahmedabad Express,Kalyan,19:30
+22155,Kalaburagi Chhatrapati Shahu Maharaj (T) Express,Kalaburagi,06:40
+22155,Kalaburagi Chhatrapati Shahu Maharaj (T) Express,Solapur,08:25
+22155,Kalaburagi Chhatrapati Shahu Maharaj (T) Express,Kurduwadi,09:30
+22155,Kalaburagi Chhatrapati Shahu Maharaj (T) Express,Pandharpur,10:20
+22155,Kalaburagi Chhatrapati Shahu Maharaj (T) Express,Miraj,12:55
+22155,Kalaburagi Chhatrapati Shahu Maharaj (T) Express,Daund d Chhatra- pati Shahu Maharaj (T) Arr.,14:15
+22601,Chennai Sai Nagar Shirdi Express,MGR Chennai,10:25
+22601,Chennai Sai Nagar Shirdi Express,Arakkonam,11:20
+22601,Chennai Sai Nagar Shirdi Express,Hindupur,17:40
+22601,Chennai Sai Nagar Shirdi Express,Sri Sathya Sai,18:45
+22601,Chennai Sai Nagar Shirdi Express,Dharmavaram,19:45
+22601,Chennai Sai Nagar Shirdi Express,Anantapur,20:20
+22601,Chennai Sai Nagar Shirdi Express,Guntakal,21:25
+22601,Chennai Sai Nagar Shirdi Express,Adoni,22:15
+22601,Chennai Sai Nagar Shirdi Express,Raichur,23:15
+22601,Chennai Sai Nagar Shirdi Express,Wadi,01:10
+22601,Chennai Sai Nagar Shirdi Express,Kalaburagi,01:53
+22601,Chennai Sai Nagar Shirdi Express,Solapur,03:40
+22601,Chennai Sai Nagar Shirdi Express,Daund d Chhatra- pati Shahu Maharaj (T) Arr.,06:30
+22601,Chennai Sai Nagar Shirdi Express,Sai Nagar Shirdi d None,10:50
+11020,Bhubaneswar New-Mumbai CSMT Konark Express,Secunderabad,11:00
+11020,Bhubaneswar New-Mumbai CSMT Konark Express,Wadi,14:47
+11020,Bhubaneswar New-Mumbai CSMT Konark Express,Kalaburagi,15:30
+11020,Bhubaneswar New-Mumbai CSMT Konark Express,Solapur,17:30
+11020,Bhubaneswar New-Mumbai CSMT Konark Express,Daund d Chhatra- pati Shahu Maharaj (T) Arr.,21:40
+11020,Bhubaneswar New-Mumbai CSMT Konark Express,Pune d None,23:40
+11020,Bhubaneswar New-Mumbai CSMT Konark Express,Lonavla,00:42
+11020,Bhubaneswar New-Mumbai CSMT Konark Express,Kalyan,02:07
+11020,Bhubaneswar New-Mumbai CSMT Konark Express,Dadar,02:43
+11020,Bhubaneswar New-Mumbai CSMT Konark Express,Mumbai CSMT,04:15
+12116,Solapur Mumbai CSMT Siddheshwar Express,Solapur,22:30
+12116,Solapur Mumbai CSMT Siddheshwar Express,Kurduwadi,23:30
+12116,Solapur Mumbai CSMT Siddheshwar Express,Daund d Chhatra- pati Shahu Maharaj (T) Arr.,01:30
+12116,Solapur Mumbai CSMT Siddheshwar Express,Pune d None,02:50
+12116,Solapur Mumbai CSMT Siddheshwar Express,Kalyan,05:10
+12116,Solapur Mumbai CSMT Siddheshwar Express,Dadar,06:02
+12116,Solapur Mumbai CSMT Siddheshwar Express,Mumbai CSMT,06:35
+12158,Solapur Pune Hutatma Express,Solapur,06:30
+12158,Solapur Pune Hutatma Express,Kurduwadi,07:20
+12158,Solapur Pune Hutatma Express,Daund d Chhatra- pati Shahu Maharaj (T) Arr.,09:05
+12158,Solapur Pune Hutatma Express,Pune d None,10:30
+12170,Solapur Pune Intercity Express,Solapur,14:00
+12170,Solapur Pune Intercity Express,Kurduwadi,14:50
+12170,Solapur Pune Intercity Express,Daund d Chhatra- pati Shahu Maharaj (T) Arr.,16:30
+12170,Solapur Pune Intercity Express,Pune d None,18:05
+12026,Secunderabad Pune Shatabdi Express,Secunderabad,14:45
+12026,Secunderabad Pune Shatabdi Express,Wadi,17:19
+12026,Secunderabad Pune Shatabdi Express,Kalaburagi,18:00
+12026,Secunderabad Pune Shatabdi Express,Solapur,19:35
+12026,Secunderabad Pune Shatabdi Express,Pune d None,23:10
+12220,Secunderabad Lokmanya Tilak (T) Duronto Express,Secunderabad,23:05
+12220,Secunderabad Lokmanya Tilak (T) Duronto Express,Wadi,01:43
+12220,Secunderabad Lokmanya Tilak (T) Duronto Express,Solapur,03:40
+12220,Secunderabad Lokmanya Tilak (T) Duronto Express,Pune d None,07:55
+12220,Secunderabad Lokmanya Tilak (T) Duronto Express,LokmanyaTilak(T),11:15
+17030,yderaba ijayapur Express,Hyderabad,21:10
+17030,yderaba ijayapur Express,Wadi,01:05
+17030,yderaba ijayapur Express,Kalaburagi,01:45
+17030,yderaba ijayapur Express,Solapur,04:55
+17030,yderaba ijayapur Express,Kurduwadi,08:05
+11312,Hassan Solapur Express,Yesvantpur,20:50
+11312,Hassan Solapur Express,Dharmavaram,23:30
+11312,Hassan Solapur Express,Anantapur,00:05
+11312,Hassan Solapur Express,Guntakal,01:15
+11312,Hassan Solapur Express,Raichur,03:05
+11312,Hassan Solapur Express,Wadi,05:10
+11312,Hassan Solapur Express,Kalaburagi,05:50
+11312,Hassan Solapur Express,Solapur,08:10
+16217,Mysuru Sai Nagar Shirdi Express,Yesvantpur,08:52
+16217,Mysuru Sai Nagar Shirdi Express,Solapur,02:55
+16217,Mysuru Sai Nagar Shirdi Express,Kurduwadi,04:00
+16217,Mysuru Sai Nagar Shirdi Express,Daund d Chhatra- pati Shahu Maharaj (T) Arr.,06:30
+16217,Mysuru Sai Nagar Shirdi Express,Sai Nagar Shirdi d None,10:50
+11418,Solapur Pune Express,Solapur,11:40
+11418,Solapur Pune Express,Kurduwadi,13:10
+11418,Solapur Pune Express,Daund d Chhatra- pati Shahu Maharaj (T) Arr.,17:30
+11418,Solapur Pune Express,Pune d None,19:25
+11422,Solapur Pune Express,Solapur,23:45
+11422,Solapur Pune Express,Kurduwadi,01:20
+11422,Solapur Pune Express,Daund d Chhatra- pati Shahu Maharaj (T) Arr.,04:05
+11422,Solapur Pune Express,Pune d None,06:00
+22226,Solapur Mumbai CSMT Vande Bharat Express,Solapur,06:05
+22226,Solapur Mumbai CSMT Vande Bharat Express,Kurduwadi,06:55
+22226,Solapur Mumbai CSMT Vande Bharat Express,Pune d None,09:20
+22226,Solapur Mumbai CSMT Vande Bharat Express,Kalyan,11:35
+22226,Solapur Mumbai CSMT Vande Bharat Express,Dadar,12:14
+22226,Solapur Mumbai CSMT Vande Bharat Express,Mumbai CSMT,12:35

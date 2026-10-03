@@ -1,0 +1,400 @@
+train_num,train_name,halt_station_name,departure_time
+16322,Coim- batore Jn Nagercoil Express,Coimbatore Jn.,08:00
+16322,Coim- batore Jn Nagercoil Express,Tiruppur,09:00
+16322,Coim- batore Jn Nagercoil Express,Erode Jn.,10:00
+16322,Coim- batore Jn Nagercoil Express,Karur Jn.,11:25
+16322,Coim- batore Jn Nagercoil Express,Dindigul Jn.,13:30
+16322,Coim- batore Jn Nagercoil Express,Madurai Jn.,14:30
+16322,Coim- batore Jn Nagercoil Express,Virudunagar Jn.,15:20
+16322,Coim- batore Jn Nagercoil Express,Vanchi Maniyac hchi Jn.,17:00
+16322,Coim- batore Jn Nagercoil Express,Tirunelveli Jn.,18:00
+16322,Coim- batore Jn Nagercoil Express,Nagercoil Jn.,19:40
+16845,Erode Sengottai Express,Erode Jn.,14:00
+16845,Erode Sengottai Express,Karur Jn.,15:05
+16845,Erode Sengottai Express,Dindigul Jn.,16:45
+16845,Erode Sengottai Express,Madurai Jn.,18:00
+16845,Erode Sengottai Express,Virudunagar Jn.,18:45
+16845,Erode Sengottai Express,Vanchi Maniyac hchi Jn.,19:55
+16845,Erode Sengottai Express,Tirunelveli Jn.,20:30
+16845,Erode Sengottai Express,Tiruchendur d Sen- gottai Arr.,22:30
+16211,Yeswanth- pur Salem Express,Yesvantpur,15:55
+16211,Yeswanth- pur Salem Express,Banaswadi,16:22
+16211,Yeswanth- pur Salem Express,Hosur,17:21
+16211,Yeswanth- pur Salem Express,Dharmapuri,19:01
+16211,Yeswanth- pur Salem Express,Salem Jn.,21:45
+12689,MGR Chen- nai Central Nagercoil Express,Salem Jn.,00:25
+12689,MGR Chen- nai Central Nagercoil Express,Namakkal,01:05
+12689,MGR Chen- nai Central Nagercoil Express,Karur Jn.,01:45
+12689,MGR Chen- nai Central Nagercoil Express,Tiruchchirappalli Jn.,03:40
+12689,MGR Chen- nai Central Nagercoil Express,Dindigul Jn.,04:40
+12689,MGR Chen- nai Central Nagercoil Express,Madurai Jn.,05:45
+12689,MGR Chen- nai Central Nagercoil Express,Virudunagar Jn.,06:20
+12689,MGR Chen- nai Central Nagercoil Express,Tirunelveli Jn.,08:20
+12689,MGR Chen- nai Central Nagercoil Express,Nagercoil Jn.,10:20
+16232,Mysuru Cuddalore Port Express,KmMysuru,16:15
+16232,Mysuru Cuddalore Port Express,KSR Bengaluru,19:00
+16232,Mysuru Cuddalore Port Express,Hosur,20:10
+16232,Mysuru Cuddalore Port Express,Dharmapuri,21:52
+16232,Mysuru Cuddalore Port Express,Salem Jn.,23:45
+16232,Mysuru Cuddalore Port Express,Erode Jn.,01:00
+16232,Mysuru Cuddalore Port Express,Karur Jn.,02:00
+16232,Mysuru Cuddalore Port Express,Tiruchchirappalli Jn.,04:10
+16232,Mysuru Cuddalore Port Express,Thanjavur Jn.,05:04
+16232,Mysuru Cuddalore Port Express,Kumbakonam,05:37
+16232,Mysuru Cuddalore Port Express,Mayiladuturai Jn.,06:48
+16232,Mysuru Cuddalore Port Express,Cuddalore Port,08:30
+16236,Mysuru Tuticorin Express,KmMysuru,18:20
+16236,Mysuru Tuticorin Express,KSR Bengaluru,21:15
+16236,Mysuru Tuticorin Express,Hosur,22:25
+16236,Mysuru Tuticorin Express,Dharmapuri,23:58
+16236,Mysuru Tuticorin Express,Salem Jn.,02:10
+16236,Mysuru Tuticorin Express,Erode Jn.,03:35
+16236,Mysuru Tuticorin Express,Karur Jn.,04:50
+16236,Mysuru Tuticorin Express,Dindigul Jn.,06:05
+16236,Mysuru Tuticorin Express,Madurai Jn.,07:35
+16236,Mysuru Tuticorin Express,Virudunagar Jn.,08:20
+16236,Mysuru Tuticorin Express,Vanchi Maniyac hchi Jn.,09:30
+16236,Mysuru Tuticorin Express,Tuticorin,10:25
+16788,Shri Mata Vaishno Devi Katra Tirunelvelli Express,Salem Jn.,08:10
+16788,Shri Mata Vaishno Devi Katra Tirunelvelli Express,Erode Jn.,09:30
+16788,Shri Mata Vaishno Devi Katra Tirunelvelli Express,Karur Jn.,10:30
+16788,Shri Mata Vaishno Devi Katra Tirunelvelli Express,Tiruchchirappalli Jn.,12:40
+16788,Shri Mata Vaishno Devi Katra Tirunelvelli Express,Dindigul Jn.,13:50
+16788,Shri Mata Vaishno Devi Katra Tirunelvelli Express,Madurai Jn.,15:20
+16788,Shri Mata Vaishno Devi Katra Tirunelvelli Express,Virudunagar Jn.,15:50
+16788,Shri Mata Vaishno Devi Katra Tirunelvelli Express,Vanchi Maniyac hchi Jn.,17:30
+16788,Shri Mata Vaishno Devi Katra Tirunelvelli Express,Tirunelveli Jn.,18:45
+12084,Coim batore Cuddalore Port Jan Shatabdi Express,Coimbatore Jn.,07:15
+12084,Coim batore Cuddalore Port Jan Shatabdi Express,Tiruppur,07:55
+12084,Coim batore Cuddalore Port Jan Shatabdi Express,Erode Jn.,08:40
+12084,Coim batore Cuddalore Port Jan Shatabdi Express,Karur Jn.,09:35
+12084,Coim batore Cuddalore Port Jan Shatabdi Express,Tiruchchirappalli Jn.,11:10
+12084,Coim batore Cuddalore Port Jan Shatabdi Express,Thanjavur Jn.,12:04
+12084,Coim batore Cuddalore Port Jan Shatabdi Express,Kumbakonam,12:38
+12084,Coim batore Cuddalore Port Jan Shatabdi Express,Mayiladuturai Jn.,13:45
+16234,Tiruchchi- rappalli Mayiladuturai Express,Tiruchchirappalli Jn.,16:20
+16234,Tiruchchi- rappalli Mayiladuturai Express,Thanjavur Jn.,17:25
+16234,Tiruchchi- rappalli Mayiladuturai Express,Kumbakonam,17:58
+16234,Tiruchchi- rappalli Mayiladuturai Express,Mayiladuturai Jn.,18:50
+22668,Coimbatore Jn - Nagarcil Super Fast Express,Coimbatore Jn.,19:30
+22668,Coimbatore Jn - Nagarcil Super Fast Express,Tiruppur,20:10
+22668,Coimbatore Jn - Nagarcil Super Fast Express,Erode Jn.,20:55
+22668,Coimbatore Jn - Nagarcil Super Fast Express,Karur Jn.,22:00
+22668,Coimbatore Jn - Nagarcil Super Fast Express,Dindigul Jn.,23:15
+22668,Coimbatore Jn - Nagarcil Super Fast Express,Madurai Jn.,00:30
+22668,Coimbatore Jn - Nagarcil Super Fast Express,Virudunagar Jn.,01:10
+22668,Coimbatore Jn - Nagarcil Super Fast Express,Vanchi Maniyac hchi Jn.,02:10
+22668,Coimbatore Jn - Nagarcil Super Fast Express,Tirunelveli Jn.,03:00
+22668,Coimbatore Jn - Nagarcil Super Fast Express,Nagercoil Jn.,04:40
+16573,Yesvantpur Pudu cherry Express,Yesvantpur,20:45
+16573,Yesvantpur Pudu cherry Express,Banaswadi,21:11
+16573,Yesvantpur Pudu cherry Express,Hosur,22:03
+16573,Yesvantpur Pudu cherry Express,Dharmapuri,23:35
+16573,Yesvantpur Pudu cherry Express,Salem Jn.,01:20
+16573,Yesvantpur Pudu cherry Express,Villupuram Jn.,06:20
+16573,Yesvantpur Pudu cherry Express,Puducherry,07:15
+17315,Vasco- da-gama Velank- anni Express,Banaswadi,23:00
+17315,Vasco- da-gama Velank- anni Express,Krishnarajapuram,23:35
+17315,Vasco- da-gama Velank- anni Express,Bangarapet,00:10
+17315,Vasco- da-gama Velank- anni Express,Salem Jn.,04:00
+17315,Vasco- da-gama Velank- anni Express,Erode Jn.,05:25
+17315,Vasco- da-gama Velank- anni Express,Karur Jn.,06:30
+17315,Vasco- da-gama Velank- anni Express,Tiruchchirappalli Jn.,09:10
+17315,Vasco- da-gama Velank- anni Express,Thanjavur Jn.,09:58
+17315,Vasco- da-gama Velank- anni Express,Nagapattinam,11:50
+17315,Vasco- da-gama Velank- anni Express,Velankanni,12:25
+22629,Dadar Tirunel veli Express Via KRCL,Coimbatore Jn.,19:35
+22629,Dadar Tirunel veli Express Via KRCL,Tiruppur,20:20
+22629,Dadar Tirunel veli Express Via KRCL,Erode Jn.,21:15
+22629,Dadar Tirunel veli Express Via KRCL,Karur Jn.,22:35
+22629,Dadar Tirunel veli Express Via KRCL,Dindigul Jn.,00:05
+22629,Dadar Tirunel veli Express Via KRCL,Madurai Jn.,01:10
+22629,Dadar Tirunel veli Express Via KRCL,Virudunagar Jn.,01:45
+22629,Dadar Tirunel veli Express Via KRCL,Tirunelveli Jn.,03:55
+20494,Chandigarh Madurai Super fast Express,Salem Jn.,09:00
+20494,Chandigarh Madurai Super fast Express,Erode Jn.,10:10
+20494,Chandigarh Madurai Super fast Express,Karur Jn.,11:10
+20494,Chandigarh Madurai Super fast Express,Dindigul Jn.,12:15
+20494,Chandigarh Madurai Super fast Express,Madurai Jn.,13:40
+22629,Dadar Tirunel veli Express Via KRCL (M),Coimbatore Jn.,23:05
+22629,Dadar Tirunel veli Express Via KRCL (M),Tiruppur,23:50
+22629,Dadar Tirunel veli Express Via KRCL (M),Erode Jn.,01:20
+22629,Dadar Tirunel veli Express Via KRCL (M),Karur Jn.,02:35
+22629,Dadar Tirunel veli Express Via KRCL (M),Dindigul Jn.,04:55
+22629,Dadar Tirunel veli Express Via KRCL (M),Madurai Jn.,06:00
+22629,Dadar Tirunel veli Express Via KRCL (M),Virudunagar Jn.,06:40
+22629,Dadar Tirunel veli Express Via KRCL (M),Tirunelveli Jn.,09:00
+11021,Dadar Tirunel veli Express,Sir M Vishvesvaraya Terminal,21:20
+11021,Dadar Tirunel veli Express,Hosur,22:30
+11021,Dadar Tirunel veli Express,Dharmapuri,00:10
+11021,Dadar Tirunel veli Express,Salem Jn.,03:30
+11021,Dadar Tirunel veli Express,Namakkal,04:30
+11021,Dadar Tirunel veli Express,Karur Jn.,05:20
+11021,Dadar Tirunel veli Express,Dindigul Jn.,06:55
+11021,Dadar Tirunel veli Express,Madurai Jn.,08:05
+11021,Dadar Tirunel veli Express,Virudunagar Jn.,08:40
+11021,Dadar Tirunel veli Express,Tirunelveli Jn.,10:40
+16616,Coimbatore Mannargudi Chemmozhi Express,Coimbatore Jn.,00:30
+16616,Coimbatore Mannargudi Chemmozhi Express,Tiruppur,01:15
+16616,Coimbatore Mannargudi Chemmozhi Express,Erode Jn.,02:05
+16616,Coimbatore Mannargudi Chemmozhi Express,Karur Jn.,03:05
+16616,Coimbatore Mannargudi Chemmozhi Express,Tiruchchirappalli Jn.,05:00
+16616,Coimbatore Mannargudi Chemmozhi Express,Thanjavur Jn.,06:00
+16616,Coimbatore Mannargudi Chemmozhi Express,Mannargudi,07:40
+17235,Sir M. Vishvesvaraya Terminal Bengaluru Nagercoil Express,Sir M Vishvesvaraya Terminal,17:15
+17235,Sir M. Vishvesvaraya Terminal Bengaluru Nagercoil Express,Hosur,18:08
+17235,Sir M. Vishvesvaraya Terminal Bengaluru Nagercoil Express,Dharmapuri,19:50
+17235,Sir M. Vishvesvaraya Terminal Bengaluru Nagercoil Express,Salem Jn.,22:05
+17235,Sir M. Vishvesvaraya Terminal Bengaluru Nagercoil Express,Namakkal,23:00
+17235,Sir M. Vishvesvaraya Terminal Bengaluru Nagercoil Express,Karur Jn.,23:40
+17235,Sir M. Vishvesvaraya Terminal Bengaluru Nagercoil Express,Dindigul Jn.,01:20
+17235,Sir M. Vishvesvaraya Terminal Bengaluru Nagercoil Express,Madurai Jn.,02:20
+17235,Sir M. Vishvesvaraya Terminal Bengaluru Nagercoil Express,Virudunagar Jn.,02:55
+17235,Sir M. Vishvesvaraya Terminal Bengaluru Nagercoil Express,Tirunelveli Jn.,05:30
+17235,Sir M. Vishvesvaraya Terminal Bengaluru Nagercoil Express,Nagercoil Jn.,07:20
+16618,Coimbatore Rames waram Express,Coimbatore Jn.,19:45
+16618,Coimbatore Rames waram Express,Tiruppur,20:25
+16618,Coimbatore Rames waram Express,Erode Jn.,21:15
+16618,Coimbatore Rames waram Express,Karur Jn.,22:35
+16618,Coimbatore Rames waram Express,Tiruchchirappalli Jn.,00:10
+22651,Chennai Palakkad Express,Salem Jn.,02:40
+22651,Chennai Palakkad Express,Namakkal,03:35
+22651,Chennai Palakkad Express,Karur Jn.,04:20
+22651,Chennai Palakkad Express,Palani,06:30
+22651,Chennai Palakkad Express,Dindigul Jn.,05:35
+22651,Chennai Palakkad Express,Tuticorin,09:10
+22497,Srig anga Nagar Tiruchchi- rappalli Humsafar Express,Banaswadi,14:00
+22497,Srig anga Nagar Tiruchchi- rappalli Humsafar Express,Krishnarajapuram,14:25
+22497,Srig anga Nagar Tiruchchi- rappalli Humsafar Express,Bangarapet,15:05
+22497,Srig anga Nagar Tiruchchi- rappalli Humsafar Express,Salem Jn.,18:55
+22497,Srig anga Nagar Tiruchchi- rappalli Humsafar Express,Namakkal,19:45
+22497,Srig anga Nagar Tiruchchi- rappalli Humsafar Express,Karur Jn.,20:25
+22497,Srig anga Nagar Tiruchchi- rappalli Humsafar Express,Tiruchchirappalli Jn.,22:10
+16529,SMVT Bengaluru Karaikkal Express,Sir M Vishvesvaraya Terminal,07:30
+16529,SMVT Bengaluru Karaikkal Express,Hosur,08:36
+16529,SMVT Bengaluru Karaikkal Express,Dharmapuri,10:16
+16529,SMVT Bengaluru Karaikkal Express,Salem Jn.,13:00
+16529,SMVT Bengaluru Karaikkal Express,Nagapattinam,21:55
+16529,SMVT Bengaluru Karaikkal Express,Tuticorin,22:35
+16721,Coimbatore Madurai Jn. Express,Coimbatore Jn.,14:30
+16721,Coimbatore Madurai Jn. Express,Palani,16:45
+16721,Coimbatore Madurai Jn. Express,Dindigul Jn.,18:00
+16721,Coimbatore Madurai Jn. Express,Madurai Jn.,19:35
+16731,Palakkad Tiruchen- dur Express,Karur Jn.,06:10
+16731,Palakkad Tiruchen- dur Express,Palani,08:35
+16731,Palakkad Tiruchen- dur Express,Dindigul Jn.,09:45
+16731,Palakkad Tiruchen- dur Express,Madurai Jn.,11:05
+16731,Palakkad Tiruchen- dur Express,Virudunagar Jn.,11:50
+16731,Palakkad Tiruchen- dur Express,Vanchi Maniyac hchi Jn.,13:05
+16731,Palakkad Tiruchen- dur Express,Tirunelveli Jn.,13:45
+16731,Palakkad Tiruchen- dur Express,Tiruchendur,15:30
+16812,Salem May- iladuturai Express,Salem Jn.,14:05
+16812,Salem May- iladuturai Express,Namakkal,14:55
+16812,Salem May- iladuturai Express,Karur Jn.,15:40
+16812,Salem May- iladuturai Express,Tiruchchirappalli Jn.,18:10
+16812,Salem May- iladuturai Express,Thanjavur Jn.,19:21
+16812,Salem May- iladuturai Express,Kumbakonam,20:25
+16812,Salem May- iladuturai Express,Mayiladuturai Jn.,21:30
+20672,Bangalore Cantonment Madurai Vandae Bharat,KSR Bengaluru,13:30
+20672,Bangalore Cantonment Madurai Vandae Bharat,Krishnarajapuram,13:44
+20672,Bangalore Cantonment Madurai Vandae Bharat,Salem Jn.,16:35
+20672,Bangalore Cantonment Madurai Vandae Bharat,Namakkal,17:15
+20672,Bangalore Cantonment Madurai Vandae Bharat,Karur Jn.,17:50
+20672,Bangalore Cantonment Madurai Vandae Bharat,Tiruchchirappalli Jn.,19:20
+20672,Bangalore Cantonment Madurai Vandae Bharat,Dindigul Jn.,20:22
+20672,Bangalore Cantonment Madurai Vandae Bharat,Madurai Jn.,21:40
+16722,Madurai Jn Coimbatore Jn Express,Madurai Jn.,07:10
+16722,Madurai Jn Coimbatore Jn Express,Palani,09:30
+16722,Madurai Jn Coimbatore Jn Express,Dindigul Jn.,08:25
+16722,Madurai Jn Coimbatore Jn Express,Coimbatore,12:15
+16846,Sengottai Erode Express,Sengottai,05:20
+16846,Sengottai Erode Express,Tirunelveli Jn.,06:45
+16846,Sengottai Erode Express,Vanchi Maniyachchi Jn.,07:15
+16846,Sengottai Erode Express,Virudunagar Jn.,08:40
+16846,Sengottai Erode Express,Madurai Jn.,09:30
+16846,Sengottai Erode Express,Dindigul Jn.,11:20
+16846,Sengottai Erode Express,Karur Jn.,13:00
+16846,Sengottai Erode Express,Erode Jn.,15:00
+16321,Nagar coil Coimbatore Jn Express,Km.0 Nagercoil Jn.,08:00
+16321,Nagar coil Coimbatore Jn Express,Tirunelveli Jn.,09:40
+16321,Nagar coil Coimbatore Jn Express,Vanchi Maniyachchi Jn.,10:05
+16321,Nagar coil Coimbatore Jn Express,Virudunagar Jn.,11:20
+16321,Nagar coil Coimbatore Jn Express,Madurai Jn.,12:15
+16321,Nagar coil Coimbatore Jn Express,Dindigul Jn.,13:25
+16321,Nagar coil Coimbatore Jn Express,Karur Jn.,14:50
+16321,Nagar coil Coimbatore Jn Express,Erode Jn.,16:50
+16321,Nagar coil Coimbatore Jn Express,Tiruppur,17:40
+16321,Nagar coil Coimbatore Jn Express,Coimbatore,19:30
+16231,Cuddalore Port Mysuru Express,Cuddalore Port,16:30
+16231,Cuddalore Port Mysuru Express,Mayiladuturai Jn.,17:50
+16231,Cuddalore Port Mysuru Express,Kumbakonam,18:28
+16231,Cuddalore Port Mysuru Express,Thanjavur Jn.,19:05
+16231,Cuddalore Port Mysuru Express,Tiruchchirappalli Jn.,20:30
+16231,Cuddalore Port Mysuru Express,Karur Jn.,22:00
+16231,Cuddalore Port Mysuru Express,Erode Jn.,23:35
+16231,Cuddalore Port Mysuru Express,Salem Jn.,00:30
+16231,Cuddalore Port Mysuru Express,Dharmapuri,02:07
+16231,Cuddalore Port Mysuru Express,Hosur,03:35
+16231,Cuddalore Port Mysuru Express,KSR Bengaluru,05:40
+16231,Cuddalore Port Mysuru Express,Mysuru,08:35
+16235,Tuticorin Mysuru Express,Tuticorin,17:30
+16235,Tuticorin Mysuru Express,Vanchi Maniyachchi Jn.,18:05
+16235,Tuticorin Mysuru Express,Virudunagar Jn.,19:15
+16235,Tuticorin Mysuru Express,Madurai Jn.,20:15
+16235,Tuticorin Mysuru Express,Dindigul Jn.,21:30
+16235,Tuticorin Mysuru Express,Karur Jn.,22:35
+16235,Tuticorin Mysuru Express,Erode Jn.,00:15
+16235,Tuticorin Mysuru Express,Salem Jn.,01:10
+16235,Tuticorin Mysuru Express,Dharmapuri,02:45
+16235,Tuticorin Mysuru Express,Hosur,04:30
+16235,Tuticorin Mysuru Express,KSR Bengaluru,06:35
+16235,Tuticorin Mysuru Express,Mysuru,10:20
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Tirunelveli Jn.,18:00
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Vanchi Maniyachchi Jn.,18:26
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Virudunagar Jn.,19:35
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Madurai Jn.,20:30
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Dindigul Jn.,21:45
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Tiruchchirappalli Jn.,23:10
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Karur Jn.,00:40
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Erode Jn.,03:05
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Salem Jn.,04:00
+22667,Nagercoil Coimbatore Jn super Fast Express,Km.0 Nagercoil Jn.,21:55
+22667,Nagercoil Coimbatore Jn super Fast Express,Tirunelveli Jn.,23:20
+22667,Nagercoil Coimbatore Jn super Fast Express,Vanchi Maniyachchi Jn.,23:45
+22667,Nagercoil Coimbatore Jn super Fast Express,Virudunagar Jn.,00:45
+22667,Nagercoil Coimbatore Jn super Fast Express,Madurai Jn.,01:40
+22667,Nagercoil Coimbatore Jn super Fast Express,Dindigul Jn.,03:00
+22667,Nagercoil Coimbatore Jn super Fast Express,Karur Jn.,04:15
+22667,Nagercoil Coimbatore Jn super Fast Express,Erode Jn.,05:15
+22667,Nagercoil Coimbatore Jn super Fast Express,Tiruppur,06:00
+22667,Nagercoil Coimbatore Jn super Fast Express,Coimbatore,07:15
+12690,Kaniyaku- mari MGR Chen- nai Central Express,Km.0 Nagercoil Jn.,20:00
+12690,Kaniyaku- mari MGR Chen- nai Central Express,Tirunelveli Jn.,22:25
+12690,Kaniyaku- mari MGR Chen- nai Central Express,Virudunagar Jn.,23:57
+12690,Kaniyaku- mari MGR Chen- nai Central Express,Madurai Jn.,00:55
+12690,Kaniyaku- mari MGR Chen- nai Central Express,Dindigul Jn.,02:00
+12690,Kaniyaku- mari MGR Chen- nai Central Express,Tiruchchirappalli Jn.,03:10
+12690,Kaniyaku- mari MGR Chen- nai Central Express,Karur Jn.,04:30
+12690,Kaniyaku- mari MGR Chen- nai Central Express,Namakkal,05:05
+12690,Kaniyaku- mari MGR Chen- nai Central Express,Salem Jn.,06:10
+16833,Mayiladu- turai Tiruchchi- rappalli Express,Mayiladuturai Jn.,07:50
+16833,Mayiladu- turai Tiruchchi- rappalli Express,Kumbakonam,08:38
+16833,Mayiladu- turai Tiruchchi- rappalli Express,Thanjavur Jn.,09:13
+16833,Mayiladu- turai Tiruchchi- rappalli Express,Tiruchchirappalli Jn.,10:15
+12083,May- iladuturai Coimbatore Jan Shatabdi Express,Mayiladuturai Jn.,15:05
+12083,May- iladuturai Coimbatore Jan Shatabdi Express,Kumbakonam,15:34
+12083,May- iladuturai Coimbatore Jan Shatabdi Express,Thanjavur Jn.,16:20
+12083,May- iladuturai Coimbatore Jan Shatabdi Express,Tiruchchirappalli Jn.,17:25
+12083,May- iladuturai Coimbatore Jan Shatabdi Express,Karur Jn.,18:25
+12083,May- iladuturai Coimbatore Jan Shatabdi Express,Erode Jn.,19:25
+12083,May- iladuturai Coimbatore Jan Shatabdi Express,Tiruppur,20:10
+12083,May- iladuturai Coimbatore Jan Shatabdi Express,Coimbatore,21:25
+16574,Puducherry Yesvantpur Express,Puducherry,22:25
+16574,Puducherry Yesvantpur Express,Villupuram Jn.,23:30
+16574,Puducherry Yesvantpur Express,Vriddhachalam Jn.,00:25
+16574,Puducherry Yesvantpur Express,Salem Jn.,03:05
+16574,Puducherry Yesvantpur Express,Dharmapuri,04:15
+16574,Puducherry Yesvantpur Express,Hosur,05:45
+16574,Puducherry Yesvantpur Express,Banaswadi,07:15
+16574,Puducherry Yesvantpur Express,Yesvantpur,08:20
+17316,Velankanni Vascoda- Gama Express,Velankanni,23:55
+17316,Velankanni Vascoda- Gama Express,Nagapattinam,00:20
+17316,Velankanni Vascoda- Gama Express,Thanjavur Jn.,01:50
+17316,Velankanni Vascoda- Gama Express,Tiruchchirappalli Jn.,03:10
+17316,Velankanni Vascoda- Gama Express,Karur Jn.,04:25
+17316,Velankanni Vascoda- Gama Express,Erode Jn.,06:25
+17316,Velankanni Vascoda- Gama Express,Salem Jn.,07:20
+17316,Velankanni Vascoda- Gama Express,Bangarapet,10:05
+17316,Velankanni Vascoda- Gama Express,Krishnarajapuram,10:50
+17316,Velankanni Vascoda- Gama Express,Banaswadi,12:00
+22630,Tirunelveli Dadar (T) Express Via KRCL,Tirunelveli Jn.,07:30
+22630,Tirunelveli Dadar (T) Express Via KRCL,Virudunagar Jn.,08:50
+22630,Tirunelveli Dadar (T) Express Via KRCL,Madurai Jn.,09:45
+22630,Tirunelveli Dadar (T) Express Via KRCL,Dindigul Jn.,10:50
+22630,Tirunelveli Dadar (T) Express Via KRCL,Karur Jn.,11:55
+22630,Tirunelveli Dadar (T) Express Via KRCL,Erode Jn.,13:10
+22630,Tirunelveli Dadar (T) Express Via KRCL,Tiruppur,13:55
+22630,Tirunelveli Dadar (T) Express Via KRCL,Coimbatore,15:00
+20493,Madurai Chandigarh Super Fast Express,Madurai Jn.,23:40
+20493,Madurai Chandigarh Super Fast Express,Dindigul Jn.,00:40
+20493,Madurai Chandigarh Super Fast Express,Karur Jn.,01:45
+20493,Madurai Chandigarh Super Fast Express,Erode Jn.,03:05
+20493,Madurai Chandigarh Super Fast Express,Salem Jn.,04:00
+11022,Tirunelveli Dadar Express,Tirunelveli Jn.,15:45
+11022,Tirunelveli Dadar Express,Virudunagar Jn.,17:15
+11022,Tirunelveli Dadar Express,Madurai Jn.,18:00
+11022,Tirunelveli Dadar Express,Dindigul Jn.,19:00
+11022,Tirunelveli Dadar Express,Karur Jn.,20:10
+11022,Tirunelveli Dadar Express,Namakkal,20:45
+11022,Tirunelveli Dadar Express,Salem Jn.,21:55
+11022,Tirunelveli Dadar Express,Dharmapuri,00:30
+11022,Tirunelveli Dadar Express,Hosur,01:50
+11022,Tirunelveli Dadar Express,Sir M Vishvesvaraya a Terminal Bengaluru,04:30
+16615,Mannargudi Coimbatore Chemmozhi Express,Mannargudi,20:25
+16615,Mannargudi Coimbatore Chemmozhi Express,Thanjavur Jn.,21:40
+16615,Mannargudi Coimbatore Chemmozhi Express,Tiruchchirappalli Jn.,23:00
+16615,Mannargudi Coimbatore Chemmozhi Express,Karur Jn.,00:10
+16615,Mannargudi Coimbatore Chemmozhi Express,Erode Jn.,02:05
+16615,Mannargudi Coimbatore Chemmozhi Express,Tiruppur,02:50
+16615,Mannargudi Coimbatore Chemmozhi Express,Coimbatore,04:45
+17236,Nagercoil Sir M. Vish- vesvaraya Terminal Bengaluru Express,Km.0 Nagercoil Jn.,19:15
+17236,Nagercoil Sir M. Vish- vesvaraya Terminal Bengaluru Express,Tirunelveli Jn.,21:20
+17236,Nagercoil Sir M. Vish- vesvaraya Terminal Bengaluru Express,Virudunagar Jn.,23:05
+17236,Nagercoil Sir M. Vish- vesvaraya Terminal Bengaluru Express,Madurai Jn.,23:55
+17236,Nagercoil Sir M. Vish- vesvaraya Terminal Bengaluru Express,Dindigul Jn.,01:15
+17236,Nagercoil Sir M. Vish- vesvaraya Terminal Bengaluru Express,Karur Jn.,02:20
+17236,Nagercoil Sir M. Vish- vesvaraya Terminal Bengaluru Express,Namakkal,02:50
+17236,Nagercoil Sir M. Vish- vesvaraya Terminal Bengaluru Express,Salem Jn.,03:55
+17236,Nagercoil Sir M. Vish- vesvaraya Terminal Bengaluru Express,Dharmapuri,05:20
+17236,Nagercoil Sir M. Vish- vesvaraya Terminal Bengaluru Express,Hosur,07:10
+17236,Nagercoil Sir M. Vish- vesvaraya Terminal Bengaluru Express,Sir M Vishvesvaraya a Terminal Bengaluru,09:30
+16617,Rame- swaram Coim- batore Express,Tiruchchirappalli Jn.,00:40
+16617,Rame- swaram Coim- batore Express,Karur Jn.,02:30
+16617,Rame- swaram Coim- batore Express,Erode Jn.,04:10
+16617,Rame- swaram Coim- batore Express,Tiruppur,04:55
+16617,Rame- swaram Coim- batore Express,Coimbatore,06:30
+22652,Pal- akkad henn xpres,Palani,17:50
+22652,Pal- akkad henn xpres,Dindigul Jn.,19:30
+22652,Pal- akkad henn xpres,Karur Jn.,20:30
+22652,Pal- akkad henn xpres,Namakkal,21:03
+22652,Pal- akkad henn xpres,Salem Jn.,22:05
+22498,Thiruchirap- pali Sriganga Nagar Humsafar Express,Tiruchchirappalli Jn.,04:45
+22498,Thiruchirap- pali Sriganga Nagar Humsafar Express,Karur Jn.,05:50
+22498,Thiruchirap- pali Sriganga Nagar Humsafar Express,Namakkal,06:15
+22498,Thiruchirap- pali Sriganga Nagar Humsafar Express,Salem Jn.,07:20
+22498,Thiruchirap- pali Sriganga Nagar Humsafar Express,Bangarapet,10:05
+22498,Thiruchirap- pali Sriganga Nagar Humsafar Express,Krishnarajapuram,10:50
+22498,Thiruchirap- pali Sriganga Nagar Humsafar Express,Banaswadi,12:00
+16212,Salem - Yeswan- thapur Express,Salem Jn.,05:20
+16212,Salem - Yeswan- thapur Express,Dharmapuri,06:42
+16212,Salem - Yeswan- thapur Express,Hosur,08:20
+16212,Salem - Yeswan- thapur Express,Banaswadi,09:50
+16212,Salem - Yeswan- thapur Express,Yesvantpur,11:15
+16530,araik SMVT ngalu xpres,Palani,04:50
+16530,araik SMVT ngalu xpres,Nagapattinam,05:23
+16530,araik SMVT ngalu xpres,Salem Jn.,14:40
+16530,araik SMVT ngalu xpres,Dharmapuri,16:32
+16530,araik SMVT ngalu xpres,Hosur,18:10
+16530,araik SMVT ngalu xpres,Sir M Vishvesvaraya a Terminal Bengaluru,21:50
+16732,iruchen dur alakka Express,Km.0 Nagercoil Jn.,12:30
+16732,iruchen dur alakka Express,Tirunelveli Jn.,13:50
+16732,iruchen dur alakka Express,Vanchi Maniyachchi Jn.,14:25
+16732,iruchen dur alakka Express,Virudunagar Jn.,15:35
+16732,iruchen dur alakka Express,Madurai Jn.,16:20
+16732,iruchen dur alakka Express,Palani,19:00
+16732,iruchen dur alakka Express,Dindigul Jn.,17:50
+16732,iruchen dur alakka Express,Mannargudi,21:45
+16811,May- iladuturai Salem Express,Mayiladuturai Jn.,06:15
+16811,May- iladuturai Salem Express,Kumbakonam,06:47
+16811,May- iladuturai Salem Express,Thanjavur Jn.,08:10
+16811,May- iladuturai Salem Express,Tiruchchirappalli Jn.,09:40
+16811,May- iladuturai Salem Express,Karur Jn.,11:45
+16811,May- iladuturai Salem Express,Salem Jn.,13:45
+20671,Madurai Bangalore Cantonment Vande Bharat,Madurai Jn.,05:15
+20671,Madurai Bangalore Cantonment Vande Bharat,Dindigul Jn.,06:00
+20671,Madurai Bangalore Cantonment Vande Bharat,Tiruchchirappalli Jn.,07:00
+20671,Madurai Bangalore Cantonment Vande Bharat,Karur Jn.,08:00
+20671,Madurai Bangalore Cantonment Vande Bharat,Namakkal,08:30
+20671,Madurai Bangalore Cantonment Vande Bharat,Salem Jn.,09:10
+20671,Madurai Bangalore Cantonment Vande Bharat,Krishnarajapuram,12:25
+20671,Madurai Bangalore Cantonment Vande Bharat,Sir M Vishvesvaraya a Terminal Bengaluru,13:00

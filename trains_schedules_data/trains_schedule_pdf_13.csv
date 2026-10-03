@@ -1,0 +1,940 @@
+train_num,train_name,halt_station_name,departure_time
+14603,Narpatganj Amritar Jan Sadharan Express,Katihar a d Narpatganj Dep.,13:15
+14603,Narpatganj Amritar Jan Sadharan Express,Saharsa,17:00
+14603,Narpatganj Amritar Jan Sadharan Express,Khagaria,18:35
+14603,Narpatganj Amritar Jan Sadharan Express,Ruseraghat,19:31
+14603,Narpatganj Amritar Jan Sadharan Express,Samastipur,20:20
+14603,Narpatganj Amritar Jan Sadharan Express,Muzaffapur,21:20
+14603,Narpatganj Amritar Jan Sadharan Express,Hajipur,22:15
+14603,Narpatganj Amritar Jan Sadharan Express,Sonpur,22:23
+14603,Narpatganj Amritar Jan Sadharan Express,Chhapra,00:15
+14603,Narpatganj Amritar Jan Sadharan Express,Siwan,01:15
+14603,Narpatganj Amritar Jan Sadharan Express,/ Gorakhpur,04:20
+14603,Narpatganj Amritar Jan Sadharan Express,Khalilabad,04:56
+14603,Narpatganj Amritar Jan Sadharan Express,/ Basti,05:22
+14603,Narpatganj Amritar Jan Sadharan Express,/ Gonda,06:55
+14603,Narpatganj Amritar Jan Sadharan Express,Burhwal,08:15
+14603,Narpatganj Amritar Jan Sadharan Express,Sitapur,11:10
+14603,Narpatganj Amritar Jan Sadharan Express,Shahjahanpur,12:45
+14603,Narpatganj Amritar Jan Sadharan Express,/ Bareilly,13:50
+14603,Narpatganj Amritar Jan Sadharan Express,/ Moradabad,15:30
+14603,Narpatganj Amritar Jan Sadharan Express,Najibabad,17:45
+14603,Narpatganj Amritar Jan Sadharan Express,/ Saharanpur,20:30
+14603,Narpatganj Amritar Jan Sadharan Express,/ Ambala Cantt.,22:10
+14603,Narpatganj Amritar Jan Sadharan Express,/ Ludhiana,23:56
+14603,Narpatganj Amritar Jan Sadharan Express,Jalandhar City,00:55
+14603,Narpatganj Amritar Jan Sadharan Express,Beas,01:28
+14603,Narpatganj Amritar Jan Sadharan Express,Amritsar,02:20
+15621,Kamakhya Anand Vihar Express,Kamakhya,05:00
+15621,Kamakhya Anand Vihar Express,Goalpara Town,06:40
+15621,Kamakhya Anand Vihar Express,New Bongaigaon,07:40
+15621,Kamakhya Anand Vihar Express,New Jalpaiguri,13:50
+15621,Kamakhya Anand Vihar Express,Kishanganj,15:07
+15621,Kamakhya Anand Vihar Express,Katihar a d Narpatganj Dep.,17:25
+15621,Kamakhya Anand Vihar Express,Khagaria,19:11
+15621,Kamakhya Anand Vihar Express,Barauni,20:15
+15621,Kamakhya Anand Vihar Express,Hajipur,21:45
+15621,Kamakhya Anand Vihar Express,Chhapra,23:25
+15621,Kamakhya Anand Vihar Express,Siwan,00:25
+15621,Kamakhya Anand Vihar Express,/ Gorakhpur,03:00
+15621,Kamakhya Anand Vihar Express,/ Basti,03:58
+15621,Kamakhya Anand Vihar Express,/ Gonda,05:25
+15621,Kamakhya Anand Vihar Express,Sitapur,08:50
+15621,Kamakhya Anand Vihar Express,/ Moradabad,14:55
+15651,Guwahati Jammu Tawi Lohit Express,Guwahati,14:00
+15651,Guwahati Jammu Tawi Lohit Express,Kamakhya,14:13
+15651,Guwahati Jammu Tawi Lohit Express,Rangiya,14:50
+15651,Guwahati Jammu Tawi Lohit Express,New Bongaigaon,17:00
+15651,Guwahati Jammu Tawi Lohit Express,New Alipurduar,18:45
+15651,Guwahati Jammu Tawi Lohit Express,New Coach Behar,19:10
+15651,Guwahati Jammu Tawi Lohit Express,New Jalpaiguri,21:35
+15651,Guwahati Jammu Tawi Lohit Express,Kishanganj,22:45
+15651,Guwahati Jammu Tawi Lohit Express,Katihar a d Narpatganj Dep.,01:25
+15651,Guwahati Jammu Tawi Lohit Express,Khagaria,03:18
+15651,Guwahati Jammu Tawi Lohit Express,Barauni,04:45
+15651,Guwahati Jammu Tawi Lohit Express,Shaahpur Patoree d ,05:34
+15651,Guwahati Jammu Tawi Lohit Express,Hajipur,07:20
+15651,Guwahati Jammu Tawi Lohit Express,Sonpur,07:28
+15651,Guwahati Jammu Tawi Lohit Express,Chhapra,09:35
+15651,Guwahati Jammu Tawi Lohit Express,Siwan,10:40
+15651,Guwahati Jammu Tawi Lohit Express,Bhatni d ,11:35
+15651,Guwahati Jammu Tawi Lohit Express,/ Gorakhpur,13:55
+15651,Guwahati Jammu Tawi Lohit Express,/ Basti,14:59
+15651,Guwahati Jammu Tawi Lohit Express,/ Gonda,16:45
+15651,Guwahati Jammu Tawi Lohit Express,/ Lucknow,19:30
+15651,Guwahati Jammu Tawi Lohit Express,/ Bareilly,23:23
+15651,Guwahati Jammu Tawi Lohit Express,/ Moradabad,01:05
+15651,Guwahati Jammu Tawi Lohit Express,/ Laksar,02:52
+15651,Guwahati Jammu Tawi Lohit Express,/ Saharanpur,04:25
+15651,Guwahati Jammu Tawi Lohit Express,/ Ambala Cantt.,05:50
+15651,Guwahati Jammu Tawi Lohit Express,/ Ludhiana,07:36
+15651,Guwahati Jammu Tawi Lohit Express,/ Jalandhar Cantt.,08:29
+15651,Guwahati Jammu Tawi Lohit Express,Pathankot Cantt,10:25
+15651,Guwahati Jammu Tawi Lohit Express,/ Jammutawi,13:00
+15653,Guwahati Jammu Tawi Amarnath Express,Guwahati,14:00
+15653,Guwahati Jammu Tawi Amarnath Express,Kamakhya,14:18
+15653,Guwahati Jammu Tawi Amarnath Express,Rangiya,14:50
+15653,Guwahati Jammu Tawi Amarnath Express,New Bongaigaon,17:00
+15653,Guwahati Jammu Tawi Amarnath Express,New Alipurduar,18:45
+15653,Guwahati Jammu Tawi Amarnath Express,New Coach Behar,19:10
+15653,Guwahati Jammu Tawi Amarnath Express,New Jalpaiguri,21:35
+15653,Guwahati Jammu Tawi Amarnath Express,Kishanganj,22:45
+15653,Guwahati Jammu Tawi Amarnath Express,Katihar a d Narpatganj Dep.,01:25
+15653,Guwahati Jammu Tawi Amarnath Express,Khagaria,03:18
+15653,Guwahati Jammu Tawi Amarnath Express,Barauni,04:45
+15653,Guwahati Jammu Tawi Amarnath Express,Samastipur,05:35
+15653,Guwahati Jammu Tawi Amarnath Express,Muzaffapur,06:55
+15653,Guwahati Jammu Tawi Amarnath Express,/ Gorakhpur,13:55
+15653,Guwahati Jammu Tawi Amarnath Express,/ Basti,14:59
+15653,Guwahati Jammu Tawi Amarnath Express,/ Gonda,16:45
+15653,Guwahati Jammu Tawi Amarnath Express,/ Lucknow,19:30
+15653,Guwahati Jammu Tawi Amarnath Express,Shahjahanpur,22:22
+15653,Guwahati Jammu Tawi Amarnath Express,/ Bareilly,23:23
+15653,Guwahati Jammu Tawi Amarnath Express,/ Moradabad,01:05
+15653,Guwahati Jammu Tawi Amarnath Express,/ Laksar,02:52
+15653,Guwahati Jammu Tawi Amarnath Express,/ Saharanpur,04:25
+15653,Guwahati Jammu Tawi Amarnath Express,/ Ambala Cantt.,05:50
+15653,Guwahati Jammu Tawi Amarnath Express,/ Ludhiana,07:36
+15653,Guwahati Jammu Tawi Amarnath Express,/ Jalandhar Cantt.,08:29
+15653,Guwahati Jammu Tawi Amarnath Express,Pathankot Cantt,10:25
+15653,Guwahati Jammu Tawi Amarnath Express,/ Jammutawi,13:00
+12587,Gorakhpur Jammu Tawi Lohit Express,/ Gorakhpur,14:20
+12587,Gorakhpur Jammu Tawi Lohit Express,Khalilabad,14:54
+12587,Gorakhpur Jammu Tawi Lohit Express,/ Basti,15:22
+12587,Gorakhpur Jammu Tawi Lohit Express,/ Gonda,16:45
+12587,Gorakhpur Jammu Tawi Lohit Express,/ Lucknow,19:30
+12587,Gorakhpur Jammu Tawi Lohit Express,Shahjahanpur,22:22
+12587,Gorakhpur Jammu Tawi Lohit Express,/ Bareilly,23:23
+12587,Gorakhpur Jammu Tawi Lohit Express,/ Moradabad,01:05
+12587,Gorakhpur Jammu Tawi Lohit Express,/ Laksar,02:52
+12587,Gorakhpur Jammu Tawi Lohit Express,/ Saharanpur,04:25
+12587,Gorakhpur Jammu Tawi Lohit Express,/ Ambala Cantt.,05:50
+12587,Gorakhpur Jammu Tawi Lohit Express,/ Ludhiana,07:36
+12587,Gorakhpur Jammu Tawi Lohit Express,/ Jalandhar Cantt.,08:29
+12587,Gorakhpur Jammu Tawi Lohit Express,Pathankot Cantt,10:25
+12587,Gorakhpur Jammu Tawi Lohit Express,/ Jammutawi,13:00
+15097,Bhagalpur / Jammu Tawi Express,Bhagalpur,23:55
+15097,Bhagalpur / Jammu Tawi Express,Jamalpur,01:10
+15097,Bhagalpur / Jammu Tawi Express,Barauni,04:45
+15097,Bhagalpur / Jammu Tawi Express,Samastipur,05:40
+15097,Bhagalpur / Jammu Tawi Express,Muzaffapur,06:50
+15097,Bhagalpur / Jammu Tawi Express,Hajipur,07:55
+15097,Bhagalpur / Jammu Tawi Express,Sonpur,08:03
+15097,Bhagalpur / Jammu Tawi Express,Chhapra,09:35
+15097,Bhagalpur / Jammu Tawi Express,Siwan,10:40
+15097,Bhagalpur / Jammu Tawi Express,Bhatni d ,11:35
+15097,Bhagalpur / Jammu Tawi Express,/ Gorakhpur,13:55
+15097,Bhagalpur / Jammu Tawi Express,/ Basti,14:59
+15097,Bhagalpur / Jammu Tawi Express,/ Gonda,16:45
+15097,Bhagalpur / Jammu Tawi Express,/ Lucknow,19:30
+15097,Bhagalpur / Jammu Tawi Express,Shahjahanpur,22:22
+15097,Bhagalpur / Jammu Tawi Express,/ Bareilly,23:23
+15097,Bhagalpur / Jammu Tawi Express,/ Moradabad,01:05
+15097,Bhagalpur / Jammu Tawi Express,/ Laksar,02:52
+15097,Bhagalpur / Jammu Tawi Express,/ Saharanpur,04:25
+15097,Bhagalpur / Jammu Tawi Express,/ Ambala Cantt.,05:50
+15097,Bhagalpur / Jammu Tawi Express,/ Ludhiana,07:36
+15097,Bhagalpur / Jammu Tawi Express,/ Jalandhar Cantt.,08:29
+15097,Bhagalpur / Jammu Tawi Express,Pathankot Cantt,10:25
+15097,Bhagalpur / Jammu Tawi Express,/ Jammutawi,13:00
+15531,Saharsa Amritsar Jansadharan Express,Saharsa,03:05
+15531,Saharsa Amritsar Jansadharan Express,Khagaria,04:25
+15531,Saharsa Amritsar Jansadharan Express,Ruseraghat,05:17
+15531,Saharsa Amritsar Jansadharan Express,Samastipur,06:20
+15531,Saharsa Amritsar Jansadharan Express,Muzaffapur,07:20
+15531,Saharsa Amritsar Jansadharan Express,Hajipur,08:15
+15531,Saharsa Amritsar Jansadharan Express,Sonpur,08:23
+15531,Saharsa Amritsar Jansadharan Express,Chhapra,10:15
+15531,Saharsa Amritsar Jansadharan Express,Siwan,11:15
+15531,Saharsa Amritsar Jansadharan Express,Bhatni d ,12:05
+15531,Saharsa Amritsar Jansadharan Express,/ Gorakhpur,14:40
+15531,Saharsa Amritsar Jansadharan Express,/ Basti,15:41
+15531,Saharsa Amritsar Jansadharan Express,/ Gonda,17:05
+15531,Saharsa Amritsar Jansadharan Express,Sitapur,20:40
+15531,Saharsa Amritsar Jansadharan Express,/ Bareilly,00:03
+15531,Saharsa Amritsar Jansadharan Express,/ Moradabad,01:48
+15531,Saharsa Amritsar Jansadharan Express,/ Laksar,03:42
+15531,Saharsa Amritsar Jansadharan Express,/ Saharanpur,05:10
+15531,Saharsa Amritsar Jansadharan Express,/ Ambala Cantt.,06:35
+15531,Saharsa Amritsar Jansadharan Express,Chandigarh,07:36
+15531,Saharsa Amritsar Jansadharan Express,/ Ludhiana,10:00
+15531,Saharsa Amritsar Jansadharan Express,Jalandhar City,11:20
+15531,Saharsa Amritsar Jansadharan Express,Beas,12:27
+15531,Saharsa Amritsar Jansadharan Express,Amritsar,13:50
+14119,Kathgodam Dehradun Express,/ Moradabad,23:28
+14119,Kathgodam Dehradun Express,Najibabad,01:00
+14119,Kathgodam Dehradun Express,/ Laksar,01:50
+14119,Kathgodam Dehradun Express,Haridwar,02:40
+14119,Kathgodam Dehradun Express,Dehradun,04:40
+15005,Gorakhpur Dehradun Express,/ Gorakhpur,21:15
+15005,Gorakhpur Dehradun Express,Khalilabad,21:53
+15005,Gorakhpur Dehradun Express,/ Basti,22:16
+15005,Gorakhpur Dehradun Express,/ Gonda,00:10
+15005,Gorakhpur Dehradun Express,/ Lucknow,02:55
+15005,Gorakhpur Dehradun Express,Shahjahanpur,05:32
+15005,Gorakhpur Dehradun Express,/ Bareilly,06:50
+15005,Gorakhpur Dehradun Express,/ Moradabad,08:40
+15005,Gorakhpur Dehradun Express,Najibabad,10:19
+15005,Gorakhpur Dehradun Express,/ Laksar,11:05
+15005,Gorakhpur Dehradun Express,Haridwar,12:00
+15005,Gorakhpur Dehradun Express,Dehradun,14:15
+15001,Muzaffarpur Dehradun Express,Muzaffapur,14:00
+15001,Muzaffarpur Dehradun Express,/ Gorakhpur,21:15
+15001,Muzaffarpur Dehradun Express,Khalilabad,21:51
+15001,Muzaffarpur Dehradun Express,/ Basti,22:16
+15001,Muzaffarpur Dehradun Express,/ Gonda,00:10
+15001,Muzaffarpur Dehradun Express,/ Lucknow,02:55
+15001,Muzaffarpur Dehradun Express,Shahjahanpur,05:32
+15001,Muzaffarpur Dehradun Express,/ Bareilly,06:50
+15001,Muzaffarpur Dehradun Express,/ Moradabad,09:40
+15001,Muzaffarpur Dehradun Express,Najibabad,10:19
+15001,Muzaffarpur Dehradun Express,/ Laksar,11:05
+15001,Muzaffarpur Dehradun Express,Haridwar,12:00
+15001,Muzaffarpur Dehradun Express,Dehradun,14:15
+15211,Darbhanga Amritsar Jan Nayak Express,Darbhanga,17:20
+15211,Darbhanga Amritsar Jan Nayak Express,Samastipur,19:00
+15211,Darbhanga Amritsar Jan Nayak Express,Muzaffapur,20:20
+15211,Darbhanga Amritsar Jan Nayak Express,/ Gorakhpur,03:50
+15211,Darbhanga Amritsar Jan Nayak Express,/ Basti,04:44
+15211,Darbhanga Amritsar Jan Nayak Express,/ Gonda,06:05
+15211,Darbhanga Amritsar Jan Nayak Express,Burhwal,07:25
+15211,Darbhanga Amritsar Jan Nayak Express,Sitapur,10:05
+15211,Darbhanga Amritsar Jan Nayak Express,Shahjahanpur,12:23
+15211,Darbhanga Amritsar Jan Nayak Express,/ Bareilly,13:25
+15211,Darbhanga Amritsar Jan Nayak Express,/ Moradabad,15:10
+15211,Darbhanga Amritsar Jan Nayak Express,Najibabad,16:55
+15211,Darbhanga Amritsar Jan Nayak Express,/ Laksar,17:30
+15211,Darbhanga Amritsar Jan Nayak Express,/ Saharanpur,19:15
+15211,Darbhanga Amritsar Jan Nayak Express,/ Ambala Cantt.,21:00
+15211,Darbhanga Amritsar Jan Nayak Express,/ Ludhiana,23:06
+15211,Darbhanga Amritsar Jan Nayak Express,/ Jalandhar Cantt.,00:03
+15211,Darbhanga Amritsar Jan Nayak Express,Jalandhar City,00:20
+15211,Darbhanga Amritsar Jan Nayak Express,Beas,00:53
+15211,Darbhanga Amritsar Jan Nayak Express,Amritsar,01:55
+14617,Purnea Court Amritsar Jan Sewa Express,Kishanganj,05:35
+14617,Purnea Court Amritsar Jan Sewa Express,Banmankhi,06:25
+14617,Purnea Court Amritsar Jan Sewa Express,Saharsa,08:40
+14617,Purnea Court Amritsar Jan Sewa Express,Khagaria,10:22
+14617,Purnea Court Amritsar Jan Sewa Express,Barauni,11:35
+14617,Purnea Court Amritsar Jan Sewa Express,Shaahpur Patoree d ,12:40
+14617,Purnea Court Amritsar Jan Sewa Express,Hajipur,13:40
+14617,Purnea Court Amritsar Jan Sewa Express,Sonpur,13:50
+14617,Purnea Court Amritsar Jan Sewa Express,Chhapra,16:00
+14617,Purnea Court Amritsar Jan Sewa Express,Siwan,17:05
+14617,Purnea Court Amritsar Jan Sewa Express,Bhatni d ,18:05
+14617,Purnea Court Amritsar Jan Sewa Express,/ Gorakhpur,20:20
+14617,Purnea Court Amritsar Jan Sewa Express,/ Basti,21:27
+14617,Purnea Court Amritsar Jan Sewa Express,/ Gonda,22:50
+14617,Purnea Court Amritsar Jan Sewa Express,Burhwal,23:59
+14617,Purnea Court Amritsar Jan Sewa Express,Sitapur,01:55
+14617,Purnea Court Amritsar Jan Sewa Express,/ Bareilly,05:20
+14617,Purnea Court Amritsar Jan Sewa Express,/ Moradabad,07:10
+14617,Purnea Court Amritsar Jan Sewa Express,Najibabad,08:32
+14617,Purnea Court Amritsar Jan Sewa Express,/ Laksar,09:08
+14617,Purnea Court Amritsar Jan Sewa Express,/ Saharanpur,10:35
+14617,Purnea Court Amritsar Jan Sewa Express,/ Ambala Cantt.,12:05
+14617,Purnea Court Amritsar Jan Sewa Express,/ Ludhiana,14:01
+14617,Purnea Court Amritsar Jan Sewa Express,Jalandhar City,15:10
+14617,Purnea Court Amritsar Jan Sewa Express,Beas,15:44
+14617,Purnea Court Amritsar Jan Sewa Express,Amritsar,16:55
+15135,Chhapra Amritsar Weekly Express,Chhapra,10:15
+15135,Chhapra Amritsar Weekly Express,Siwan,11:05
+15135,Chhapra Amritsar Weekly Express,Thawe,11:50
+15135,Chhapra Amritsar Weekly Express,Kaptanganj,13:25
+15135,Chhapra Amritsar Weekly Express,/ Gorakhpur,14:40
+15135,Chhapra Amritsar Weekly Express,Khalilabad,15:16
+15135,Chhapra Amritsar Weekly Express,/ Basti,15:41
+15135,Chhapra Amritsar Weekly Express,/ Gonda,17:05
+15135,Chhapra Amritsar Weekly Express,Burhwal,18:20
+15135,Chhapra Amritsar Weekly Express,Sitapur,20:40
+15135,Chhapra Amritsar Weekly Express,/ Bareilly,00:57
+15135,Chhapra Amritsar Weekly Express,/ Moradabad,02:50
+15135,Chhapra Amritsar Weekly Express,/ Saharanpur,07:05
+15135,Chhapra Amritsar Weekly Express,/ Ambala Cantt.,09:00
+15135,Chhapra Amritsar Weekly Express,/ Ludhiana,10:56
+15135,Chhapra Amritsar Weekly Express,Jalandhar City,11:55
+15135,Chhapra Amritsar Weekly Express,Beas,12:55
+15135,Chhapra Amritsar Weekly Express,Amritsar,13:50
+9526,Naharlagun Hapa Weekly Special,Rangiya,14:35
+9526,Naharlagun Hapa Weekly Special,New Bongaigaon,16:30
+9526,Naharlagun Hapa Weekly Special,New Coach Behar,18:45
+9526,Naharlagun Hapa Weekly Special,New Jalpaiguri,21:35
+9526,Naharlagun Hapa Weekly Special,Kishanganj,22:45
+9526,Naharlagun Hapa Weekly Special,Katihar a d Narpatganj Dep.,01:25
+9526,Naharlagun Hapa Weekly Special,Khagaria,03:20
+9526,Naharlagun Hapa Weekly Special,Barauni,04:45
+9526,Naharlagun Hapa Weekly Special,Hajipur,07:20
+9526,Naharlagun Hapa Weekly Special,Sonpur,07:30
+9526,Naharlagun Hapa Weekly Special,Varanasi a d ,14:15
+15933,Dibrugarh Amritsar Express,Guwahati,19:35
+15933,Dibrugarh Amritsar Express,Rangiya,21:00
+15933,Dibrugarh Amritsar Express,New Bongaigaon,23:10
+15933,Dibrugarh Amritsar Express,New Alipurduar,00:57
+15933,Dibrugarh Amritsar Express,New Coach Behar,01:20
+15933,Dibrugarh Amritsar Express,New Jalpaiguri,04:05
+15933,Dibrugarh Amritsar Express,Kishanganj,05:10
+15933,Dibrugarh Amritsar Express,Katihar,09:00
+15933,Dibrugarh Amritsar Express,Khagaria,11:07
+15933,Dibrugarh Amritsar Express,Barauni,12:50
+15933,Dibrugarh Amritsar Express,Hajipur,15:05
+15933,Dibrugarh Amritsar Express,Chhapra,17:00
+15933,Dibrugarh Amritsar Express,Varanasi,22:20
+15933,Dibrugarh Amritsar Express,,06:05
+15933,Dibrugarh Amritsar Express,Shahjahanpur,08:36
+15933,Dibrugarh Amritsar Express,,09:34
+15933,Dibrugarh Amritsar Express,,11:10
+15933,Dibrugarh Amritsar Express,,15:10
+15933,Dibrugarh Amritsar Express,,16:40
+15933,Dibrugarh Amritsar Express,,18:14
+15933,Dibrugarh Amritsar Express,Jalandhar City,19:50
+15933,Dibrugarh Amritsar Express,Beas,20:22
+15933,Dibrugarh Amritsar Express,Amritsar,21:05
+14691,Barauni Jammu Tawi Mour Dhwaj Express,Barauni,05:05
+14691,Barauni Jammu Tawi Mour Dhwaj Express,Samastipur,05:45
+14691,Barauni Jammu Tawi Mour Dhwaj Express,Muzaffapur,07:05
+14691,Barauni Jammu Tawi Mour Dhwaj Express,Hajipur,08:01
+14691,Barauni Jammu Tawi Mour Dhwaj Express,Sonpur d ,08:11
+14691,Barauni Jammu Tawi Mour Dhwaj Express,Chhapra,09:35
+14691,Barauni Jammu Tawi Mour Dhwaj Express,Siwan,10:40
+14691,Barauni Jammu Tawi Mour Dhwaj Express,,13:55
+14691,Barauni Jammu Tawi Mour Dhwaj Express,,15:02
+14691,Barauni Jammu Tawi Mour Dhwaj Express,,16:45
+14691,Barauni Jammu Tawi Mour Dhwaj Express,Sitapur a d ,19:40
+14691,Barauni Jammu Tawi Mour Dhwaj Express,Shahjahanpur,22:09
+14691,Barauni Jammu Tawi Mour Dhwaj Express,,23:10
+14691,Barauni Jammu Tawi Mour Dhwaj Express,,00:53
+14691,Barauni Jammu Tawi Mour Dhwaj Express,,02:40
+14691,Barauni Jammu Tawi Mour Dhwaj Express,,04:02
+14691,Barauni Jammu Tawi Mour Dhwaj Express,,05:25
+14691,Barauni Jammu Tawi Mour Dhwaj Express,,07:05
+14691,Barauni Jammu Tawi Mour Dhwaj Express,,07:58
+14691,Barauni Jammu Tawi Mour Dhwaj Express,Pathankot Cantt,09:50
+14691,Barauni Jammu Tawi Mour Dhwaj Express,,11:45
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),Saharsa,14:30
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),Khagaria,15:50
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),Barauni,17:00
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),Samastipur,17:55
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),Muzaffapur,18:55
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),Hajipur,19:48
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),Chhapra,21:25
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),Siwan,22:20
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),,00:45
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),,06:05
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),,09:34
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),,11:10
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),,16:54
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),,19:20
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),Jalandhar City,20:35
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),Beas,21:07
+12203,Saharsa Amritsar Garib Rath (Via New Delhi),Amritsar,22:05
+15903,Dibrugarh Chandigarh Express,Guwahati,19:35
+15903,Dibrugarh Chandigarh Express,Rangiya,21:00
+15903,Dibrugarh Chandigarh Express,New Bongaigaon,23:10
+15903,Dibrugarh Chandigarh Express,New Alipurduar,00:57
+15903,Dibrugarh Chandigarh Express,New Coach Behar,01:20
+15903,Dibrugarh Chandigarh Express,New Jalpaiguri,04:05
+15903,Dibrugarh Chandigarh Express,Kishanganj,05:10
+15903,Dibrugarh Chandigarh Express,Katihar,08:00
+15903,Dibrugarh Chandigarh Express,Khagaria,09:42
+15903,Dibrugarh Chandigarh Express,Barauni,10:45
+15903,Dibrugarh Chandigarh Express,Samastipur,11:45
+15903,Dibrugarh Chandigarh Express,Muzaffapur,12:50
+15903,Dibrugarh Chandigarh Express,Hajipur,13:43
+15903,Dibrugarh Chandigarh Express,Sonpur d ,13:51
+15903,Dibrugarh Chandigarh Express,Chhapra,15:30
+15903,Dibrugarh Chandigarh Express,Siwan,16:35
+15903,Dibrugarh Chandigarh Express,,19:40
+15903,Dibrugarh Chandigarh Express,,21:13
+15903,Dibrugarh Chandigarh Express,,23:15
+15903,Dibrugarh Chandigarh Express,,02:20
+15903,Dibrugarh Chandigarh Express,,05:57
+15903,Dibrugarh Chandigarh Express,,07:45
+15903,Dibrugarh Chandigarh Express,,11:10
+15903,Dibrugarh Chandigarh Express,,12:25
+15903,Dibrugarh Chandigarh Express,Chandigarh,13:15
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,New Jalpaiguri,08:30
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,Katihar,11:45
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,Khagaria,13:50
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,Samastipur,15:25
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,Muzaffapur,16:20
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,Hajipur,17:13
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,Chhapra,18:40
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,Siwan,19:38
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,,22:10
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,Sitapur a d ,03:45
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,,08:36
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,,12:00
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,,13:15
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,,15:05
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,Jalandhar City,16:02
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,Beas,16:35
+12407,New Jalpaguri Amritsar Kar- ma Bhoomi Express,Amritsar,17:35
+19616,Kamakhya Udaipur City Kavi Guru Express,Kamakhya d ,18:30
+19616,Kamakhya Udaipur City Kavi Guru Express,Goalpara Town,20:04
+19616,Kamakhya Udaipur City Kavi Guru Express,New Bongaigaon,21:15
+19616,Kamakhya Udaipur City Kavi Guru Express,New Jalpaiguri,04:05
+19616,Kamakhya Udaipur City Kavi Guru Express,Kishanganj,05:10
+19616,Kamakhya Udaipur City Kavi Guru Express,Katihar,08:00
+19616,Kamakhya Udaipur City Kavi Guru Express,Khagaria,09:10
+19616,Kamakhya Udaipur City Kavi Guru Express,Barauni,10:45
+19616,Kamakhya Udaipur City Kavi Guru Express,Samastipur,11:45
+19616,Kamakhya Udaipur City Kavi Guru Express,Muzaffapur,12:50
+19616,Kamakhya Udaipur City Kavi Guru Express,Hajipur,13:43
+19616,Kamakhya Udaipur City Kavi Guru Express,Chhapra,15:30
+19616,Kamakhya Udaipur City Kavi Guru Express,Siwan,16:30
+19616,Kamakhya Udaipur City Kavi Guru Express,Bhatni,17:18
+19616,Kamakhya Udaipur City Kavi Guru Express,,19:40
+19616,Kamakhya Udaipur City Kavi Guru Express,,02:20
+19616,Kamakhya Udaipur City Kavi Guru Express,Kanpur,04:05
+15655,Kamakhya Katra Express,Kamakhya d ,11:00
+15655,Kamakhya Katra Express,Goalpara Town,12:37
+15655,Kamakhya Katra Express,New Bongaigaon,13:40
+15655,Kamakhya Katra Express,New Alipurduar,15:30
+15655,Kamakhya Katra Express,New Coach Behar,15:55
+15655,Kamakhya Katra Express,New Jalpaiguri,18:20
+15655,Kamakhya Katra Express,Kishanganj,19:27
+15655,Kamakhya Katra Express,Katihar,22:10
+15655,Kamakhya Katra Express,Khagaria,23:57
+15655,Kamakhya Katra Express,Barauni,01:10
+15655,Kamakhya Katra Express,Samastipur,02:50
+15655,Kamakhya Katra Express,Darbhanga,03:55
+15655,Kamakhya Katra Express,,14:40
+15655,Kamakhya Katra Express,Khalilabad,15:16
+15655,Kamakhya Katra Express,,15:41
+15655,Kamakhya Katra Express,,17:05
+15655,Kamakhya Katra Express,Sitapur a d ,20:40
+15655,Kamakhya Katra Express,,00:03
+15655,Kamakhya Katra Express,,01:48
+15655,Kamakhya Katra Express,,03:42
+15655,Kamakhya Katra Express,,05:10
+15655,Kamakhya Katra Express,,06:35
+15655,Kamakhya Katra Express,,08:16
+15655,Kamakhya Katra Express,,09:05
+15655,Kamakhya Katra Express,Pathankot Cantt,10:55
+15655,Kamakhya Katra Express,,13:05
+15655,Kamakhya Katra Express,S D h e r v i i M K a a t t a ra Vaishno,15:55
+22423,Gorakhpur Amritsar Express,,10:50
+22423,Gorakhpur Amritsar Express,Khalilabad,11:25
+22423,Gorakhpur Amritsar Express,,11:50
+22423,Gorakhpur Amritsar Express,,13:25
+22423,Gorakhpur Amritsar Express,Sitapur a d ,16:18
+22423,Gorakhpur Amritsar Express,Shahjahanpur,18:23
+22423,Gorakhpur Amritsar Express,,19:20
+22423,Gorakhpur Amritsar Express,,21:00
+22423,Gorakhpur Amritsar Express,,00:35
+22423,Gorakhpur Amritsar Express,,02:16
+22423,Gorakhpur Amritsar Express,,03:54
+22423,Gorakhpur Amritsar Express,Jalandhar City,05:10
+22423,Gorakhpur Amritsar Express,Beas,05:43
+22423,Gorakhpur Amritsar Express,Amritsar,06:30
+"15059/
+15063",Ramnagar Chandigarh Express,,07:45
+"15059/
+15063",Ramnagar Chandigarh Express,Najibabad,08:59
+"15059/
+15063",Ramnagar Chandigarh Express,,09:32
+"15059/
+15063",Ramnagar Chandigarh Express,,11:05
+"15059/
+15063",Ramnagar Chandigarh Express,,12:25
+"15059/
+15063",Ramnagar Chandigarh Express,Chandigarh,13:15
+12092,Kathgodam Dahradun Naini Doon Janshatabadi Express,,08:21
+12092,Kathgodam Dahradun Naini Doon Janshatabadi Express,Najibabad,09:41
+12092,Kathgodam Dahradun Naini Doon Janshatabadi Express,Haridwar,11:10
+12092,Kathgodam Dahradun Naini Doon Janshatabadi Express,Dehradun,12:40
+22551,Darbhanga Jalandhar City Antyodaya SF Express,Darbhanga,03:25
+22551,Darbhanga Jalandhar City Antyodaya SF Express,,10:50
+22551,Darbhanga Jalandhar City Antyodaya SF Express,Sitapur a d ,16:18
+22551,Darbhanga Jalandhar City Antyodaya SF Express,,19:20
+22551,Darbhanga Jalandhar City Antyodaya SF Express,,21:00
+22551,Darbhanga Jalandhar City Antyodaya SF Express,,23:10
+22551,Darbhanga Jalandhar City Antyodaya SF Express,,00:35
+22551,Darbhanga Jalandhar City Antyodaya SF Express,,02:16
+22551,Darbhanga Jalandhar City Antyodaya SF Express,,03:54
+22551,Darbhanga Jalandhar City Antyodaya SF Express,Jalandhar City,05:10
+15077,Kamakhya Gomtinagar Express,Kamakhya d ,21:15
+15077,Kamakhya Gomtinagar Express,Goalpara Town,22:50
+15077,Kamakhya Gomtinagar Express,New Bongaigaon,23:58
+15077,Kamakhya Gomtinagar Express,New Jalpaiguri,03:25
+15077,Kamakhya Gomtinagar Express,Katihar,08:00
+15077,Kamakhya Gomtinagar Express,Barauni,10:45
+15077,Kamakhya Gomtinagar Express,Hajipur,13:27
+15077,Kamakhya Gomtinagar Express,Chhapra,15:30
+15077,Kamakhya Gomtinagar Express,Siwan,16:30
+15077,Kamakhya Gomtinagar Express,,19:40
+15077,Kamakhya Gomtinagar Express,,21:16
+15077,Kamakhya Gomtinagar Express,,23:15
+15077,Kamakhya Gomtinagar Express,Burhwal,01:40
+26405,Amritsar Shri Mata Vaishno Devi Katra Vande Bharat Express,Jalandhar City,17:34
+26405,Amritsar Shri Mata Vaishno Devi Katra Vande Bharat Express,Amritsar,16:25
+26405,Amritsar Shri Mata Vaishno Devi Katra Vande Bharat Express,Pathankot Cantt,19:03
+26405,Amritsar Shri Mata Vaishno Devi Katra Vande Bharat Express,,20:28
+26405,Amritsar Shri Mata Vaishno Devi Katra Vande Bharat Express,S D h e r v i i M K a a t t a ra Vaishno,22:00
+15652,Jammu Tawi Guwahati Lohit Express,Jammu Tawi,22:45
+15652,Jammu Tawi Guwahati Lohit Express,Pathankot Cantt.,00:35
+15652,Jammu Tawi Guwahati Lohit Express,Jalandhar Cantt.,02:25
+15652,Jammu Tawi Guwahati Lohit Express,Ludhiana,03:30
+15652,Jammu Tawi Guwahati Lohit Express,Ambala Cantt.,05:25
+15652,Jammu Tawi Guwahati Lohit Express,Saharanpur,06:50
+15652,Jammu Tawi Guwahati Lohit Express,Laksar,08:06
+15652,Jammu Tawi Guwahati Lohit Express,Moradabad,10:20
+15652,Jammu Tawi Guwahati Lohit Express,Bareilly,11:37
+15652,Jammu Tawi Guwahati Lohit Express,Lucknow,15:30
+15652,Jammu Tawi Guwahati Lohit Express,Gonda,17:30
+15652,Jammu Tawi Guwahati Lohit Express,Basti,18:52
+15652,Jammu Tawi Guwahati Lohit Express,Gorakhpur,20:50
+15652,Jammu Tawi Guwahati Lohit Express,Bhatni,22:13
+15652,Jammu Tawi Guwahati Lohit Express,Siwan,22:55
+15652,Jammu Tawi Guwahati Lohit Express,Chhapra,00:40
+15652,Jammu Tawi Guwahati Lohit Express,Sonpur,01:53
+15652,Jammu Tawi Guwahati Lohit Express,Hajipur,02:10
+15652,Jammu Tawi Guwahati Lohit Express,Shahpur Patoree,02:58
+15652,Jammu Tawi Guwahati Lohit Express,Barauni,05:40
+15652,Jammu Tawi Guwahati Lohit Express,Khagaria,06:44
+15652,Jammu Tawi Guwahati Lohit Express,Katihar,10:20
+15652,Jammu Tawi Guwahati Lohit Express,Kishanganj,11:40
+15652,Jammu Tawi Guwahati Lohit Express,New Jalpaiguri,13:45
+15652,Jammu Tawi Guwahati Lohit Express,New Coochbehar,16:05
+15652,Jammu Tawi Guwahati Lohit Express,New Alipurduar,16:22
+15652,Jammu Tawi Guwahati Lohit Express,New Bongaigaon,18:10
+15652,Jammu Tawi Guwahati Lohit Express,Rangiya,20:05
+15652,Jammu Tawi Guwahati Lohit Express,Kamakhya,22:05
+15652,Jammu Tawi Guwahati Lohit Express,Guwahati,22:55
+15654,Jammu Tawi Guwahati Amarnath Express,Jammu Tawi,22:45
+15654,Jammu Tawi Guwahati Amarnath Express,Pathankot Cantt.,00:35
+15654,Jammu Tawi Guwahati Amarnath Express,Jalandhar Cantt.,02:25
+15654,Jammu Tawi Guwahati Amarnath Express,Ludhiana,03:30
+15654,Jammu Tawi Guwahati Amarnath Express,Ambala Cantt.,05:25
+15654,Jammu Tawi Guwahati Amarnath Express,Saharanpur,06:50
+15654,Jammu Tawi Guwahati Amarnath Express,Laksar,08:06
+15654,Jammu Tawi Guwahati Amarnath Express,Moradabad,10:20
+15654,Jammu Tawi Guwahati Amarnath Express,Bareilly,11:37
+15654,Jammu Tawi Guwahati Amarnath Express,Shahjahanpur,12:50
+15654,Jammu Tawi Guwahati Amarnath Express,Lucknow,15:30
+15654,Jammu Tawi Guwahati Amarnath Express,Gonda,17:30
+15654,Jammu Tawi Guwahati Amarnath Express,Basti,18:52
+15654,Jammu Tawi Guwahati Amarnath Express,Gorakhpur,20:50
+15654,Jammu Tawi Guwahati Amarnath Express,Muzaffarpur,03:15
+15654,Jammu Tawi Guwahati Amarnath Express,Samastipur,04:30
+15654,Jammu Tawi Guwahati Amarnath Express,Barauni,05:50
+15654,Jammu Tawi Guwahati Amarnath Express,Khagaria,06:44
+15654,Jammu Tawi Guwahati Amarnath Express,Katihar,10:20
+15654,Jammu Tawi Guwahati Amarnath Express,Kishanganj,11:40
+15654,Jammu Tawi Guwahati Amarnath Express,New Jalpaiguri,13:45
+15654,Jammu Tawi Guwahati Amarnath Express,New Coochbehar,16:05
+15654,Jammu Tawi Guwahati Amarnath Express,New Alipurduar,16:22
+15654,Jammu Tawi Guwahati Amarnath Express,New Bongaigaon,18:10
+15654,Jammu Tawi Guwahati Amarnath Express,Rangiya,20:05
+15654,Jammu Tawi Guwahati Amarnath Express,Kamakhya,22:05
+15654,Jammu Tawi Guwahati Amarnath Express,Guwahati,22:55
+12588,Jammu Tawi Gorakhpur Amarnath Express,Jammu Tawi,22:45
+12588,Jammu Tawi Gorakhpur Amarnath Express,Pathankot Cantt.,00:35
+12588,Jammu Tawi Gorakhpur Amarnath Express,Jalandhar Cantt.,02:25
+12588,Jammu Tawi Gorakhpur Amarnath Express,Ludhiana,03:30
+12588,Jammu Tawi Gorakhpur Amarnath Express,Ambala Cantt.,05:25
+12588,Jammu Tawi Gorakhpur Amarnath Express,Saharanpur,06:50
+12588,Jammu Tawi Gorakhpur Amarnath Express,Laksar,08:06
+12588,Jammu Tawi Gorakhpur Amarnath Express,Moradabad,10:20
+12588,Jammu Tawi Gorakhpur Amarnath Express,Bareilly,11:37
+12588,Jammu Tawi Gorakhpur Amarnath Express,Shahjahanpur,12:50
+12588,Jammu Tawi Gorakhpur Amarnath Express,Lucknow,15:30
+12588,Jammu Tawi Gorakhpur Amarnath Express,Gonda,17:30
+12588,Jammu Tawi Gorakhpur Amarnath Express,Basti,18:55
+12588,Jammu Tawi Gorakhpur Amarnath Express,Khalilabad,19:18
+12588,Jammu Tawi Gorakhpur Amarnath Express,Gorakhpur,20:30
+15098,Jammu Tawi Bhagalpur Express,Jammu Tawi,22:45
+15098,Jammu Tawi Bhagalpur Express,Pathankot Cantt.,00:35
+15098,Jammu Tawi Bhagalpur Express,Jalandhar Cantt.,02:25
+15098,Jammu Tawi Bhagalpur Express,Ludhiana,03:30
+15098,Jammu Tawi Bhagalpur Express,Ambala Cantt.,05:25
+15098,Jammu Tawi Bhagalpur Express,Saharanpur,06:50
+15098,Jammu Tawi Bhagalpur Express,Laksar,08:06
+15098,Jammu Tawi Bhagalpur Express,Moradabad,10:20
+15098,Jammu Tawi Bhagalpur Express,Bareilly,11:37
+15098,Jammu Tawi Bhagalpur Express,Shahjahanpur,12:50
+15098,Jammu Tawi Bhagalpur Express,Lucknow,15:30
+15098,Jammu Tawi Bhagalpur Express,Gonda,17:30
+15098,Jammu Tawi Bhagalpur Express,Basti,18:52
+15098,Jammu Tawi Bhagalpur Express,Gorakhpur,20:50
+15098,Jammu Tawi Bhagalpur Express,Bhatni,22:13
+15098,Jammu Tawi Bhagalpur Express,Siwan,22:55
+15098,Jammu Tawi Bhagalpur Express,Chhapra,00:40
+15098,Jammu Tawi Bhagalpur Express,Sonpur,01:53
+15098,Jammu Tawi Bhagalpur Express,Hajipur,02:10
+15098,Jammu Tawi Bhagalpur Express,Muzaffarpur,03:05
+15098,Jammu Tawi Bhagalpur Express,Samastipur,04:05
+15098,Jammu Tawi Bhagalpur Express,Barauni,05:25
+15098,Jammu Tawi Bhagalpur Express,Jamalpur,08:04
+15098,Jammu Tawi Bhagalpur Express,Bhagalpur,09:55
+14120,Dehradun Kathgodam Express,Dehradun,23:30
+14120,Dehradun Kathgodam Express,Haridwar,00:59
+14120,Dehradun Kathgodam Express,Laksar,01:31
+14120,Dehradun Kathgodam Express,Najibabad,02:10
+14120,Dehradun Kathgodam Express,Moradabad,04:16
+15006,Dehradun Gorakhpur Express,Dehradun,15:15
+15006,Dehradun Gorakhpur Express,Haridwar,16:47
+15006,Dehradun Gorakhpur Express,Laksar,17:33
+15006,Dehradun Gorakhpur Express,Najibabad,17:50
+15006,Dehradun Gorakhpur Express,Moradabad,20:15
+15006,Dehradun Gorakhpur Express,Bareilly,22:02
+15006,Dehradun Gorakhpur Express,Shahjahanpur,23:09
+15006,Dehradun Gorakhpur Express,Lucknow,02:05
+15006,Dehradun Gorakhpur Express,Gonda,04:40
+15006,Dehradun Gorakhpur Express,Basti,06:27
+15006,Dehradun Gorakhpur Express,Khalilabad,06:55
+15006,Dehradun Gorakhpur Express,Gorakhpur,07:55
+15002,Dehradun Muzaffarpur Express,Dehradun,15:15
+15002,Dehradun Muzaffarpur Express,Haridwar,16:47
+15002,Dehradun Muzaffarpur Express,Laksar,17:33
+15002,Dehradun Muzaffarpur Express,Najibabad,17:50
+15002,Dehradun Muzaffarpur Express,Moradabad,20:15
+15002,Dehradun Muzaffarpur Express,Bareilly,22:02
+15002,Dehradun Muzaffarpur Express,Shahjahanpur,23:09
+15002,Dehradun Muzaffarpur Express,Lucknow,02:05
+15002,Dehradun Muzaffarpur Express,Gonda,04:40
+15002,Dehradun Muzaffarpur Express,Basti,06:27
+15002,Dehradun Muzaffarpur Express,Khalilabad,06:55
+15002,Dehradun Muzaffarpur Express,Gorakhpur,08:05
+15002,Dehradun Muzaffarpur Express,Muzaffarpur,16:30
+15212,Amritsar Darbhanga Jan Nayak Express,Amritsar,19:20
+15212,Amritsar Darbhanga Jan Nayak Express,Beas,19:50
+15212,Amritsar Darbhanga Jan Nayak Express,Jalandhar City,20:33
+15212,Amritsar Darbhanga Jan Nayak Express,Ludhiana,21:45
+15212,Amritsar Darbhanga Jan Nayak Express,Ambala Cantt.,00:10
+15212,Amritsar Darbhanga Jan Nayak Express,Saharanpur,01:50
+15212,Amritsar Darbhanga Jan Nayak Express,Laksar,02:50
+15212,Amritsar Darbhanga Jan Nayak Express,Najibabad,03:22
+15212,Amritsar Darbhanga Jan Nayak Express,Moradabad,05:23
+15212,Amritsar Darbhanga Jan Nayak Express,Bareilly,06:10
+15212,Amritsar Darbhanga Jan Nayak Express,Shahjahanpur,07:47
+15212,Amritsar Darbhanga Jan Nayak Express,Sitapur,10:10
+15212,Amritsar Darbhanga Jan Nayak Express,Burhwal,11:45
+15212,Amritsar Darbhanga Jan Nayak Express,Gonda,13:00
+15212,Amritsar Darbhanga Jan Nayak Express,Basti,14:17
+15212,Amritsar Darbhanga Jan Nayak Express,Gorakhpur,16:35
+15212,Amritsar Darbhanga Jan Nayak Express,Muzaffarpur,23:35
+15212,Amritsar Darbhanga Jan Nayak Express,Samastipur,01:05
+15212,Amritsar Darbhanga Jan Nayak Express,Darbhanga,03:05
+14618,Amritsar Purnea Court Jan Sewa Express,Amritsar,06:35
+14618,Amritsar Purnea Court Jan Sewa Express,Beas,07:05
+14618,Amritsar Purnea Court Jan Sewa Express,Jalandhar City,08:17
+14618,Amritsar Purnea Court Jan Sewa Express,Ludhiana,09:25
+14618,Amritsar Purnea Court Jan Sewa Express,Ambala Cantt.,11:30
+14618,Amritsar Purnea Court Jan Sewa Express,Saharanpur,12:50
+14618,Amritsar Purnea Court Jan Sewa Express,Laksar,13:59
+14618,Amritsar Purnea Court Jan Sewa Express,Najibabad,14:34
+14618,Amritsar Purnea Court Jan Sewa Express,Moradabad,16:12
+14618,Amritsar Purnea Court Jan Sewa Express,Bareilly,17:31
+14618,Amritsar Purnea Court Jan Sewa Express,Sitapur,21:22
+14618,Amritsar Purnea Court Jan Sewa Express,Burhwal,22:55
+14618,Amritsar Purnea Court Jan Sewa Express,Gonda,00:02
+14618,Amritsar Purnea Court Jan Sewa Express,Basti,01:28
+14618,Amritsar Purnea Court Jan Sewa Express,Gorakhpur,03:05
+14618,Amritsar Purnea Court Jan Sewa Express,Bhatni,04:37
+14618,Amritsar Purnea Court Jan Sewa Express,Siwan,05:28
+14618,Amritsar Purnea Court Jan Sewa Express,Chhapra,07:20
+14618,Amritsar Purnea Court Jan Sewa Express,Sonpur,08:45
+14618,Amritsar Purnea Court Jan Sewa Express,Hajipur,09:00
+14618,Amritsar Purnea Court Jan Sewa Express,Shahpur Patoree,09:52
+14618,Amritsar Purnea Court Jan Sewa Express,Barauni,11:30
+14618,Amritsar Purnea Court Jan Sewa Express,Khagaria,13:20
+14618,Amritsar Purnea Court Jan Sewa Express,Saharsa,16:10
+14618,Amritsar Purnea Court Jan Sewa Express,Banmankhi,17:40
+14618,Amritsar Purnea Court Jan Sewa Express,New Jalpaiguri,18:35
+15622,Anand Vihar Kamakhya Express,Moradabad,03:00
+15622,Anand Vihar Kamakhya Express,Sitapur,08:22
+15622,Anand Vihar Kamakhya Express,Gonda,11:30
+15622,Anand Vihar Kamakhya Express,Basti,12:53
+15622,Anand Vihar Kamakhya Express,Gorakhpur,15:00
+15622,Anand Vihar Kamakhya Express,Siwan,17:00
+15622,Anand Vihar Kamakhya Express,Chhapra,18:25
+15622,Anand Vihar Kamakhya Express,Hajipur,20:05
+15622,Anand Vihar Kamakhya Express,Barauni,22:05
+15622,Anand Vihar Kamakhya Express,Khagaria,23:01
+15622,Anand Vihar Kamakhya Express,Katihar,01:50
+15622,Anand Vihar Kamakhya Express,Kishanganj,03:07
+15622,Anand Vihar Kamakhya Express,New Jalpaiguri,04:50
+15622,Anand Vihar Kamakhya Express,New Bongaigaon,11:30
+15622,Anand Vihar Kamakhya Express,Goalpara Town,12:14
+15622,Anand Vihar Kamakhya Express,Kamakhya,15:30
+15934,Amritsar Dibrugarh Express,Amritsar,15:40
+15934,Amritsar Dibrugarh Express,Beas,16:10
+15934,Amritsar Dibrugarh Express,Jalandhar City,16:55
+15934,Amritsar Dibrugarh Express,Ludhiana,18:05
+15934,Amritsar Dibrugarh Express,Ambala Cantt.,20:25
+15934,Amritsar Dibrugarh Express,Saharanpur,21:40
+15934,Amritsar Dibrugarh Express,Moradabad,00:55
+15934,Amritsar Dibrugarh Express,Bareilly,02:19
+15934,Amritsar Dibrugarh Express,Shahjahanpur,03:28
+15934,Amritsar Dibrugarh Express,Lucknow,06:40
+15934,Amritsar Dibrugarh Express,Varanasi,15:25
+15934,Amritsar Dibrugarh Express,Chhapra,19:45
+15934,Amritsar Dibrugarh Express,Hajipur,21:15
+15934,Amritsar Dibrugarh Express,Barauni,23:55
+15934,Amritsar Dibrugarh Express,Khagaria,00:50
+15934,Amritsar Dibrugarh Express,Katihar,03:40
+15934,Amritsar Dibrugarh Express,New Jalpaiguri,07:35
+15934,Amritsar Dibrugarh Express,New Coochbehar,09:20
+15934,Amritsar Dibrugarh Express,New Alipurduar,09:42
+15934,Amritsar Dibrugarh Express,New Bongaigaon,11:40
+15934,Amritsar Dibrugarh Express,Rangiya,13:30
+15934,Amritsar Dibrugarh Express,Guwahati,15:15
+15532,Amritsar Saharsa Jansadharan Express,Amritsar,17:45
+15532,Amritsar Saharsa Jansadharan Express,Beas,18:15
+15532,Amritsar Saharsa Jansadharan Express,Jalandhar City,18:57
+15532,Amritsar Saharsa Jansadharan Express,Ludhiana,20:22
+15532,Amritsar Saharsa Jansadharan Express,Chandigarh,23:35
+15532,Amritsar Saharsa Jansadharan Express,Ambala Cantt.,00:25
+15532,Amritsar Saharsa Jansadharan Express,Saharanpur,02:05
+15532,Amritsar Saharsa Jansadharan Express,Laksar,03:10
+15532,Amritsar Saharsa Jansadharan Express,Moradabad,05:43
+15532,Amritsar Saharsa Jansadharan Express,Bareilly,07:00
+15532,Amritsar Saharsa Jansadharan Express,Sitapur,11:12
+15532,Amritsar Saharsa Jansadharan Express,Gonda,13:45
+15532,Amritsar Saharsa Jansadharan Express,Basti,15:13
+15532,Amritsar Saharsa Jansadharan Express,Gorakhpur,16:55
+15532,Amritsar Saharsa Jansadharan Express,Bhatni,18:19
+15532,Amritsar Saharsa Jansadharan Express,Siwan,19:00
+15532,Amritsar Saharsa Jansadharan Express,Chhapra,20:20
+15532,Amritsar Saharsa Jansadharan Express,Sonpur,21:38
+15532,Amritsar Saharsa Jansadharan Express,Hajipur,21:55
+15532,Amritsar Saharsa Jansadharan Express,Muzaffarpur,22:45
+15532,Amritsar Saharsa Jansadharan Express,Samastipur,23:52
+15532,Amritsar Saharsa Jansadharan Express,Ruseraghat,00:12
+15532,Amritsar Saharsa Jansadharan Express,Khagaria,01:25
+15532,Amritsar Saharsa Jansadharan Express,Saharsa,03:00
+15078,Gomtinagar Kamakhya Express,Lucknow,10:30
+15078,Gomtinagar Kamakhya Express,Gonda,12:25
+15078,Gomtinagar Kamakhya Express,Basti,13:43
+15078,Gomtinagar Kamakhya Express,Gorakhpur,15:00
+15078,Gomtinagar Kamakhya Express,Siwan,17:00
+15078,Gomtinagar Kamakhya Express,Chhapra,18:35
+15078,Gomtinagar Kamakhya Express,Hajipur,20:05
+15078,Gomtinagar Kamakhya Express,Barauni,22:05
+15078,Gomtinagar Kamakhya Express,Katihar,01:50
+15078,Gomtinagar Kamakhya Express,Kishanganj,03:05
+15078,Gomtinagar Kamakhya Express,New Jalpaiguri,05:00
+15078,Gomtinagar Kamakhya Express,New Bongaigaon,09:40
+15078,Gomtinagar Kamakhya Express,Goalpara Town,10:30
+15078,Gomtinagar Kamakhya Express,Kamakhya,14:00
+15136,Amritsar Chhapra Express,Amritsar,17:45
+15136,Amritsar Chhapra Express,Beas,18:15
+15136,Amritsar Chhapra Express,Jalandhar City,18:57
+15136,Amritsar Chhapra Express,Ludhiana,20:22
+15136,Amritsar Chhapra Express,Ambala Cantt.,22:40
+15136,Amritsar Chhapra Express,Saharanpur,02:05
+15136,Amritsar Chhapra Express,Moradabad,05:43
+15136,Amritsar Chhapra Express,Bareilly,07:00
+15136,Amritsar Chhapra Express,Sitapur,11:12
+15136,Amritsar Chhapra Express,Burhwal,12:53
+15136,Amritsar Chhapra Express,Gonda,14:10
+15136,Amritsar Chhapra Express,Basti,15:50
+15136,Amritsar Chhapra Express,Khalilabad,16:40
+15136,Amritsar Chhapra Express,Gorakhpur,18:30
+15136,Amritsar Chhapra Express,Kaptanganj,19:25
+15136,Amritsar Chhapra Express,Thawe,21:35
+15136,Amritsar Chhapra Express,Siwan,22:25
+15136,Amritsar Chhapra Express,Chhapra,23:55
+9525,Hapa Naharlagun Weekly Special,Kanpur,05:30
+9525,Hapa Naharlagun Weekly Special,Varanasi,11:20
+9525,Hapa Naharlagun Weekly Special,Sonpur,16:50
+9525,Hapa Naharlagun Weekly Special,Hajipur,17:05
+9525,Hapa Naharlagun Weekly Special,Barauni,19:15
+9525,Hapa Naharlagun Weekly Special,Khagaria,20:31
+9525,Hapa Naharlagun Weekly Special,Katihar,23:15
+9525,Hapa Naharlagun Weekly Special,Kishanganj,00:50
+9525,Hapa Naharlagun Weekly Special,New Jalpaiguri,02:35
+9525,Hapa Naharlagun Weekly Special,New Coochbehar,05:10
+9525,Hapa Naharlagun Weekly Special,New Bongaigaon,07:35
+9525,Hapa Naharlagun Weekly Special,Rangiya,09:50
+26406,Shri Mata Vaishno Devi Katra-Amritsar Vande Bharat Express,Shri Mata Vaishno Devi Katra,06:40
+26406,Shri Mata Vaishno Devi Katra-Amritsar Vande Bharat Express,Jammu Tawi,08:05
+26406,Shri Mata Vaishno Devi Katra-Amritsar Vande Bharat Express,Pathankot Cantt.,09:30
+26406,Shri Mata Vaishno Devi Katra-Amritsar Vande Bharat Express,Amritsar,12:20
+26406,Shri Mata Vaishno Devi Katra-Amritsar Vande Bharat Express,Jalandhar City,11:05
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Jammu Tawi,17:35
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Pathankot Cantt.,19:07
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Jalandhar Cantt.,21:05
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Ludhiana,22:00
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Ambala Cantt.,24:00:00
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Saharanpur,01:15
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Laksar,02:19
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Moradabad,04:50
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Bareilly,06:07
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Shahjahanpur,07:19
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Sitapur,09:17
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Gonda,11:55
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Basti,13:08
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Gorakhpur,14:40
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Siwan,16:40
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Chhapra,18:10
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Sonpur,19:10
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Hajipur,19:27
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Muzaffarpur,20:20
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Samastipur,21:25
+14692,Jammu Tawi Barauni Mour Dhwaj Express,Barauni,22:45
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Amritsar,04:00
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Beas,04:30
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Jalandhar City,05:10
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Ludhiana,06:15
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Ambala Cantt.,08:10
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Moradabad,13:53
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Bareilly,15:13
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Lucknow,18:40
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Gorakhpur,00:15
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Siwan,02:00
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Chhapra,03:05
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Hajipur,04:32
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Muzaffarpur,05:21
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Samastipur,06:25
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Barauni,07:45
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Khagaria,08:34
+12204,Amritsar Saharsa Garib Rath Express (via New Delhi),Saharsa,11:20
+14604,Amritsar arpatganj Jan- dharan Express,Amritsar,13:25
+14604,Amritsar arpatganj Jan- dharan Express,Beas,13:55
+14604,Amritsar arpatganj Jan- dharan Express,Jalandhar City,14:35
+14604,Amritsar arpatganj Jan- dharan Express,Ludhiana,15:38
+14604,Amritsar arpatganj Jan- dharan Express,Ambala Cantt.,17:25
+14604,Amritsar arpatganj Jan- dharan Express,Saharanpur,18:35
+14604,Amritsar arpatganj Jan- dharan Express,Najibabad,20:01
+14604,Amritsar arpatganj Jan- dharan Express,Moradabad,21:50
+14604,Amritsar arpatganj Jan- dharan Express,Bareilly,23:07
+14604,Amritsar arpatganj Jan- dharan Express,Shahjahanpur,00:19
+14604,Amritsar arpatganj Jan- dharan Express,Sitapur,02:10
+14604,Amritsar arpatganj Jan- dharan Express,Burhwal,03:40
+14604,Amritsar arpatganj Jan- dharan Express,Gonda,04:40
+14604,Amritsar arpatganj Jan- dharan Express,Basti,06:27
+14604,Amritsar arpatganj Jan- dharan Express,Khalilabad,06:55
+14604,Amritsar arpatganj Jan- dharan Express,Gorakhpur,08:05
+14604,Amritsar arpatganj Jan- dharan Express,Siwan,10:05
+14604,Amritsar arpatganj Jan- dharan Express,Chhapra,11:45
+14604,Amritsar arpatganj Jan- dharan Express,Sonpur,13:03
+14604,Amritsar arpatganj Jan- dharan Express,Hajipur,13:20
+14604,Amritsar arpatganj Jan- dharan Express,Muzaffarpur,14:20
+14604,Amritsar arpatganj Jan- dharan Express,Samastipur,16:15
+14604,Amritsar arpatganj Jan- dharan Express,Ruseraghat,16:43
+14604,Amritsar arpatganj Jan- dharan Express,Khagaria,18:35
+14604,Amritsar arpatganj Jan- dharan Express,Saharsa,20:00
+14604,Amritsar arpatganj Jan- dharan Express,Kishanganj,23:30
+15904,Chandigarh Dibrugarh Express,Chandigarh,23:35
+15904,Chandigarh Dibrugarh Express,Ambala Cantt.,00:25
+15904,Chandigarh Dibrugarh Express,Saharanpur,02:05
+15904,Chandigarh Dibrugarh Express,Moradabad,05:43
+15904,Chandigarh Dibrugarh Express,Bareilly,07:00
+15904,Chandigarh Dibrugarh Express,Lucknow,11:10
+15904,Chandigarh Dibrugarh Express,Gonda,13:45
+15904,Chandigarh Dibrugarh Express,Basti,15:10
+15904,Chandigarh Dibrugarh Express,Gorakhpur,16:55
+15904,Chandigarh Dibrugarh Express,Siwan,19:00
+15904,Chandigarh Dibrugarh Express,Chhapra,20:20
+15904,Chandigarh Dibrugarh Express,Sonpur,21:28
+15904,Chandigarh Dibrugarh Express,Hajipur,21:45
+15904,Chandigarh Dibrugarh Express,Muzaffarpur,22:45
+15904,Chandigarh Dibrugarh Express,Samastipur,23:52
+15904,Chandigarh Dibrugarh Express,Barauni,01:05
+15904,Chandigarh Dibrugarh Express,Khagaria,02:03
+15904,Chandigarh Dibrugarh Express,Katihar,05:40
+15904,Chandigarh Dibrugarh Express,Kishanganj,07:02
+15904,Chandigarh Dibrugarh Express,New Jalpaiguri,08:35
+15904,Chandigarh Dibrugarh Express,New Coochbehar,10:55
+15904,Chandigarh Dibrugarh Express,New Alipurduar,11:15
+15904,Chandigarh Dibrugarh Express,New Bongaigaon,12:45
+15904,Chandigarh Dibrugarh Express,Rangiya,14:30
+15904,Chandigarh Dibrugarh Express,Guwahati,16:35
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Amritsar,09:30
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Beas,10:00
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Jalandhar City,10:40
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Ludhiana,11:50
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Ambala Cantt.,13:40
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Saharanpur,15:10
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Moradabad,18:13
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Sitapur,22:37
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Gorakhpur,04:50
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Siwan,06:45
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Chhapra,07:50
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Hajipur,09:15
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Muzaffarpur,10:05
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Samastipur,11:12
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Khagaria,13:05
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Katihar,15:15
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,Kishanganj,16:10
+12408,Amritsar New Jalpaiguri Karmabhoomi Express,New Jalpaiguri,18:35
+19615,Udaipur City Kamakhya Kavi Guru Express,Kanpur,11:45
+19615,Udaipur City Kamakhya Kavi Guru Express,Lucknow,13:35
+19615,Udaipur City Kamakhya Kavi Guru Express,Gorakhpur,20:50
+19615,Udaipur City Kamakhya Kavi Guru Express,Bhatni,22:13
+19615,Udaipur City Kamakhya Kavi Guru Express,Siwan,22:55
+19615,Udaipur City Kamakhya Kavi Guru Express,Chhapra,00:40
+19615,Udaipur City Kamakhya Kavi Guru Express,Hajipur,02:10
+19615,Udaipur City Kamakhya Kavi Guru Express,Muzaffarpur,03:00
+19615,Udaipur City Kamakhya Kavi Guru Express,Samastipur,04:05
+19615,Udaipur City Kamakhya Kavi Guru Express,Barauni,05:40
+19615,Udaipur City Kamakhya Kavi Guru Express,Khagaria,06:44
+19615,Udaipur City Kamakhya Kavi Guru Express,Katihar,10:20
+19615,Udaipur City Kamakhya Kavi Guru Express,Kishanganj,11:45
+19615,Udaipur City Kamakhya Kavi Guru Express,New Jalpaiguri,13:45
+19615,Udaipur City Kamakhya Kavi Guru Express,New Bongaigaon,20:30
+19615,Udaipur City Kamakhya Kavi Guru Express,Goalpara Town,21:10
+19615,Udaipur City Kamakhya Kavi Guru Express,Kamakhya,00:10
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Shri Mata Vaishno Devi Katra,03:50
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Jammu Tawi,05:45
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Pathankot Cantt.,07:30
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Jalandhar Cantt.,09:20
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Ludhiana,11:10
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Ambala Cantt.,13:20
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Saharanpur,14:32
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Laksar,15:27
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Moradabad,17:28
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Bareilly,18:41
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Sitapur,22:37
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Gonda,01:40
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Basti,02:56
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Khalilabad,03:23
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Gorakhpur,04:30
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Darbhanga,13:30
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Samastipur,15:00
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Barauni,16:40
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Khagaria,17:31
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Katihar,20:40
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Kishanganj,22:35
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,New Jalpaiguri,00:20
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,New Coochbehar,02:35
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,New Alipurduar,03:10
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,New Bongaigaon,06:35
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Goalpara Town,07:14
+15656,Shri Mata Vaishno Devi Katra Kamakhya Express,Kamakhya,10:20
+22424,Amritsar Gorakhpur Express,Amritsar,12:45
+22424,Amritsar Gorakhpur Express,Beas,13:15
+22424,Amritsar Gorakhpur Express,Jalandhar City,13:58
+22424,Amritsar Gorakhpur Express,Ludhiana,15:02
+22424,Amritsar Gorakhpur Express,Ambala Cantt.,16:50
+22424,Amritsar Gorakhpur Express,Saharanpur,18:10
+22424,Amritsar Gorakhpur Express,Moradabad,21:30
+22424,Amritsar Gorakhpur Express,Bareilly,22:47
+22424,Amritsar Gorakhpur Express,Shahjahanpur,00:06
+22424,Amritsar Gorakhpur Express,Sitapur,02:10
+22424,Amritsar Gorakhpur Express,Gonda,04:40
+22424,Amritsar Gorakhpur Express,Basti,06:30
+22424,Amritsar Gorakhpur Express,Khalilabad,06:55
+22424,Amritsar Gorakhpur Express,Gorakhpur,07:55
+15064,Chandigarh Ram Nagar Express,Chandigarh,16:00
+15064,Chandigarh Ram Nagar Express,Ambala Cantt.,16:50
+15064,Chandigarh Ram Nagar Express,Saharanpur,18:10
+15064,Chandigarh Ram Nagar Express,Laksar,19:18
+15064,Chandigarh Ram Nagar Express,Najibabad,20:01
+15064,Chandigarh Ram Nagar Express,Moradabad,21:50
+12091,Dehardun Kathgodam Naini Doon Janshatabadi Express,Dehradun,15:55
+12091,Dehardun Kathgodam Naini Doon Janshatabadi Express,Haridwar,17:32
+12091,Dehardun Kathgodam Naini Doon Janshatabadi Express,Najibabad,18:34
+12091,Dehardun Kathgodam Naini Doon Janshatabadi Express,Moradabad,20:30
+22552,Jalandhar City Darbhanga Antyodaya SF Express,Jalandhar City,09:50
+22552,Jalandhar City Darbhanga Antyodaya SF Express,Ludhiana,11:10
+22552,Jalandhar City Darbhanga Antyodaya SF Express,Ambala Cantt.,13:20
+22552,Jalandhar City Darbhanga Antyodaya SF Express,Saharanpur,14:32
+22552,Jalandhar City Darbhanga Antyodaya SF Express,Laksar,15:27
+22552,Jalandhar City Darbhanga Antyodaya SF Express,Moradabad,17:28
+22552,Jalandhar City Darbhanga Antyodaya SF Express,Bareilly,18:41
+22552,Jalandhar City Darbhanga Antyodaya SF Express,Sitapur,22:37
+22552,Jalandhar City Darbhanga Antyodaya SF Express,Gorakhpur,04:30
+22552,Jalandhar City Darbhanga Antyodaya SF Express,Darbhanga,12:05

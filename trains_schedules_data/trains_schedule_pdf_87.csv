@@ -1,0 +1,394 @@
+train_num,train_name,halt_station_name,departure_time
+12883,Santragachi Purulia Rupashi Bangla Express,Santragachi,06:30
+12883,Santragachi Purulia Rupashi Bangla Express,Kharagpur,07:50
+12883,Santragachi Purulia Rupashi Bangla Express,Midnapur,08:26
+12883,Santragachi Purulia Rupashi Bangla Express,Bankura,09:55
+12883,Santragachi Purulia Rupashi Bangla Express,Adra,10:50
+12883,Santragachi Purulia Rupashi Bangla Express,Purulia,12:05
+12021,Howrah Barbil Jan Shatabdi Express,Howrah,06:20
+12021,Howrah Barbil Jan Shatabdi Express,Kharagpur,07:55
+12021,Howrah Barbil Jan Shatabdi Express,Jhargram,08:26
+12021,Howrah Barbil Jan Shatabdi Express,Ghatsila,09:03
+12021,Howrah Barbil Jan Shatabdi Express,Tatanagar,10:00
+12021,Howrah Barbil Jan Shatabdi Express,Barbil,13:20
+13301,Dhanbad Tatanagar Suvarnarekha Express,Dhanbad,05:35
+13301,Dhanbad Tatanagar Suvarnarekha Express,Santaldih,07:31
+13301,Dhanbad Tatanagar Suvarnarekha Express,Adra,08:25
+13301,Dhanbad Tatanagar Suvarnarekha Express,Purulia,09:25
+13301,Dhanbad Tatanagar Suvarnarekha Express,Tatanagar,12:15
+12885,Shalimar Bhojudih Aranyak Express,Shalimar,07:45
+12885,Shalimar Bhojudih Aranyak Express,Santragachi,08:00
+12885,Shalimar Bhojudih Aranyak Express,Kharagpur,09:30
+12885,Shalimar Bhojudih Aranyak Express,Midnapur,10:00
+12885,Shalimar Bhojudih Aranyak Express,Bankura,11:32
+12885,Shalimar Bhojudih Aranyak Express,Adra,12:25
+12885,Shalimar Bhojudih Aranyak Express,Santaldih,12:50
+12885,Shalimar Bhojudih Aranyak Express,Bhojudih,13:20
+22329,Haldia Asansol SF Express,Haldia,14:30
+22329,Haldia Asansol SF Express,Kharagpur,16:15
+22329,Haldia Asansol SF Express,Midnapur,16:40
+22329,Haldia Asansol SF Express,Bankura,18:10
+22329,Haldia Asansol SF Express,Adra,19:05
+22329,Haldia Asansol SF Express,Asansol,20:20
+12827,Howrah Purulia Express,Howrah,16:50
+12827,Howrah Purulia Express,Kharagpur,18:28
+12827,Howrah Purulia Express,Midnapur,19:03
+12827,Howrah Purulia Express,Bankura,20:32
+12827,Howrah Purulia Express,Adra,21:30
+12827,Howrah Purulia Express,Purulia,22:40
+12813,Howrah Tatanagar Steel Express,Howrah,17:10
+12813,Howrah Tatanagar Steel Express,Kharagpur,18:50
+12813,Howrah Tatanagar Steel Express,Jhargram,19:22
+12813,Howrah Tatanagar Steel Express,Ghatsila,20:06
+12813,Howrah Tatanagar Steel Express,Tatanagar,21:25
+12152,Shalimar Lokmanya Tilak (T) Samarsata Express,Shalimar,19:25
+12152,Shalimar Lokmanya Tilak (T) Samarsata Express,Santragachi,19:40
+12152,Shalimar Lokmanya Tilak (T) Samarsata Express,Kharagpur,21:15
+12152,Shalimar Lokmanya Tilak (T) Samarsata Express,Midnapur,21:45
+12152,Shalimar Lokmanya Tilak (T) Samarsata Express,Bankura,23:20
+12152,Shalimar Lokmanya Tilak (T) Samarsata Express,Adra,00:10
+12152,Shalimar Lokmanya Tilak (T) Samarsata Express,Purulia,01:00
+12152,Shalimar Lokmanya Tilak (T) Samarsata Express,Chakradharpur,02:57
+18615,Howrah Hatia Kriya Yoga Express,Howrah,21:10
+18615,Howrah Hatia Kriya Yoga Express,Kharagpur,23:00
+18615,Howrah Hatia Kriya Yoga Express,Jhargram,23:36
+18615,Howrah Hatia Kriya Yoga Express,Ghatsila,00:22
+18615,Howrah Hatia Kriya Yoga Express,Tatanagar,01:12
+18615,Howrah Hatia Kriya Yoga Express,Muri,04:20
+18615,Howrah Hatia Kriya Yoga Express,Ranchi,05:50
+18615,Howrah Hatia Kriya Yoga Express,Hatia,06:50
+12857,Howrah Digha Tamralipta Express,Howrah,06:45
+12857,Howrah Digha Tamralipta Express,Santragachi,07:04
+12857,Howrah Digha Tamralipta Express,Digha,10:05
+22897,Howrah Digha Kandari Express,Howrah,15:00
+22897,Howrah Digha Kandari Express,Santragachi,15:17
+22897,Howrah Digha Kandari Express,Digha,18:20
+18003,Howrah Adra Express,Howrah,17:45
+18003,Howrah Adra Express,Santragachi,18:05
+18003,Howrah Adra Express,Kharagpur,19:55
+18003,Howrah Adra Express,Midnapur,20:35
+18003,Howrah Adra Express,Bankura,22:30
+18003,Howrah Adra Express,Adra,23:55
+18011,Howrah Chakradharpur Express,Howrah,23:30
+18011,Howrah Chakradharpur Express,Kharagpur,01:30
+18011,Howrah Chakradharpur Express,Midnapur,02:10
+18011,Howrah Chakradharpur Express,Bankura,04:00
+18011,Howrah Chakradharpur Express,Adra,05:30
+18011,Howrah Chakradharpur Express,Purulia,06:30
+18011,Howrah Chakradharpur Express,Chakradharpur,11:15
+18013,Howrah Bokaro Express,Howrah,23:30
+18013,Howrah Bokaro Express,Kharagpur,01:30
+18013,Howrah Bokaro Express,Midnapur,02:10
+18013,Howrah Bokaro Express,Bankura,04:00
+18013,Howrah Bokaro Express,Adra,06:05
+18013,Howrah Bokaro Express,Santaldih,06:38
+18013,Howrah Bokaro Express,Bhojudih,06:48
+18013,Howrah Bokaro Express,Bokaro Steel City,09:05
+18020,Dhanbad Jhargram MEMU Express,Dhanbad,14:15
+18020,Dhanbad Jhargram MEMU Express,Bokaro Steel City,16:10
+18020,Dhanbad Jhargram MEMU Express,Purulia,17:16
+18020,Dhanbad Jhargram MEMU Express,Tatanagar,19:23
+18020,Dhanbad Jhargram MEMU Express,Ghatsila,20:10
+18020,Dhanbad Jhargram MEMU Express,Jhargram,22:15
+18023,Kharagpur NSCB Gomoh Express,Kharagpur,14:00
+18023,Kharagpur NSCB Gomoh Express,Midnapur,14:33
+18023,Kharagpur NSCB Gomoh Express,Bankura,16:23
+18023,Kharagpur NSCB Gomoh Express,Adra,18:40
+18023,Kharagpur NSCB Gomoh Express,Santaldih,19:13
+18023,Kharagpur NSCB Gomoh Express,Bhojudih,19:26
+18023,Kharagpur NSCB Gomoh Express,NSCB Gomoh,22:20
+18027,Kharagpur Asansol Express,Kharagpur,06:10
+18027,Kharagpur Asansol Express,Midnapur,06:40
+18027,Kharagpur Asansol Express,Bankura,08:26
+18027,Kharagpur Asansol Express,Adra,09:45
+18027,Kharagpur Asansol Express,Asansol,11:35
+18033,Howrah Ghatsila MEMU Express,Howrah,10:10
+18033,Howrah Ghatsila MEMU Express,Santragachi,10:28
+18033,Howrah Ghatsila MEMU Express,Kharagpur,12:15
+18033,Howrah Ghatsila MEMU Express,Jhargram,13:01
+18033,Howrah Ghatsila MEMU Express,Ghatsila,14:25
+22891,Howrah Ranchi Intercity Express,Howrah,12:50
+22891,Howrah Ranchi Intercity Express,Kharagpur,14:30
+22891,Howrah Ranchi Intercity Express,Jhargram,15:02
+22891,Howrah Ranchi Intercity Express,Ghatsila,15:44
+22891,Howrah Ranchi Intercity Express,Tatanagar,16:45
+22891,Howrah Ranchi Intercity Express,Purulia,18:32
+22891,Howrah Ranchi Intercity Express,Muri,19:42
+22891,Howrah Ranchi Intercity Express,Ranchi,21:14
+13505,Digha Asansol Express,Digha,14:20
+13505,Digha Asansol Express,Kharagpur,17:15
+13505,Digha Asansol Express,Midnapur,18:10
+13505,Digha Asansol Express,Bankura,19:40
+13505,Digha Asansol Express,Adra,20:40
+13505,Digha Asansol Express,Asansol,22:30
+18007,Shalimar Bhanjpur Simlipal Express,Shalimar,16:15
+18007,Shalimar Bhanjpur Simlipal Express,Santragachi d ,16:30
+18007,Shalimar Bhanjpur Simlipal Express,Kharagpur,18:10
+18007,Shalimar Bhanjpur Simlipal Express,Bhanjpur,22:00
+13417,Digha Malda Town Express,Digha,23:40
+13417,Digha Malda Town Express,Kharagpur,02:35
+13417,Digha Malda Town Express,Midnapur,03:15
+13417,Digha Malda Town Express,Bankura,04:45
+13417,Digha Malda Town Express,Adra,06:00
+13417,Digha Malda Town Express,Asansol,07:50
+22606,Tirunelveli Purulia Express,Midnapur,19:15
+22606,Tirunelveli Purulia Express,Bankura,20:40
+22606,Tirunelveli Purulia Express,Adra,21:40
+22606,Tirunelveli Purulia Express,Purulia,23:15
+12950,Santragachi Porbander Kavi Guru Express,Santragachi d ,19:50
+12950,Santragachi Porbander Kavi Guru Express,Kharagpur,21:20
+12950,Santragachi Porbander Kavi Guru Express,Midnapur,21:55
+12950,Santragachi Porbander Kavi Guru Express,Bankura,23:20
+12950,Santragachi Porbander Kavi Guru Express,Adra,00:10
+12950,Santragachi Porbander Kavi Guru Express,Purulia,01:00
+12950,Santragachi Porbander Kavi Guru Express,Chakrad- harpur,02:57
+13512,Asansol Tatanagar Express,Asansol,09:00
+13512,Asansol Tatanagar Express,Purulia,10:30
+13512,Asansol Tatanagar Express,Tatanagar,12:55
+12443,Haldia Anand Vihar (T) Express,Haldia,09:30
+12443,Haldia Anand Vihar (T) Express,Kharagpur,11:25
+12443,Haldia Anand Vihar (T) Express,Tatanagar,13:20
+12443,Haldia Anand Vihar (T) Express,Purulia,15:00
+18627,Howrah Ranchi Intercity Express,Howrah,12:50
+18627,Howrah Ranchi Intercity Express,Kharagpur,14:30
+18627,Howrah Ranchi Intercity Express,Midnapur,15:10
+18627,Howrah Ranchi Intercity Express,Bankura,16:40
+18627,Howrah Ranchi Intercity Express,Adra,17:30
+18627,Howrah Ranchi Intercity Express,Santaldih,17:58
+18627,Howrah Ranchi Intercity Express,Bokaro Steel City,19:45
+18627,Howrah Ranchi Intercity Express,Muri,20:35
+18627,Howrah Ranchi Intercity Express,Ranchi,22:55
+12551,SMVT Bengaluru Kamakhya AC Express,Midnapur,15:35
+12551,SMVT Bengaluru Kamakhya AC Express,Bankura,16:55
+12551,SMVT Bengaluru Kamakhya AC Express,Adra,17:45
+12551,SMVT Bengaluru Kamakhya AC Express,Asansol,19:30
+18035,Kharagpur Hatia Express,Kharagpur,08:35
+18035,Kharagpur Hatia Express,Midnapur,09:15
+18035,Kharagpur Hatia Express,Bankura,11:13
+18035,Kharagpur Hatia Express,Adra,13:00
+18035,Kharagpur Hatia Express,Purulia,14:40
+18035,Kharagpur Hatia Express,Muri,16:05
+18035,Kharagpur Hatia Express,Ranchi,17:30
+18035,Kharagpur Hatia Express,Hatia,19:30
+18085,Kharagpur Ranchi Express,Kharagpur,04:30
+18085,Kharagpur Ranchi Express,Midnapur,05:03
+18085,Kharagpur Ranchi Express,Bankura,06:40
+18085,Kharagpur Ranchi Express,Adra,07:45
+18085,Kharagpur Ranchi Express,Purulia,08:50
+18085,Kharagpur Ranchi Express,Muri,10:14
+18085,Kharagpur Ranchi Express,Ranchi,12:40
+18115,NSCB Gomoh Chakradharpur Express,NSCB Gomoh,15:00
+18115,NSCB Gomoh Chakradharpur Express,Santaldih,17:17
+18115,NSCB Gomoh Chakradharpur Express,Adra,18:35
+18115,NSCB Gomoh Chakradharpur Express,Purulia,19:40
+18115,NSCB Gomoh Chakradharpur Express,Chakrad- harpur,23:20
+18601,Tatanagar Hatia Express,Tatanagar,11:50
+18601,Tatanagar Hatia Express,Purulia,14:30
+18601,Tatanagar Hatia Express,Muri,15:51
+18601,Tatanagar Hatia Express,Ranchi,17:15
+18601,Tatanagar Hatia Express,Hatia,18:50
+20897,Howrah Ranchi Vande Bharat Express,Howrah,14:35
+20897,Howrah Ranchi Vande Bharat Express,Kharagpur,16:08
+20897,Howrah Ranchi Vande Bharat Express,Tatanagar,17:50
+20897,Howrah Ranchi Vande Bharat Express,Purulia,19:25
+20897,Howrah Ranchi Vande Bharat Express,Muri,20:27
+20897,Howrah Ranchi Vande Bharat Express,Ranchi,22:00
+18616,Hatia Howrah Kriya Yoga Express,Hatia,21:20
+18616,Hatia Howrah Kriya Yoga Express,Ranchi,21:50
+18616,Hatia Howrah Kriya Yoga Express,Muri,23:20
+18616,Hatia Howrah Kriya Yoga Express,Tatanagar,02:10
+18616,Hatia Howrah Kriya Yoga Express,Ghatsila,02:58
+18616,Hatia Howrah Kriya Yoga Express,Jhargram,03:44
+18616,Hatia Howrah Kriya Yoga Express,Kharagpur,04:40
+18616,Hatia Howrah Kriya Yoga Express,Santragachi,06:02
+18616,Hatia Howrah Kriya Yoga Express,Howrah,07:20
+12814,Tatanagar Howrah Steel Express,Tatanagar,06:05
+12814,Tatanagar Howrah Steel Express,Ghatsila,06:49
+12814,Tatanagar Howrah Steel Express,Jhargram,07:34
+12814,Tatanagar Howrah Steel Express,Kharagpur,08:20
+12814,Tatanagar Howrah Steel Express,Santragachi,09:42
+12814,Tatanagar Howrah Steel Express,Howrah,10:35
+12828,Purulia Howrah Express,Purulia,05:30
+12828,Purulia Howrah Express,Adra,06:24
+12828,Purulia Howrah Express,Bankura,07:10
+12828,Purulia Howrah Express,Midnapur,08:50
+12828,Purulia Howrah Express,Kharagpur,09:23
+12828,Purulia Howrah Express,Santragachi,10:44
+12828,Purulia Howrah Express,Howrah,11:22
+13302,Tatanagar Dhanbad Suvarnarekha Express,Tatanagar,15:30
+13302,Tatanagar Dhanbad Suvarnarekha Express,Purulia,17:30
+13302,Tatanagar Dhanbad Suvarnarekha Express,Adra,19:00
+13302,Tatanagar Dhanbad Suvarnarekha Express,Santaldih,19:34
+13302,Tatanagar Dhanbad Suvarnarekha Express,Dhanbad,22:25
+22330,Asansol Haldia SF Express,Asansol,05:40
+22330,Asansol Haldia SF Express,Adra,06:45
+22330,Asansol Haldia SF Express,Bankura,07:30
+22330,Asansol Haldia SF Express,Midnapur,09:10
+22330,Asansol Haldia SF Express,Kharagpur,09:35
+22330,Asansol Haldia SF Express,Haldia,11:35
+12886,Bhojudih Shalimar Aranyak Express,Bhojudih,14:00
+12886,Bhojudih Shalimar Aranyak Express,Santaldih,14:12
+12886,Bhojudih Shalimar Aranyak Express,Adra,14:45
+12886,Bhojudih Shalimar Aranyak Express,Bankura,15:28
+12886,Bhojudih Shalimar Aranyak Express,Midnapur,17:00
+12886,Bhojudih Shalimar Aranyak Express,Kharagpur,17:28
+12886,Bhojudih Shalimar Aranyak Express,Santragachi,19:09
+12886,Bhojudih Shalimar Aranyak Express,Shalimar,19:40
+12022,Barbil Howrah Jan Shatabdi Express,Barbil,13:45
+12022,Barbil Howrah Jan Shatabdi Express,Tatanagar,16:48
+12022,Barbil Howrah Jan Shatabdi Express,Ghatsila,17:32
+12022,Barbil Howrah Jan Shatabdi Express,Jhargram,18:15
+12022,Barbil Howrah Jan Shatabdi Express,Kharagpur,19:00
+12022,Barbil Howrah Jan Shatabdi Express,Santragachi,20:22
+12022,Barbil Howrah Jan Shatabdi Express,Howrah,21:00
+12884,Purulia Howrah Rupashi Bangla Express,Purulia,15:25
+12884,Purulia Howrah Rupashi Bangla Express,Adra,16:25
+12884,Purulia Howrah Rupashi Bangla Express,Bankura,17:06
+12884,Purulia Howrah Rupashi Bangla Express,Midnapur,18:50
+12884,Purulia Howrah Rupashi Bangla Express,Kharagpur,19:13
+12884,Purulia Howrah Rupashi Bangla Express,Santragachi,20:32
+12884,Purulia Howrah Rupashi Bangla Express,Howrah,21:15
+12151,Lokmanya Tilak (T) Shalimar Samarsata Express,Chakradharpur,23:02
+12151,Lokmanya Tilak (T) Shalimar Samarsata Express,Purulia,01:05
+12151,Lokmanya Tilak (T) Shalimar Samarsata Express,Adra,02:05
+12151,Lokmanya Tilak (T) Shalimar Samarsata Express,Bankura,02:52
+12151,Lokmanya Tilak (T) Shalimar Samarsata Express,Midnapur,04:25
+12151,Lokmanya Tilak (T) Shalimar Samarsata Express,Kharagpur,04:55
+12151,Lokmanya Tilak (T) Shalimar Samarsata Express,Santragachi,06:30
+12151,Lokmanya Tilak (T) Shalimar Samarsata Express,Shalimar,07:45
+12858,Digha Howrah Tamralipta Express,Digha,10:35
+12858,Digha Howrah Tamralipta Express,Santragachi,13:18
+12858,Digha Howrah Tamralipta Express,Howrah,13:55
+22898,Digha Howrah Kandari Express,Digha,19:20
+22898,Digha Howrah Kandari Express,Santragachi,22:00
+22898,Digha Howrah Kandari Express,Howrah,22:40
+18004,Adra Howrah Express,Adra,04:30
+18004,Adra Howrah Express,Bankura,05:22
+18004,Adra Howrah Express,Midnapur,07:20
+18004,Adra Howrah Express,Kharagpur,07:52
+18004,Adra Howrah Express,Santragachi,09:36
+18004,Adra Howrah Express,Howrah,10:25
+18012,Chakradhar- pur Howrah Express,Chakradharpur,17:35
+18012,Chakradhar- pur Howrah Express,Purulia,21:05
+18012,Chakradhar- pur Howrah Express,Adra,22:50
+18012,Chakradhar- pur Howrah Express,Bankura,00:03
+18012,Chakradhar- pur Howrah Express,Midnapur,02:00
+18012,Chakradhar- pur Howrah Express,Kharagpur,02:25
+18012,Chakradhar- pur Howrah Express,Howrah,05:35
+18014,Bokaro Steel City Howrah Express,Bokaro Steel City,19:25
+18014,Bokaro Steel City Howrah Express,Bhojudih,21:06
+18014,Bokaro Steel City Howrah Express,Santaldih,21:18
+18014,Bokaro Steel City Howrah Express,Adra,22:50
+18014,Bokaro Steel City Howrah Express,Bankura,00:03
+18014,Bokaro Steel City Howrah Express,Midnapur,02:00
+18014,Bokaro Steel City Howrah Express,Kharagpur,02:25
+18014,Bokaro Steel City Howrah Express,Howrah,05:35
+18019,Jhargram Dhanbad MEMU Express,Jhargram,05:15
+18019,Jhargram Dhanbad MEMU Express,Ghatsila,06:20
+18019,Jhargram Dhanbad MEMU Express,Tatanagar,07:45
+18019,Jhargram Dhanbad MEMU Express,Purulia,09:55
+18019,Jhargram Dhanbad MEMU Express,Bokaro Steel City,11:25
+18019,Jhargram Dhanbad MEMU Express,Dhanbad,13:45
+18024,NSCB Gomoh Kharagpur Express,NSCB Gomoh,06:25
+18024,NSCB Gomoh Kharagpur Express,Bhojudih,08:25
+18024,NSCB Gomoh Kharagpur Express,Santaldih,08:40
+18024,NSCB Gomoh Kharagpur Express,Adra,09:40
+18024,NSCB Gomoh Kharagpur Express,Bankura,10:42
+18024,NSCB Gomoh Kharagpur Express,Midnapur,13:30
+18024,NSCB Gomoh Kharagpur Express,Kharagpur,14:35
+18028,Asansol Kharagpur Express,Asansol,17:05
+18028,Asansol Kharagpur Express,Adra,18:30
+18028,Asansol Kharagpur Express,Bankura,19:30
+18028,Asansol Kharagpur Express,Midnapur,21:40
+18028,Asansol Kharagpur Express,Kharagpur,22:55
+18034,Ghatsila Howrah MEMU Express,Ghatsila,14:35
+18034,Ghatsila Howrah MEMU Express,Jhargram,15:35
+18034,Ghatsila Howrah MEMU Express,Kharagpur,16:35
+18034,Ghatsila Howrah MEMU Express,Santragachi,18:37
+18034,Ghatsila Howrah MEMU Express,Howrah,19:20
+20898,Ranchi Howrah Vande Bharat Express,Ranchi,06:00
+20898,Ranchi Howrah Vande Bharat Express,Muri,06:52
+20898,Ranchi Howrah Vande Bharat Express,Purulia,07:45
+20898,Ranchi Howrah Vande Bharat Express,Tatanagar,09:28
+20898,Ranchi Howrah Vande Bharat Express,Kharagpur,11:15
+20898,Ranchi Howrah Vande Bharat Express,Howrah,13:10
+22892,Ranchi How- rah Intercity Express,Ranchi,06:55
+22892,Ranchi How- rah Intercity Express,Muri,07:47
+22892,Ranchi How- rah Intercity Express,Purulia,09:00
+22892,Ranchi How- rah Intercity Express,Tatanagar,11:05
+22892,Ranchi How- rah Intercity Express,Ghatsila,11:38
+22892,Ranchi How- rah Intercity Express,Jhargram,12:22
+22892,Ranchi How- rah Intercity Express,Kharagpur,13:12
+22892,Ranchi How- rah Intercity Express,Howrah,15:15
+13506,Asansol Digha Express,Asansol,05:40
+13506,Asansol Digha Express,Adra,06:45
+13506,Asansol Digha Express,Bankura,07:30
+13506,Asansol Digha Express,Midnapur,09:10
+13506,Asansol Digha Express,Kharagpur,09:35
+13506,Asansol Digha Express,Digha,13:15
+18008,Bhanjpur Shalimar Simlipal Express,Bhanjpur,06:15
+18008,Bhanjpur Shalimar Simlipal Express,Kharagpur,09:45
+18008,Bhanjpur Shalimar Simlipal Express,Santragachi,11:40
+18008,Bhanjpur Shalimar Simlipal Express,Shalimar,13:15
+13418,Malda Town Digha Express,Asansol,15:20
+13418,Malda Town Digha Express,Adra,16:35
+13418,Malda Town Digha Express,Bankura,17:17
+13418,Malda Town Digha Express,Midnapur,19:05
+13418,Malda Town Digha Express,Kharagpur,19:35
+13418,Malda Town Digha Express,Digha,23:00
+22605,Purulia Tirunelveli Express,Purulia,10:00
+22605,Purulia Tirunelveli Express,Adra,10:50
+22605,Purulia Tirunelveli Express,Bankura,11:30
+22605,Purulia Tirunelveli Express,Midnapur,13:07
+12949,Porbander Santragachi Kavi Guru Express,Chakradharpur,23:02
+12949,Porbander Santragachi Kavi Guru Express,Purulia,01:05
+12949,Porbander Santragachi Kavi Guru Express,Adra,02:05
+12949,Porbander Santragachi Kavi Guru Express,Bankura,02:52
+12949,Porbander Santragachi Kavi Guru Express,Midnapur,04:25
+12949,Porbander Santragachi Kavi Guru Express,Kharagpur,04:55
+12949,Porbander Santragachi Kavi Guru Express,Santragachi,07:30
+13511,Tatanagar Asansol Express,Tatanagar,13:20
+13511,Tatanagar Asansol Express,Purulia,15:10
+13511,Tatanagar Asansol Express,Asansol,17:55
+12444,Anand Vihar (T) Haldia Exress,Purulia,13:15
+12444,Anand Vihar (T) Haldia Exress,Tatanagar,15:10
+12444,Anand Vihar (T) Haldia Exress,Kharagpur,17:45
+12444,Anand Vihar (T) Haldia Exress,Haldia,21:15
+12552,Kamakhya SMVT Bengaluru AC Express,Asansol,08:50
+12552,Kamakhya SMVT Bengaluru AC Express,Adra,09:55
+12552,Kamakhya SMVT Bengaluru AC Express,Bankura,10:35
+12552,Kamakhya SMVT Bengaluru AC Express,Midnapur,11:53
+18628,Ranchi How- rah Intercity Express,Ranchi,05:20
+18628,Ranchi How- rah Intercity Express,Muri,06:12
+18628,Ranchi How- rah Intercity Express,Bokaro Steel City,07:25
+18628,Ranchi How- rah Intercity Express,Santaldih,09:20
+18628,Ranchi How- rah Intercity Express,Adra,10:10
+18628,Ranchi How- rah Intercity Express,Bankura,10:53
+18628,Ranchi How- rah Intercity Express,Midnapur,12:30
+18628,Ranchi How- rah Intercity Express,Kharagpur,13:02
+18628,Ranchi How- rah Intercity Express,Howrah,15:50
+18036,Hatia Kharagpur Express,Hatia,08:50
+18036,Hatia Kharagpur Express,Ranchi,09:10
+18036,Hatia Kharagpur Express,Muri,10:28
+18036,Hatia Kharagpur Express,Purulia,12:45
+18036,Hatia Kharagpur Express,Adra,13:55
+18036,Hatia Kharagpur Express,Bankura,15:00
+18036,Hatia Kharagpur Express,Midnapur,17:30
+18036,Hatia Kharagpur Express,Kharagpur,18:45
+18086,Ranchi Kharagpur Express,Ranchi,15:40
+18086,Ranchi Kharagpur Express,Muri,16:45
+18086,Ranchi Kharagpur Express,Purulia,18:30
+18086,Ranchi Kharagpur Express,Adra,19:45
+18086,Ranchi Kharagpur Express,Bankura,20:40
+18086,Ranchi Kharagpur Express,Midnapur,22:30
+18086,Ranchi Kharagpur Express,Kharagpur,23:55
+18116,Chakradhar- pur NSCB Gomoh Express,Chakradharpur,05:30
+18116,Chakradhar- pur NSCB Gomoh Express,Purulia,08:20
+18116,Chakradhar- pur NSCB Gomoh Express,Adra,09:40
+18116,Chakradhar- pur NSCB Gomoh Express,Santaldih,10:12
+18116,Chakradhar- pur NSCB Gomoh Express,NSCB Gomoh,13:30
+18602,Hatia Tatanagar Express,Hatia,03:45
+18602,Hatia Tatanagar Express,Ranchi,04:05
+18602,Hatia Tatanagar Express,Muri,05:20
+18602,Hatia Tatanagar Express,Purulia,07:10
+18602,Hatia Tatanagar Express,Tatanagar,11:00

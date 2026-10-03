@@ -1,0 +1,634 @@
+train_num,train_name,halt_station_name,departure_time
+14717,Bikaner Haridwar Express,Saharanpur,13:15
+14717,Bikaner Haridwar Express,Panipat,09:32
+14717,Bikaner Haridwar Express,Karnal,09:57
+14717,Bikaner Haridwar Express,Kurukshetra,10:22
+14717,Bikaner Haridwar Express,Ambala Cantt.,12:05
+14717,Bikaner Haridwar Express,Rohtak,07:28
+22485,New Delhi Firozpur Intercity Express,New Delhi,07:00
+22485,New Delhi Firozpur Intercity Express,Rohtak,08:20
+22485,New Delhi Firozpur Intercity Express,Jind,09:00
+22485,New Delhi Firozpur Intercity Express,Jakhal,10:16
+22485,New Delhi Firozpur Intercity Express,Dhuri,11:20
+22485,New Delhi Firozpur Intercity Express,Ludhiana,12:50
+22485,New Delhi Firozpur Intercity Express,Moga,13:50
+22479,ew Delh Lohian Khas Sarbat d Bhalaa Express,New Delhi,07:00
+22479,ew Delh Lohian Khas Sarbat d Bhalaa Express,Rohtak,08:20
+22479,ew Delh Lohian Khas Sarbat d Bhalaa Express,Jind,09:00
+22479,ew Delh Lohian Khas Sarbat d Bhalaa Express,Jakhal,10:16
+22479,ew Delh Lohian Khas Sarbat d Bhalaa Express,Dhuri,11:20
+22479,ew Delh Lohian Khas Sarbat d Bhalaa Express,Ludhiana,12:35
+22479,ew Delh Lohian Khas Sarbat d Bhalaa Express,Jalandhar City,13:40
+22479,ew Delh Lohian Khas Sarbat d Bhalaa Express,Hoshiarpur,14:50
+22401,Delhi Sarai Rohilla Martyr Captain Tushar Mahajan AC Express,Delhi Sarai Rohillad,22:30
+22401,Delhi Sarai Rohilla Martyr Captain Tushar Mahajan AC Express,Panipat,23:31
+22401,Delhi Sarai Rohilla Martyr Captain Tushar Mahajan AC Express,Ambala Cantt.,01:13
+22401,Delhi Sarai Rohilla Martyr Captain Tushar Mahajan AC Express,Ludhiana,02:50
+22401,Delhi Sarai Rohilla Martyr Captain Tushar Mahajan AC Express,Jalandhar Cant.,03:36
+22401,Delhi Sarai Rohilla Martyr Captain Tushar Mahajan AC Express,Pathan Kot Cantt,05:21
+22401,Delhi Sarai Rohilla Martyr Captain Tushar Mahajan AC Express,Jammu Tawi,07:20
+22401,Delhi Sarai Rohilla Martyr Captain Tushar Mahajan AC Express,Martyr Captain,08:40
+22431,Subedar Ganj Martyr Captain Tushar Mahajan Super Fast Express,Meerut City,01:00
+22431,Subedar Ganj Martyr Captain Tushar Mahajan Super Fast Express,Muzaffarnagar,01:39
+22431,Subedar Ganj Martyr Captain Tushar Mahajan Super Fast Express,Saharanpur,02:45
+22431,Subedar Ganj Martyr Captain Tushar Mahajan Super Fast Express,Ambala Cantt.,04:15
+22431,Subedar Ganj Martyr Captain Tushar Mahajan Super Fast Express,Ludhiana,06:18
+22431,Subedar Ganj Martyr Captain Tushar Mahajan Super Fast Express,Jalandhar Cant.,07:25
+22431,Subedar Ganj Martyr Captain Tushar Mahajan Super Fast Express,Pathan Kot Cantt,09:20
+22431,Subedar Ganj Martyr Captain Tushar Mahajan Super Fast Express,Jammu Tawi,11:30
+22431,Subedar Ganj Martyr Captain Tushar Mahajan Super Fast Express,Martyr Captain,12:45
+12471,Bandra(T) Shri Mata Vaishno Devi Katra Express,Nizamuddin,05:05
+12471,Bandra(T) Shri Mata Vaishno Devi Katra Express,New Delhi,05:40
+12471,Bandra(T) Shri Mata Vaishno Devi Katra Express,Panipat,07:16
+12471,Bandra(T) Shri Mata Vaishno Devi Katra Express,Ambala Cantt.,08:52
+12471,Bandra(T) Shri Mata Vaishno Devi Katra Express,Ludhiana,10:25
+12471,Bandra(T) Shri Mata Vaishno Devi Katra Express,Jalandhar Cant.,11:16
+12471,Bandra(T) Shri Mata Vaishno Devi Katra Express,Pathan Kot Cantt,13:03
+12471,Bandra(T) Shri Mata Vaishno Devi Katra Express,Jammu Tawi,14:55
+12471,Bandra(T) Shri Mata Vaishno Devi Katra Express,Martyr Captain,16:35
+12471,Bandra(T)/ Gandhidham/ Hapa/ Jamnagar/ Shri Mata Vaishno Devi Katra Express,Shri Mata Vaishno a Devi Katra,17:50
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Malwa Express,Nizamuddin,03:50
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Malwa Express,New Delhi,04:30
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Malwa Express,Panipat,05:42
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Malwa Express,Karnal,06:06
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Malwa Express,Kurukshetra,06:32
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Malwa Express,Ambala Cantt.,07:35
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Malwa Express,Ludhiana,09:50
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Malwa Express,Jalandhar Cant.,10:36
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Malwa Express,Pathan Kot Cantt,12:30
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Malwa Express,Jammu Tawi,14:35
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Malwa Express,Martyr Captain,15:45
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Malwa Express,Shri Mata Vaishno a Devi Katra,16:30
+14035,Delhi Sarai Rohilla Pathankot Dhauladhar Express,Delhi Sarai Rohillad,23:20
+14035,Delhi Sarai Rohilla Pathankot Dhauladhar Express,Rohtak,00:26
+14035,Delhi Sarai Rohilla Pathankot Dhauladhar Express,Jind,01:08
+14035,Delhi Sarai Rohilla Pathankot Dhauladhar Express,Jakhal,02:20
+14035,Delhi Sarai Rohilla Pathankot Dhauladhar Express,Dhuri,03:45
+14035,Delhi Sarai Rohilla Pathankot Dhauladhar Express,Ludhiana,05:05
+14035,Delhi Sarai Rohilla Pathankot Dhauladhar Express,Jalandhar Cant.,05:54
+14035,Delhi Sarai Rohilla Pathankot Dhauladhar Express,Pathankot,08:20
+14323,New Delhi Rohtak Express,New Delhi,10:45
+14323,New Delhi Rohtak Express,Rohtak,12:20
+14507,Delhi Fazilka Express,Delhi,12:50
+14507,Delhi Fazilka Express,Panipat,14:31
+14507,Delhi Fazilka Express,Karnal,15:02
+14507,Delhi Fazilka Express,Kurukshetra,15:35
+14507,Delhi Fazilka Express,Ambala Cantt.,16:48
+14507,Delhi Fazilka Express,Rajpura,17:25
+14507,Delhi Fazilka Express,Dhuri,19:00
+14681,Delhi Jalandhar Express,Delhi,14:35
+14681,Delhi Jalandhar Express,Ghaziabad,15:15
+14681,Delhi Jalandhar Express,Meerut City,16:00
+14681,Delhi Jalandhar Express,Muzaffarnagar,16:50
+14681,Delhi Jalandhar Express,Saharanpur,18:35
+14681,Delhi Jalandhar Express,Ambala Cantt.,20:23
+14681,Delhi Jalandhar Express,Rajpura,20:52
+14681,Delhi Jalandhar Express,Ludhiana,22:20
+14681,Delhi Jalandhar Express,Jalandhar City,23:40
+22941,Indore Martyr Captain Tushar Mahajan Express,Delhi Safdarjung,10:31
+22941,Indore Martyr Captain Tushar Mahajan Express,Rohtak,11:50
+22941,Indore Martyr Captain Tushar Mahajan Express,Jind,12:27
+22941,Indore Martyr Captain Tushar Mahajan Express,Jakhal,14:00
+22941,Indore Martyr Captain Tushar Mahajan Express,Dhuri,15:05
+22941,Indore Martyr Captain Tushar Mahajan Express,Ludhiana,16:25
+22941,Indore Martyr Captain Tushar Mahajan Express,Jalandhar Cant.,17:13
+22941,Indore Martyr Captain Tushar Mahajan Express,Pathan Kot Cantt,19:05
+22941,Indore Martyr Captain Tushar Mahajan Express,Jammu Tawi,20:40
+22941,Indore Martyr Captain Tushar Mahajan Express,Martyr Captain,22:20
+14661,Barmer Jammu Tawi Shalimar Malani Express,Delhi Sarai Rohillad,16:10
+14661,Barmer Jammu Tawi Shalimar Malani Express,Delhi,17:05
+14661,Barmer Jammu Tawi Shalimar Malani Express,Ghaziabad,17:48
+14661,Barmer Jammu Tawi Shalimar Malani Express,Meerut City,18:55
+14661,Barmer Jammu Tawi Shalimar Malani Express,Muzaffarnagar,19:50
+14661,Barmer Jammu Tawi Shalimar Malani Express,Saharanpur,21:15
+14661,Barmer Jammu Tawi Shalimar Malani Express,Ambala Cantt.,22:35
+14661,Barmer Jammu Tawi Shalimar Malani Express,Rajpura,23:07
+14661,Barmer Jammu Tawi Shalimar Malani Express,Ludhiana,00:54
+14661,Barmer Jammu Tawi Shalimar Malani Express,Jalandhar Cant.,01:47
+14661,Barmer Jammu Tawi Shalimar Malani Express,Pathan Kot Cantt,03:40
+14661,Barmer Jammu Tawi Shalimar Malani Express,Jammu Tawi,05:40
+12425,New Delhi Jammu Tawi Rajdhani Express,New Delhi,20:40
+12425,New Delhi Jammu Tawi Rajdhani Express,Ludhiana,00:38
+12425,New Delhi Jammu Tawi Rajdhani Express,Pathan Kot Cantt,03:12
+12425,New Delhi Jammu Tawi Rajdhani Express,Jammu Tawi,05:00
+12445,New Delhi Shri Mata Vaishno Devi Katra Uttar Sampark Kranti Express,New Delhi,20:50
+12445,New Delhi Shri Mata Vaishno Devi Katra Uttar Sampark Kranti Express,Panipat,21:55
+12445,New Delhi Shri Mata Vaishno Devi Katra Uttar Sampark Kranti Express,Ambala Cantt.,23:35
+12445,New Delhi Shri Mata Vaishno Devi Katra Uttar Sampark Kranti Express,Ludhiana,01:15
+12445,New Delhi Shri Mata Vaishno Devi Katra Uttar Sampark Kranti Express,Jalandhar Cant.,02:03
+12445,New Delhi Shri Mata Vaishno Devi Katra Uttar Sampark Kranti Express,Pathan Kot Cantt,03:55
+12445,New Delhi Shri Mata Vaishno Devi Katra Uttar Sampark Kranti Express,Jammu Tawi,05:55
+12445,New Delhi Shri Mata Vaishno Devi Katra Uttar Sampark Kranti Express,Martyr Captain,07:13
+12445,New Delhi Shri Mata Vaishno Devi Katra Uttar Sampark Kranti Express,Shri Mata Vaishno a Devi Katra,07:55
+11841,Khajuraho Kurushetra Gita Jayanti Inter City Express,Nizamuddin,08:14
+11841,Khajuraho Kurushetra Gita Jayanti Inter City Express,New Delhi,09:00
+11841,Khajuraho Kurushetra Gita Jayanti Inter City Express,Panipat,10:36
+11841,Khajuraho Kurushetra Gita Jayanti Inter City Express,Karnal,11:02
+11841,Khajuraho Kurushetra Gita Jayanti Inter City Express,Kurukshetra,12:05
+14023,Delhi Kurukshetra DEMU Express,Delhi,17:55
+14023,Delhi Kurukshetra DEMU Express,Kurukshetra,23:25
+14023,Delhi Kurukshetra DEMU Express,Rohtak,19:23
+14023,Delhi Kurukshetra DEMU Express,Jind,20:10
+20433,Subed- arganj Shri Mata Vaishno Devi Katra Mail,Delhi,20:10
+20433,Subed- arganj Shri Mata Vaishno Devi Katra Mail,Panipat,21:50
+20433,Subed- arganj Shri Mata Vaishno Devi Katra Mail,Karnal,22:14
+20433,Subed- arganj Shri Mata Vaishno Devi Katra Mail,Kurukshetra,22:49
+20433,Subed- arganj Shri Mata Vaishno Devi Katra Mail,Ambala Cantt.,00:10
+20433,Subed- arganj Shri Mata Vaishno Devi Katra Mail,Rajpura,00:34
+20433,Subed- arganj Shri Mata Vaishno Devi Katra Mail,Ludhiana,01:47
+20433,Subed- arganj Shri Mata Vaishno Devi Katra Mail,Jalandhar Cant.,02:38
+20433,Subed- arganj Shri Mata Vaishno Devi Katra Mail,Pathan Kot Cantt,04:40
+20433,Subed- arganj Shri Mata Vaishno Devi Katra Mail,Jammu Tawi,06:35
+20433,Subed- arganj Shri Mata Vaishno Devi Katra Mail,Martyr Captain,08:04
+20433,Subed- arganj Shri Mata Vaishno Devi Katra Mail,Shri Mata Vaishno a Devi Katra,09:20
+12413,Galta Dham Pooja Express,Delhi,22:10
+12413,Galta Dham Pooja Express,Karnal,23:33
+12413,Galta Dham Pooja Express,Ambala Cantt.,01:02
+12413,Galta Dham Pooja Express,Ludhiana,02:36
+12413,Galta Dham Pooja Express,Jalandhar Cant.,03:24
+12413,Galta Dham Pooja Express,Pathan Kot Cantt,05:05
+12413,Galta Dham Pooja Express,Jammu Tawi,07:30
+11077,Pune Jammu Tawi Jhelum Express,Nizamuddin,20:51
+11077,Pune Jammu Tawi Jhelum Express,New Delhi,21:35
+11077,Pune Jammu Tawi Jhelum Express,Panipat,23:09
+11077,Pune Jammu Tawi Jhelum Express,Karnal,23:48
+11077,Pune Jammu Tawi Jhelum Express,Kurukshetra,00:32
+11077,Pune Jammu Tawi Jhelum Express,Ambala Cantt.,01:48
+11077,Pune Jammu Tawi Jhelum Express,Rajpura,02:19
+11077,Pune Jammu Tawi Jhelum Express,Ludhiana,04:09
+11077,Pune Jammu Tawi Jhelum Express,Jalandhar Cant.,05:15
+11077,Pune Jammu Tawi Jhelum Express,Pathan Kot Cantt,07:35
+11077,Pune Jammu Tawi Jhelum Express,Jammu Tawi,09:45
+14053,Delhi Daulatpur Chowk Himachal Express,Delhi,22:50
+14053,Delhi Daulatpur Chowk Himachal Express,Panipat,00:30
+14053,Delhi Daulatpur Chowk Himachal Express,Karnal,00:56
+14053,Delhi Daulatpur Chowk Himachal Express,Kurukshetra,01:21
+14053,Delhi Daulatpur Chowk Himachal Express,Ambala Cantt.,03:05
+14053,Delhi Daulatpur Chowk Himachal Express,Rajpura,03:37
+14053,Delhi Daulatpur Chowk Himachal Express,Nangaldam,06:20
+14053,Delhi Daulatpur Chowk Himachal Express,Una Himachal,06:45
+14053,Delhi Daulatpur Chowk Himachal Express,Rohtak,07:35
+16031,Chennai Shri Mata Vaishno Devi Katra Andaman Express,Nizamuddin,20:21
+16031,Chennai Shri Mata Vaishno Devi Katra Andaman Express,New Delhi,21:10
+16031,Chennai Shri Mata Vaishno Devi Katra Andaman Express,Rohtak,22:33
+16031,Chennai Shri Mata Vaishno Devi Katra Andaman Express,Jind,23:18
+16031,Chennai Shri Mata Vaishno Devi Katra Andaman Express,Jakhal,00:43
+16031,Chennai Shri Mata Vaishno Devi Katra Andaman Express,Dhuri,01:57
+16031,Chennai Shri Mata Vaishno Devi Katra Andaman Express,Ludhiana,03:20
+16031,Chennai Shri Mata Vaishno Devi Katra Andaman Express,Jalandhar Cant.,04:13
+16031,Chennai Shri Mata Vaishno Devi Katra Andaman Express,Pathan Kot Cantt,06:05
+16031,Chennai Shri Mata Vaishno Devi Katra Andaman Express,Jammu Tawi,08:30
+16031,Chennai Shri Mata Vaishno Devi Katra Andaman Express,Martyr Captain,09:45
+16031,Chennai Shri Mata Vaishno Devi Katra Andaman Express,Shri Mata Vaishno a Devi Katra,10:45
+11449,Jabalpur Shri Mata Vaishno Devi Katra Express,Nizamuddin,20:21
+11449,Jabalpur Shri Mata Vaishno Devi Katra Express,New Delhi,21:10
+11449,Jabalpur Shri Mata Vaishno Devi Katra Express,Rohtak,22:33
+11449,Jabalpur Shri Mata Vaishno Devi Katra Express,Jind,23:18
+11449,Jabalpur Shri Mata Vaishno Devi Katra Express,Jakhal,00:43
+11449,Jabalpur Shri Mata Vaishno Devi Katra Express,Dhuri,01:57
+11449,Jabalpur Shri Mata Vaishno Devi Katra Express,Ludhiana,03:20
+11449,Jabalpur Shri Mata Vaishno Devi Katra Express,Jalandhar Cant.,04:13
+11449,Jabalpur Shri Mata Vaishno Devi Katra Express,Pathan Kot Cantt,06:05
+11449,Jabalpur Shri Mata Vaishno Devi Katra Express,Jammu Tawi,08:30
+11449,Jabalpur Shri Mata Vaishno Devi Katra Express,Martyr Captain,09:45
+11449,Jabalpur Shri Mata Vaishno Devi Katra Express,Shri Mata Vaishno a Devi Katra,10:45
+12549,Durg Martyr Captain Tushar Mahajan Express,Delhi Safdarjung,08:02
+12549,Durg Martyr Captain Tushar Mahajan Express,Ambala Cantt.,11:55
+12549,Durg Martyr Captain Tushar Mahajan Express,Ludhiana,13:33
+12549,Durg Martyr Captain Tushar Mahajan Express,Jalandhar Cant.,14:25
+12549,Durg Martyr Captain Tushar Mahajan Express,Pathan Kot Cantt,16:13
+12549,Durg Martyr Captain Tushar Mahajan Express,Jammu Tawi,17:50
+12549,Durg Martyr Captain Tushar Mahajan Express,Martyr Captain,19:40
+11905,Agra Cantt. Hoshiar- pur Express,New Delhi,22:20
+11905,Agra Cantt. Hoshiar- pur Express,Panipat,23:51
+11905,Agra Cantt. Hoshiar- pur Express,Karnal,00:15
+11905,Agra Cantt. Hoshiar- pur Express,Ambala Cantt.,02:30
+11905,Agra Cantt. Hoshiar- pur Express,Rajpura,03:30
+11905,Agra Cantt. Hoshiar- pur Express,Ludhiana,06:07
+11905,Agra Cantt. Hoshiar- pur Express,Jalandhar Cant.,07:56
+11905,Agra Cantt. Hoshiar- pur Express,Jalandhar City,07:45
+11905,Agra Cantt. Hoshiar- pur Express,Hoshiarpur,09:15
+14503,Kalka Katra Expres,Rohtak,20:35
+14503,Kalka Katra Expres,Ludhiana,22:50
+14503,Kalka Katra Expres,Jalandhar Cant.,23:38
+14503,Kalka Katra Expres,Pathan Kot Cantt,01:28
+14503,Kalka Katra Expres,Jammu Tawi,03:25
+14503,Kalka Katra Expres,Martyr Captain,04:21
+14503,Kalka Katra Expres,Shri Mata Vaishno a Devi Katra,05:05
+19803,Kota Shri Mata Vaishno Devi Katra Express,New Delhi,23:30
+19803,Kota Shri Mata Vaishno Devi Katra Express,Rohtak,00:46
+19803,Kota Shri Mata Vaishno Devi Katra Express,Jind,01:30
+19803,Kota Shri Mata Vaishno Devi Katra Express,Jakhal,02:53
+19803,Kota Shri Mata Vaishno Devi Katra Express,Dhuri,04:50
+19803,Kota Shri Mata Vaishno Devi Katra Express,Ludhiana,06:45
+19803,Kota Shri Mata Vaishno Devi Katra Express,Jalandhar Cant.,07:40
+19803,Kota Shri Mata Vaishno Devi Katra Express,Pathan Kot Cantt,09:50
+19803,Kota Shri Mata Vaishno Devi Katra Express,Jammu Tawi,11:55
+19803,Kota Shri Mata Vaishno Devi Katra Express,Martyr Captain,12:57
+19803,Kota Shri Mata Vaishno Devi Katra Express,Shri Mata Vaishno a Devi Katra,13:35
+22461,New Delhi Shri Mata Vaishno Devi Katra Shri Shakti Express,New Delhi,19:05
+22461,New Delhi Shri Mata Vaishno Devi Katra Shri Shakti Express,Ambala Cantt.,21:47
+22461,New Delhi Shri Mata Vaishno Devi Katra Shri Shakti Express,Ludhiana,23:26
+22461,New Delhi Shri Mata Vaishno Devi Katra Shri Shakti Express,Jalandhar Cant.,00:15
+22461,New Delhi Shri Mata Vaishno Devi Katra Shri Shakti Express,Pathan Kot Cantt,02:05
+22461,New Delhi Shri Mata Vaishno Devi Katra Shri Shakti Express,Jammu Tawi,03:43
+22461,New Delhi Shri Mata Vaishno Devi Katra Shri Shakti Express,Martyr Captain,04:52
+22461,New Delhi Shri Mata Vaishno Devi Katra Shri Shakti Express,Shri Mata Vaishno a Devi Katra,05:40
+20985,Kota Martyr Captain Tushar Mahajan Express,Nizamuddin,22:47
+20985,Kota Martyr Captain Tushar Mahajan Express,New Delhi,23:30
+20985,Kota Martyr Captain Tushar Mahajan Express,Rohtak,00:46
+20985,Kota Martyr Captain Tushar Mahajan Express,Jakhal,02:53
+20985,Kota Martyr Captain Tushar Mahajan Express,Dhuri,04:15
+20985,Kota Martyr Captain Tushar Mahajan Express,Ludhiana,05:35
+20985,Kota Martyr Captain Tushar Mahajan Express,Jalandhar Cant.,06:36
+20985,Kota Martyr Captain Tushar Mahajan Express,Pathan Kot Cantt,08:25
+20985,Kota Martyr Captain Tushar Mahajan Express,Jammu Tawi,10:30
+20985,Kota Martyr Captain Tushar Mahajan Express,Martyr Captain,12:05
+12265,Delhi Sarai Rohilla Jammu Tawi Duronto Express,Delhi Sarai Rohillad,22:30
+12265,Delhi Sarai Rohilla Jammu Tawi Duronto Express,Ludhiana,02:50
+12265,Delhi Sarai Rohilla Jammu Tawi Duronto Express,Jammu Tawi,07:10
+22705,Tirupati Jammu Tawi Hum- safar Express,Delhi Safdarjung,08:28
+22705,Tirupati Jammu Tawi Hum- safar Express,Ambala Cantt.,11:55
+22705,Tirupati Jammu Tawi Hum- safar Express,Ludhiana,13:33
+22705,Tirupati Jammu Tawi Hum- safar Express,Jammu Tawi,18:00
+22439,New Delhi Shri Mata Vaishno Devi Katra Vande Bharat Express,New Delhi,06:00
+22439,New Delhi Shri Mata Vaishno Devi Katra Vande Bharat Express,Ambala Cantt.,08:12
+22439,New Delhi Shri Mata Vaishno Devi Katra Vande Bharat Express,Ludhiana,09:21
+22439,New Delhi Shri Mata Vaishno Devi Katra Vande Bharat Express,Pathan Kot Cantt,11:17
+22439,New Delhi Shri Mata Vaishno Devi Katra Vande Bharat Express,Jammu Tawi,12:45
+22439,New Delhi Shri Mata Vaishno Devi Katra Vande Bharat Express,Shri Mata Vaishno a Devi Katra,14:20
+26401,SVDK- Sri Nagar Vande Bharat Express,Shri Mata Vaishno a Devi Katra,08:10
+26401,SVDK- Sri Nagar Vande Bharat Express,Reasi,08:30
+26401,SVDK- Sri Nagar Vande Bharat Express,Banihal,09:58
+26401,SVDK- Sri Nagar Vande Bharat Express,Sri Nagar,11:08
+26403,SVDK- Sri Nagar Vande Bharat Express,Shri Mata Vaishno a Devi Katra,14:55
+26403,SVDK- Sri Nagar Vande Bharat Express,Banihal,16:44
+26403,SVDK- Sri Nagar Vande Bharat Express,Sri Nagar,17:53
+14718,Haridwar/ Bikaner Express,Rohtak,23:05
+14718,Haridwar/ Bikaner Express,Ambala Cantt.,19:55
+14718,Haridwar/ Bikaner Express,Kurukshetra,20:27
+14718,Haridwar/ Bikaner Express,Karnal,20:52
+14718,Haridwar/ Bikaner Express,Panipat,21:25
+14718,Haridwar/ Bikaner Express,Saharanpur,18:17
+22486,Firozpur New Delhi Intercity Express,Moga,16:23
+22486,Firozpur New Delhi Intercity Express,Ludhiana,18:05
+22486,Firozpur New Delhi Intercity Express,Dhuri,18:58
+22486,Firozpur New Delhi Intercity Express,Jakhal,20:11
+22486,Firozpur New Delhi Intercity Express,Jind,21:13
+22486,Firozpur New Delhi Intercity Express,Rohtak,21:56
+22486,Firozpur New Delhi Intercity Express,New Delhi,23:30
+22480,Lohian Khas arbat d Bhalaa ew Del hatabd xpres,Pathankot,15:35
+22480,Lohian Khas arbat d Bhalaa ew Del hatabd xpres,Jalandhar City,16:55
+22480,Lohian Khas arbat d Bhalaa ew Del hatabd xpres,Ludhiana,18:05
+22480,Lohian Khas arbat d Bhalaa ew Del hatabd xpres,Dhuri,18:58
+22480,Lohian Khas arbat d Bhalaa ew Del hatabd xpres,Jakhal,20:11
+22480,Lohian Khas arbat d Bhalaa ew Del hatabd xpres,Jind,21:13
+22480,Lohian Khas arbat d Bhalaa ew Del hatabd xpres,Rohtak,21:56
+22480,Lohian Khas arbat d Bhalaa ew Del hatabd xpres,New Delhi,23:30
+14682,Jalandhar Delhi Express,Jalandhar City,04:00
+14682,Jalandhar Delhi Express,Ludhiana,05:10
+14682,Jalandhar Delhi Express,Rajpura,06:46
+14682,Jalandhar Delhi Express,Ambala Cantt.,07:42
+14682,Jalandhar Delhi Express,Saharanpur,09:15
+14682,Jalandhar Delhi Express,Muzaffarnagar,10:34
+14682,Jalandhar Delhi Express,Meerut City,11:24
+14682,Jalandhar Delhi Express,Ghaziabad,12:26
+14682,Jalandhar Delhi Express,Delhi,13:15
+14036,Pathankot Delhi Sarai Rohilla Dhauladhar Express,Pathankot,23:40
+14036,Pathankot Delhi Sarai Rohilla Dhauladhar Express,Jalandhar Cant.,01:45
+14036,Pathankot Delhi Sarai Rohilla Dhauladhar Express,Ludhiana,03:15
+14036,Pathankot Delhi Sarai Rohilla Dhauladhar Express,Dhuri,04:20
+14036,Pathankot Delhi Sarai Rohilla Dhauladhar Express,Jakhal,05:56
+14036,Pathankot Delhi Sarai Rohilla Dhauladhar Express,Jind,06:52
+14036,Pathankot Delhi Sarai Rohilla Dhauladhar Express,Rohtak,07:36
+14036,Pathankot Delhi Sarai Rohilla Dhauladhar Express,Delhi Sarai Rohilla,09:10
+22942,Martyr Captain Tushar Mahajan Indore Express,Martyr Captain Tushar Mahajan,11:20
+22942,Martyr Captain Tushar Mahajan Indore Express,Jammu Tawi,12:35
+22942,Martyr Captain Tushar Mahajan Indore Express,Pathankot Cantt,14:13
+22942,Martyr Captain Tushar Mahajan Indore Express,Jalandhar Cant.,15:58
+22942,Martyr Captain Tushar Mahajan Indore Express,Ludhiana,17:05
+22942,Martyr Captain Tushar Mahajan Indore Express,Dhuri,18:25
+22942,Martyr Captain Tushar Mahajan Indore Express,Jakhal,19:42
+22942,Martyr Captain Tushar Mahajan Indore Express,Jind,20:30
+22942,Martyr Captain Tushar Mahajan Indore Express,Rohtak,21:12
+22942,Martyr Captain Tushar Mahajan Indore Express,Delhi Safdarjung,22:40
+12920,Shri Mata Vaishno Devi Katra Dr. Ambed- kar Nagar Malwa Express,Shri Mata Vaishno Devi Katra,08:25
+12920,Shri Mata Vaishno Devi Katra Dr. Ambed- kar Nagar Malwa Express,Martyr Captain Tushar Mahajan,09:02
+12920,Shri Mata Vaishno Devi Katra Dr. Ambed- kar Nagar Malwa Express,Jammu Tawi,10:30
+12920,Shri Mata Vaishno Devi Katra Dr. Ambed- kar Nagar Malwa Express,Pathankot Cantt,12:18
+12920,Shri Mata Vaishno Devi Katra Dr. Ambed- kar Nagar Malwa Express,Jalandhar Cant.,14:18
+12920,Shri Mata Vaishno Devi Katra Dr. Ambed- kar Nagar Malwa Express,Ludhiana,15:15
+12920,Shri Mata Vaishno Devi Katra Dr. Ambed- kar Nagar Malwa Express,Ambala Cantt.,17:05
+12920,Shri Mata Vaishno Devi Katra Dr. Ambed- kar Nagar Malwa Express,Kurukshetra,17:37
+12920,Shri Mata Vaishno Devi Katra Dr. Ambed- kar Nagar Malwa Express,Karnal,18:02
+12920,Shri Mata Vaishno Devi Katra Dr. Ambed- kar Nagar Malwa Express,Panipat,18:26
+12920,Shri Mata Vaishno Devi Katra Dr. Ambed- kar Nagar Malwa Express,New Delhi,20:30
+14508,Fazilka Delhi Express,Dhuri,06:43
+14508,Fazilka Delhi Express,Rajpura,08:20
+14508,Fazilka Delhi Express,Ambala Cantt.,09:05
+14508,Fazilka Delhi Express,Kurukshetra,09:37
+14508,Fazilka Delhi Express,Karnal,10:07
+14508,Fazilka Delhi Express,Panipat,10:38
+14508,Fazilka Delhi Express,Delhi,12:45
+20434,Shri Mata Vaishno Devi Katra Subedar- ganj Mail,Shri Mata Vaishno Devi Katra,15:15
+20434,Shri Mata Vaishno Devi Katra Subedar- ganj Mail,Martyr Captain Tushar Mahajan,15:40
+20434,Shri Mata Vaishno Devi Katra Subedar- ganj Mail,Jammu Tawi,16:50
+20434,Shri Mata Vaishno Devi Katra Subedar- ganj Mail,Pathankot Cantt,19:23
+20434,Shri Mata Vaishno Devi Katra Subedar- ganj Mail,Jalandhar Cant.,21:33
+20434,Shri Mata Vaishno Devi Katra Subedar- ganj Mail,Ludhiana,22:35
+20434,Shri Mata Vaishno Devi Katra Subedar- ganj Mail,Ambala Cantt.,00:30
+20434,Shri Mata Vaishno Devi Katra Subedar- ganj Mail,Kurukshetra,01:01
+20434,Shri Mata Vaishno Devi Katra Subedar- ganj Mail,Karnal,01:24
+20434,Shri Mata Vaishno Devi Katra Subedar- ganj Mail,Panipat,01:46
+20434,Shri Mata Vaishno Devi Katra Subedar- ganj Mail,Delhi,04:20
+12414,Galta Dham Pooja Express,Jammu Tawi,18:15
+12414,Galta Dham Pooja Express,Pathankot Cantt,20:00
+12414,Galta Dham Pooja Express,Jalandhar Cant.,22:00
+12414,Galta Dham Pooja Express,Ludhiana,22:55
+12414,Galta Dham Pooja Express,Ambala Cantt.,00:50
+12414,Galta Dham Pooja Express,Karnal,01:41
+12414,Galta Dham Pooja Express,Delhi,04:15
+12426,Jammu Tawi New Delhi Rajdhani Express,Jammu Tawi,21:25
+12426,Jammu Tawi New Delhi Rajdhani Express,Pathankot Cantt,23:07
+12426,Jammu Tawi New Delhi Rajdhani Express,Ludhiana,01:45
+12426,Jammu Tawi New Delhi Rajdhani Express,New Delhi,05:55
+12446,Shri Mata Vaishno Devi Katra New Delhi Uttar Sam- park Kranti Express,Shri Mata Vaishno Devi Katra,19:50
+12446,Shri Mata Vaishno Devi Katra New Delhi Uttar Sam- park Kranti Express,Martyr Captain Tushar Mahajan,20:17
+12446,Shri Mata Vaishno Devi Katra New Delhi Uttar Sam- park Kranti Express,Jammu Tawi,21:45
+12446,Shri Mata Vaishno Devi Katra New Delhi Uttar Sam- park Kranti Express,Pathankot Cantt,23:27
+12446,Shri Mata Vaishno Devi Katra New Delhi Uttar Sam- park Kranti Express,Jalandhar Cant.,01:13
+12446,Shri Mata Vaishno Devi Katra New Delhi Uttar Sam- park Kranti Express,Ludhiana,02:10
+12446,Shri Mata Vaishno Devi Katra New Delhi Uttar Sam- park Kranti Express,Ambala Cantt.,04:10
+12446,Shri Mata Vaishno Devi Katra New Delhi Uttar Sam- park Kranti Express,Panipat,05:17
+12446,Shri Mata Vaishno Devi Katra New Delhi Uttar Sam- park Kranti Express,New Delhi,06:55
+14054,Daulatpu Chowk Delhi Himacha Express,Martyr Captain Tushar Mahajan,21:05
+14054,Daulatpu Chowk Delhi Himacha Express,Una Himachal,21:58
+14054,Daulatpu Chowk Delhi Himacha Express,Nangaldam,22:20
+14054,Daulatpu Chowk Delhi Himacha Express,Rajpura,00:52
+14054,Daulatpu Chowk Delhi Himacha Express,Ambala Cantt.,01:30
+14054,Daulatpu Chowk Delhi Himacha Express,Kurukshetra,02:04
+14054,Daulatpu Chowk Delhi Himacha Express,Karnal,02:29
+14054,Daulatpu Chowk Delhi Himacha Express,Panipat,02:55
+14054,Daulatpu Chowk Delhi Himacha Express,Delhi,05:00
+14662,Jammu Tawi Barmer Shalimar Express,Jammu Tawi,22:25
+14662,Jammu Tawi Barmer Shalimar Express,Pathankot Cantt,00:05
+14662,Jammu Tawi Barmer Shalimar Express,Jalandhar Cant.,02:05
+14662,Jammu Tawi Barmer Shalimar Express,Ludhiana,03:15
+14662,Jammu Tawi Barmer Shalimar Express,Rajpura,04:47
+14662,Jammu Tawi Barmer Shalimar Express,Ambala Cantt.,05:40
+14662,Jammu Tawi Barmer Shalimar Express,Saharanpur,07:15
+14662,Jammu Tawi Barmer Shalimar Express,Muzaffarnagar,08:05
+14662,Jammu Tawi Barmer Shalimar Express,Meerut City,09:03
+14662,Jammu Tawi Barmer Shalimar Express,Ghaziabad,10:03
+14662,Jammu Tawi Barmer Shalimar Express,Delhi,11:00
+22706,Jammu Tawi Tirupati Humsafar Express,Jammu Tawi,05:45
+22706,Jammu Tawi Tirupati Humsafar Express,Jalandhar Cant.,09:20
+22706,Jammu Tawi Tirupati Humsafar Express,Ludhiana,11:10
+22706,Jammu Tawi Tirupati Humsafar Express,Ambala Cantt.,13:20
+22706,Jammu Tawi Tirupati Humsafar Express,Delhi Safdarjung,16:52
+11842,Kurshetra Mathura Gita Jayanti Inter City Express,Kurukshetra,15:10
+11842,Kurshetra Mathura Gita Jayanti Inter City Express,Karnal,15:38
+11842,Kurshetra Mathura Gita Jayanti Inter City Express,Panipat,16:04
+11842,Kurshetra Mathura Gita Jayanti Inter City Express,New Delhi,18:20
+11842,Kurshetra Mathura Gita Jayanti Inter City Express,Nizamuddin,18:33
+26402,Sri Nagar- SVDK Vande Bharat Express,Sri Nagar,14:00
+26402,Sri Nagar- SVDK Vande Bharat Express,Banihal,15:00
+26402,Sri Nagar- SVDK Vande Bharat Express,Reasi,16:36
+26402,Sri Nagar- SVDK Vande Bharat Express,Shri Mata Vaishno Devi Katra,16:58
+26404,Sri Nagar- SVDK Vande Bharat Express,Sri Nagar,08:00
+26404,Sri Nagar- SVDK Vande Bharat Express,Banihal,09:00
+26404,Sri Nagar- SVDK Vande Bharat Express,Shri Mata Vaishno Devi Katra,10:58
+11078,Jammu Tawi Pune Jhelum Express,Jammu Tawi,23:35
+11078,Jammu Tawi Pune Jhelum Express,Pathankot Cantt,01:30
+11078,Jammu Tawi Pune Jhelum Express,Jalandhar Cant.,03:30
+11078,Jammu Tawi Pune Jhelum Express,Ludhiana,04:30
+11078,Jammu Tawi Pune Jhelum Express,Rajpura,05:56
+11078,Jammu Tawi Pune Jhelum Express,Ambala Cantt.,06:50
+11078,Jammu Tawi Pune Jhelum Express,Kurukshetra,07:27
+11078,Jammu Tawi Pune Jhelum Express,Karnal,07:57
+11078,Jammu Tawi Pune Jhelum Express,Panipat,08:37
+11078,Jammu Tawi Pune Jhelum Express,New Delhi,11:30
+16032,Shri Mata Vaishno Devi Katra Chennai Andaman Express,Shri Mata Vaishno Devi Katra,22:30
+16032,Shri Mata Vaishno Devi Katra Chennai Andaman Express,Martyr Captain Tushar Mahajan,23:13
+16032,Shri Mata Vaishno Devi Katra Chennai Andaman Express,Jammu Tawi,00:20
+16032,Shri Mata Vaishno Devi Katra Chennai Andaman Express,Pathankot Cantt,02:10
+16032,Shri Mata Vaishno Devi Katra Chennai Andaman Express,Jalandhar Cant.,04:15
+16032,Shri Mata Vaishno Devi Katra Chennai Andaman Express,Ludhiana,05:50
+16032,Shri Mata Vaishno Devi Katra Chennai Andaman Express,Dhuri,07:45
+16032,Shri Mata Vaishno Devi Katra Chennai Andaman Express,Jakhal,09:28
+16032,Shri Mata Vaishno Devi Katra Chennai Andaman Express,Jind,10:45
+16032,Shri Mata Vaishno Devi Katra Chennai Andaman Express,Rohtak,11:31
+16032,Shri Mata Vaishno Devi Katra Chennai Andaman Express,New Delhi,14:00
+16032,Shri Mata Vaishno Devi Katra Chennai Andaman Express,Nizamuddin,14:13
+11450,Shri Mata Vaishno Devi Katra Jabalpur Express,Shri Mata Vaishno Devi Katra,22:30
+11450,Shri Mata Vaishno Devi Katra Jabalpur Express,Martyr Captain Tushar Mahajan,23:13
+11450,Shri Mata Vaishno Devi Katra Jabalpur Express,Jammu Tawi,00:20
+11450,Shri Mata Vaishno Devi Katra Jabalpur Express,Pathankot Cantt,02:10
+11450,Shri Mata Vaishno Devi Katra Jabalpur Express,Jalandhar Cant.,04:15
+11450,Shri Mata Vaishno Devi Katra Jabalpur Express,Ludhiana,05:50
+11450,Shri Mata Vaishno Devi Katra Jabalpur Express,Dhuri,07:45
+11450,Shri Mata Vaishno Devi Katra Jabalpur Express,Jakhal,09:28
+11450,Shri Mata Vaishno Devi Katra Jabalpur Express,Jind,10:45
+11450,Shri Mata Vaishno Devi Katra Jabalpur Express,Rohtak,11:31
+11450,Shri Mata Vaishno Devi Katra Jabalpur Express,New Delhi,14:00
+11450,Shri Mata Vaishno Devi Katra Jabalpur Express,Nizamuddin,14:13
+14324,Rohtak New Delhi Express,Rohtak,14:00
+14324,Rohtak New Delhi Express,New Delhi,15:45
+22402,Martyr Captain Tushar Mahajan Delhi Sarai Rohilla AC Express,Martyr Captain Tushar Mahajan,18:10
+22402,Martyr Captain Tushar Mahajan Delhi Sarai Rohilla AC Express,Jammu Tawi,19:15
+22402,Martyr Captain Tushar Mahajan Delhi Sarai Rohilla AC Express,Pathankot Cantt,20:53
+22402,Martyr Captain Tushar Mahajan Delhi Sarai Rohilla AC Express,Jalandhar Cant.,22:30
+22402,Martyr Captain Tushar Mahajan Delhi Sarai Rohilla AC Express,Ludhiana,23:25
+22402,Martyr Captain Tushar Mahajan Delhi Sarai Rohilla AC Express,Ambala Cantt.,01:10
+22402,Martyr Captain Tushar Mahajan Delhi Sarai Rohilla AC Express,Panipat,02:17
+22402,Martyr Captain Tushar Mahajan Delhi Sarai Rohilla AC Express,Delhi Sarai Rohilla,03:55
+12550,Martyr Captain Tushar Mahajan Durg Express,Martyr Captain Tushar Mahajan,03:15
+12550,Martyr Captain Tushar Mahajan Durg Express,Jammu Tawi,04:35
+12550,Martyr Captain Tushar Mahajan Durg Express,Pathankot Cantt,06:15
+12550,Martyr Captain Tushar Mahajan Durg Express,Jalandhar Cant.,08:10
+12550,Martyr Captain Tushar Mahajan Durg Express,Ludhiana,09:05
+12550,Martyr Captain Tushar Mahajan Durg Express,Ambala Cantt.,11:00
+12550,Martyr Captain Tushar Mahajan Durg Express,Delhi Safdarjung,13:55
+11906,Hoshiar pur Agra Cantt. Express,Hoshiarpur,22:30
+11906,Hoshiar pur Agra Cantt. Express,Jalandhar City,23:45
+11906,Hoshiar pur Agra Cantt. Express,Jalandhar Cant.,23:56
+11906,Hoshiar pur Agra Cantt. Express,Ludhiana,00:55
+11906,Hoshiar pur Agra Cantt. Express,Jind,03:13
+11906,Hoshiar pur Agra Cantt. Express,Ambala Cantt.,04:00
+11906,Hoshiar pur Agra Cantt. Express,Karnal,04:52
+11906,Hoshiar pur Agra Cantt. Express,Panipat,05:28
+11906,Hoshiar pur Agra Cantt. Express,New Delhi,07:20
+14504,hri Mat Vaishno Devi tra Kal Express,Shri Mata Vaishno Devi Katra,18:15
+14504,hri Mat Vaishno Devi tra Kal Express,Martyr Captain Tushar Mahajan,18:43
+14504,hri Mat Vaishno Devi tra Kal Express,Jammu Tawi,19:48
+14504,hri Mat Vaishno Devi tra Kal Express,Pathankot Cantt,21:37
+14504,hri Mat Vaishno Devi tra Kal Express,Jalandhar Cant.,23:30
+14504,hri Mat Vaishno Devi tra Kal Express,Ludhiana,00:40
+14504,hri Mat Vaishno Devi tra Kal Express,Jind,04:40
+14504,hri Mat Vaishno Devi tra Kal Express,Kurukshetra,05:15
+19804,Shri Mata Vaishno Devi Katra Kota Express,Shri Mata Vaishno Devi Katra,22:30
+19804,Shri Mata Vaishno Devi Katra Kota Express,Martyr Captain Tushar Mahajan,23:13
+19804,Shri Mata Vaishno Devi Katra Kota Express,Jammu Tawi,00:20
+19804,Shri Mata Vaishno Devi Katra Kota Express,Pathankot Cantt,02:10
+19804,Shri Mata Vaishno Devi Katra Kota Express,Jalandhar Cant.,04:15
+19804,Shri Mata Vaishno Devi Katra Kota Express,Ludhiana,05:50
+19804,Shri Mata Vaishno Devi Katra Kota Express,Dhuri,07:45
+19804,Shri Mata Vaishno Devi Katra Kota Express,Jakhal,09:28
+19804,Shri Mata Vaishno Devi Katra Kota Express,Jind,10:45
+19804,Shri Mata Vaishno Devi Katra Kota Express,Rohtak,11:31
+19804,Shri Mata Vaishno Devi Katra Kota Express,New Delhi,14:10
+22462,Shri Mata Vaishno Devi Katra New Delhi Shri Shakti Express,Shri Mata Vaishno Devi Katra,23:25
+22462,Shri Mata Vaishno Devi Katra New Delhi Shri Shakti Express,Martyr Captain Tushar Mahajan,23:51
+22462,Shri Mata Vaishno Devi Katra New Delhi Shri Shakti Express,Jammu Tawi,01:00
+22462,Shri Mata Vaishno Devi Katra New Delhi Shri Shakti Express,Pathankot Cantt,02:40
+22462,Shri Mata Vaishno Devi Katra New Delhi Shri Shakti Express,Jalandhar Cant.,04:35
+22462,Shri Mata Vaishno Devi Katra New Delhi Shri Shakti Express,Ludhiana,05:30
+22462,Shri Mata Vaishno Devi Katra New Delhi Shri Shakti Express,Ambala Cantt.,07:15
+22462,Shri Mata Vaishno Devi Katra New Delhi Shri Shakti Express,New Delhi,09:50
+20986,Martyr Captain Tushar Mahajan Kota Express,Martyr Captain Tushar Mahajan,18:45
+20986,Martyr Captain Tushar Mahajan Kota Express,Jammu Tawi,19:48
+20986,Martyr Captain Tushar Mahajan Kota Express,Pathankot Cantt,21:37
+20986,Martyr Captain Tushar Mahajan Kota Express,Jalandhar Cant.,23:30
+20986,Martyr Captain Tushar Mahajan Kota Express,Ludhiana,00:40
+20986,Martyr Captain Tushar Mahajan Kota Express,Dhuri,01:30
+20986,Martyr Captain Tushar Mahajan Kota Express,Jakhal,02:38
+20986,Martyr Captain Tushar Mahajan Kota Express,Rohtak,04:04
+20986,Martyr Captain Tushar Mahajan Kota Express,New Delhi,06:10
+20986,Martyr Captain Tushar Mahajan Kota Express,Nizamuddin,06:23
+22432,Martyr Captain Tushar Mahajan Subedar Ganj SF Express,Martyr Captain Tushar Mahajan,16:05
+22432,Martyr Captain Tushar Mahajan Subedar Ganj SF Express,Jammu Tawi,17:10
+22432,Martyr Captain Tushar Mahajan Subedar Ganj SF Express,Pathankot Cantt,18:40
+22432,Martyr Captain Tushar Mahajan Subedar Ganj SF Express,Jalandhar Cant.,20:30
+22432,Martyr Captain Tushar Mahajan Subedar Ganj SF Express,Ludhiana,21:25
+22432,Martyr Captain Tushar Mahajan Subedar Ganj SF Express,Ambala Cantt.,23:20
+22432,Martyr Captain Tushar Mahajan Subedar Ganj SF Express,Saharanpur,01:30
+22432,Martyr Captain Tushar Mahajan Subedar Ganj SF Express,Muzaffarnagar,02:22
+22432,Martyr Captain Tushar Mahajan Subedar Ganj SF Express,Meerut City,03:30
+12266,Jammu Tawi Delhi Sarai Rohilla Duronto Express,Jammu Tawi,19:15
+12266,Jammu Tawi Delhi Sarai Rohilla Duronto Express,Ludhiana,23:25
+12266,Jammu Tawi Delhi Sarai Rohilla Duronto Express,Delhi Sarai Rohilla,03:55
+22440,Shri Mata Vaishno Devi Katra New Delhi Vande Bharat Express,Shri Mata Vaishno Devi Katra,14:55
+22440,Shri Mata Vaishno Devi Katra New Delhi Vande Bharat Express,Jammu Tawi,16:12
+22440,Shri Mata Vaishno Devi Katra New Delhi Vande Bharat Express,Pathankot Cantt,17:31
+22440,Shri Mata Vaishno Devi Katra New Delhi Vande Bharat Express,Ludhiana,19:34
+22440,Shri Mata Vaishno Devi Katra New Delhi Vande Bharat Express,Ambala Cantt.,20:56
+22440,Shri Mata Vaishno Devi Katra New Delhi Vande Bharat Express,New Delhi,23:00
+14024,Kuruk- shetra Delhi DEMU Express,Jind,08:04
+14024,Kuruk- shetra Delhi DEMU Express,Rohtak,08:57
+14024,Kuruk- shetra Delhi DEMU Express,Kurukshetra,06:00
+14024,Kuruk- shetra Delhi DEMU Express,Delhi,11:00
+26406,SVDK- Amritsar Vande Bharat Express,Shri Mata Vaishno Devi Katra,06:40
+26406,SVDK- Amritsar Vande Bharat Express,Jammu Tawi,08:05
+26406,SVDK- Amritsar Vande Bharat Express,Pathankot Cantt,09:30
+26406,SVDK- Amritsar Vande Bharat Express,Jalandhar City,11:05
+12473, Gandhidham Shri Mata Vaishno Devi Katra Express,Nizamuddin,05:05
+12473, Gandhidham Shri Mata Vaishno Devi Katra Express,New Delhi,05:40
+12473, Gandhidham Shri Mata Vaishno Devi Katra Express,Panipat,07:16
+12473, Gandhidham Shri Mata Vaishno Devi Katra Express,Ambala Cantt.,08:52
+12473, Gandhidham Shri Mata Vaishno Devi Katra Express,Ludhiana,10:25
+12473, Gandhidham Shri Mata Vaishno Devi Katra Express,Jalandhar Cant.,11:16
+12473, Gandhidham Shri Mata Vaishno Devi Katra Express,Pathan Kot Cantt,13:03
+12473, Gandhidham Shri Mata Vaishno Devi Katra Express,Jammu Tawi,14:55
+12473, Gandhidham Shri Mata Vaishno Devi Katra Express,Martyr Captain,16:35
+12475,Hapa Shri Mata Vaishno Devi Katra Express,Nizamuddin,05:05
+12475,Hapa Shri Mata Vaishno Devi Katra Express,New Delhi,05:40
+12475,Hapa Shri Mata Vaishno Devi Katra Express,Panipat,07:16
+12475,Hapa Shri Mata Vaishno Devi Katra Express,Ambala Cantt.,08:52
+12475,Hapa Shri Mata Vaishno Devi Katra Express,Ludhiana,10:25
+12475,Hapa Shri Mata Vaishno Devi Katra Express,Jalandhar Cant.,11:16
+12475,Hapa Shri Mata Vaishno Devi Katra Express,Pathan Kot Cantt,13:03
+12475,Hapa Shri Mata Vaishno Devi Katra Express,Jammu Tawi,14:55
+12475,Hapa Shri Mata Vaishno Devi Katra Express,Martyr Captain,16:35
+12477,Jamnagar Shri Mata Vaishno Devi Katra Express,Nizamuddin,05:05
+12477,Jamnagar Shri Mata Vaishno Devi Katra Express,New Delhi,05:40
+12477,Jamnagar Shri Mata Vaishno Devi Katra Express,Panipat,07:16
+12477,Jamnagar Shri Mata Vaishno Devi Katra Express,Ambala Cantt.,08:52
+12477,Jamnagar Shri Mata Vaishno Devi Katra Express,Ludhiana,10:25
+12477,Jamnagar Shri Mata Vaishno Devi Katra Express,Jalandhar Cant.,11:16
+12477,Jamnagar Shri Mata Vaishno Devi Katra Express,Pathan Kot Cantt,13:03
+12477,Jamnagar Shri Mata Vaishno Devi Katra Express,Jammu Tawi,14:55
+12477,Jamnagar Shri Mata Vaishno Devi Katra Express,Martyr Captain,16:35
+16318,Shri Mata Vaishno Devi Katra Kanniyakumari Express,Shri Mata Vaishno Devi Katra,22:30
+16318,Shri Mata Vaishno Devi Katra Kanniyakumari Express,Martyr Captain Tushar Mahajan,23:13
+16318,Shri Mata Vaishno Devi Katra Kanniyakumari Express,Jammu Tawi,00:20
+16318,Shri Mata Vaishno Devi Katra Kanniyakumari Express,Pathankot Cantt,02:10
+16318,Shri Mata Vaishno Devi Katra Kanniyakumari Express,Jalandhar Cant.,04:15
+16318,Shri Mata Vaishno Devi Katra Kanniyakumari Express,Ludhiana,05:50
+16318,Shri Mata Vaishno Devi Katra Kanniyakumari Express,Dhuri,07:45
+16318,Shri Mata Vaishno Devi Katra Kanniyakumari Express,Jakhal,09:28
+16318,Shri Mata Vaishno Devi Katra Kanniyakumari Express,Jind,10:45
+16318,Shri Mata Vaishno Devi Katra Kanniyakumari Express,Rohtak,11:31
+16318,Shri Mata Vaishno Devi Katra Kanniyakumari Express,New Delhi,14:00
+16318,Shri Mata Vaishno Devi Katra Kanniyakumari Express,Nizamuddin,14:13
+16788,Shri Mata Vaishno Devi Katra Tirunelveli Express,Shri Mata Vaishno Devi Katra,22:30
+16788,Shri Mata Vaishno Devi Katra Tirunelveli Express,Martyr Captain Tushar Mahajan,23:13
+16788,Shri Mata Vaishno Devi Katra Tirunelveli Express,Jammu Tawi,00:20
+16788,Shri Mata Vaishno Devi Katra Tirunelveli Express,Pathankot Cantt,02:10
+16788,Shri Mata Vaishno Devi Katra Tirunelveli Express,Jalandhar Cant.,04:15
+16788,Shri Mata Vaishno Devi Katra Tirunelveli Express,Ludhiana,05:50
+16788,Shri Mata Vaishno Devi Katra Tirunelveli Express,Dhuri,07:45
+16788,Shri Mata Vaishno Devi Katra Tirunelveli Express,Jakhal,09:28
+16788,Shri Mata Vaishno Devi Katra Tirunelveli Express,Jind,10:45
+16788,Shri Mata Vaishno Devi Katra Tirunelveli Express,Rohtak,11:31
+16788,Shri Mata Vaishno Devi Katra Tirunelveli Express,New Delhi,14:00
+16788,Shri Mata Vaishno Devi Katra Tirunelveli Express,Nizamuddin,14:13
+16317,Kanniyakumari Shri Mata Vaishno Devi Katra Express,Nizamuddin,20:21
+16317,Kanniyakumari Shri Mata Vaishno Devi Katra Express,New Delhi,21:10
+16317,Kanniyakumari Shri Mata Vaishno Devi Katra Express,Rohtak,22:33
+16317,Kanniyakumari Shri Mata Vaishno Devi Katra Express,Jind,23:18
+16317,Kanniyakumari Shri Mata Vaishno Devi Katra Express,Jakhal,00:43
+16317,Kanniyakumari Shri Mata Vaishno Devi Katra Express,Dhuri,01:57
+16317,Kanniyakumari Shri Mata Vaishno Devi Katra Express,Ludhiana,03:20
+16317,Kanniyakumari Shri Mata Vaishno Devi Katra Express,Jalandhar Cant.,04:13
+16317,Kanniyakumari Shri Mata Vaishno Devi Katra Express,Pathan Kot Cantt,06:05
+16317,Kanniyakumari Shri Mata Vaishno Devi Katra Express,Jammu Tawi,08:30
+16317,Kanniyakumari Shri Mata Vaishno Devi Katra Express,Martyr Captain,09:45
+16317,Kanniyakumari Shri Mata Vaishno Devi Katra Express,Shri Mata Vaishno a Devi Katra,10:45
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Nizamuddin,20:21
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,New Delhi,21:10
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Rohtak,22:33
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Jind,23:18
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Jakhal,00:43
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Dhuri,01:57
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Ludhiana,03:20
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Jalandhar Cant.,04:13
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Pathan Kot Cantt,06:05
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Jammu Tawi,08:30
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Martyr Captain,09:45
+16787,Tirunelveli Shri Mata Vaishno Devi Katra Express,Shri Mata Vaishno a Devi Katra,10:45
+12472,Shri Mata Vaishno Devi Katra Bandra (T) Express,Shri Mata Vaishno Devi Katra,09:40
+12472,Shri Mata Vaishno Devi Katra Bandra (T) Express,Martyr Captain Tushar Mahajan,10:10
+12472,Shri Mata Vaishno Devi Katra Bandra (T) Express,Jammu Tawi,11:35
+12472,Shri Mata Vaishno Devi Katra Bandra (T) Express,Pathankot Cantt,13:25
+12472,Shri Mata Vaishno Devi Katra Bandra (T) Express,Jalandhar Cant.,15:30
+12472,Shri Mata Vaishno Devi Katra Bandra (T) Express,Ludhiana,16:30
+12472,Shri Mata Vaishno Devi Katra Bandra (T) Express,Ambala Cantt.,18:35
+12472,Shri Mata Vaishno Devi Katra Bandra (T) Express,Panipat,19:42
+12472,Shri Mata Vaishno Devi Katra Bandra (T) Express,New Delhi,21:40
+12474,Shri Mata Vaishno Devi Katra Gandhidham Express,Shri Mata Vaishno Devi Katra,09:40
+12474,Shri Mata Vaishno Devi Katra Gandhidham Express,Martyr Captain Tushar Mahajan,10:10
+12474,Shri Mata Vaishno Devi Katra Gandhidham Express,Jammu Tawi,11:35
+12474,Shri Mata Vaishno Devi Katra Gandhidham Express,Pathankot Cantt,13:25
+12474,Shri Mata Vaishno Devi Katra Gandhidham Express,Jalandhar Cant.,15:30
+12474,Shri Mata Vaishno Devi Katra Gandhidham Express,Ludhiana,16:30
+12474,Shri Mata Vaishno Devi Katra Gandhidham Express,Ambala Cantt.,18:35
+12474,Shri Mata Vaishno Devi Katra Gandhidham Express,Panipat,19:42
+12474,Shri Mata Vaishno Devi Katra Gandhidham Express,New Delhi,21:40
+12476,Shri Mata Vaishno Devi Katra Hapa Express,Shri Mata Vaishno Devi Katra,09:40
+12476,Shri Mata Vaishno Devi Katra Hapa Express,Martyr Captain Tushar Mahajan,10:10
+12476,Shri Mata Vaishno Devi Katra Hapa Express,Jammu Tawi,11:35
+12476,Shri Mata Vaishno Devi Katra Hapa Express,Pathankot Cantt,13:25
+12476,Shri Mata Vaishno Devi Katra Hapa Express,Jalandhar Cant.,15:30
+12476,Shri Mata Vaishno Devi Katra Hapa Express,Ludhiana,16:30
+12476,Shri Mata Vaishno Devi Katra Hapa Express,Ambala Cantt.,18:35
+12476,Shri Mata Vaishno Devi Katra Hapa Express,Panipat,19:42
+12476,Shri Mata Vaishno Devi Katra Hapa Express,New Delhi,21:40
+12478,Shri Mata Vaishno Devi Katra Jamnagar Express,Shri Mata Vaishno Devi Katra,09:40
+12478,Shri Mata Vaishno Devi Katra Jamnagar Express,Martyr Captain Tushar Mahajan,10:10
+12478,Shri Mata Vaishno Devi Katra Jamnagar Express,Jammu Tawi,11:35
+12478,Shri Mata Vaishno Devi Katra Jamnagar Express,Pathankot Cantt,13:25
+12478,Shri Mata Vaishno Devi Katra Jamnagar Express,Jalandhar Cant.,15:30
+12478,Shri Mata Vaishno Devi Katra Jamnagar Express,Ludhiana,16:30
+12478,Shri Mata Vaishno Devi Katra Jamnagar Express,Ambala Cantt.,18:35
+12478,Shri Mata Vaishno Devi Katra Jamnagar Express,Panipat,19:42
+12478,Shri Mata Vaishno Devi Katra Jamnagar Express,New Delhi,21:40

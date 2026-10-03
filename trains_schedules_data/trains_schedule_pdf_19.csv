@@ -1,0 +1,1352 @@
+train_num,train_name,halt_station_name,departure_time
+17318,Dadar- SSS Hubballi Express,Dadar,20:15
+17318,Dadar- SSS Hubballi Express,Lonavla,23:02
+17318,Dadar- SSS Hubballi Express,Pune,00:05
+17318,Dadar- SSS Hubballi Express,Satara,02:35
+17318,Dadar- SSS Hubballi Express,Sangli,04:50
+17318,Dadar- SSS Hubballi Express,Miraj,05:45
+17318,Dadar- SSS Hubballi Express,Miraj,05:45
+17318,Dadar- SSS Hubballi Express,Belagavi,08:15
+17318,Dadar- SSS Hubballi Express,Londa,09:12
+17318,Dadar- SSS Hubballi Express,Dharwad,10:45
+17318,Dadar- SSS Hubballi Express,SSS Hubballi,11:35
+22105,Mumbai CSMT Pune Indrayani Express,Mumbai CSMT,05:40
+22105,Mumbai CSMT Pune Indrayani Express,Dadar,05:51
+22105,Mumbai CSMT Pune Indrayani Express,Kalyan d # Via Panvel,06:35
+22105,Mumbai CSMT Pune Indrayani Express,Lonavla,08:00
+22105,Mumbai CSMT Pune Indrayani Express,Pune,09:05
+12127,Mumbai CSMT Pune Intercity Express,Mumbai CSMT,06:40
+12127,Mumbai CSMT Pune Intercity Express,Dadar,06:48
+12127,Mumbai CSMT Pune Intercity Express,Lonavla,08:50
+12127,Mumbai CSMT Pune Intercity Express,Pune,10:00
+11007,Mumbai CSMT Pune Deccan Express,Mumbai CSMT,07:00
+11007,Mumbai CSMT Pune Deccan Express,Dadar,07:13
+11007,Mumbai CSMT Pune Deccan Express,Kalyan d # Via Panvel,07:55
+11007,Mumbai CSMT Pune Deccan Express,Lonavla,09:40
+11007,Mumbai CSMT Pune Deccan Express,Pune,11:05
+12782,Nizamuddin Mysuru Swarna Jayanti Express,Pune,06:35
+12782,Nizamuddin Mysuru Swarna Jayanti Express,Satara,09:15
+12782,Nizamuddin Mysuru Swarna Jayanti Express,Sangli,11:25
+12782,Nizamuddin Mysuru Swarna Jayanti Express,Miraj,12:20
+12782,Nizamuddin Mysuru Swarna Jayanti Express,Miraj,12:20
+12782,Nizamuddin Mysuru Swarna Jayanti Express,Belagavi,14:30
+12782,Nizamuddin Mysuru Swarna Jayanti Express,Dharwad,16:50
+12782,Nizamuddin Mysuru Swarna Jayanti Express,SSS Hubballi,17:35
+12782,Nizamuddin Mysuru Swarna Jayanti Express,Harihar,19:02
+12782,Nizamuddin Mysuru Swarna Jayanti Express,Davangere,19:20
+12782,Nizamuddin Mysuru Swarna Jayanti Express,Birur,20:42
+12782,Nizamuddin Mysuru Swarna Jayanti Express,Arsikere,21:25
+12782,Nizamuddin Mysuru Swarna Jayanti Express,Hassan,22:12
+12782,Nizamuddin Mysuru Swarna Jayanti Express,Mysuru,02:20
+12148,Nizamuddin Chhatrapati Shahu Maharaj (T) Express,Pune,06:35
+12148,Nizamuddin Chhatrapati Shahu Maharaj (T) Express,Satara,09:15
+12148,Nizamuddin Chhatrapati Shahu Maharaj (T) Express,Sangli,11:25
+12148,Nizamuddin Chhatrapati Shahu Maharaj (T) Express,Miraj,12:05
+12148,Nizamuddin Chhatrapati Shahu Maharaj (T) Express,Chhatrapati Shahu,13:30
+11029,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Koyna Express,Mumbai CSMT,08:40
+11029,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Koyna Express,Dadar,08:52
+11029,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Koyna Express,Kalyan d # Via Panvel,09:35
+11029,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Koyna Express,Lonavla,11:10
+11029,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Koyna Express,Pune,12:40
+11029,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Koyna Express,Satara,16:00
+11029,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Koyna Express,Sangli,18:25
+11029,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Koyna Express,Miraj,18:55
+11029,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Koyna Express,Chhatrapati Shahu,20:25
+12780,Nizamuddin Vascoda Gama Goa Express,Pune,17:00
+12780,Nizamuddin Vascoda Gama Goa Express,Satara,19:50
+12780,Nizamuddin Vascoda Gama Goa Express,Sangli,21:50
+12780,Nizamuddin Vascoda Gama Goa Express,Miraj,22:45
+12780,Nizamuddin Vascoda Gama Goa Express,Miraj,22:45
+12780,Nizamuddin Vascoda Gama Goa Express,Belagavi,01:00
+12780,Nizamuddin Vascoda Gama Goa Express,Londa,02:15
+12780,Nizamuddin Vascoda Gama Goa Express,Madgaon,05:50
+12780,Nizamuddin Vascoda Gama Goa Express,Vasco-de-Gama,07:00
+11009,Mumbai CSMT Pune Sinhagad Express,Mumbai CSMT,17:50
+11009,Mumbai CSMT Pune Sinhagad Express,Dadar,18:04
+11009,Mumbai CSMT Pune Sinhagad Express,Kalyan d # Via Panvel,18:50
+11009,Mumbai CSMT Pune Sinhagad Express,Lonavla,20:20
+11009,Mumbai CSMT Pune Sinhagad Express,Pune,21:50
+12125,Mumbai CSMT Pune Pragati Express,Mumbai CSMT,16:25
+12125,Mumbai CSMT Pune Pragati Express,Dadar,16:35
+12125,Mumbai CSMT Pune Pragati Express,Lonavla,18:48
+12125,Mumbai CSMT Pune Pragati Express,Pune,19:50
+12123,Mumbai CSMT Pune Deccan Queen Express,Mumbai CSMT,17:10
+12123,Mumbai CSMT Pune Deccan Queen Express,Lonavla,19:20
+12123,Mumbai CSMT Pune Deccan Queen Express,Pune,20:25
+11097,Pune Ernakulam Poorna Express,Pune,22:50
+11097,Pune Ernakulam Poorna Express,Satara,01:25
+11097,Pune Ernakulam Poorna Express,Sangli,03:25
+11097,Pune Ernakulam Poorna Express,Miraj,04:10
+11097,Pune Ernakulam Poorna Express,Miraj,04:10
+11097,Pune Ernakulam Poorna Express,Belagavi,06:20
+11097,Pune Ernakulam Poorna Express,Londa,08:00
+11097,Pune Ernakulam Poorna Express,Madgaon,13:10
+11097,Pune Ernakulam Poorna Express,Mangaluru Jn.,19:25
+16548,ijayapura esvantpu Express,Vasco-de-Gama,13:50
+16548,ijayapura esvantpu Express,Chikjajur,23:50
+16548,ijayapura esvantpu Express,Arsikere,02:10
+16548,ijayapura esvantpu Express,Tumakuru,03:24
+16548,ijayapura esvantpu Express,Yesvantpur,05:00
+17411,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Mahalaxmi Express,Km.Mumbai CSMT,20:15
+17411,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Mahalaxmi Express,Dadar,20:35
+17411,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Mahalaxmi Express,Kalyan,21:20
+17411,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Mahalaxmi Express,Pune,00:15
+17411,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Mahalaxmi Express,Satara,03:05
+17411,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Mahalaxmi Express,Sangli,05:15
+17411,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Mahalaxmi Express,Miraj,05:40
+17411,Mumbai CSMT Chhatrapati Shahu Maharaj (T) Mahalaxmi Express,C M h a h h a a t r r a a j p ( a T t ) i Shahu,07:20
+17302,Belagavi Mysuru Express,Belagavi,19:40
+17302,Belagavi Mysuru Express,Londa,20:30
+17302,Belagavi Mysuru Express,Dharwad,21:50
+17302,Belagavi Mysuru Express,SSS Hubballi,22:50
+17302,Belagavi Mysuru Express,Harihar,00:36
+17302,Belagavi Mysuru Express,Davangere,00:53
+17302,Belagavi Mysuru Express,Chikjajur,01:28
+17302,Belagavi Mysuru Express,Birur,02:15
+17302,Belagavi Mysuru Express,Arsikere,02:57
+17302,Belagavi Mysuru Express,Hassan,03:44
+17302,Belagavi Mysuru Express,Mysuru,07:10
+22680,Hassan Yesvantpur Super Fast Inter City Express,Hassan,07:00
+22680,Hassan Yesvantpur Super Fast Inter City Express,Shravanabelagola,07:37
+22680,Hassan Yesvantpur Super Fast Inter City Express,Nelamangala,09:07
+22680,Hassan Yesvantpur Super Fast Inter City Express,Yesvantpur,10:05
+16516,Karwar Yesvant- pur Express,Karwar,05:30
+16516,Karwar Yesvant- pur Express,Mangaluru Jn.,11:30
+16516,Karwar Yesvant- pur Express,Hassan,17:05
+16516,Karwar Yesvant- pur Express,Shravanabelagola,17:45
+16516,Karwar Yesvant- pur Express,Nelamangala,19:27
+16516,Karwar Yesvant- pur Express,Yesvantpur,20:50
+16576,Mangalu- ru Jn Yesvantpur Express,Mangaluru Jn.,07:00
+16576,Mangalu- ru Jn Yesvantpur Express,Hassan,12:55
+16576,Mangalu- ru Jn Yesvantpur Express,Shravanabelagola,13:35
+16576,Mangalu- ru Jn Yesvantpur Express,Nelamangala,15:15
+16576,Mangalu- ru Jn Yesvantpur Express,Yesvantpur,16:30
+16540,Mangalu- ru Jn Yesvantpur Express,Mangaluru Jn.,07:00
+16540,Mangalu- ru Jn Yesvantpur Express,Hassan,12:55
+16540,Mangalu- ru Jn Yesvantpur Express,Shravanabelagola,13:35
+16540,Mangalu- ru Jn Yesvantpur Express,Nelamangala,15:15
+16540,Mangalu- ru Jn Yesvantpur Express,Yesvantpur,16:30
+16586,Murdeshwar SMVT Bengaluru Express Via MYS,Chikjajur,14:10
+16586,Murdeshwar SMVT Bengaluru Express Via MYS,Mangaluru Central,18:35
+16586,Murdeshwar SMVT Bengaluru Express Via MYS,Mangaluru Jn.,18:50
+16586,Murdeshwar SMVT Bengaluru Express Via MYS,Hassan,00:40
+16586,Murdeshwar SMVT Bengaluru Express Via MYS,Mysuru,03:45
+16586,Murdeshwar SMVT Bengaluru Express Via MYS,KSR Bengaluru,06:30
+16586,Murdeshwar SMVT Bengaluru Express Via MYS,Sir M Vishvesvaraya Terminal,07:15
+16512,Kozhikode KSR Bengaluru Express,Mangaluru Central,20:10
+16512,Kozhikode KSR Bengaluru Express,Mangaluru Jn.,20:27
+16512,Kozhikode KSR Bengaluru Express,Hassan,02:55
+16512,Kozhikode KSR Bengaluru Express,Shravanabelagola,03:35
+16512,Kozhikode KSR Bengaluru Express,Yesvantpur,05:55
+16512,Kozhikode KSR Bengaluru Express,KSR Bengaluru,06:35
+11312,Hassan Solapur Express,Hassan,16:45
+11312,Hassan Solapur Express,Shravanabelagola,17:23
+11312,Hassan Solapur Express,Yesvantpur,20:50
+16214,SSS Hubballi Arsikere Express,SSS Hubballi,15:00
+16214,SSS Hubballi Arsikere Express,Harihar,17:48
+16214,SSS Hubballi Arsikere Express,Davangere,18:05
+16214,SSS Hubballi Arsikere Express,Chikjajur,19:05
+16214,SSS Hubballi Arsikere Express,Birur,20:28
+16214,SSS Hubballi Arsikere Express,Arsikere,22:10
+11425,Pune Chha- trapati Shahu Maharaj (T) Express,Pune,10:50
+11425,Pune Chha- trapati Shahu Maharaj (T) Express,Satara,14:40
+11425,Pune Chha- trapati Shahu Maharaj (T) Express,Sangli,17:35
+11425,Pune Chha- trapati Shahu Maharaj (T) Express,Miraj,18:05
+11425,Pune Chha- trapati Shahu Maharaj (T) Express,C M h a h h a a t r r a a j p ( a T t ) i Shahu,19:25
+20668,Jaipur Yesvant- pur Superfast Express,Chitradurga,10:50
+20668,Jaipur Yesvant- pur Superfast Express,Chikjajur,11:30
+20668,Jaipur Yesvant- pur Superfast Express,Birur,12:15
+20668,Jaipur Yesvant- pur Superfast Express,Arsikere,13:00
+20668,Jaipur Yesvant- pur Superfast Express,Tumakuru,14:17
+20668,Jaipur Yesvant- pur Superfast Express,Yesvantpur,16:50
+20674,Pune Chha- trapati Shahu Maharaj (T) Vande Bharat Express,Pune,14:15
+20674,Pune Chha- trapati Shahu Maharaj (T) Vande Bharat Express,Satara,16:35
+20674,Pune Chha- trapati Shahu Maharaj (T) Vande Bharat Express,Sangli,18:15
+20674,Pune Chha- trapati Shahu Maharaj (T) Vande Bharat Express,Miraj,18:45
+20674,Pune Chha- trapati Shahu Maharaj (T) Vande Bharat Express,C M h a h h a a t r r a a j p ( a T t ) i Shahu,19:40
+17377,Vijayapura Mangaluru Central Express,Vijayapura,15:15
+17377,Vijayapura Mangaluru Central Express,Bagalkot,17:00
+17377,Vijayapura Mangaluru Central Express,Gadag,19:30
+17377,Vijayapura Mangaluru Central Express,SSS Hubballi,21:20
+17377,Vijayapura Mangaluru Central Express,Harihar,23:15
+17377,Vijayapura Mangaluru Central Express,Davangere,23:32
+17377,Vijayapura Mangaluru Central Express,Chikjajur,00:07
+17377,Vijayapura Mangaluru Central Express,Birur,00:54
+17377,Vijayapura Mangaluru Central Express,Arsikere,01:50
+17377,Vijayapura Mangaluru Central Express,Hassan,02:45
+17377,Vijayapura Mangaluru Central Express,Mangaluru Jn.,09:55
+11049,Rajkot Chhatrapati Shahu Maharaj (T) Express,Kalyan,04:25
+11049,Rajkot Chhatrapati Shahu Maharaj (T) Express,Lonavla,06:20
+11049,Rajkot Chhatrapati Shahu Maharaj (T) Express,Pune,07:35
+11049,Rajkot Chhatrapati Shahu Maharaj (T) Express,Satara,10:20
+11049,Rajkot Chhatrapati Shahu Maharaj (T) Express,Sangli,12:25
+11049,Rajkot Chhatrapati Shahu Maharaj (T) Express,Miraj,13:10
+11049,Rajkot Chhatrapati Shahu Maharaj (T) Express,Chhatrapati Shahu Maharaj (T),14:40
+12090,Shivamogga Town KSR Bangaluru Jan Satabdi Express,Shivamogga Town,05:15
+12090,Shivamogga Town KSR Bangaluru Jan Satabdi Express,Birur,06:18
+12090,Shivamogga Town KSR Bangaluru Jan Satabdi Express,Arsikere,07:00
+12090,Shivamogga Town KSR Bangaluru Jan Satabdi Express,Tumakuru,08:10
+12090,Shivamogga Town KSR Bangaluru Jan Satabdi Express,Yesvantpur,09:20
+12090,Shivamogga Town KSR Bangaluru Jan Satabdi Express,KSR Bengaluru,09:50
+20652,Talaguppa KSR Bengaluru City Intercity Express,Harihar,05:20
+20652,Talaguppa KSR Bengaluru City Intercity Express,Shivamogga Town,07:10
+20652,Talaguppa KSR Bengaluru City Intercity Express,Birur,08:12
+20652,Talaguppa KSR Bengaluru City Intercity Express,Arsikere,08:55
+20652,Talaguppa KSR Bengaluru City Intercity Express,Tumakuru,10:10
+20652,Talaguppa KSR Bengaluru City Intercity Express,Yesvantpur,11:12
+20652,Talaguppa KSR Bengaluru City Intercity Express,KSR Bengaluru,12:00
+12777,Hubblli Kochuveli Super Fast Weekly Express,SSS Hubballi,07:05
+12777,Hubblli Kochuveli Super Fast Weekly Express,Harihar,08:55
+12777,Hubblli Kochuveli Super Fast Weekly Express,Davangere,09:10
+12777,Hubblli Kochuveli Super Fast Weekly Express,Birur,09:35
+12777,Hubblli Kochuveli Super Fast Weekly Express,Arsikere,11:20
+12777,Hubblli Kochuveli Super Fast Weekly Express,Tumakuru,12:32
+17347,Hubbll itradur xpres,SSS Hubballi,07:20
+17347,Hubbll itradur xpres,Harihar,10:04
+17347,Hubbll itradur xpres,Davangere,10:25
+17347,Hubbll itradur xpres,Shivamogga Town,13:25
+22155,Kalaburagi Chhatrapati Shahu Maharaj (T) Express,Miraj,12:55
+22155,Kalaburagi Chhatrapati Shahu Maharaj (T) Express,Chhatrapati Shahu Maharaj (T),14:15
+22155,Kalaburagi Chhatrapati Shahu Maharaj (T) Express,Solapur,08:25
+14806,Barmer Yesvantpur AC Express,Kalyan,15:20
+14806,Barmer Yesvantpur AC Express,Pune,19:00
+14806,Barmer Yesvantpur AC Express,Solapur,23:10
+14806,Barmer Yesvantpur AC Express,Vijayapura,00:50
+14806,Barmer Yesvantpur AC Express,Bagalkot,02:40
+14806,Barmer Yesvantpur AC Express,Gadag,05:30
+14806,Barmer Yesvantpur AC Express,SSS Hubballi,08:00
+14806,Barmer Yesvantpur AC Express,Davangere,09:55
+14806,Barmer Yesvantpur AC Express,Birur,11:20
+14806,Barmer Yesvantpur AC Express,Arsikere,12:00
+14806,Barmer Yesvantpur AC Express,Tumakuru,13:15
+14806,Barmer Yesvantpur AC Express,Yesvantpur,16:00
+16218,Sai Nagar Shirdi Mysuru Express,Lokmanya Tilak (T),00:25
+16218,Sai Nagar Shirdi Mysuru Express,Solapur,07:10
+16218,Sai Nagar Shirdi Mysuru Express,Vijayapura,09:10
+16218,Sai Nagar Shirdi Mysuru Express,Bagalkot,11:12
+16218,Sai Nagar Shirdi Mysuru Express,Gadag,13:00
+16218,Sai Nagar Shirdi Mysuru Express,Birur,20:38
+16218,Sai Nagar Shirdi Mysuru Express,Arsikere,21:25
+16218,Sai Nagar Shirdi Mysuru Express,Tumakuru,21:47
+16218,Sai Nagar Shirdi Mysuru Express,Yesvantpur,23:30
+16218,Sai Nagar Shirdi Mysuru Express,KSR Bengaluru,00:45
+16218,Sai Nagar Shirdi Mysuru Express,Mysuru,03:35
+11035,Dadar Mysuru Sharavathi Express,Dadar,21:30
+11035,Dadar Mysuru Sharavathi Express,Kalyan,22:10
+11035,Dadar Mysuru Sharavathi Express,Pune,01:00
+11035,Dadar Mysuru Sharavathi Express,Satara,03:50
+11035,Dadar Mysuru Sharavathi Express,Sangli,06:00
+11035,Dadar Mysuru Sharavathi Express,Miraj,06:30
+11035,Dadar Mysuru Sharavathi Express,Miraj,06:30
+11035,Dadar Mysuru Sharavathi Express,Belagavi,09:00
+11035,Dadar Mysuru Sharavathi Express,Londa,10:00
+11035,Dadar Mysuru Sharavathi Express,Alnawar,10:40
+11035,Dadar Mysuru Sharavathi Express,Dharwad,11:30
+11035,Dadar Mysuru Sharavathi Express,SSS Hubballi,12:10
+11035,Dadar Mysuru Sharavathi Express,Harihar,14:00
+11035,Dadar Mysuru Sharavathi Express,Davangere,14:15
+11035,Dadar Mysuru Sharavathi Express,Birur,15:37
+11035,Dadar Mysuru Sharavathi Express,Arsikere,16:35
+11035,Dadar Mysuru Sharavathi Express,Hassan,17:32
+11035,Dadar Mysuru Sharavathi Express,Mysuru,21:00
+16209,Ajmer Mysuru Express,Kalyan,22:45
+16209,Ajmer Mysuru Express,Pune,01:50
+16209,Ajmer Mysuru Express,Satara,04:35
+16209,Ajmer Mysuru Express,Sangli,06:50
+16209,Ajmer Mysuru Express,Miraj,07:25
+16209,Ajmer Mysuru Express,Miraj,07:25
+16209,Ajmer Mysuru Express,Belagavi,09:50
+16209,Ajmer Mysuru Express,Londa,10:40
+16209,Ajmer Mysuru Express,Dharwad,12:00
+16209,Ajmer Mysuru Express,SSS Hubballi,12:50
+16209,Ajmer Mysuru Express,Harihar,14:36
+16209,Ajmer Mysuru Express,Davangere,14:50
+16209,Ajmer Mysuru Express,Birur,16:15
+16209,Ajmer Mysuru Express,Arsikere,17:15
+16209,Ajmer Mysuru Express,Tumakuru,18:25
+16209,Ajmer Mysuru Express,Yesvantpur,19:17
+16209,Ajmer Mysuru Express,KSR Bengaluru,20:45
+16209,Ajmer Mysuru Express,Mysuru,00:05
+16531,Ajmer KSR Bengaluru Garib Nawaz Express,Kalyan,22:45
+16531,Ajmer KSR Bengaluru Garib Nawaz Express,Pune,01:50
+16531,Ajmer KSR Bengaluru Garib Nawaz Express,Satara,04:35
+16531,Ajmer KSR Bengaluru Garib Nawaz Express,Sangli,06:50
+16531,Ajmer KSR Bengaluru Garib Nawaz Express,Miraj,07:25
+16531,Ajmer KSR Bengaluru Garib Nawaz Express,Miraj,07:25
+16531,Ajmer KSR Bengaluru Garib Nawaz Express,Belagavi,09:50
+16531,Ajmer KSR Bengaluru Garib Nawaz Express,Londa,10:40
+16531,Ajmer KSR Bengaluru Garib Nawaz Express,Dharwad,12:00
+16531,Ajmer KSR Bengaluru Garib Nawaz Express,Gadag,14:50
+16531,Ajmer KSR Bengaluru Garib Nawaz Express,SSS Hubballi,13:45
+16531,Ajmer KSR Bengaluru Garib Nawaz Express,Yesvantpur,01:55
+16531,Ajmer KSR Bengaluru Garib Nawaz Express,KSR Bengaluru,02:30
+17424,Chikk- magaluru Tirupati Express,Birur,19:05
+17424,Chikk- magaluru Tirupati Express,Chikmagalur,17:30
+17424,Chikk- magaluru Tirupati Express,Arsikere,20:00
+17424,Chikk- magaluru Tirupati Express,Tumakuru,21:10
+12692,Shivamogga Town-MGR Chennai Central,Shivamogga Town,17:15
+12692,Shivamogga Town-MGR Chennai Central,Birur,18:20
+12692,Shivamogga Town-MGR Chennai Central,Arsikere,19:05
+12692,Shivamogga Town-MGR Chennai Central,Tumakuru,20:12
+16533,Jodhpur KSR Bengaluru Express,Kalyan,22:45
+16533,Jodhpur KSR Bengaluru Express,Pune,01:50
+16533,Jodhpur KSR Bengaluru Express,Satara,04:35
+16533,Jodhpur KSR Bengaluru Express,Sangli,06:50
+16533,Jodhpur KSR Bengaluru Express,Miraj,07:25
+16533,Jodhpur KSR Bengaluru Express,Miraj,07:25
+16533,Jodhpur KSR Bengaluru Express,Belagavi,09:50
+16533,Jodhpur KSR Bengaluru Express,Londa,10:40
+16533,Jodhpur KSR Bengaluru Express,Dharwad,12:00
+16533,Jodhpur KSR Bengaluru Express,Gadag,14:50
+16533,Jodhpur KSR Bengaluru Express,SSS Hubballi,13:45
+16533,Jodhpur KSR Bengaluru Express,Yesvantpur,01:55
+16533,Jodhpur KSR Bengaluru Express,KSR Bengaluru,02:30
+16588,Bikaner Yesvantpur Express,Kalyan,15:20
+16588,Bikaner Yesvantpur Express,Pune,19:00
+16588,Bikaner Yesvantpur Express,Solapur,23:10
+16588,Bikaner Yesvantpur Express,Vijayapura,00:50
+16588,Bikaner Yesvantpur Express,Bagalkot,02:40
+16588,Bikaner Yesvantpur Express,Gadag,05:30
+16588,Bikaner Yesvantpur Express,SSS Hubballi,08:00
+16588,Bikaner Yesvantpur Express,Davangere,09:55
+16588,Bikaner Yesvantpur Express,Birur,11:20
+16588,Bikaner Yesvantpur Express,Arsikere,12:00
+16588,Bikaner Yesvantpur Express,Tumakuru,13:15
+16588,Bikaner Yesvantpur Express,Yesvantpur,16:00
+17392,Sindhanur KSR Bengaluru Express,Gadag,16:35
+17392,Sindhanur KSR Bengaluru Express,SSS Hubballi,18:45
+17392,Sindhanur KSR Bengaluru Express,Harihar,21:15
+17392,Sindhanur KSR Bengaluru Express,Davangere,21:32
+17392,Sindhanur KSR Bengaluru Express,Birur,23:32
+17392,Sindhanur KSR Bengaluru Express,Arsikere,00:20
+17392,Sindhanur KSR Bengaluru Express,Tumakuru,01:40
+17392,Sindhanur KSR Bengaluru Express,Yesvantpur,02:42
+17392,Sindhanur KSR Bengaluru Express,KSR Bengaluru,03:50
+20690,Shivamogga Town Yesvantpur SF Express,Shivamogga Town,15:50
+20690,Shivamogga Town Yesvantpur SF Express,Birur,16:54
+20690,Shivamogga Town Yesvantpur SF Express,Arsikere,17:40
+20690,Shivamogga Town Yesvantpur SF Express,Tumakuru,18:52
+20690,Shivamogga Town Yesvantpur SF Express,Yesvantpur,20:35
+11139,Mumbai CSMT Hospet Express,Mumbai CSMT,21:20
+11139,Mumbai CSMT Hospet Express,Dadar,21:33
+11139,Mumbai CSMT Hospet Express,Kalyan,22:15
+11139,Mumbai CSMT Hospet Express,Lonavla d … …,23:53
+11139,Mumbai CSMT Hospet Express,Pune,01:10
+11139,Mumbai CSMT Hospet Express,Solapur,05:10
+11139,Mumbai CSMT Hospet Express,Vijayapura,06:55
+11139,Mumbai CSMT Hospet Express,Bagalkot,08:55
+11139,Mumbai CSMT Hospet Express,Gadag,10:55
+11139,Mumbai CSMT Hospet Express,Harihar,12:50
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,Kalyan,15:20
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,Lonavla d … …,17:00
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,Pune,18:40
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,Satara,21:45
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,Sangli,23:55
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,Miraj,00:30
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,Miraj,00:30
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,Belagavi,02:50
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,Dharwad,05:45
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,SSS Hubballi,06:20
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,Harihar,08:10
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,Davangere,08:32
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,Birur,10:12
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,Arsikere,11:05
+22497,Sri Ganganagar Tiruchirapalli Hamsafar Express,Tumakuru,12:15
+17324,Banaras SSS Hubballi Express,Solapur,00:50
+17324,Banaras SSS Hubballi Express,Vijayapura,03:10
+17324,Banaras SSS Hubballi Express,Bagalkot,05:20
+17324,Banaras SSS Hubballi Express,Gadag,08:00
+17324,Banaras SSS Hubballi Express,SSS Hubballi,09:20
+16239,Chikmagalur Yesvantpur Express,Chikmagalur,08:15
+16239,Chikmagalur Yesvantpur Express,Arsikere,10:28
+16239,Chikmagalur Yesvantpur Express,Tumakuru,12:07
+16239,Chikmagalur Yesvantpur Express,Yesvantpur,14:30
+16207,Yesvantpur Mysuru Express,Hassan,16:55
+16207,Yesvantpur Mysuru Express,Yesvantpur,12:15
+16207,Yesvantpur Mysuru Express,Mysuru,20:10
+16221,Talaguppa Mysuru Kuvempu Express,Harihar,05:50
+16221,Talaguppa Mysuru Kuvempu Express,Shivamogga Town,07:55
+16221,Talaguppa Mysuru Kuvempu Express,Birur,09:35
+16221,Talaguppa Mysuru Kuvempu Express,Arsikere,10:50
+16221,Talaguppa Mysuru Kuvempu Express,Hassan,11:47
+16221,Talaguppa Mysuru Kuvempu Express,Mysuru,15:30
+16568,Shivamoga Town Tumakuru Express,Shivamogga Town,04:00
+16568,Shivamoga Town Tumakuru Express,Birur,05:20
+16568,Shivamoga Town Tumakuru Express,Arsikere,06:30
+16568,Shivamoga Town Tumakuru Express,Tumakuru,09:10
+11415,Solapur Hospet Express,Solapur,11:20
+11415,Solapur Hospet Express,Vijayapura,14:05
+11415,Solapur Hospet Express,Bagalkot,16:25
+11415,Solapur Hospet Express,Gadag,18:20
+11415,Solapur Hospet Express,Harihar,21:00
+20658,Hazrat Nizamuddin SSS Hubballi Express,Solapur,18:50
+20658,Hazrat Nizamuddin SSS Hubballi Express,Vijayapura,21:20
+20658,Hazrat Nizamuddin SSS Hubballi Express,Bagalkot,23:15
+20658,Hazrat Nizamuddin SSS Hubballi Express,Gadag,01:50
+20658,Hazrat Nizamuddin SSS Hubballi Express,SSS Hubballi,03:30
+20670,Pune - SSS Hubballi Vande Bharat,Pune,14:15
+20670,Pune - SSS Hubballi Vande Bharat,Satara,16:35
+20670,Pune - SSS Hubballi Vande Bharat,Sangli,18:15
+20670,Pune - SSS Hubballi Vande Bharat,Miraj,18:45
+20670,Pune - SSS Hubballi Vande Bharat,Belagavi,20:20
+20670,Pune - SSS Hubballi Vande Bharat,Dharwad,22:15
+20670,Pune - SSS Hubballi Vande Bharat,SSS Hubballi,22:45
+20687,SSS Hubballi- KSR Bengaluru SF Express,SSS Hubballi,00:15
+20687,SSS Hubballi- KSR Bengaluru SF Express,Davangere,02:10
+20687,SSS Hubballi- KSR Bengaluru SF Express,Birur,03:25
+20687,SSS Hubballi- KSR Bengaluru SF Express,Arsikere,04:03
+20687,SSS Hubballi- KSR Bengaluru SF Express,Tumakuru,05:15
+20687,SSS Hubballi- KSR Bengaluru SF Express,Yesvantpur,06:30
+20687,SSS Hubballi- KSR Bengaluru SF Express,KSR Bengaluru,07:30
+16582,Shivmogga Town Yesvantpur Express,Shivamogga Town,23:55
+16582,Shivmogga Town Yesvantpur Express,Birur,01:03
+16582,Shivmogga Town Yesvantpur Express,Arsikere,01:50
+16582,Shivmogga Town Yesvantpur Express,Tumakuru,03:09
+16582,Shivmogga Town Yesvantpur Express,Yesvantpur,04:45
+17416,Chhatrapati Shahu Maharaj (T) Tirupati Haripriya Express,Chhatrapati Shahu,11:50
+17416,Chhatrapati Shahu Maharaj (T) Tirupati Haripriya Express,Miraj,13:20
+17416,Chhatrapati Shahu Maharaj (T) Tirupati Haripriya Express,Belagavi,15:45
+17416,Chhatrapati Shahu Maharaj (T) Tirupati Haripriya Express,Londa,17:00
+17416,Chhatrapati Shahu Maharaj (T) Tirupati Haripriya Express,Alnawar,17:40
+17416,Chhatrapati Shahu Maharaj (T) Tirupati Haripriya Express,Dharwad,18:34
+17416,Chhatrapati Shahu Maharaj (T) Tirupati Haripriya Express,SSS Hubballi,19:40
+12650,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,Gadag,19:02
+12650,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,SSS Hubballi,20:45
+12650,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,Davangere,22:40
+12650,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,Arsikere,00:32
+12650,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,Tumakuru,01:44
+12650,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,Yesvantpur,04:15
+22686,Chandigarh Yesvantpur Karnataka Sampark Kranti Express,Pune,11:20
+22686,Chandigarh Yesvantpur Karnataka Sampark Kranti Express,Sangli,15:55
+22686,Chandigarh Yesvantpur Karnataka Sampark Kranti Express,Miraj,16:35
+22686,Chandigarh Yesvantpur Karnataka Sampark Kranti Express,Belagavi,18:35
+22686,Chandigarh Yesvantpur Karnataka Sampark Kranti Express,Dharwad,21:00
+22686,Chandigarh Yesvantpur Karnataka Sampark Kranti Express,SSS Hubballi,21:50
+22686,Chandigarh Yesvantpur Karnataka Sampark Kranti Express,Davangere,23:42
+22686,Chandigarh Yesvantpur Karnataka Sampark Kranti Express,Arsikere,01:45
+22686,Chandigarh Yesvantpur Karnataka Sampark Kranti Express,Tumakuru,02:57
+22686,Chandigarh Yesvantpur Karnataka Sampark Kranti Express,Yesvantpur,05:25
+16228,Talguppa Mysore Express,Talguppa,20:55
+16228,Talguppa Mysore Express,Shivamogga Town,23:00
+16228,Talguppa Mysore Express,Birur,00:20
+16228,Talguppa Mysore Express,Arsikere,01:00
+16228,Talguppa Mysore Express,Tumakuru,02:12
+16228,Talguppa Mysore Express,Yesvantpur,04:30
+16228,Talguppa Mysore Express,KSR Bengaluru,05:05
+16228,Talguppa Mysore Express,Mysuru,08:20
+20680,SSS Hubballi MGR Chennai Central Express,SSS Hubballi,20:30
+20680,SSS Hubballi MGR Chennai Central Express,Harihar,22:20
+20680,SSS Hubballi MGR Chennai Central Express,Davangere,22:35
+20680,SSS Hubballi MGR Chennai Central Express,Birur,23:59
+20680,SSS Hubballi MGR Chennai Central Express,Arsikere,00:40
+20680,SSS Hubballi MGR Chennai Central Express,Tumakuru,01:52
+22697,SSS Hubballi MGR Chennai Central Super Fast Express,SSS Hubballi,20:30
+22697,SSS Hubballi MGR Chennai Central Super Fast Express,Harihar,22:20
+22697,SSS Hubballi MGR Chennai Central Super Fast Express,Davangere,22:35
+22697,SSS Hubballi MGR Chennai Central Super Fast Express,Birur,23:59
+22697,SSS Hubballi MGR Chennai Central Super Fast Express,Arsikere,00:40
+22697,SSS Hubballi MGR Chennai Central Super Fast Express,Tumakuru,01:52
+16590,Sangli-KSR Bengauru Rani Channamma Express,Sangli,15:05
+16590,Sangli-KSR Bengauru Rani Channamma Express,Miraj,15:30
+16590,Sangli-KSR Bengauru Rani Channamma Express,Belagavi,18:20
+16590,Sangli-KSR Bengauru Rani Channamma Express,Londa,19:20
+16590,Sangli-KSR Bengauru Rani Channamma Express,Alnawar,20:05
+16590,Sangli-KSR Bengauru Rani Channamma Express,Dharwad,21:10
+16590,Sangli-KSR Bengauru Rani Channamma Express,SSS Hubballi,22:30
+16590,Sangli-KSR Bengauru Rani Channamma Express,Harihar,00:10
+16590,Sangli-KSR Bengauru Rani Channamma Express,Davangere,00:27
+16590,Sangli-KSR Bengauru Rani Channamma Express,Birur,01:44
+16590,Sangli-KSR Bengauru Rani Channamma Express,Arsikere,02:27
+16590,Sangli-KSR Bengauru Rani Channamma Express,Tumakuru,04:09
+16590,Sangli-KSR Bengauru Rani Channamma Express,Yesvantpur,05:20
+16590,Sangli-KSR Bengauru Rani Channamma Express,KSR Bengaluru,06:20
+12630,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,Pune,11:20
+12630,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,Miraj,16:35
+12630,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,Belagavi,18:35
+12630,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,Dharwad,21:00
+12630,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,SSS Hubballi,21:50
+12630,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,Davangere,23:42
+12630,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,Arsikere,01:45
+12630,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,Tumakuru,02:57
+12630,Nizamuddin Yesvantpur Karnataka Sampark Kranti Express,Yesvantpur,05:25
+20654,Belagavi KSR Bengaluru SF Express,Belagavi,21:15
+20654,Belagavi KSR Bengaluru SF Express,Dharwad,23:05
+20654,Belagavi KSR Bengaluru SF Express,SSS Hubballi,23:40
+20654,Belagavi KSR Bengaluru SF Express,Davangere,01:27
+20654,Belagavi KSR Bengaluru SF Express,Arsikere,03:30
+20654,Belagavi KSR Bengaluru SF Express,Tumakuru,04:37
+20654,Belagavi KSR Bengaluru SF Express,Yesvantpur,06:10
+20654,Belagavi KSR Bengaluru SF Express,KSR Bengaluru,06:50
+17310,Vasco-da- Gama Yesvantpur Express,Vasco-de-Gama,22:55
+17310,Vasco-da- Gama Yesvantpur Express,Madgaon,23:35
+17310,Vasco-da- Gama Yesvantpur Express,Londa,02:26
+17310,Vasco-da- Gama Yesvantpur Express,Alnawar,03:11
+17310,Vasco-da- Gama Yesvantpur Express,Dharwad,03:55
+17310,Vasco-da- Gama Yesvantpur Express,SSS Hubballi,04:45
+17310,Vasco-da- Gama Yesvantpur Express,Harihar,06:25
+17310,Vasco-da- Gama Yesvantpur Express,Davangere,06:42
+17310,Vasco-da- Gama Yesvantpur Express,Birur,08:22
+17310,Vasco-da- Gama Yesvantpur Express,Arsikere,09:05
+17310,Vasco-da- Gama Yesvantpur Express,Tumakuru,10:37
+17310,Vasco-da- Gama Yesvantpur Express,Yesvantpur,12:35
+12726,Dharwad KSR Bengaluru Siddha Ganga Intercity Express,Dharwad,05:35
+12726,Dharwad KSR Bengaluru Siddha Ganga Intercity Express,SSS Hubballi,06:05
+12726,Dharwad KSR Bengaluru Siddha Ganga Intercity Express,Harihar,08:00
+12726,Dharwad KSR Bengaluru Siddha Ganga Intercity Express,Davangere,08:20
+12726,Dharwad KSR Bengaluru Siddha Ganga Intercity Express,Chikjajur,09:00
+12726,Dharwad KSR Bengaluru Siddha Ganga Intercity Express,Birur,10:00
+12726,Dharwad KSR Bengaluru Siddha Ganga Intercity Express,Arsikere,10:50
+12726,Dharwad KSR Bengaluru Siddha Ganga Intercity Express,Tumakuru,11:55
+12726,Dharwad KSR Bengaluru Siddha Ganga Intercity Express,Yesvantpur,13:10
+12726,Dharwad KSR Bengaluru Siddha Ganga Intercity Express,KSR Bengaluru,14:15
+26751,Belgavi-KSR Bengaluru Vande Bharat,Belagavi,05:35
+26751,Belgavi-KSR Bengaluru Vande Bharat,Dharwad,07:20
+26751,Belgavi-KSR Bengaluru Vande Bharat,SSS Hubballi,07:45
+26751,Belgavi-KSR Bengaluru Vande Bharat,Davangere,09:12
+26751,Belgavi-KSR Bengaluru Vande Bharat,Tumakuru,12:10
+26751,Belgavi-KSR Bengaluru Vande Bharat,Yesvantpur,13:00
+26751,Belgavi-KSR Bengaluru Vande Bharat,KSR Bengaluru,13:50
+12080,SSS Hubballi KSR Bengaluru Jan Shatabdi Express,SSS Hubballi,14:10
+12080,SSS Hubballi KSR Bengaluru Jan Shatabdi Express,Harihar,15:50
+12080,SSS Hubballi KSR Bengaluru Jan Shatabdi Express,Davangere,16:07
+12080,SSS Hubballi KSR Bengaluru Jan Shatabdi Express,Chikjajur,16:42
+12080,SSS Hubballi KSR Bengaluru Jan Shatabdi Express,Birur,17:28
+12080,SSS Hubballi KSR Bengaluru Jan Shatabdi Express,Arsikere,18:05
+12080,SSS Hubballi KSR Bengaluru Jan Shatabdi Express,Tumakuru,19:13
+12080,SSS Hubballi KSR Bengaluru Jan Shatabdi Express,Yesvantpur,20:30
+12080,SSS Hubballi KSR Bengaluru Jan Shatabdi Express,KSR Bengaluru,21:15
+20675,Belagavi Mysuru Vishwamanava SF Express,Belagavi,07:00
+20675,Belagavi Mysuru Vishwamanava SF Express,Londa,07:50
+20675,Belagavi Mysuru Vishwamanava SF Express,Alnawar,08:35
+20675,Belagavi Mysuru Vishwamanava SF Express,Dharwad,09:15
+20675,Belagavi Mysuru Vishwamanava SF Express,SSS Hubballi,09:50
+20675,Belagavi Mysuru Vishwamanava SF Express,Harihar,11:48
+20675,Belagavi Mysuru Vishwamanava SF Express,Davangere,12:02
+20675,Belagavi Mysuru Vishwamanava SF Express,Chikjajur,12:37
+20675,Belagavi Mysuru Vishwamanava SF Express,Birur,13:35
+20675,Belagavi Mysuru Vishwamanava SF Express,Arsikere,14:20
+20675,Belagavi Mysuru Vishwamanava SF Express,Tumakuru,15:45
+20675,Belagavi Mysuru Vishwamanava SF Express,Yesvantpur,16:55
+20675,Belagavi Mysuru Vishwamanava SF Express,KSR Bengaluru,17:50
+20675,Belagavi Mysuru Vishwamanava SF Express,Mysuru,20:35
+16536,Pandharpur Mysuru Golgumbaz Express,Madgaon,13:00
+16536,Pandharpur Mysuru Golgumbaz Express,Solapur,15:30
+16536,Pandharpur Mysuru Golgumbaz Express,Vijayapura,18:00
+16536,Pandharpur Mysuru Golgumbaz Express,Bagalkot,19:40
+16536,Pandharpur Mysuru Golgumbaz Express,Gadag,22:00
+16536,Pandharpur Mysuru Golgumbaz Express,SSS Hubballi,00:25
+16536,Pandharpur Mysuru Golgumbaz Express,Harihar,02:12
+16536,Pandharpur Mysuru Golgumbaz Express,Davangere,02:27
+16536,Pandharpur Mysuru Golgumbaz Express,Chikjajur,03:00
+16536,Pandharpur Mysuru Golgumbaz Express,Birur,03:45
+16536,Pandharpur Mysuru Golgumbaz Express,Arsikere,04:30
+16536,Pandharpur Mysuru Golgumbaz Express,Tumakuru,05:37
+16536,Pandharpur Mysuru Golgumbaz Express,Yesvantpur,06:50
+16536,Pandharpur Mysuru Golgumbaz Express,KSR Bengaluru,07:40
+16536,Pandharpur Mysuru Golgumbaz Express,Mysuru,10:45
+16205,Talguppa Mysuru Intercity Express,Talguppa,14:50
+16205,Talguppa Mysuru Intercity Express,Shivamogga Town,16:50
+16205,Talguppa Mysuru Intercity Express,Birur,17:55
+16205,Talguppa Mysuru Intercity Express,Arsikere,18:50
+16205,Talguppa Mysuru Intercity Express,Hassan,19:40
+16205,Talguppa Mysuru Intercity Express,Mysuru,22:30
+17315,Vasco- de-Gama Velankanni Express,Vasco-de-Gama,08:40
+17315,Vasco- de-Gama Velankanni Express,Madgaon,09:10
+17315,Vasco- de-Gama Velankanni Express,Londa,11:50
+17315,Vasco- de-Gama Velankanni Express,Dharwad,13:22
+17315,Vasco- de-Gama Velankanni Express,SSS Hubballi,14:45
+17315,Vasco- de-Gama Velankanni Express,Davangere,16:48
+17315,Vasco- de-Gama Velankanni Express,Birur,18:12
+17315,Vasco- de-Gama Velankanni Express,Arsikere,19:00
+17315,Vasco- de-Gama Velankanni Express,Tumakuru,20:30
+17320,Hyderabad SSS Hubballi Express,Vijayapura,00:10
+17320,Hyderabad SSS Hubballi Express,Bagalkot,02:05
+17320,Hyderabad SSS Hubballi Express,Gadag,04:45
+17320,Hyderabad SSS Hubballi Express,SSS Hubballi,05:55
+16542,Pandharpur Yeswantpur Express,Miraj,13:35
+16542,Pandharpur Yeswantpur Express,Miraj,16:30
+16542,Pandharpur Yeswantpur Express,Belagavi,18:35
+16542,Pandharpur Yeswantpur Express,Dharwad,21:00
+16542,Pandharpur Yeswantpur Express,SSS Hubballi,21:50
+16542,Pandharpur Yeswantpur Express,Harihar,23:25
+16542,Pandharpur Yeswantpur Express,Davangere,23:42
+16542,Pandharpur Yeswantpur Express,Birur,01:10
+16542,Pandharpur Yeswantpur Express,Arsikere,01:45
+16542,Pandharpur Yeswantpur Express,Tumakuru,02:57
+16542,Pandharpur Yeswantpur Express,Yesvantpur,05:25
+19667,Udaipur Mysore Palace Queen Humsafar Express,Pune,16:40
+19667,Udaipur Mysore Palace Queen Humsafar Express,Miraj,23:40
+19667,Udaipur Mysore Palace Queen Humsafar Express,Miraj,23:40
+19667,Udaipur Mysore Palace Queen Humsafar Express,Belagavi,02:00
+19667,Udaipur Mysore Palace Queen Humsafar Express,SSS Hubballi,05:00
+19667,Udaipur Mysore Palace Queen Humsafar Express,Davangere,06:55
+19667,Udaipur Mysore Palace Queen Humsafar Express,KSR Bengaluru,12:15
+19667,Udaipur Mysore Palace Queen Humsafar Express,Mysuru,15:00
+20656,SSS Hubballi Yeswantpur Super Fast Express,SSS Hubballi,11:45
+20656,SSS Hubballi Yeswantpur Super Fast Express,Harihar,13:15
+20656,SSS Hubballi Yeswantpur Super Fast Express,Davangere,13:35
+20656,SSS Hubballi Yeswantpur Super Fast Express,Arsikere,15:40
+20656,SSS Hubballi Yeswantpur Super Fast Express,Tumakuru,16:55
+20656,SSS Hubballi Yeswantpur Super Fast Express,Yesvantpur,19:20
+16226,Shivamogga Town Mysuru Express,Shivamogga Town,11:15
+16226,Shivamogga Town Mysuru Express,Birur,12:25
+16226,Shivamogga Town Mysuru Express,Arsikere,13:30
+16226,Shivamogga Town Mysuru Express,Hassan,14:07
+16226,Shivamogga Town Mysuru Express,Mysuru,17:05
+20662,Dharwad Bengaluru Vande Bharat Express,Dharwad,13:30
+20662,Dharwad Bengaluru Vande Bharat Express,SSS Hubballi,13:55
+20662,Dharwad Bengaluru Vande Bharat Express,Davangere,15:20
+20662,Dharwad Bengaluru Vande Bharat Express,Tumakuru,18:03
+20662,Dharwad Bengaluru Vande Bharat Express,Yesvantpur,18:55
+20662,Dharwad Bengaluru Vande Bharat Express,KSR Bengaluru,19:45
+17317,Hubblli- Dadar Express via Miraj Pune,SSS Hubballi,15:55
+17317,Hubblli- Dadar Express via Miraj Pune,Dharwad,16:15
+17317,Hubblli- Dadar Express via Miraj Pune,Alnawar,16:45
+17317,Hubblli- Dadar Express via Miraj Pune,Londa,17:30
+17317,Hubblli- Dadar Express via Miraj Pune,Belagavi,18:30
+17317,Hubblli- Dadar Express via Miraj Pune,Miraj,21:30
+17317,Hubblli- Dadar Express via Miraj Pune,Miraj,21:20
+17317,Hubblli- Dadar Express via Miraj Pune,Sangli,21:45
+17317,Hubblli- Dadar Express via Miraj Pune,Satara,23:45
+17317,Hubblli- Dadar Express via Miraj Pune,Pune,03:05
+17317,Hubblli- Dadar Express via Miraj Pune,Lonavla,04:14
+17317,Hubblli- Dadar Express via Miraj Pune,Dadar,07:00
+11050,Chhatrapati Shahu Maharaj (T) Rajkot Express,C (T h ) hatrapati Shahu Maharaj,13:30
+11050,Chhatrapati Shahu Maharaj (T) Rajkot Express,Miraj,14:40
+11050,Chhatrapati Shahu Maharaj (T) Rajkot Express,Sangli,14:55
+11050,Chhatrapati Shahu Maharaj (T) Rajkot Express,Satara,16:50
+11050,Chhatrapati Shahu Maharaj (T) Rajkot Express,Pune,20:10
+11050,Chhatrapati Shahu Maharaj (T) Rajkot Express,Lonavla,20:50
+11050,Chhatrapati Shahu Maharaj (T) Rajkot Express,Kalyan d # Via Panvel,22:25
+17391,KSR Bengaluru Sindhanur Express,KSR Bengaluru,00:15
+17391,KSR Bengaluru Sindhanur Express,Yesvantpur,00:27
+17391,KSR Bengaluru Sindhanur Express,Tumakuru,01:23
+17391,KSR Bengaluru Sindhanur Express,Arsikere,02:45
+17391,KSR Bengaluru Sindhanur Express,Birur,03:30
+17391,KSR Bengaluru Sindhanur Express,Chikjajur,04:40
+17391,KSR Bengaluru Sindhanur Express,Davanagere,05:30
+17391,KSR Bengaluru Sindhanur Express,Harihar,05:47
+17391,KSR Bengaluru Sindhanur Express,SSS Hubballi,09:30
+17391,KSR Bengaluru Sindhanur Express,Gadag,10:35
+12079,KSR Bengaluru SSS Hubballi Jan Shatabdi Express,KSR Bengaluru,06:00
+12079,KSR Bengaluru SSS Hubballi Jan Shatabdi Express,Yesvantpur,06:12
+12079,KSR Bengaluru SSS Hubballi Jan Shatabdi Express,Tumakuru,07:00
+12079,KSR Bengaluru SSS Hubballi Jan Shatabdi Express,Arsikere,08:15
+12079,KSR Bengaluru SSS Hubballi Jan Shatabdi Express,Birur,08:50
+12079,KSR Bengaluru SSS Hubballi Jan Shatabdi Express,Chikjajur,09:35
+12079,KSR Bengaluru SSS Hubballi Jan Shatabdi Express,Davanagere,10:12
+12079,KSR Bengaluru SSS Hubballi Jan Shatabdi Express,Harihar,10:27
+12079,KSR Bengaluru SSS Hubballi Jan Shatabdi Express,SSS Hubballi,12:50
+17412,Chhatrapati Shahu Maharaj (T) Mumbai Mahalami Express,C (T h ) hatrapati Shahu Maharaj,20:55
+17412,Chhatrapati Shahu Maharaj (T) Mumbai Mahalami Express,Miraj,21:55
+17412,Chhatrapati Shahu Maharaj (T) Mumbai Mahalami Express,Sangli,22:10
+17412,Chhatrapati Shahu Maharaj (T) Mumbai Mahalami Express,Satara,00:15
+17412,Chhatrapati Shahu Maharaj (T) Mumbai Mahalami Express,Pune,03:30
+17412,Chhatrapati Shahu Maharaj (T) Mumbai Mahalami Express,Lonavla,04:29
+17412,Chhatrapati Shahu Maharaj (T) Mumbai Mahalami Express,Kalyan d # Via Panvel,06:00
+17412,Chhatrapati Shahu Maharaj (T) Mumbai Mahalami Express,Dadar,06:55
+17412,Chhatrapati Shahu Maharaj (T) Mumbai Mahalami Express,Mumbai CSMT,07:25
+11036,Mysuru Dadar Sharavathi Express,Mysuru,06:15
+11036,Mysuru Dadar Sharavathi Express,Hassan,08:22
+11036,Mysuru Dadar Sharavathi Express,Arsikere,09:15
+11036,Mysuru Dadar Sharavathi Express,Birur,09:58
+11036,Mysuru Dadar Sharavathi Express,Davanagere,11:20
+11036,Mysuru Dadar Sharavathi Express,Harihar,11:37
+11036,Mysuru Dadar Sharavathi Express,SSS Hubballi,14:05
+11036,Mysuru Dadar Sharavathi Express,Dharwad,14:30
+11036,Mysuru Dadar Sharavathi Express,Alnawar,15:11
+11036,Mysuru Dadar Sharavathi Express,Londa,15:55
+11036,Mysuru Dadar Sharavathi Express,Belagavi,17:00
+11036,Mysuru Dadar Sharavathi Express,Miraj,20:45
+11036,Mysuru Dadar Sharavathi Express,Miraj,20:45
+11036,Mysuru Dadar Sharavathi Express,Sangli,21:00
+11036,Mysuru Dadar Sharavathi Express,Satara,23:00
+11036,Mysuru Dadar Sharavathi Express,Pune,02:10
+11036,Mysuru Dadar Sharavathi Express,Kalyan d # Via Panvel,04:30
+11036,Mysuru Dadar Sharavathi Express,Dadar,05:45
+20676,Mysuru Belagavi Vishwamanava SF Express,Mysuru,07:00
+20676,Mysuru Belagavi Vishwamanava SF Express,KSR Bengaluru,10:00
+20676,Mysuru Belagavi Vishwamanava SF Express,Yesvantpur,10:12
+20676,Mysuru Belagavi Vishwamanava SF Express,Tumakuru,10:54
+20676,Mysuru Belagavi Vishwamanava SF Express,Arsikere,12:04
+20676,Mysuru Belagavi Vishwamanava SF Express,Birur,12:46
+20676,Mysuru Belagavi Vishwamanava SF Express,Chikjajur,13:47
+20676,Mysuru Belagavi Vishwamanava SF Express,Davanagere,14:22
+20676,Mysuru Belagavi Vishwamanava SF Express,Harihar,14:40
+20676,Mysuru Belagavi Vishwamanava SF Express,SSS Hubballi,17:20
+20676,Mysuru Belagavi Vishwamanava SF Express,Dharwad,17:45
+20676,Mysuru Belagavi Vishwamanava SF Express,Alnawar,18:35
+20676,Mysuru Belagavi Vishwamanava SF Express,Londa,19:20
+20676,Mysuru Belagavi Vishwamanava SF Express,Belagavi,20:45
+17348,Chitradurga SSS Hubballi Express,Chitradurga,13:35
+17348,Chitradurga SSS Hubballi Express,Chikjajur,14:20
+17348,Chitradurga SSS Hubballi Express,Davanagere,15:12
+17348,Chitradurga SSS Hubballi Express,Harihar,15:29
+17348,Chitradurga SSS Hubballi Express,SSS Hubballi,18:40
+12779,Vascoda- Gama Nizamuddin Goa Express,Vasco-de-Gama,15:00
+12779,Vascoda- Gama Nizamuddin Goa Express,Madgaon,15:40
+12779,Vascoda- Gama Nizamuddin Goa Express,Londa,18:40
+12779,Vascoda- Gama Nizamuddin Goa Express,Belagavi,19:45
+12779,Vascoda- Gama Nizamuddin Goa Express,Miraj,22:45
+12779,Vascoda- Gama Nizamuddin Goa Express,Miraj,22:45
+12779,Vascoda- Gama Nizamuddin Goa Express,Sangli,23:00
+12779,Vascoda- Gama Nizamuddin Goa Express,Satara,01:00
+12779,Vascoda- Gama Nizamuddin Goa Express,Pune,04:30
+11098,Ernakulam Pune Poorna Express,Mangaluru Jn.,01:55
+11098,Ernakulam Pune Poorna Express,Madgaon,09:55
+11098,Ernakulam Pune Poorna Express,Londa,13:10
+11098,Ernakulam Pune Poorna Express,Belagavi,14:10
+11098,Ernakulam Pune Poorna Express,Miraj,17:35
+11098,Ernakulam Pune Poorna Express,Miraj,17:35
+11098,Ernakulam Pune Poorna Express,Sangli,17:50
+11098,Ernakulam Pune Poorna Express,Satara,20:00
+11098,Ernakulam Pune Poorna Express,Pune,23:00
+17378,Mangaluru Central Vijayapura Express,Hassan,22:30
+17378,Mangaluru Central Vijayapura Express,Mangaluru Jn.,17:00
+17378,Mangaluru Central Vijayapura Express,Mangaluru Central,16:45
+17378,Mangaluru Central Vijayapura Express,Arsikere,23:25
+17378,Mangaluru Central Vijayapura Express,Birur,00:09
+17378,Mangaluru Central Vijayapura Express,Chikjajur,01:12
+17378,Mangaluru Central Vijayapura Express,Davanagere,01:50
+17378,Mangaluru Central Vijayapura Express,Harihar,02:05
+17378,Mangaluru Central Vijayapura Express,SSS Hubballi,04:50
+17378,Mangaluru Central Vijayapura Express,Gadag,06:30
+17378,Mangaluru Central Vijayapura Express,Bagalkot,08:00
+17378,Mangaluru Central Vijayapura Express,Vijayapura,10:50
+11010,Pune Mumbai CSMT Sinhagad Express,Pune,06:05
+11010,Pune Mumbai CSMT Sinhagad Express,Lonavla,07:15
+11010,Pune Mumbai CSMT Sinhagad Express,Kalyan,08:48
+11010,Pune Mumbai CSMT Sinhagad Express,Dadar,09:35
+11010,Pune Mumbai CSMT Sinhagad Express,Mumbai CSMT,09:55
+12124,Pune Mumbai CSMT Deccan Queen Express,Pune,07:15
+12124,Pune Mumbai CSMT Deccan Queen Express,Lonavla,08:07
+12124,Pune Mumbai CSMT Deccan Queen Express,Dadar,10:05
+12124,Pune Mumbai CSMT Deccan Queen Express,Mumbai CSMT,10:25
+12126,Pune Mumbai CSMT Pragati Express,Pune,07:45
+12126,Pune Mumbai CSMT Pragati Express,Lonavla,08:30
+12126,Pune Mumbai CSMT Pragati Express,Dadar,11:00
+12126,Pune Mumbai CSMT Pragati Express,Mumbai CSMT,11:25
+11008,Pune Mumbai Deccan Express,Pune,15:27
+11008,Pune Mumbai Deccan Express,Lonavla,16:32
+11008,Pune Mumbai Deccan Express,Kalyan,18:01
+11008,Pune Mumbai Deccan Express,Dadar,18:48
+11008,Pune Mumbai Deccan Express,Mumbai CSMT,19:15
+17301,Mysuru Belgarvi Express,Mysuru,22:45
+17301,Mysuru Belgarvi Express,Hassan,00:37
+17301,Mysuru Belgarvi Express,Arsikere,01:27
+17301,Mysuru Belgarvi Express,Birur,02:11
+17301,Mysuru Belgarvi Express,Chikjajur,03:01
+17301,Mysuru Belgarvi Express,Davanagere,03:33
+17301,Mysuru Belgarvi Express,Harihar,03:46
+17301,Mysuru Belgarvi Express,SSS Hubballi,06:20
+17301,Mysuru Belgarvi Express,Dharwad,06:45
+17301,Mysuru Belgarvi Express,Alnawar,07:20
+17301,Mysuru Belgarvi Express,Londa,08:10
+17301,Mysuru Belgarvi Express,Belagavi,09:50
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,Tumakuru,13:17
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,Arsikere,14:38
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,Birur,15:15
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,Davanagere,16:32
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,Harihar,16:50
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,SSS Hubballi,19:20
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,Dharwad,19:45
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,Belagavi,23:10
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,Miraj,02:40
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,Miraj,02:40
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,Sangli,02:55
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,Satara,05:00
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,Pune,08:15
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,Lonavla,09:25
+22498,Tiruchirapalli Sri Ganganagar Hamsafar Express,Kalyan,10:38
+16585,SMVT Bengaluru Murdeshwa Express,Sir M Vishweshwara- Km iah T Bengaluru,19:45
+16585,SMVT Bengaluru Murdeshwa Express,Mysuru,23:40
+16585,SMVT Bengaluru Murdeshwa Express,KSR Bengaluru,20:25
+16585,SMVT Bengaluru Murdeshwa Express,Hassan,02:05
+16585,SMVT Bengaluru Murdeshwa Express,Mangaluru Jn.,08:15
+16585,SMVT Bengaluru Murdeshwa Express,Mangaluru Central,08:40
+16585,SMVT Bengaluru Murdeshwa Express,Birur,13:35
+19668,Mysore Udaipur Palace Queen Humsafar Express,Mysuru,10:05
+19668,Mysore Udaipur Palace Queen Humsafar Express,KSR Bengaluru,12:10
+19668,Mysore Udaipur Palace Queen Humsafar Express,Davanagere,16:46
+19668,Mysore Udaipur Palace Queen Humsafar Express,SSS Hubballi,19:20
+19668,Mysore Udaipur Palace Queen Humsafar Express,Belagavi,23:10
+19668,Mysore Udaipur Palace Queen Humsafar Express,Miraj,02:40
+19668,Mysore Udaipur Palace Queen Humsafar Express,Miraj,02:40
+19668,Mysore Udaipur Palace Queen Humsafar Express,Sangli,02:35
+19668,Mysore Udaipur Palace Queen Humsafar Express,Pune,08:15
+16213,Arsikere SSS Hubballi Express,Arsikere,05:45
+16213,Arsikere SSS Hubballi Express,Birur,06:37
+16213,Arsikere SSS Hubballi Express,Chikjajur,07:52
+16213,Arsikere SSS Hubballi Express,Davanagere,08:45
+16213,Arsikere SSS Hubballi Express,Harihar,09:02
+16213,Arsikere SSS Hubballi Express,SSS Hubballi,12:35
+16225,Mysuru Shiva- ogga Tow Express,Mysuru,10:15
+16225,Mysuru Shiva- ogga Tow Express,Hassan,12:25
+16225,Mysuru Shiva- ogga Tow Express,Arsikere,13:40
+16225,Mysuru Shiva- ogga Tow Express,Birur,14:20
+16225,Mysuru Shiva- ogga Tow Express,Chitradurga,16:40
+20667,Yesvsntpur Jaipur Superfast Express,Yesvantpur,12:00
+20667,Yesvsntpur Jaipur Superfast Express,Tumakuru,12:50
+20667,Yesvsntpur Jaipur Superfast Express,Arsikere,14:02
+20667,Yesvsntpur Jaipur Superfast Express,Birur,14:41
+20667,Yesvsntpur Jaipur Superfast Express,Chitradurga,16:01
+20667,Yesvsntpur Jaipur Superfast Express,Chikjajur,15:30
+20673,Chhatrapati Shahu Maharaj (T) Pune Vande Bharat Express,Chhatrapati Shahu,08:15
+20673,Chhatrapati Shahu Maharaj (T) Pune Vande Bharat Express,Miraj,09:00
+20673,Chhatrapati Shahu Maharaj (T) Pune Vande Bharat Express,Sangli,09:13
+20673,Chhatrapati Shahu Maharaj (T) Pune Vande Bharat Express,Satara,10:50
+20673,Chhatrapati Shahu Maharaj (T) Pune Vande Bharat Express,Pune,13:30
+26752,KSR Bengaluru- Belgavi Vande Bharat,KSR Bengaluru,14:20
+26752,KSR Bengaluru- Belgavi Vande Bharat,Yesvantpur,14:32
+26752,KSR Bengaluru- Belgavi Vande Bharat,Tumakuru,15:10
+26752,KSR Bengaluru- Belgavi Vande Bharat,Davanagere,17:50
+26752,KSR Bengaluru- Belgavi Vande Bharat,SSS Hubballi,20:05
+26752,KSR Bengaluru- Belgavi Vande Bharat,Dharwad,20:27
+26752,KSR Bengaluru- Belgavi Vande Bharat,Belagavi,22:30
+12649,Yesvantpur Hazarat Nizamuddin Sampark Kranti Express,Yesvantpur,13:30
+12649,Yesvantpur Hazarat Nizamuddin Sampark Kranti Express,Tumakuru,14:20
+12649,Yesvantpur Hazarat Nizamuddin Sampark Kranti Express,Arsikere,15:32
+12649,Yesvantpur Hazarat Nizamuddin Sampark Kranti Express,Davanagere,17:27
+12649,Yesvantpur Hazarat Nizamuddin Sampark Kranti Express,SSS Hubballi,20:25
+12649,Yesvantpur Hazarat Nizamuddin Sampark Kranti Express,Gadag,21:27
+22698,MGR Chennai Central SSS Hubballi Super Fast Express,Tumakuru,22:27
+22698,MGR Chennai Central SSS Hubballi Super Fast Express,Arsikere,00:05
+22698,MGR Chennai Central SSS Hubballi Super Fast Express,Birur,00:45
+22698,MGR Chennai Central SSS Hubballi Super Fast Express,Davanagere,02:05
+22698,MGR Chennai Central SSS Hubballi Super Fast Express,Harihar,02:22
+22698,MGR Chennai Central SSS Hubballi Super Fast Express,SSS Hubballi,05:00
+20679,MGR Chennai Central SSS Hubballi Express,Tumakuru,22:27
+20679,MGR Chennai Central SSS Hubballi Express,Arsikere,00:05
+20679,MGR Chennai Central SSS Hubballi Express,Birur,00:45
+20679,MGR Chennai Central SSS Hubballi Express,Davanagere,02:05
+20679,MGR Chennai Central SSS Hubballi Express,Harihar,02:22
+20679,MGR Chennai Central SSS Hubballi Express,SSS Hubballi,05:00
+12089,KSR Bengaluru Sivamaga Town Jan Satabdi Express,KSR Bengaluru,17:15
+12089,KSR Bengaluru Sivamaga Town Jan Satabdi Express,Yesvantpur,17:27
+12089,KSR Bengaluru Sivamaga Town Jan Satabdi Express,Tumakuru,18:15
+12089,KSR Bengaluru Sivamaga Town Jan Satabdi Express,Arsikere,19:25
+12089,KSR Bengaluru Sivamaga Town Jan Satabdi Express,Birur,20:06
+12089,KSR Bengaluru Sivamaga Town Jan Satabdi Express,Shivamogga Town,21:40
+20651,KSR Bengaluru Talaguppa Intercity Express,KSR Bengaluru,15:00
+20651,KSR Bengaluru Talaguppa Intercity Express,Yesvantpur,15:12
+20651,KSR Bengaluru Talaguppa Intercity Express,Tumakuru,16:02
+20651,KSR Bengaluru Talaguppa Intercity Express,Arsikere,17:15
+20651,KSR Bengaluru Talaguppa Intercity Express,Birur,17:57
+20651,KSR Bengaluru Talaguppa Intercity Express,Shivamogga Town,19:10
+20651,KSR Bengaluru Talaguppa Intercity Express,Chikjajur d ,21:45
+12778,Kochuveli SSS Hubballi Express,Tumakuru,04:42
+12778,Kochuveli SSS Hubballi Express,Arsikere,06:15
+12778,Kochuveli SSS Hubballi Express,Birur,06:52
+12778,Kochuveli SSS Hubballi Express,Davanagere,08:04
+12778,Kochuveli SSS Hubballi Express,Harihar,08:22
+12778,Kochuveli SSS Hubballi Express,SSS Hubballi,12:15
+22156,Chhatrapati Shahu Maharaj (T) Kalaburagi Express,Miraj,16:45
+22156,Chhatrapati Shahu Maharaj (T) Kalaburagi Express,Chhatrapati,15:05
+22156,Chhatrapati Shahu Maharaj (T) Kalaburagi Express,Miraj,16:45
+17316,Velankanni Vasco-de- Gama Express,Tumakuru,13:17
+17316,Velankanni Vasco-de- Gama Express,Arsikere,14:38
+17316,Velankanni Vasco-de- Gama Express,Birur,15:15
+17316,Velankanni Vasco-de- Gama Express,Davanagere,16:32
+17316,Velankanni Vasco-de- Gama Express,SSS Hubballi,19:20
+17316,Velankanni Vasco-de- Gama Express,Dharwad,19:45
+17316,Velankanni Vasco-de- Gama Express,Londa,21:40
+17316,Velankanni Vasco-de- Gama Express,Madgaon,01:35
+17316,Velankanni Vasco-de- Gama Express,Vasco-de-Gama,02:40
+17309,Yesvantpur Vasco-da- Gama Express,Yesvantpur,15:30
+17309,Yesvantpur Vasco-da- Gama Express,Tumakuru,16:20
+17309,Yesvantpur Vasco-da- Gama Express,Arsikere,17:32
+17309,Yesvantpur Vasco-da- Gama Express,Birur,18:14
+17309,Yesvantpur Vasco-da- Gama Express,Chikjajur d ,18:56
+17309,Yesvantpur Vasco-da- Gama Express,Davanagere,19:30
+17309,Yesvantpur Vasco-da- Gama Express,Harihar,19:45
+17309,Yesvantpur Vasco-da- Gama Express,SSS Hubballi,22:00
+17309,Yesvantpur Vasco-da- Gama Express,Dharwad,22:25
+17309,Yesvantpur Vasco-da- Gama Express,Alnawar,23:10
+17309,Yesvantpur Vasco-da- Gama Express,Londa,23:50
+17309,Yesvantpur Vasco-da- Gama Express,Madgaon,03:30
+17309,Yesvantpur Vasco-da- Gama Express,Vasco-de-Gama,05:00
+16515,Yesvantpur Karwar Express,Yesvantpur,07:00
+16515,Yesvantpur Karwar Express,Nelamangala,07:22
+16515,Yesvantpur Karwar Express,Shravanabelgola,08:59
+16515,Yesvantpur Karwar Express,Hassan,10:15
+16515,Yesvantpur Karwar Express,Mangaluru Jn.,16:45
+16515,Yesvantpur Karwar Express,Karwar,23:00
+16575,Yesvantpur Mangaluru Junction Gommateswara Express,Yesvantpur,07:00
+16575,Yesvantpur Mangaluru Junction Gommateswara Express,Nelamangala,07:22
+16575,Yesvantpur Mangaluru Junction Gommateswara Express,Shravanabelgola,08:59
+16575,Yesvantpur Mangaluru Junction Gommateswara Express,Hassan,10:15
+16575,Yesvantpur Mangaluru Junction Gommateswara Express,Mangaluru Jn.,16:40
+16539,Yesvantpur Mangaluru Junction Weekly Express,Yesvantpur,07:00
+16539,Yesvantpur Mangaluru Junction Weekly Express,Nelamangala,07:22
+16539,Yesvantpur Mangaluru Junction Weekly Express,Shravanabelgola,08:59
+16539,Yesvantpur Mangaluru Junction Weekly Express,Hassan,10:15
+16539,Yesvantpur Mangaluru Junction Weekly Express,Mangaluru Jn.,16:40
+11030,Chhatrapati Shahu Maharaj (T) Mumbai CSMT Koyna Express,Chhatrapati,08:25
+11030,Chhatrapati Shahu Maharaj (T) Mumbai CSMT Koyna Express,Miraj,09:25
+11030,Chhatrapati Shahu Maharaj (T) Mumbai CSMT Koyna Express,Sangli,09:42
+11030,Chhatrapati Shahu Maharaj (T) Mumbai CSMT Koyna Express,Satara,12:10
+11030,Chhatrapati Shahu Maharaj (T) Mumbai CSMT Koyna Express,Pune,15:50
+11030,Chhatrapati Shahu Maharaj (T) Mumbai CSMT Koyna Express,Lonavla,17:15
+11030,Chhatrapati Shahu Maharaj (T) Mumbai CSMT Koyna Express,Kalyan,18:50
+11030,Chhatrapati Shahu Maharaj (T) Mumbai CSMT Koyna Express,Dadar,19:40
+11030,Chhatrapati Shahu Maharaj (T) Mumbai CSMT Koyna Express,Mumbai CSMT,20:05
+12725,KSR Bengaluru Dharwad Siddha Ganga Intercity Express,KSR Bengaluru,13:00
+12725,KSR Bengaluru Dharwad Siddha Ganga Intercity Express,Yesvantpur,13:12
+12725,KSR Bengaluru Dharwad Siddha Ganga Intercity Express,Tumakuru,14:00
+12725,KSR Bengaluru Dharwad Siddha Ganga Intercity Express,Arsikere,15:08
+12725,KSR Bengaluru Dharwad Siddha Ganga Intercity Express,Birur,15:50
+12725,KSR Bengaluru Dharwad Siddha Ganga Intercity Express,Chikjajur d ,16:53
+12725,KSR Bengaluru Dharwad Siddha Ganga Intercity Express,Davanagere,17:27
+12725,KSR Bengaluru Dharwad Siddha Ganga Intercity Express,Harihar,17:44
+12725,KSR Bengaluru Dharwad Siddha Ganga Intercity Express,SSS Hubballi,20:50
+12725,KSR Bengaluru Dharwad Siddha Ganga Intercity Express,Dharwad,21:40
+20669,SSS Hubballi Pune Vande Bharat Express,SSS Hubballi,05:00
+20669,SSS Hubballi Pune Vande Bharat Express,Dharwad,05:20
+20669,SSS Hubballi Pune Vande Bharat Express,Belagavi,07:00
+20669,SSS Hubballi Pune Vande Bharat Express,Miraj,09:00
+20669,SSS Hubballi Pune Vande Bharat Express,Miraj,09:00
+20669,SSS Hubballi Pune Vande Bharat Express,Sangli,09:15
+20669,SSS Hubballi Pune Vande Bharat Express,Satara,10:50
+20669,SSS Hubballi Pune Vande Bharat Express,Pune,13:30
+20688,KSR Bengaluru- SSS Hubballi SF Express,KSR Bengaluru,22:20
+20688,KSR Bengaluru- SSS Hubballi SF Express,Yesvantpur,22:32
+20688,KSR Bengaluru- SSS Hubballi SF Express,Tumakuru,23:19
+20688,KSR Bengaluru- SSS Hubballi SF Express,Arsikere,00:30
+20688,KSR Bengaluru- SSS Hubballi SF Express,Birur,01:07
+20688,KSR Bengaluru- SSS Hubballi SF Express,Davanagere,02:20
+20688,KSR Bengaluru- SSS Hubballi SF Express,SSS Hubballi,05:15
+22679,Yesvantpur Hassan Express,Yesvantpur,18:00
+22679,Yesvantpur Hassan Express,Nelamangala,18:24
+22679,Yesvantpur Hassan Express,Shravanabelgola,19:56
+22679,Yesvantpur Hassan Express,Hassan,21:05
+12147,Chhatrapati Shahu Maharaj (T) Nizamuddin Express,Chhatrapati,09:35
+12147,Chhatrapati Shahu Maharaj (T) Nizamuddin Express,Miraj,10:20
+12147,Chhatrapati Shahu Maharaj (T) Nizamuddin Express,Sangli,10:35
+12147,Chhatrapati Shahu Maharaj (T) Nizamuddin Express,Satara,12:40
+12147,Chhatrapati Shahu Maharaj (T) Nizamuddin Express,Pune,16:10
+12781,Mysuru Nizamuddin Swarna Jayanti Express,Mysuru,19:30
+12781,Mysuru Nizamuddin Swarna Jayanti Express,Hassan,21:35
+12781,Mysuru Nizamuddin Swarna Jayanti Express,Arsikere,22:30
+12781,Mysuru Nizamuddin Swarna Jayanti Express,Birur,23:05
+12781,Mysuru Nizamuddin Swarna Jayanti Express,Davanagere,00:30
+12781,Mysuru Nizamuddin Swarna Jayanti Express,Harihar,00:47
+12781,Mysuru Nizamuddin Swarna Jayanti Express,SSS Hubballi,03:40
+12781,Mysuru Nizamuddin Swarna Jayanti Express,Dharwad,04:05
+12781,Mysuru Nizamuddin Swarna Jayanti Express,Belagavi,06:50
+12781,Mysuru Nizamuddin Swarna Jayanti Express,Miraj,10:20
+12781,Mysuru Nizamuddin Swarna Jayanti Express,Miraj,10:20
+12781,Mysuru Nizamuddin Swarna Jayanti Express,Sangli,10:35
+12781,Mysuru Nizamuddin Swarna Jayanti Express,Satara,12:40
+12781,Mysuru Nizamuddin Swarna Jayanti Express,Pune,16:10
+16587,Yesvantpur Bikaner Express,Yesvantpur,12:00
+16587,Yesvantpur Bikaner Express,Tumakuru,12:50
+16587,Yesvantpur Bikaner Express,Arsikere,14:02
+16587,Yesvantpur Bikaner Express,Birur,14:41
+16587,Yesvantpur Bikaner Express,Davanagere,16:00
+16587,Yesvantpur Bikaner Express,SSS Hubballi,19:50
+16587,Yesvantpur Bikaner Express,Gadag,21:10
+16587,Yesvantpur Bikaner Express,Bagalkot,23:10
+16587,Yesvantpur Bikaner Express,Vijayapura,01:25
+16587,Yesvantpur Bikaner Express,Solapur,05:05
+16587,Yesvantpur Bikaner Express,Pune,09:40
+16587,Yesvantpur Bikaner Express,Kalyan,12:20
+16511,Bengaluru City Kozhikode Express,KSR Bengaluru,21:35
+16511,Bengaluru City Kozhikode Express,Yesvantpur,21:47
+16511,Bengaluru City Kozhikode Express,Shravanabelgola,23:32
+16511,Bengaluru City Kozhikode Express,Hassan,00:40
+16511,Bengaluru City Kozhikode Express,Mangaluru Jn.,06:52
+17323,SSS Hubballi Banaras Express,SSS Hubballi,18:15
+17323,SSS Hubballi Banaras Express,Gadag,19:40
+17323,SSS Hubballi Banaras Express,Bagalkot,21:30
+17323,SSS Hubballi Banaras Express,Vijayapura,23:55
+17323,SSS Hubballi Banaras Express,Solapur,02:55
+11140,Hospet Mumbai CSMT Express,Gadag,15:05
+11140,Hospet Mumbai CSMT Express,Bagalkot,16:45
+11140,Hospet Mumbai CSMT Express,Vijayapura,18:40
+11140,Hospet Mumbai CSMT Express,Solapur,20:45
+11140,Hospet Mumbai CSMT Express,Pune,01:10
+11140,Hospet Mumbai CSMT Express,Lonavla,02:07
+11140,Hospet Mumbai CSMT Express,Kalyan,03:36
+11140,Hospet Mumbai CSMT Express,Dadar,04:24
+11140,Hospet Mumbai CSMT Express,Mumbai CSMT,05:10
+11311,Solapur Hassan Express,Yesvantpur,07:10
+11311,Solapur Hassan Express,Shravanabelgola,09:03
+11311,Solapur Hassan Express,Hassan,10:55
+16240,Yesvantpur Chikmagalur Express,Yesvantpur,15:40
+16240,Yesvantpur Chikmagalur Express,Tumakuru,16:47
+16240,Yesvantpur Chikmagalur Express,Arsikere,18:30
+16240,Yesvantpur Chikmagalur Express,Chikmagalur,20:55
+16208,Mysuru Yesvantpur Express,Mysuru,07:15
+16208,Mysuru Yesvantpur Express,Yesvantpur,15:00
+16208,Mysuru Yesvantpur Express,Nelamangala,13:24
+16208,Mysuru Yesvantpur Express,Shravanabelgola,11:13
+16208,Mysuru Yesvantpur Express,Hassan,10:15
+16222,Mysuru Talaguppa Kuvempu Express,Mysuru,14:00
+16222,Mysuru Talaguppa Kuvempu Express,Hassan,16:52
+16222,Mysuru Talaguppa Kuvempu Express,Arsikere,18:05
+16222,Mysuru Talaguppa Kuvempu Express,Birur,19:02
+16222,Mysuru Talaguppa Kuvempu Express,Shivamogga Town,20:40
+16222,Mysuru Talaguppa Kuvempu Express,Chikjajur,23:00
+16567,Tumakuru Shivamoga Town Express,Tumakuru,18:40
+16567,Tumakuru Shivamoga Town Express,Arsikere,20:50
+16567,Tumakuru Shivamoga Town Express,Birur,21:50
+16567,Tumakuru Shivamoga Town Express,Shivamogga Town,23:50
+11416,Hospet Jn Solapur Express,Gadag,02:07
+11416,Hospet Jn Solapur Express,Bagalkot,04:10
+11416,Hospet Jn Solapur Express,Vijayapura,06:45
+11416,Hospet Jn Solapur Express,Solapur,09:30
+20657,SSS Hubballi Hazard Nizamuddin Express,SSS Hubballi,23:50
+20657,SSS Hubballi Hazard Nizamuddin Express,Gadag,01:05
+20657,SSS Hubballi Hazard Nizamuddin Express,Bagalkot,02:55
+20657,SSS Hubballi Hazard Nizamuddin Express,Vijayapura,05:30
+20657,SSS Hubballi Hazard Nizamuddin Express,Solapur,08:40
+16547,Yesvantpur- Vijayapura Express,Yesvantpur,21:30
+16547,Yesvantpur- Vijayapura Express,Tumakuru,22:19
+16547,Yesvantpur- Vijayapura Express,Arsikere,23:40
+16547,Yesvantpur- Vijayapura Express,Chikjajur,01:05
+16547,Yesvantpur- Vijayapura Express,Davanagere,01:47
+16547,Yesvantpur- Vijayapura Express,Gadag,07:34
+16547,Yesvantpur- Vijayapura Express,Bagalkot,09:36
+16547,Yesvantpur- Vijayapura Express,Vijayapura,11:25
+22685,Yesvantpur Chandigarh Karnataka Sampark Kranti Express,Yesvantpur,15:00
+22685,Yesvantpur Chandigarh Karnataka Sampark Kranti Express,Tumakuru,15:50
+22685,Yesvantpur Chandigarh Karnataka Sampark Kranti Express,Arsikere,17:00
+22685,Yesvantpur Chandigarh Karnataka Sampark Kranti Express,Davanagere,18:58
+22685,Yesvantpur Chandigarh Karnataka Sampark Kranti Express,SSS Hubballi,21:20
+22685,Yesvantpur Chandigarh Karnataka Sampark Kranti Express,Dharwad,21:50
+22685,Yesvantpur Chandigarh Karnataka Sampark Kranti Express,Belagavi,00:20
+22685,Yesvantpur Chandigarh Karnataka Sampark Kranti Express,Miraj,03:00
+22685,Yesvantpur Chandigarh Karnataka Sampark Kranti Express,Miraj,03:00
+22685,Yesvantpur Chandigarh Karnataka Sampark Kranti Express,Sangli,03:15
+22685,Yesvantpur Chandigarh Karnataka Sampark Kranti Express,Pune,09:00
+12629,Yesvantpur Nizamuddin Karnataka Sampark Kranti Express,Yesvantpur,15:00
+12629,Yesvantpur Nizamuddin Karnataka Sampark Kranti Express,Tumakuru,15:50
+12629,Yesvantpur Nizamuddin Karnataka Sampark Kranti Express,Arsikere,17:00
+12629,Yesvantpur Nizamuddin Karnataka Sampark Kranti Express,Davanagere,18:58
+12629,Yesvantpur Nizamuddin Karnataka Sampark Kranti Express,SSS Hubballi,21:20
+12629,Yesvantpur Nizamuddin Karnataka Sampark Kranti Express,Dharwad,21:50
+12629,Yesvantpur Nizamuddin Karnataka Sampark Kranti Express,Belagavi,00:20
+12629,Yesvantpur Nizamuddin Karnataka Sampark Kranti Express,Miraj,03:00
+12629,Yesvantpur Nizamuddin Karnataka Sampark Kranti Express,Miraj,03:00
+12629,Yesvantpur Nizamuddin Karnataka Sampark Kranti Express,Pune,09:00
+12128,Pune Mumbai CSMT Intercity Express,Pune,17:50
+12128,Pune Mumbai CSMT Intercity Express,Lonavla,18:40
+12128,Pune Mumbai CSMT Intercity Express,Dadar,20:40
+12128,Pune Mumbai CSMT Intercity Express,Mumbai CSMT,21:15
+16589,KSR Bengaluru Sangli Rani Channamma Express,KSR Bengaluru,23:00
+16589,KSR Bengaluru Sangli Rani Channamma Express,Yesvantpur,23:12
+16589,KSR Bengaluru Sangli Rani Channamma Express,Tumakuru,23:58
+16589,KSR Bengaluru Sangli Rani Channamma Express,Arsikere,01:21
+16589,KSR Bengaluru Sangli Rani Channamma Express,Birur,02:02
+16589,KSR Bengaluru Sangli Rani Channamma Express,Davanagere,03:22
+16589,KSR Bengaluru Sangli Rani Channamma Express,Harihar,03:37
+16589,KSR Bengaluru Sangli Rani Channamma Express,SSS Hubballi,06:10
+16589,KSR Bengaluru Sangli Rani Channamma Express,Dharwad,06:35
+16589,KSR Bengaluru Sangli Rani Channamma Express,Alnawar,07:10
+16589,KSR Bengaluru Sangli Rani Channamma Express,Londa,07:52
+16589,KSR Bengaluru Sangli Rani Channamma Express,Belagavi,08:55
+16589,KSR Bengaluru Sangli Rani Channamma Express,Miraj,12:35
+16589,KSR Bengaluru Sangli Rani Channamma Express,Miraj,12:35
+16589,KSR Bengaluru Sangli Rani Channamma Express,Sangli,13:05
+22106,Pune Mumbai CSMT Indrayani Express,Pune,18:35
+22106,Pune Mumbai CSMT Indrayani Express,Lonavla,19:30
+22106,Pune Mumbai CSMT Indrayani Express,Kalyan,20:52
+22106,Pune Mumbai CSMT Indrayani Express,Dadar,21:35
+22106,Pune Mumbai CSMT Indrayani Express,Mumbai CSMT,22:00
+17415,Tirupati Chhatrapati Shahu Maharaj (T) Haripriya Express,SSS Hubballi,08:20
+17415,Tirupati Chhatrapati Shahu Maharaj (T) Haripriya Express,Gadag,07:00
+17415,Tirupati Chhatrapati Shahu Maharaj (T) Haripriya Express,Dharwad,08:55
+17415,Tirupati Chhatrapati Shahu Maharaj (T) Haripriya Express,Alnawar,09:33
+17415,Tirupati Chhatrapati Shahu Maharaj (T) Haripriya Express,Londa,10:17
+17415,Tirupati Chhatrapati Shahu Maharaj (T) Haripriya Express,Belagavi,11:30
+17415,Tirupati Chhatrapati Shahu Maharaj (T) Haripriya Express,Miraj,15:10
+17415,Tirupati Chhatrapati Shahu Maharaj (T) Haripriya Express,Chhatrapati Shahu,16:35
+17415,Tirupati Chhatrapati Shahu Maharaj (T) Haripriya Express,Miraj,15:10
+16210,Mysuru Ajmer Express,Mysuru,20:30
+16210,Mysuru Ajmer Express,KSR Bengaluru,23:50
+16210,Mysuru Ajmer Express,Yesvantpur,00:03
+16210,Mysuru Ajmer Express,Tumakuru,00:49
+16210,Mysuru Ajmer Express,Arsikere,02:00
+16210,Mysuru Ajmer Express,Birur,02:37
+16210,Mysuru Ajmer Express,Davanagere,03:49
+16210,Mysuru Ajmer Express,Harihar,04:02
+16210,Mysuru Ajmer Express,SSS Hubballi,06:30
+16210,Mysuru Ajmer Express,Dharwad,06:55
+16210,Mysuru Ajmer Express,Londa,08:30
+16210,Mysuru Ajmer Express,Belagavi,10:10
+16210,Mysuru Ajmer Express,Miraj,12:45
+16210,Mysuru Ajmer Express,Miraj,12:45
+16210,Mysuru Ajmer Express,Sangli,13:05
+16210,Mysuru Ajmer Express,Satara d ,15:15
+16210,Mysuru Ajmer Express,Pune,18:50
+16210,Mysuru Ajmer Express,Kalyan,21:30
+16532,KSR Bengaluru Ajmer Garib Nawaj Express,KSR Bengaluru,17:00
+16532,KSR Bengaluru Ajmer Garib Nawaj Express,Yesvantpur,17:15
+16532,KSR Bengaluru Ajmer Garib Nawaj Express,SSS Hubballi,05:35
+16532,KSR Bengaluru Ajmer Garib Nawaj Express,Dharwad,06:20
+16532,KSR Bengaluru Ajmer Garib Nawaj Express,Londa,08:30
+16532,KSR Bengaluru Ajmer Garib Nawaj Express,Belagavi,10:10
+16532,KSR Bengaluru Ajmer Garib Nawaj Express,Miraj,12:45
+16532,KSR Bengaluru Ajmer Garib Nawaj Express,Miraj,12:45
+16532,KSR Bengaluru Ajmer Garib Nawaj Express,Sangli,13:05
+16532,KSR Bengaluru Ajmer Garib Nawaj Express,Satara d ,15:15
+16532,KSR Bengaluru Ajmer Garib Nawaj Express,Pune,18:50
+16532,KSR Bengaluru Ajmer Garib Nawaj Express,Kalyan,21:30
+16534,KSR Bengaluru Jodhpur Express,KSR Bengaluru,17:00
+16534,KSR Bengaluru Jodhpur Express,Yesvantpur,17:15
+16534,KSR Bengaluru Jodhpur Express,SSS Hubballi,05:35
+16534,KSR Bengaluru Jodhpur Express,Dharwad,06:20
+16534,KSR Bengaluru Jodhpur Express,Londa,08:30
+16534,KSR Bengaluru Jodhpur Express,Belagavi,10:10
+16534,KSR Bengaluru Jodhpur Express,Miraj,12:45
+16534,KSR Bengaluru Jodhpur Express,Miraj,12:45
+16534,KSR Bengaluru Jodhpur Express,Sangli,13:05
+16534,KSR Bengaluru Jodhpur Express,Satara d ,15:15
+16534,KSR Bengaluru Jodhpur Express,Pune,18:50
+16534,KSR Bengaluru Jodhpur Express,Kalyan,21:30
+16227,Mysore Talguppa Express,Mysuru,19:40
+16227,Mysore Talguppa Express,KSR Bengaluru,23:15
+16227,Mysore Talguppa Express,Yesvantpur,23:28
+16227,Mysore Talguppa Express,Tumakuru,00:15
+16227,Mysore Talguppa Express,Arsikere,01:45
+16227,Mysore Talguppa Express,Birur,02:55
+16227,Mysore Talguppa Express,Shivamogga Town,05:05
+16227,Mysore Talguppa Express,Talguppa,07:50
+16581,Yesvantpur Shivamogga Town Express,Yesvantpur,00:15
+16581,Yesvantpur Shivamogga Town Express,Tumakuru,01:02
+16581,Yesvantpur Shivamogga Town Express,Arsikere,02:20
+16581,Yesvantpur Shivamogga Town Express,Birur,03:10
+16581,Yesvantpur Shivamogga Town Express,Shivamogga Town,06:00
+17423,Tirupati- Chikkamagaluru Express,Tumakuru,04:30
+17423,Tirupati- Chikkamagaluru Express,Arsikere,07:50
+17423,Tirupati- Chikkamagaluru Express,Birur,09:00
+17423,Tirupati- Chikkamagaluru Express,Chikkamagaluru,10:30
+16535,Mysuru Pandharpu Golgumba Express,Mysuru,15:45
+16535,Mysuru Pandharpu Golgumba Express,KSR Bengaluru,18:30
+16535,Mysuru Pandharpu Golgumba Express,Yesvantpur,18:42
+16535,Mysuru Pandharpu Golgumba Express,Tumakuru,19:44
+16535,Mysuru Pandharpu Golgumba Express,Arsikere,21:05
+16535,Mysuru Pandharpu Golgumba Express,Birur,21:44
+16535,Mysuru Pandharpu Golgumba Express,Chikjajur,22:32
+16535,Mysuru Pandharpu Golgumba Express,Davanagere,23:12
+16535,Mysuru Pandharpu Golgumba Express,Harihar,23:28
+16535,Mysuru Pandharpu Golgumba Express,SSS Hubballi,02:10
+16535,Mysuru Pandharpu Golgumba Express,Gadag,03:30
+16535,Mysuru Pandharpu Golgumba Express,Bagalkot,05:20
+16535,Mysuru Pandharpu Golgumba Express,Vijayapura,07:25
+16535,Mysuru Pandharpu Golgumba Express,Solapur,10:10
+16535,Mysuru Pandharpu Golgumba Express,None None Pandharpur Arr.,12:25
+20653,KSR Bengaluru Belagavi Express,KSR Bengaluru,21:00
+20653,KSR Bengaluru Belagavi Express,Yesvantpur,21:12
+20653,KSR Bengaluru Belagavi Express,Tumakuru,21:55
+20653,KSR Bengaluru Belagavi Express,Arsikere,23:10
+20653,KSR Bengaluru Belagavi Express,Davanagere,01:10
+20653,KSR Bengaluru Belagavi Express,SSS Hubballi,03:20
+20653,KSR Bengaluru Belagavi Express,Dharwad,03:45
+20653,KSR Bengaluru Belagavi Express,Belagavi,06:50
+16206,Mysuru Talguppa Intercity Express,Mysuru,06:00
+16206,Mysuru Talguppa Intercity Express,Hassan,08:00
+16206,Mysuru Talguppa Intercity Express,Arsikere,08:55
+16206,Mysuru Talguppa Intercity Express,Birur,09:40
+16206,Mysuru Talguppa Intercity Express,Shivamogga Town,11:05
+16206,Mysuru Talguppa Intercity Express,Talguppa,13:25
+14805,Yesvantpur Barmer AC Express,Yesvantpur,12:00
+14805,Yesvantpur Barmer AC Express,Tumakuru,12:50
+14805,Yesvantpur Barmer AC Express,Arsikere,14:02
+14805,Yesvantpur Barmer AC Express,Birur,14:41
+14805,Yesvantpur Barmer AC Express,Davanagere,16:00
+14805,Yesvantpur Barmer AC Express,SSS Hubballi,19:50
+14805,Yesvantpur Barmer AC Express,Gadag,21:10
+14805,Yesvantpur Barmer AC Express,Bagalkot,23:10
+14805,Yesvantpur Barmer AC Express,Vijayapura,01:25
+14805,Yesvantpur Barmer AC Express,Solapur,03:55
+14805,Yesvantpur Barmer AC Express,Pune,08:15
+14805,Yesvantpur Barmer AC Express,Kalyan,10:38
+16217,Mysuru Sai Nagar Shridi Express,Mysuru,05:40
+16217,Mysuru Sai Nagar Shridi Express,KSR Bengaluru,08:40
+16217,Mysuru Sai Nagar Shridi Express,Yesvantpur,08:52
+16217,Mysuru Sai Nagar Shridi Express,Tumakuru,09:44
+16217,Mysuru Sai Nagar Shridi Express,Arsikere,11:00
+16217,Mysuru Sai Nagar Shridi Express,Birur,11:37
+16217,Mysuru Sai Nagar Shridi Express,Chikjajur,12:15
+16217,Mysuru Sai Nagar Shridi Express,Gadag,19:40
+16217,Mysuru Sai Nagar Shridi Express,Bagalkot,21:25
+16217,Mysuru Sai Nagar Shridi Express,Vijayapura,23:55
+16217,Mysuru Sai Nagar Shridi Express,Solapur,02:55
+17319,SSS Hubballi Hyderabad Express,SSS Hubballi,21:00
+17319,SSS Hubballi Hyderabad Express,Gadag,22:10
+17319,SSS Hubballi Hyderabad Express,Bagalkot,23:59
+17319,SSS Hubballi Hyderabad Express,Vijayapura,02:10
+20689,Yesvantpur Shivamogga Town SF Express,Yesvantpur,09:15
+20689,Yesvantpur Shivamogga Town SF Express,Tumakuru,10:07
+20689,Yesvantpur Shivamogga Town SF Express,Arsikere,11:20
+20689,Yesvantpur Shivamogga Town SF Express,Birur,12:04
+20689,Yesvantpur Shivamogga Town SF Express,Shivamogga Town,14:05
+20655,Yesvantpur SSS Hubballi Super Fast,Yesvantpur,00:15
+20655,Yesvantpur SSS Hubballi Super Fast,Tumakuru,01:02
+20655,Yesvantpur SSS Hubballi Super Fast,Arsikere,02:20
+20655,Yesvantpur SSS Hubballi Super Fast,Davanagere,04:07
+20655,Yesvantpur SSS Hubballi Super Fast,Harihar,04:24
+20655,Yesvantpur SSS Hubballi Super Fast,SSS Hubballi,07:15
+16541,Yesvantpur Pandharpu Express,Yesvantpur,18:15
+16541,Yesvantpur Pandharpu Express,Tumakuru,19:07
+16541,Yesvantpur Pandharpu Express,Arsikere,20:18
+16541,Yesvantpur Pandharpu Express,Birur,21:00
+16541,Yesvantpur Pandharpu Express,Davanagere,22:22
+16541,Yesvantpur Pandharpu Express,Harihar,22:38
+16541,Yesvantpur Pandharpu Express,SSS Hubballi,01:00
+16541,Yesvantpur Pandharpu Express,Dharwad,01:25
+16541,Yesvantpur Pandharpu Express,Belagavi,04:00
+16541,Yesvantpur Pandharpu Express,Miraj,08:50
+16541,Yesvantpur Pandharpu Express,Chhatrapati Shahu,11:35
+11426,Chhatrapati Shahu Maharaj (T) Pune Express,Chhatrapati Shahu,05:10
+11426,Chhatrapati Shahu Maharaj (T) Pune Express,Miraj,06:25
+11426,Chhatrapati Shahu Maharaj (T) Pune Express,Sangli,06:40
+11426,Chhatrapati Shahu Maharaj (T) Pune Express,Satara,09:25
+11426,Chhatrapati Shahu Maharaj (T) Pune Express,Pune,13:00
+20661,Bengaluru Dharwad Vande Bharat,KSR Bengaluru,05:45
+20661,Bengaluru Dharwad Vande Bharat,Yesvantpur,05:57
+20661,Bengaluru Dharwad Vande Bharat,Tumakuru,06:38
+20661,Bengaluru Dharwad Vande Bharat,Davanagere,09:17
+20661,Bengaluru Dharwad Vande Bharat,SSS Hubballi,11:05
+20661,Bengaluru Dharwad Vande Bharat,Dharwad,12:00
+12691,MGR Chennai Central Shivmogga Town Express,Tumakuru,07:20
+12691,MGR Chennai Central Shivmogga Town Express,Arsikere,09:28
+12691,MGR Chennai Central Shivmogga Town Express,Birur,10:12
+12691,MGR Chennai Central Shivmogga Town Express,Shivamogga Town,12:20
+20686,KSR Bengaluru Gandhi- dham SF Express,KSR Bengaluru,23:50
+20686,KSR Bengaluru Gandhi- dham SF Express,Yesvantpur,00:03
+20686,KSR Bengaluru Gandhi- dham SF Express,Tumakuru,00:49
+20686,KSR Bengaluru Gandhi- dham SF Express,Arsikere,02:00
+20686,KSR Bengaluru Gandhi- dham SF Express,Birur,02:37
+20686,KSR Bengaluru Gandhi- dham SF Express,Davanagere,03:49
+20686,KSR Bengaluru Gandhi- dham SF Express,Harihar,04:02
+20686,KSR Bengaluru Gandhi- dham SF Express,SSS Hubballi,06:30
+20686,KSR Bengaluru Gandhi- dham SF Express,Dharwad,06:55
+20686,KSR Bengaluru Gandhi- dham SF Express,Londa,08:30
+20686,KSR Bengaluru Gandhi- dham SF Express,Belagavi,10:10
+20686,KSR Bengaluru Gandhi- dham SF Express,Miraj,12:45
+20686,KSR Bengaluru Gandhi- dham SF Express,Miraj,12:45
+20686,KSR Bengaluru Gandhi- dham SF Express,Sangli,13:05
+20686,KSR Bengaluru Gandhi- dham SF Express,Satara d ,15:15
+20686,KSR Bengaluru Gandhi- dham SF Express,Pune,18:50
+20686,KSR Bengaluru Gandhi- dham SF Express,Kalyan,21:30
+20694,KSR Bengaluru Jodhpur SF Express,KSR Bengaluru,23:50
+20694,KSR Bengaluru Jodhpur SF Express,Yesvantpur,00:03
+20694,KSR Bengaluru Jodhpur SF Express,Tumakuru,00:49
+20694,KSR Bengaluru Jodhpur SF Express,Arsikere,02:00
+20694,KSR Bengaluru Jodhpur SF Express,Birur,02:37
+20694,KSR Bengaluru Jodhpur SF Express,Davanagere,03:49
+20694,KSR Bengaluru Jodhpur SF Express,Harihar,04:02
+20694,KSR Bengaluru Jodhpur SF Express,SSS Hubballi,06:30
+20694,KSR Bengaluru Jodhpur SF Express,Dharwad,06:55
+20694,KSR Bengaluru Jodhpur SF Express,Londa,08:30
+20694,KSR Bengaluru Jodhpur SF Express,Belagavi,10:10
+20694,KSR Bengaluru Jodhpur SF Express,Miraj,12:45
+20694,KSR Bengaluru Jodhpur SF Express,Miraj,12:45
+20694,KSR Bengaluru Jodhpur SF Express,Sangli,13:05
+20694,KSR Bengaluru Jodhpur SF Express,Satara d ,15:15
+20694,KSR Bengaluru Jodhpur SF Express,Pune,18:50
+20694,KSR Bengaluru Jodhpur SF Express,Kalyan,21:30
+11022,Tirunelveli  Dadar Express,Tumakuru,07:12
+11022,Tirunelveli  Dadar Express,Arsikere,09:15
+11022,Tirunelveli  Dadar Express,Birur,09:58
+11022,Tirunelveli  Dadar Express,Davanagere,11:20
+11022,Tirunelveli  Dadar Express,Harihar,11:37
+11022,Tirunelveli  Dadar Express,SSS Hubballi,14:05
+11022,Tirunelveli  Dadar Express,Dharwad,14:30
+11022,Tirunelveli  Dadar Express,Alnawar,15:11
+11022,Tirunelveli  Dadar Express,Londa,15:55
+11022,Tirunelveli  Dadar Express,Belagavi,17:00
+11022,Tirunelveli  Dadar Express,Miraj,20:45
+11022,Tirunelveli  Dadar Express,Miraj,20:45
+11022,Tirunelveli  Dadar Express,Sangli,21:00
+11022,Tirunelveli  Dadar Express,Satara,23:00
+11022,Tirunelveli  Dadar Express,Pune,02:10
+11022,Tirunelveli  Dadar Express,Kalyan d # Via Panvel,04:30
+11022,Tirunelveli  Dadar Express,Dadar,05:45
+11006,Puducherry Dadar Express,Tumakuru,07:12
+11006,Puducherry Dadar Express,Arsikere,09:15
+11006,Puducherry Dadar Express,Birur,09:58
+11006,Puducherry Dadar Express,Davanagere,11:20
+11006,Puducherry Dadar Express,Harihar,11:37
+11006,Puducherry Dadar Express,SSS Hubballi,14:05
+11006,Puducherry Dadar Express,Dharwad,14:30
+11006,Puducherry Dadar Express,Alnawar,15:11
+11006,Puducherry Dadar Express,Londa,15:55
+11006,Puducherry Dadar Express,Belagavi,17:00
+11006,Puducherry Dadar Express,Miraj,20:45
+11006,Puducherry Dadar Express,Miraj,20:45
+11006,Puducherry Dadar Express,Sangli,21:00
+11006,Puducherry Dadar Express,Satara,23:00
+11006,Puducherry Dadar Express,Pune,02:10
+11006,Puducherry Dadar Express,Kalyan d # Via Panvel,04:30
+11006,Puducherry Dadar Express,Dadar,05:45
+20693,Jodhpur KSR Bengaluru SF Express,Kalyan,22:45
+20693,Jodhpur KSR Bengaluru SF Express,Pune,01:50
+20693,Jodhpur KSR Bengaluru SF Express,Satara,04:35
+20693,Jodhpur KSR Bengaluru SF Express,Sangli,06:50
+20693,Jodhpur KSR Bengaluru SF Express,Miraj,07:25
+20693,Jodhpur KSR Bengaluru SF Express,Miraj,07:25
+20693,Jodhpur KSR Bengaluru SF Express,Belagavi,09:50
+20693,Jodhpur KSR Bengaluru SF Express,Londa,10:40
+20693,Jodhpur KSR Bengaluru SF Express,Dharwad,12:00
+20693,Jodhpur KSR Bengaluru SF Express,SSS Hubballi,12:50
+20693,Jodhpur KSR Bengaluru SF Express,Harihar,14:36
+20693,Jodhpur KSR Bengaluru SF Express,Davangere,14:50
+20693,Jodhpur KSR Bengaluru SF Express,Birur,16:15
+20693,Jodhpur KSR Bengaluru SF Express,Arsikere,17:15
+20693,Jodhpur KSR Bengaluru SF Express,Tumakuru,18:25
+20693,Jodhpur KSR Bengaluru SF Express,Yesvantpur,19:17
+20693,Jodhpur KSR Bengaluru SF Express,KSR Bengaluru,20:40
+20685,Gandhi- dham KSR Bengaluru SF Express,Kalyan,22:45
+20685,Gandhi- dham KSR Bengaluru SF Express,Pune,01:50
+20685,Gandhi- dham KSR Bengaluru SF Express,Satara,04:35
+20685,Gandhi- dham KSR Bengaluru SF Express,Sangli,06:50
+20685,Gandhi- dham KSR Bengaluru SF Express,Miraj,07:25
+20685,Gandhi- dham KSR Bengaluru SF Express,Miraj,07:25
+20685,Gandhi- dham KSR Bengaluru SF Express,Belagavi,09:50
+20685,Gandhi- dham KSR Bengaluru SF Express,Londa,10:40
+20685,Gandhi- dham KSR Bengaluru SF Express,Dharwad,12:00
+20685,Gandhi- dham KSR Bengaluru SF Express,SSS Hubballi,12:50
+20685,Gandhi- dham KSR Bengaluru SF Express,Harihar,14:36
+20685,Gandhi- dham KSR Bengaluru SF Express,Davangere,14:50
+20685,Gandhi- dham KSR Bengaluru SF Express,Birur,16:15
+20685,Gandhi- dham KSR Bengaluru SF Express,Arsikere,17:15
+20685,Gandhi- dham KSR Bengaluru SF Express,Tumakuru,18:25
+20685,Gandhi- dham KSR Bengaluru SF Express,Yesvantpur,19:17
+20685,Gandhi- dham KSR Bengaluru SF Express,KSR Bengaluru,20:40
+11005,Dadar Puducherry Express,Dadar,21:30
+11005,Dadar Puducherry Express,Kalyan,22:10
+11005,Dadar Puducherry Express,Pune,01:00
+11005,Dadar Puducherry Express,Satara,03:50
+11005,Dadar Puducherry Express,Sangli,06:00
+11005,Dadar Puducherry Express,Miraj,06:30
+11005,Dadar Puducherry Express,Miraj,06:30
+11005,Dadar Puducherry Express,Belagavi,09:00
+11005,Dadar Puducherry Express,Londa,10:00
+11005,Dadar Puducherry Express,Alnawar,10:40
+11005,Dadar Puducherry Express,Dharwad,11:30
+11005,Dadar Puducherry Express,SSS Hubballi,12:10
+11005,Dadar Puducherry Express,Harihar,14:00
+11005,Dadar Puducherry Express,Davangere,14:15
+11005,Dadar Puducherry Express,Birur,15:37
+11005,Dadar Puducherry Express,Arsikere,16:30
+11005,Dadar Puducherry Express,Tumakuru,17:57
+11021,Dadar Tirunelveli Express,Dadar,21:30
+11021,Dadar Tirunelveli Express,Kalyan,22:10
+11021,Dadar Tirunelveli Express,Pune,01:00
+11021,Dadar Tirunelveli Express,Satara,03:50
+11021,Dadar Tirunelveli Express,Sangli,06:00
+11021,Dadar Tirunelveli Express,Miraj,06:30
+11021,Dadar Tirunelveli Express,Miraj,06:30
+11021,Dadar Tirunelveli Express,Belagavi,09:00
+11021,Dadar Tirunelveli Express,Londa,10:00
+11021,Dadar Tirunelveli Express,Alnawar,10:40
+11021,Dadar Tirunelveli Express,Dharwad,11:30
+11021,Dadar Tirunelveli Express,SSS Hubballi,12:10
+11021,Dadar Tirunelveli Express,Harihar,14:00
+11021,Dadar Tirunelveli Express,Davangere,14:15
+11021,Dadar Tirunelveli Express,Birur,15:37
+11021,Dadar Tirunelveli Express,Arsikere,16:30
+11021,Dadar Tirunelveli Express,Tumakuru,17:57

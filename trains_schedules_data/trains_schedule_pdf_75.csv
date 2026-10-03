@@ -1,0 +1,283 @@
+train_num,train_name,halt_station_name,departure_time
+14717,Bikaner Harid- war Express,Saharanpur,13:15
+14717,Bikaner Harid- war Express,Roorkee,13:57
+14717,Bikaner Harid- war Express,Haridwar,15:00
+14341,Delhi Dehradun/ Mussoorie Express,Delhi,22:25
+14341,Delhi Dehradun/ Mussoorie Express,Ghaziabad,23:18
+14341,Delhi Dehradun/ Mussoorie Express,Gajraula,01:30
+14341,Delhi Dehradun/ Mussoorie Express,Bijnor,02:42
+14341,Delhi Dehradun/ Mussoorie Express,Najibabad,04:35
+14341,Delhi Dehradun/ Mussoorie Express,Laksar,05:15
+14341,Delhi Dehradun/ Mussoorie Express,Haridwar,05:55
+14341,Delhi Dehradun/ Mussoorie Express,Dehradun,09:05
+12055,New Delhi Dehradun Jan Shatabdi Express,New Delhi,15:20
+12055,New Delhi Dehradun Jan Shatabdi Express,Ghaziabad,15:55
+12055,New Delhi Dehradun Jan Shatabdi Express,Meerut City,16:34
+12055,New Delhi Dehradun Jan Shatabdi Express,Muzaffarnagar,17:14
+12055,New Delhi Dehradun Jan Shatabdi Express,Tapri,18:11
+12055,New Delhi Dehradun Jan Shatabdi Express,Roorkee,18:47
+12055,New Delhi Dehradun Jan Shatabdi Express,Haridwar,19:32
+12055,New Delhi Dehradun Jan Shatabdi Express,Dehradun,21:05
+18477,Puri Yog Nagari Rishikesh Kalinga Utkal Express,Nizamuddin,13:20
+18477,Puri Yog Nagari Rishikesh Kalinga Utkal Express,Ghaziabad,14:10
+18477,Puri Yog Nagari Rishikesh Kalinga Utkal Express,Meerut City,14:54
+18477,Puri Yog Nagari Rishikesh Kalinga Utkal Express,Muzaffarnagar,15:50
+18477,Puri Yog Nagari Rishikesh Kalinga Utkal Express,Tapri,17:20
+18477,Puri Yog Nagari Rishikesh Kalinga Utkal Express,Roorkee,18:35
+18477,Puri Yog Nagari Rishikesh Kalinga Utkal Express,Haridwar,20:18
+18477,Puri Yog Nagari Rishikesh Kalinga Utkal Express,Yog Nagri Rishikesh,21:50
+19565,Okha Dehradun Uttaranchal Express,New Delhi,10:40
+19565,Okha Dehradun Uttaranchal Express,Ghaziabad,11:15
+19565,Okha Dehradun Uttaranchal Express,Meerut City,12:02
+19565,Okha Dehradun Uttaranchal Express,Muzaffarnagar,12:46
+19565,Okha Dehradun Uttaranchal Express,Tapri,14:02
+19565,Okha Dehradun Uttaranchal Express,Roorkee,14:49
+19565,Okha Dehradun Uttaranchal Express,Haridwar,16:30
+19565,Okha Dehradun Uttaranchal Express,Dehradun,19:20
+12017,New Delhi Dehradun Shatabdi Express,New Delhi,06:45
+12017,New Delhi Dehradun Shatabdi Express,Ghaziabad,07:23
+12017,New Delhi Dehradun Shatabdi Express,Meerut City,08:03
+12017,New Delhi Dehradun Shatabdi Express,Muzaffarnagar,08:43
+12017,New Delhi Dehradun Shatabdi Express,Saharanpur,10:15
+12017,New Delhi Dehradun Shatabdi Express,Roorkee,10:53
+12017,New Delhi Dehradun Shatabdi Express,Haridwar,11:40
+12017,New Delhi Dehradun Shatabdi Express,Dehradun,12:55
+12038,Delhi Kotdwar Janshtabdi Express,Delhi,07:00
+12038,Delhi Kotdwar Janshtabdi Express,Ghaziabad,07:48
+12038,Delhi Kotdwar Janshtabdi Express,Gajraula,10:00
+12038,Delhi Kotdwar Janshtabdi Express,Bijnor,11:20
+12038,Delhi Kotdwar Janshtabdi Express,Najibabad,12:45
+12038,Delhi Kotdwar Janshtabdi Express,Kotdwara,13:30
+19019,Bandra (T) Haridwar Express,Nizamuddin,02:50
+19019,Bandra (T) Haridwar Express,Ghaziabad,03:28
+19019,Bandra (T) Haridwar Express,Meerut City,04:07
+19019,Bandra (T) Haridwar Express,Muzaffarnagar,04:50
+19019,Bandra (T) Haridwar Express,Tapri,05:43
+19019,Bandra (T) Haridwar Express,Roorkee,06:33
+19019,Bandra (T) Haridwar Express,Haridwar,07:50
+19031,Ahmedabad Haridwar Yoga Express,Delhi,05:05
+19031,Ahmedabad Haridwar Yoga Express,Ghaziabad,05:58
+19031,Ahmedabad Haridwar Yoga Express,Meerut City,06:53
+19031,Ahmedabad Haridwar Yoga Express,Muzaffarnagar,07:44
+19031,Ahmedabad Haridwar Yoga Express,Tapri,09:40
+19031,Ahmedabad Haridwar Yoga Express,Roorkee,10:38
+19031,Ahmedabad Haridwar Yoga Express,Haridwar,11:25
+19031,Ahmedabad Haridwar Yoga Express,Yog Nagri Rishikesh,12:25
+12401,Kota Dehradun Nanda Devi Express,Nizamuddin,23:50
+12401,Kota Dehradun Nanda Devi Express,Ghaziabad,00:28
+12401,Kota Dehradun Nanda Devi Express,Meerut City,01:06
+12401,Kota Dehradun Nanda Devi Express,Muzaffarnagar,01:46
+12401,Kota Dehradun Nanda Devi Express,Roorkee,03:08
+12401,Kota Dehradun Nanda Devi Express,Haridwar,04:02
+12401,Kota Dehradun Nanda Devi Express,Dehradun,05:45
+22659,Kochuveli Yog Nagari Rishikesh Express,Nizamuddin,06:00
+22659,Kochuveli Yog Nagari Rishikesh Express,Ghaziabad,06:48
+22659,Kochuveli Yog Nagari Rishikesh Express,Meerut City,07:48
+22659,Kochuveli Yog Nagari Rishikesh Express,Muzaffarnagar,08:34
+22659,Kochuveli Yog Nagari Rishikesh Express,Tapri,10:40
+22659,Kochuveli Yog Nagari Rishikesh Express,Roorkee,11:30
+22659,Kochuveli Yog Nagari Rishikesh Express,Haridwar,12:35
+22659,Kochuveli Yog Nagari Rishikesh Express,Yog Nagri Rishikesh,13:35
+12171,Lokmanya Tilak (T) Haridwar AC Express,Nizamuddin,06:55
+12171,Lokmanya Tilak (T) Haridwar AC Express,Meerut City,08:12
+12171,Lokmanya Tilak (T) Haridwar AC Express,Tapri,10:40
+12171,Lokmanya Tilak (T) Haridwar AC Express,Roorkee,11:30
+12171,Lokmanya Tilak (T) Haridwar AC Express,Haridwar,12:25
+12911,Valsad Haridwar Express,Nizamuddin,08:50
+12911,Valsad Haridwar Express,Ghaziabad,09:26
+12911,Valsad Haridwar Express,Meerut City,10:04
+12911,Valsad Haridwar Express,Tapri,12:40
+12911,Valsad Haridwar Express,Roorkee,13:28
+12911,Valsad Haridwar Express,Haridwar,14:25
+22917,Bandra Haridwar Express,Nizamuddin,08:50
+22917,Bandra Haridwar Express,Ghaziabad,09:26
+22917,Bandra Haridwar Express,Meerut City,10:04
+22917,Bandra Haridwar Express,Muzaffarnagar,10:44
+22917,Bandra Haridwar Express,Tapri,12:40
+22917,Bandra Haridwar Express,Roorkee,13:28
+22917,Bandra Haridwar Express,Haridwar,14:25
+14305,Delhi Haridwar Express,Delhi,10:20
+14305,Delhi Haridwar Express,Tapri,14:28
+14305,Delhi Haridwar Express,Roorkee,15:51
+14305,Delhi Haridwar Express,Haridwar,17:55
+14303,Delhi Haridwar Express,Delhi,17:45
+14303,Delhi Haridwar Express,Ghaziabad,18:26
+14303,Delhi Haridwar Express,Meerut City,19:17
+14303,Delhi Haridwar Express,Muzaffarnagar,20:13
+14303,Delhi Haridwar Express,Tapri,21:27
+14303,Delhi Haridwar Express,Roorkee,22:34
+14303,Delhi Haridwar Express,Haridwar,23:30
+22457,Anand Vihar (T) Dehradun Vande Bharat Express,Anand Vihar (T),17:50
+22457,Anand Vihar (T) Dehradun Vande Bharat Express,Meerut City,18:38
+22457,Anand Vihar (T) Dehradun Vande Bharat Express,Muzaffarnagar,19:10
+22457,Anand Vihar (T) Dehradun Vande Bharat Express,Saharanpur,20:05
+22457,Anand Vihar (T) Dehradun Vande Bharat Express,Roorkee,20:33
+22457,Anand Vihar (T) Dehradun Vande Bharat Express,Haridwar,21:19
+22457,Anand Vihar (T) Dehradun Vande Bharat Express,Dehradun,22:35
+19271,Bhavnagar Haridwar Express,Saharanpur,02:05
+19271,Bhavnagar Haridwar Express,Roorkee,02:51
+19271,Bhavnagar Haridwar Express,Haridwar,03:40
+14089,Anand Vihar (T) Kotdwara Express,Anand Vihar (T),21:45
+14089,Anand Vihar (T) Kotdwara Express,Meerut City,22:52
+14089,Anand Vihar (T) Kotdwara Express,Muzaffarnagar,23:32
+14089,Anand Vihar (T) Kotdwara Express,Tapri,00:38
+14089,Anand Vihar (T) Kotdwara Express,Roorkee,01:18
+14089,Anand Vihar (T) Kotdwara Express,Najibabad,02:55
+14089,Anand Vihar (T) Kotdwara Express,Kotdwara,03:55
+7363,SSS Hubballi Yog Nagri Rishikesh Special,Nizamuddin,14:40
+7363,SSS Hubballi Yog Nagri Rishikesh Special,Ghaziabad,15:42
+7363,SSS Hubballi Yog Nagri Rishikesh Special,Meerut City,16:22
+7363,SSS Hubballi Yog Nagri Rishikesh Special,Muzaffarnagar,17:28
+7363,SSS Hubballi Yog Nagri Rishikesh Special,Tapri,18:32
+7363,SSS Hubballi Yog Nagri Rishikesh Special,Roorkee,19:40
+7363,SSS Hubballi Yog Nagri Rishikesh Special,Haridwar,22:05
+7363,SSS Hubballi Yog Nagri Rishikesh Special,Yog Nagri Rishikesh,23:30
+14718,Haridwar Bikaner Express,Haridwar,16:30
+14718,Haridwar Bikaner Express,Roorkee,17:12
+14718,Haridwar Bikaner Express,Saharanpur,18:17
+12056,Dehradun New Delhi Jan Shatabdi Express,Dehradun,05:00
+12056,Dehradun New Delhi Jan Shatabdi Express,Haridwar,06:29
+12056,Dehradun New Delhi Jan Shatabdi Express,Roorkee,07:09
+12056,Dehradun New Delhi Jan Shatabdi Express,Tapri,08:01
+12056,Dehradun New Delhi Jan Shatabdi Express,Muzaffarnagar,08:42
+12056,Dehradun New Delhi Jan Shatabdi Express,Meerut City,09:23
+12056,Dehradun New Delhi Jan Shatabdi Express,Ghaziabad,10:18
+12056,Dehradun New Delhi Jan Shatabdi Express,New Delhi,11:05
+18478,Yog Nagari Ri- shikesh Puri Kalinga Utkal Express,Yog Nagri Rishikesh,05:35
+18478,Yog Nagari Ri- shikesh Puri Kalinga Utkal Express,Haridwar,06:54
+18478,Yog Nagari Ri- shikesh Puri Kalinga Utkal Express,Roorkee,07:46
+18478,Yog Nagari Ri- shikesh Puri Kalinga Utkal Express,Tapri,08:31
+18478,Yog Nagari Ri- shikesh Puri Kalinga Utkal Express,Muzaffarnagar,09:12
+18478,Yog Nagari Ri- shikesh Puri Kalinga Utkal Express,Meerut City,10:04
+18478,Yog Nagari Ri- shikesh Puri Kalinga Utkal Express,Ghaziabad,11:01
+18478,Yog Nagari Ri- shikesh Puri Kalinga Utkal Express,Nizamuddin,12:00
+19566,Dehradun Okha Uttaranchal Express,Dehradun,05:55
+19566,Dehradun Okha Uttaranchal Express,Haridwar,07:45
+19566,Dehradun Okha Uttaranchal Express,Roorkee,08:34
+19566,Dehradun Okha Uttaranchal Express,Tapri,09:40
+19566,Dehradun Okha Uttaranchal Express,Muzaffarnagar,10:23
+19566,Dehradun Okha Uttaranchal Express,Meerut City,11:02
+19566,Dehradun Okha Uttaranchal Express,Ghaziabad,12:10
+19566,Dehradun Okha Uttaranchal Express,New Delhi,13:25
+19020,Haridwar Bandra (T) Express,Haridwar,13:30
+19020,Haridwar Bandra (T) Express,Roorkee,14:33
+19020,Haridwar Bandra (T) Express,Tapri,15:36
+19020,Haridwar Bandra (T) Express,Muzaffarnagar,16:13
+19020,Haridwar Bandra (T) Express,Meerut City,17:02
+19020,Haridwar Bandra (T) Express,Ghaziabad,18:02
+19020,Haridwar Bandra (T) Express,Nizamuddin,18:55
+12037,Kotdwara Delhi Siddhabali Janshatabdi Express,Kotdwara,15:35
+12037,Kotdwara Delhi Siddhabali Janshatabdi Express,Najibabad,16:47
+12037,Kotdwara Delhi Siddhabali Janshatabdi Express,Bijnor,17:30
+12037,Kotdwara Delhi Siddhabali Janshatabdi Express,Gajraula,19:50
+12037,Kotdwara Delhi Siddhabali Janshatabdi Express,Ghaziabad,21:33
+12037,Kotdwara Delhi Siddhabali Janshatabdi Express,Delhi,22:20
+12018,Dehradun New Delhi Shatabdi Express,Dehradun,16:55
+12018,Dehradun New Delhi Shatabdi Express,Haridwar,18:04
+12018,Dehradun New Delhi Shatabdi Express,Roorkee,18:44
+12018,Dehradun New Delhi Shatabdi Express,Saharanpur,19:55
+12018,Dehradun New Delhi Shatabdi Express,Muzaffarnagar,20:40
+12018,Dehradun New Delhi Shatabdi Express,Meerut City,21:20
+12018,Dehradun New Delhi Shatabdi Express,Ghaziabad,22:04
+12018,Dehradun New Delhi Shatabdi Express,New Delhi,22:50
+14342,Dehradun Delhi Mussoorie Express,Dehradun,21:20
+14342,Dehradun Delhi Mussoorie Express,Haridwar,23:16
+14342,Dehradun Delhi Mussoorie Express,Laksar,24:00:00
+14342,Dehradun Delhi Mussoorie Express,Najibabad,01:10
+14342,Dehradun Delhi Mussoorie Express,Bijnor,01:54
+14342,Dehradun Delhi Mussoorie Express,Gajraula,04:15
+14342,Dehradun Delhi Mussoorie Express,Ghaziabad,06:28
+14342,Dehradun Delhi Mussoorie Express,Delhi,07:20
+19032,Yog Nagari Rishikesh Ahmedabad Yoga Express,Yog Nagri Rishikesh,14:55
+19032,Yog Nagari Rishikesh Ahmedabad Yoga Express,Haridwar,15:52
+19032,Yog Nagari Rishikesh Ahmedabad Yoga Express,Roorkee,16:40
+19032,Yog Nagari Rishikesh Ahmedabad Yoga Express,Tapri,17:49
+19032,Yog Nagari Rishikesh Ahmedabad Yoga Express,Muzaffarnagar,18:30
+19032,Yog Nagari Rishikesh Ahmedabad Yoga Express,Meerut City,19:25
+19032,Yog Nagari Rishikesh Ahmedabad Yoga Express,Ghaziabad,20:58
+19032,Yog Nagari Rishikesh Ahmedabad Yoga Express,Delhi,22:25
+12402,Dehradun Kota Nanda Devi Express,Dehradun,22:45
+12402,Dehradun Kota Nanda Devi Express,Haridwar,00:14
+12402,Dehradun Kota Nanda Devi Express,Roorkee,00:54
+12402,Dehradun Kota Nanda Devi Express,Muzaffarnagar,02:13
+12402,Dehradun Kota Nanda Devi Express,Meerut City,02:55
+12402,Dehradun Kota Nanda Devi Express,Ghaziabad,03:49
+12402,Dehradun Kota Nanda Devi Express,Nizamuddin,04:45
+22660,Yog Nagari Rishikesh Kochuveli Express,Yog Nagri Rishikesh,06:15
+22660,Yog Nagari Rishikesh Kochuveli Express,Haridwar,07:45
+22660,Yog Nagari Rishikesh Kochuveli Express,Roorkee,08:34
+22660,Yog Nagari Rishikesh Kochuveli Express,Tapri,09:40
+22660,Yog Nagari Rishikesh Kochuveli Express,Muzaffarnagar,10:23
+22660,Yog Nagari Rishikesh Kochuveli Express,Meerut City,11:02
+22660,Yog Nagari Rishikesh Kochuveli Express,Ghaziabad,12:10
+22660,Yog Nagari Rishikesh Kochuveli Express,Nizamuddin,13:20
+12912,Haridwar Valsad Express,Haridwar,17:20
+12912,Haridwar Valsad Express,Roorkee,18:00
+12912,Haridwar Valsad Express,Tapri,19:00
+12912,Haridwar Valsad Express,Meerut City,20:17
+12912,Haridwar Valsad Express,Ghaziabad,21:20
+12912,Haridwar Valsad Express,Nizamuddin,22:15
+12172,Haridwar Lokmanya Tilak (T) AC Express,Haridwar,17:20
+12172,Haridwar Lokmanya Tilak (T) AC Express,Roorkee,18:00
+12172,Haridwar Lokmanya Tilak (T) AC Express,Tapri,19:00
+12172,Haridwar Lokmanya Tilak (T) AC Express,Meerut City,20:12
+12172,Haridwar Lokmanya Tilak (T) AC Express,Nizamuddin,22:40
+22918,Haridwar Bandra Express,Haridwar,17:20
+22918,Haridwar Bandra Express,Roorkee,18:00
+22918,Haridwar Bandra Express,Tapri,19:00
+22918,Haridwar Bandra Express,Muzaffarnagar,19:37
+22918,Haridwar Bandra Express,Meerut City,20:17
+22918,Haridwar Bandra Express,Ghaziabad,21:20
+22918,Haridwar Bandra Express,Nizamuddin,22:15
+14306,Haridwar Delhi Express,Haridwar,07:30
+14306,Haridwar Delhi Express,Roorkee,08:36
+14306,Haridwar Delhi Express,Tapri,10:16
+14306,Haridwar Delhi Express,Delhi,15:05
+14304,Haridwar Delhi Express,Haridwar,09:00
+14304,Haridwar Delhi Express,Roorkee,09:43
+14304,Haridwar Delhi Express,Tapri,10:45
+14304,Haridwar Delhi Express,Muzaffarnagar,11:30
+14304,Haridwar Delhi Express,Meerut City,12:43
+14304,Haridwar Delhi Express,Ghaziabad,13:50
+14304,Haridwar Delhi Express,Delhi,14:40
+22458,Dehradun Anand Vihar (T) Vande Bharat Exp,Dehradun,07:00
+22458,Dehradun Anand Vihar (T) Vande Bharat Exp,Haridwar,08:04
+22458,Dehradun Anand Vihar (T) Vande Bharat Exp,Roorkee,08:47
+22458,Dehradun Anand Vihar (T) Vande Bharat Exp,Saharanpur,09:32
+22458,Dehradun Anand Vihar (T) Vande Bharat Exp,Muzaffarnagar,10:09
+22458,Dehradun Anand Vihar (T) Vande Bharat Exp,Meerut City,10:39
+22458,Dehradun Anand Vihar (T) Vande Bharat Exp,Anand Vihar (T),11:45
+19272,Haridwar Bhavnagar Express,Haridwar,05:05
+19272,Haridwar Bhavnagar Express,Roorkee,06:07
+19272,Haridwar Bhavnagar Express,Saharanpur,07:05
+14090,Kotdwara Anand Vihar (T) Express,Kotdwara,21:50
+14090,Kotdwara Anand Vihar (T) Express,Najibabad,23:00
+14090,Kotdwara Anand Vihar (T) Express,Roorkee,00:15
+14090,Kotdwara Anand Vihar (T) Express,Tapri,01:15
+14090,Kotdwara Anand Vihar (T) Express,Muzaffarnagar,01:57
+14090,Kotdwara Anand Vihar (T) Express,Meerut City,02:40
+14090,Kotdwara Anand Vihar (T) Express,Anand Vihar (T),04:35
+7364,Yog Nagri Rishikesh SSS Hubballi Special,Yog Nagri Rishikesh,06:15
+7364,Yog Nagri Rishikesh SSS Hubballi Special,Haridwar,07:45
+7364,Yog Nagri Rishikesh SSS Hubballi Special,Roorkee,08:34
+7364,Yog Nagri Rishikesh SSS Hubballi Special,Tapri,09:40
+7364,Yog Nagri Rishikesh SSS Hubballi Special,Muzaffarnagar,10:25
+7364,Yog Nagri Rishikesh SSS Hubballi Special,Meerut City,11:14
+7364,Yog Nagri Rishikesh SSS Hubballi Special,Ghaziabad,12:20
+7364,Yog Nagri Rishikesh SSS Hubballi Special,Nizamuddin,13:30
+14309,Lakshmibai Nagar Yog Nagari Rishikesh Ujjaini Express,Nizamuddin,09:50
+14309,Lakshmibai Nagar Yog Nagari Rishikesh Ujjaini Express,Ghaziabad,10:25
+14309,Lakshmibai Nagar Yog Nagari Rishikesh Ujjaini Express,Meerut City,11:11
+14309,Lakshmibai Nagar Yog Nagari Rishikesh Ujjaini Express,Muzaffarnagar,11:50
+14309,Lakshmibai Nagar Yog Nagari Rishikesh Ujjaini Express,Saharanpur,13:55
+14309,Lakshmibai Nagar Yog Nagari Rishikesh Ujjaini Express,Roorkee,14:49
+14309,Lakshmibai Nagar Yog Nagari Rishikesh Ujjaini Express,Haridwar,16:30
+14309,Lakshmibai Nagar Yog Nagari Rishikesh Ujjaini Express,Yog Nagri Rishikesh,18:45
+14317,Lakshmibai Nagar Yog Nagari Rishikesh Express,Nizamuddin,09:50
+14317,Lakshmibai Nagar Yog Nagari Rishikesh Express,Ghaziabad,10:25
+14317,Lakshmibai Nagar Yog Nagari Rishikesh Express,Meerut City,11:11
+14317,Lakshmibai Nagar Yog Nagari Rishikesh Express,Muzaffarnagar,11:50
+14317,Lakshmibai Nagar Yog Nagari Rishikesh Express,Saharanpur,13:55
+14317,Lakshmibai Nagar Yog Nagari Rishikesh Express,Roorkee,14:49
+14317,Lakshmibai Nagar Yog Nagari Rishikesh Express,Haridwar,16:30
+14317,Lakshmibai Nagar Yog Nagari Rishikesh Express,Yog Nagri Rishikesh,18:45

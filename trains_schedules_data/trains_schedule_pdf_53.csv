@@ -1,0 +1,930 @@
+train_num,train_name,halt_station_name,departure_time
+12788,Nagarsol Narsapur Express,Nagarsol,12:50
+12788,Nagarsol Narsapur Express,Chhatrapati,14:05
+12788,Nagarsol Narsapur Express,Jalna,15:05
+12788,Nagarsol Narsapur Express,Parbhani,16:45
+12788,Nagarsol Narsapur Express,Purna,17:25
+12788,Nagarsol Narsapur Express,Hazur Sahib,18:10
+12788,Nagarsol Narsapur Express,Mudkhed,18:40
+12788,Nagarsol Narsapur Express,Nizamabad,20:00
+12788,Nagarsol Narsapur Express,Secunderabad,23:50
+17232,Nagarsol Narsapur Express,Nagarsol,12:50
+17232,Nagarsol Narsapur Express,Chhatrapati,14:05
+17232,Nagarsol Narsapur Express,Jalna,15:05
+17232,Nagarsol Narsapur Express,Parbhani,16:45
+17232,Nagarsol Narsapur Express,Purna,17:25
+17232,Nagarsol Narsapur Express,Hazur Sahib,18:10
+17232,Nagarsol Narsapur Express,Mudkhed,18:40
+17232,Nagarsol Narsapur Express,Dharmabad,19:20
+17232,Nagarsol Narsapur Express,Nizamabad,20:00
+17232,Nagarsol Narsapur Express,Secunderabad,23:30
+12766,Amravati Tirupati Express,Amravati,06:45
+12766,Amravati Tirupati Express,Badnera,07:02
+12766,Amravati Tirupati Express,Akola,08:20
+12766,Amravati Tirupati Express,Hingoli,09:55
+12766,Amravati Tirupati Express,Purna,11:50
+12766,Amravati Tirupati Express,Hazur Sahib,12:25
+12766,Amravati Tirupati Express,Mudkhed,13:05
+12766,Amravati Tirupati Express,Dharmabad,13:40
+12766,Amravati Tirupati Express,Nizamabad,14:20
+12766,Amravati Tirupati Express,Kacheguda,17:30
+17687,Manmad Dharmabad Express,Manmad,15:00
+17687,Manmad Dharmabad Express,Nagarsol,15:35
+17687,Manmad Dharmabad Express,Chhatrapati,17:50
+17687,Manmad Dharmabad Express,Jalna,18:42
+17687,Manmad Dharmabad Express,Parbhani,20:45
+17687,Manmad Dharmabad Express,Purna,21:25
+17687,Manmad Dharmabad Express,Hazur Sahib,22:25
+17687,Manmad Dharmabad Express,Mudkhed,23:25
+17687,Manmad Dharmabad Express,Dharmabad,01:05
+17205,Sai Nagar Shirdi Kak­ inada Port Express,Sai Nagar Shirdi,17:00
+17205,Sai Nagar Shirdi Kak­ inada Port Express,Manmad,18:40
+17205,Sai Nagar Shirdi Kak­ inada Port Express,Nagarsol,19:25
+17205,Sai Nagar Shirdi Kak­ inada Port Express,Chhatrapati,20:50
+17205,Sai Nagar Shirdi Kak­ inada Port Express,Jalna,21:45
+17205,Sai Nagar Shirdi Kak­ inada Port Express,Parbhani,00:05
+17205,Sai Nagar Shirdi Kak­ inada Port Express,Bidar,05:02
+17205,Sai Nagar Shirdi Kak­ inada Port Express,Vikarabad,06:45
+17205,Sai Nagar Shirdi Kak­ inada Port Express,Secunderabad,08:30
+17207,Sai Nagar Shirdi Machli­ patnam Express,Sai Nagar Shirdi,17:00
+17207,Sai Nagar Shirdi Machli­ patnam Express,Manmad,18:40
+17207,Sai Nagar Shirdi Machli­ patnam Express,Nagarsol,19:25
+17207,Sai Nagar Shirdi Machli­ patnam Express,Chhatrapati,20:50
+17207,Sai Nagar Shirdi Machli­ patnam Express,Jalna,21:45
+17207,Sai Nagar Shirdi Machli­ patnam Express,Parbhani,00:05
+17207,Sai Nagar Shirdi Machli­ patnam Express,Bidar,05:02
+17207,Sai Nagar Shirdi Machli­ patnam Express,Vikarabad,06:45
+17207,Sai Nagar Shirdi Machli­ patnam Express,Secunderabad,08:30
+17001,Sai Nagar Shirdi Secun­ derabad Express,Sai Nagar Shirdi,17:00
+17001,Sai Nagar Shirdi Secun­ derabad Express,Manmad,18:40
+17001,Sai Nagar Shirdi Secun­ derabad Express,Nagarsol,19:25
+17001,Sai Nagar Shirdi Secun­ derabad Express,Chhatrapati,20:50
+17001,Sai Nagar Shirdi Secun­ derabad Express,Jalna,21:45
+17001,Sai Nagar Shirdi Secun­ derabad Express,Parbhani,00:05
+17001,Sai Nagar Shirdi Secun­ derabad Express,Bidar,05:02
+17001,Sai Nagar Shirdi Secun­ derabad Express,Vikarabad,06:45
+17001,Sai Nagar Shirdi Secun­ derabad Express,Secunderabad,08:55
+17063,Manmad Kachegu­ da Ajanta Express,Manmad,20:40
+17063,Manmad Kachegu­ da Ajanta Express,Nagarsol,21:20
+17063,Manmad Kachegu­ da Ajanta Express,Chhatrapati,22:45
+17063,Manmad Kachegu­ da Ajanta Express,Jalna,23:47
+17063,Manmad Kachegu­ da Ajanta Express,Parbhani,01:40
+17063,Manmad Kachegu­ da Ajanta Express,Purna,02:20
+17063,Manmad Kachegu­ da Ajanta Express,Hazur Sahib,03:05
+17063,Manmad Kachegu­ da Ajanta Express,Mudkhed,03:45
+17063,Manmad Kachegu­ da Ajanta Express,Dharmabad,04:35
+17063,Manmad Kachegu­ da Ajanta Express,Nizamabad,05:20
+17063,Manmad Kachegu­ da Ajanta Express,Kacheguda,09:45
+16734,Okha Rames­ waram Express,Manmad,05:05
+16734,Okha Rames­ waram Express,Nagarsol,05:55
+16734,Okha Rames­ waram Express,Chhatrapati,07:45
+16734,Okha Rames­ waram Express,Jalna,08:50
+16734,Okha Rames­ waram Express,Parbhani,10:50
+16734,Okha Rames­ waram Express,Purna,11:35
+16734,Okha Rames­ waram Express,Hazur Sahib,12:20
+16734,Okha Rames­ waram Express,Mudkhed,13:00
+16734,Okha Rames­ waram Express,Nizamabad,14:20
+16734,Okha Rames­ waram Express,Kacheguda,17:30
+17640,Akola Ka­ cheguda Express,Akola,09:30
+17640,Akola Ka­ cheguda Express,Hingoli,11:00
+17640,Akola Ka­ cheguda Express,Purna,12:05
+17640,Akola Ka­ cheguda Express,Hazur Sahib,13:50
+17640,Akola Ka­ cheguda Express,Mudkhed,14:45
+17640,Akola Ka­ cheguda Express,Dharmabad,15:30
+17640,Akola Ka­ cheguda Express,Nizamabad,16:30
+17640,Akola Ka­ cheguda Express,Kacheguda,20:15
+17642,Narkher Ke­ cheguda Express,Narkher,05:00
+17642,Narkher Ke­ cheguda Express,Badnera,07:43
+17642,Narkher Ke­ cheguda Express,Akola,09:15
+17642,Narkher Ke­ cheguda Express,Hingoli,11:00
+17642,Narkher Ke­ cheguda Express,Purna,13:05
+17642,Narkher Ke­ cheguda Express,Hazur Sahib,13:50
+17642,Narkher Ke­ cheguda Express,Mudkhed,14:45
+17642,Narkher Ke­ cheguda Express,Dharmabad,15:30
+17642,Narkher Ke­ cheguda Express,Nizamabad,16:30
+17642,Narkher Ke­ cheguda Express,Kacheguda,20:15
+17610,Purna Patna Ex­ press,Purna,14:10
+17610,Purna Patna Ex­ press,Hazur Sahib,14:42
+17610,Purna Patna Ex­ press,Adilabad,18:20
+17610,Purna Patna Ex­ press,Majri,21:22
+17610,Purna Patna Ex­ press,Nagpur,00:25
+12486,Sri Gan­ ganagar Hazur Sahib Nanded Express,Akola,17:00
+12486,Sri Gan­ ganagar Hazur Sahib Nanded Express,Hingoli,18:50
+12486,Sri Gan­ ganagar Hazur Sahib Nanded Express,Purna,20:40
+12486,Sri Gan­ ganagar Hazur Sahib Nanded Express,Hazur Sahib,21:40
+12440,Sri Gan­ ganagar Hazur Sahib Nanded Express,Akola,17:00
+12440,Sri Gan­ ganagar Hazur Sahib Nanded Express,Hingoli,18:50
+12440,Sri Gan­ ganagar Hazur Sahib Nanded Express,Purna,20:40
+12440,Sri Gan­ ganagar Hazur Sahib Nanded Express,Hazur Sahib,21:40
+12719,Jaipur Hyder­ abad Express,Akola,15:10
+12719,Jaipur Hyder­ abad Express,Hingoli,17:00
+12719,Jaipur Hyder­ abad Express,Purna,19:00
+12719,Jaipur Hyder­ abad Express,Hazur Sahib,19:40
+12719,Jaipur Hyder­ abad Express,Mudkhed,20:05
+12719,Jaipur Hyder­ abad Express,Nizamabad,21:25
+12719,Jaipur Hyder­ abad Express,Secunderabad,00:10
+12719,Jaipur Hyder­ abad Express,Hyderabad,00:55
+7019,Jaipur Hyder­ abad Special,Akola,15:10
+7019,Jaipur Hyder­ abad Special,Hingoli,17:00
+7019,Jaipur Hyder­ abad Special,Purna,19:10
+7019,Jaipur Hyder­ abad Special,Hazur Sahib,20:10
+7019,Jaipur Hyder­ abad Special,Mudkhed,20:55
+7019,Jaipur Hyder­ abad Special,Nizamabad,23:50
+7019,Jaipur Hyder­ abad Special,Secunderabad,03:00
+7019,Jaipur Hyder­ abad Special,Hyderabad,05:00
+7054,Bikaner Ka­ chegu­ da Special,Akola,17:40
+7054,Bikaner Ka­ chegu­ da Special,Hingoli,19:55
+7054,Bikaner Ka­ chegu­ da Special,Purna,22:20
+7054,Bikaner Ka­ chegu­ da Special,Hazur Sahib,23:20
+7054,Bikaner Ka­ chegu­ da Special,Mudkhed,00:35
+7054,Bikaner Ka­ chegu­ da Special,Dharmabad,02:30
+7054,Bikaner Ka­ chegu­ da Special,Nizamabad,03:20
+7054,Bikaner Ka­ chegu­ da Special,Secunderabad,04:10
+7054,Bikaner Ka­ chegu­ da Special,Kacheguda,07:15
+12767,Hazur Sahib Nanded Sant­ ragachi Express,Hazur Sahib,15:25
+12767,Hazur Sahib Nanded Sant­ ragachi Express,Mudkhed,16:01
+12767,Hazur Sahib Nanded Sant­ ragachi Express,Adilabad,19:40
+12767,Hazur Sahib Nanded Sant­ ragachi Express,Majri,22:10
+12767,Hazur Sahib Nanded Sant­ ragachi Express,Nagpur,01:40
+17606,BGKT Ka­ cheguda Express,Hingoli,04:55
+17606,BGKT Ka­ cheguda Express,Purna,07:05
+17606,BGKT Ka­ cheguda Express,Hazur Sahib,08:00
+17606,BGKT Ka­ cheguda Express,Nizamabad,11:02
+17606,BGKT Ka­ cheguda Express,Kacheguda,15:40
+20810,Hazur Sahib Nanded Sambalpur Nagavali Express,Hazur Sahib Nanded,16:30
+20810,Hazur Sahib Nanded Sambalpur Nagavali Express,Mudkhed,17:00
+20810,Hazur Sahib Nanded Sambalpur Nagavali Express,Nizamabad,18:25
+20812,Hazur Sahib Nanded Visakhapa­ tnam Express,Hazur Sahib Nanded,16:30
+20812,Hazur Sahib Nanded Visakhapa­ tnam Express,Mudkhed,17:00
+20812,Hazur Sahib Nanded Visakhapa­ tnam Express,Nizamabad,18:25
+17662,Nagarsol Ka­ cheguda Express,Nagarsol,05:15
+17662,Nagarsol Ka­ cheguda Express,Chhatrapati Sambhaji,07:10
+17662,Nagarsol Ka­ cheguda Express,Jalna,08:40
+17662,Nagarsol Ka­ cheguda Express,Parbhani,11:35
+17662,Nagarsol Ka­ cheguda Express,Purna,12:25
+17662,Nagarsol Ka­ cheguda Express,Hazur Sahib Nanded,13:20
+17662,Nagarsol Ka­ cheguda Express,Mudkhed,14:15
+17662,Nagarsol Ka­ cheguda Express,Dharmabad,15:10
+17662,Nagarsol Ka­ cheguda Express,Nizamabad,16:00
+17662,Nagarsol Ka­ cheguda Express,Kacheguda,22:45
+17664,Hazur Sahib Nanded­ Raichur Express,Hazur Sahib Nanded,22:40
+17664,Hazur Sahib Nanded­ Raichur Express,Mudkhed,23:07
+17664,Hazur Sahib Nanded­ Raichur Express,Dharmabad,00:10
+17664,Hazur Sahib Nanded­ Raichur Express,Nizamabad,01:25
+17664,Hazur Sahib Nanded­ Raichur Express,Secunderabad,05:10
+17664,Hazur Sahib Nanded­ Raichur Express,Hyderabad,11:30
+17612,Mumbai CSMT­ Hazur Sahib Nanded Express,Mumbai C SMT,18:45
+17612,Mumbai CSMT­ Hazur Sahib Nanded Express,Kalyan,19:45
+17612,Mumbai CSMT­ Hazur Sahib Nanded Express,Igatpuri,21:22
+17612,Mumbai CSMT­ Hazur Sahib Nanded Express,Nasik Road,22:08
+17612,Mumbai CSMT­ Hazur Sahib Nanded Express,Manmad,23:25
+17612,Mumbai CSMT­ Hazur Sahib Nanded Express,Chhatrapati Sambhaji,01:50
+17612,Mumbai CSMT­ Hazur Sahib Nanded Express,Jalna,03:10
+17612,Mumbai CSMT­ Hazur Sahib Nanded Express,Parbhani,05:47
+17612,Mumbai CSMT­ Hazur Sahib Nanded Express,Purna,06:25
+17612,Mumbai CSMT­ Hazur Sahib Nanded Express,Hazur Sahib Nanded,07:20
+17254,Aurang­ abad­ Guntur Express,Chhatrapati Sambhaji,16:15
+17254,Aurang­ abad­ Guntur Express,Jalna,17:02
+17254,Aurang­ abad­ Guntur Express,Parbhani,19:45
+17254,Aurang­ abad­ Guntur Express,Bidar,01:20
+17254,Aurang­ abad­ Guntur Express,Vikarabad,02:55
+17254,Aurang­ abad­ Guntur Express,Secunderabad,05:15
+19713,Jaipur Kurnool City Express,Badnera,18:55
+19713,Jaipur Kurnool City Express,Akola,20:25
+19713,Jaipur Kurnool City Express,Hingoli,22:00
+19713,Jaipur Kurnool City Express,Purna,23:55
+19713,Jaipur Kurnool City Express,Hazur Sahib Nanded,00:45
+19713,Jaipur Kurnool City Express,Mudkhed,01:20
+19713,Jaipur Kurnool City Express,Nizamabad,02:50
+19713,Jaipur Kurnool City Express,Kacheguda,06:15
+19713,Jaipur Kurnool City Express,Kurnool City,11:10
+17418,Sai Nagar Shirdi Tirupati Express,Sai Nagar Shirdi,19:35
+17418,Sai Nagar Shirdi Tirupati Express,Manmad,21:25
+17418,Sai Nagar Shirdi Tirupati Express,Nagarsol,22:00
+17418,Sai Nagar Shirdi Tirupati Express,Chhatrapati Sambhaji,23:15
+17418,Sai Nagar Shirdi Tirupati Express,Jalna,00:10
+17418,Sai Nagar Shirdi Tirupati Express,Parbhani,02:10
+17418,Sai Nagar Shirdi Tirupati Express,Purna,02:40
+17418,Sai Nagar Shirdi Tirupati Express,Hazur Sahib Nanded,03:20
+17418,Sai Nagar Shirdi Tirupati Express,Dharmabad,05:10
+17418,Sai Nagar Shirdi Tirupati Express,Nizamabad,05:50
+17418,Sai Nagar Shirdi Tirupati Express,Secunderabad,09:05
+18504,Sai Nagar Shirdi Visakhapa­ tnam Express,Sai Nagar Shirdi,19:35
+18504,Sai Nagar Shirdi Visakhapa­ tnam Express,Manmad,21:25
+18504,Sai Nagar Shirdi Visakhapa­ tnam Express,Nagarsol,22:00
+18504,Sai Nagar Shirdi Visakhapa­ tnam Express,Chhatrapati Sambhaji,23:15
+18504,Sai Nagar Shirdi Visakhapa­ tnam Express,Jalna,00:10
+18504,Sai Nagar Shirdi Visakhapa­ tnam Express,Parbhani,02:10
+18504,Sai Nagar Shirdi Visakhapa­ tnam Express,Purna,02:45
+18504,Sai Nagar Shirdi Visakhapa­ tnam Express,Hazur Sahib Nanded,03:30
+18504,Sai Nagar Shirdi Visakhapa­ tnam Express,Mudkhed,04:20
+18504,Sai Nagar Shirdi Visakhapa­ tnam Express,Nizamabad,05:50
+12422,Amritsar Nanded Express,Akola,17:10
+12422,Amritsar Nanded Express,Hingoli,18:50
+12422,Amritsar Nanded Express,Purna,20:40
+12422,Amritsar Nanded Express,Hazur Sahib Nanded,21:40
+22724,Sri Gan­ ganagar Hazur Sahib Nanded Express,Akola,21:30
+22724,Sri Gan­ ganagar Hazur Sahib Nanded Express,Hingoli,23:30
+22724,Sri Gan­ ganagar Hazur Sahib Nanded Express,Purna,01:30
+22724,Sri Gan­ ganagar Hazur Sahib Nanded Express,Hazur Sahib Nanded,02:20
+12752,Jammu Tawi H.S. Nanded Humsafar Express,Akola,11:00
+12752,Jammu Tawi H.S. Nanded Humsafar Express,Hingoli,13:05
+12752,Jammu Tawi H.S. Nanded Humsafar Express,Purna,14:40
+12752,Jammu Tawi H.S. Nanded Humsafar Express,Hazur Sahib Nanded,15:55
+12754,Nizamudin H.S. Nanded Marathwa­ da Sam­ prak Kranti Express,Manmad,17:05
+12754,Nizamudin H.S. Nanded Marathwa­ da Sam­ prak Kranti Express,Chhatrapati Sambhaji,19:20
+12754,Nizamudin H.S. Nanded Marathwa­ da Sam­ prak Kranti Express,Jalna,20:35
+12754,Nizamudin H.S. Nanded Marathwa­ da Sam­ prak Kranti Express,Parbhani,22:50
+12754,Nizamudin H.S. Nanded Marathwa­ da Sam­ prak Kranti Express,Hazur Sahib Nanded,00:35
+11414,Pandhar pur Nizam­ abad Express,Nagarsol,05:30
+11414,Pandhar pur Nizam­ abad Express,Dharashiv,08:17
+11414,Pandhar pur Nizam­ abad Express,Latur,10:45
+11414,Pandhar pur Nizam­ abad Express,Hazur Sahib Nanded,18:30
+11414,Pandhar pur Nizam­ abad Express,Mudkhed,19:10
+11414,Pandhar pur Nizam­ abad Express,Dharmabad,20:02
+11414,Pandhar pur Nizam­ abad Express,Nizamabad,21:25
+11409,Daund Nizam­ abad Express,Pune,16:50
+11409,Daund Nizam­ abad Express,Manmad,22:50
+11409,Daund Nizam­ abad Express,Nagarsol,23:25
+11409,Daund Nizam­ abad Express,Chhatrapati Sambhaji,01:10
+11409,Daund Nizam­ abad Express,Jalna,02:15
+11409,Daund Nizam­ abad Express,Parbhani,05:10
+11409,Daund Nizam­ abad Express,Purna,05:55
+11409,Daund Nizam­ abad Express,Hazur Sahib Nanded,06:40
+11409,Daund Nizam­ abad Express,Mudkhed,08:05
+11409,Daund Nizam­ abad Express,Nizamabad,10:45
+14622,Firoz­ pur­Nand­ ed Express,Chhatrapati Sambhaji,21:00
+14622,Firoz­ pur­Nand­ ed Express,Jalna,22:05
+14622,Firoz­ pur­Nand­ ed Express,Parbhani,00:55
+14622,Firoz­ pur­Nand­ ed Express,Purna,01:50
+14622,Firoz­ pur­Nand­ ed Express,Hazur Sahib Nanded,03:30
+11045,Shri Chhatra­ pati Shahu Maharaj (T) Dhanbad Deek­ shabhoomi Express,Parbhani,18:12
+11045,Shri Chhatra­ pati Shahu Maharaj (T) Dhanbad Deek­ shabhoomi Express,Purna,19:10
+11045,Shri Chhatra­ pati Shahu Maharaj (T) Dhanbad Deek­ shabhoomi Express,Dharashiv,10:30
+11045,Shri Chhatra­ pati Shahu Maharaj (T) Dhanbad Deek­ shabhoomi Express,Latur,13:10
+11045,Shri Chhatra­ pati Shahu Maharaj (T) Dhanbad Deek­ shabhoomi Express,Hazur Sahib Nanded,20:10
+11045,Shri Chhatra­ pati Shahu Maharaj (T) Dhanbad Deek­ shabhoomi Express,Adilabad,00:30
+11045,Shri Chhatra­ pati Shahu Maharaj (T) Dhanbad Deek­ shabhoomi Express,Majri,03:20
+11045,Shri Chhatra­ pati Shahu Maharaj (T) Dhanbad Deek­ shabhoomi Express,Nagpur,06:50
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Manmad,07:40
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Chhatrapati Sambhaji Nagar,10:05
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Jalna,10:40
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Parbhani,12:30
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Purna,13:15
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Hazur Sahib Nanded,14:35
+17617,Mumbai CSMT Hazur Sahib Nanded Tapovan Express,Mumbai CSMT,05:30
+17617,Mumbai CSMT Hazur Sahib Nanded Tapovan Express,Dadar,05:42
+17617,Mumbai CSMT Hazur Sahib Nanded Tapovan Express,Kalyan,06:27
+17617,Mumbai CSMT Hazur Sahib Nanded Tapovan Express,Igatpuri,08:15
+17617,Mumbai CSMT Hazur Sahib Nanded Tapovan Express,Devlali,08:45
+17617,Mumbai CSMT Hazur Sahib Nanded Tapovan Express,Nasik Road,08:55
+17617,Mumbai CSMT Hazur Sahib Nanded Tapovan Express,Manmad,10:45
+17617,Mumbai CSMT Hazur Sahib Nanded Tapovan Express,Chhatrapati Sambhaji Nagar,13:10
+17617,Mumbai CSMT Hazur Sahib Nanded Tapovan Express,Jalna,14:17
+17617,Mumbai CSMT Hazur Sahib Nanded Tapovan Express,Parbhani,16:20
+17617,Mumbai CSMT Hazur Sahib Nanded Tapovan Express,Purna,16:50
+17617,Mumbai CSMT Hazur Sahib Nanded Tapovan Express,Hazur Sahib Nanded,18:00
+12071,Mumbai CSMT Hingoli Jan Shatabdi Express,Mumbai CSMT,12:10
+12071,Mumbai CSMT Hingoli Jan Shatabdi Express,Dadar,12:25
+12071,Mumbai CSMT Hingoli Jan Shatabdi Express,Kalyan,13:10
+12071,Mumbai CSMT Hingoli Jan Shatabdi Express,Igatpuri,14:57
+12071,Mumbai CSMT Hingoli Jan Shatabdi Express,Nasik Road,15:35
+12071,Mumbai CSMT Hingoli Jan Shatabdi Express,Manmad,16:45
+12071,Mumbai CSMT Hingoli Jan Shatabdi Express,Chhatrapati Sambhaji Nagar,18:30
+12071,Mumbai CSMT Hingoli Jan Shatabdi Express,Jalna,19:30
+12071,Mumbai CSMT Hingoli Jan Shatabdi Express,Parbhani,21:15
+12071,Mumbai CSMT Hingoli Jan Shatabdi Express,Purna,22:15
+12071,Mumbai CSMT Hingoli Jan Shatabdi Express,Hingoli,00:30
+11001,Mumbai CSMT Balharshah Nandigram Express,Mumbai CSMT,16:35
+11001,Mumbai CSMT Balharshah Nandigram Express,Dadar,16:48
+11001,Mumbai CSMT Balharshah Nandigram Express,Kalyan,17:30
+11001,Mumbai CSMT Balharshah Nandigram Express,Igatpuri,19:12
+11001,Mumbai CSMT Balharshah Nandigram Express,Nasik Road,20:00
+11001,Mumbai CSMT Balharshah Nandigram Express,Manmad,21:35
+11001,Mumbai CSMT Balharshah Nandigram Express,Chhatrapati Sambhaji Nagar,23:45
+11001,Mumbai CSMT Balharshah Nandigram Express,Jalna,00:50
+11001,Mumbai CSMT Balharshah Nandigram Express,Parbhani,03:25
+11001,Mumbai CSMT Balharshah Nandigram Express,Purna,04:10
+11001,Mumbai CSMT Balharshah Nandigram Express,Hazur Sahib Nanded,05:05
+11001,Mumbai CSMT Balharshah Nandigram Express,Mudkhed,05:50
+11001,Mumbai CSMT Balharshah Nandigram Express,Adilabad,09:00
+11001,Mumbai CSMT Balharshah Nandigram Express,Majri,13:25
+12109,Mumbai CSMT Manmad Panchavati Express,Mumbai CSMT,18:15
+12109,Mumbai CSMT Manmad Panchavati Express,Dadar,18:30
+12109,Mumbai CSMT Manmad Panchavati Express,Kalyan,19:10
+12109,Mumbai CSMT Manmad Panchavati Express,Igatpuri,20:47
+12109,Mumbai CSMT Manmad Panchavati Express,Devlali,21:25
+12109,Mumbai CSMT Manmad Panchavati Express,Nasik Road,21:35
+12109,Mumbai CSMT Manmad Panchavati Express,Manmad,22:50
+17057,Mumbai CSMT Lingampalli Devgiri Express,Mumbai CSMT,21:30
+17057,Mumbai CSMT Lingampalli Devgiri Express,Dadar,21:45
+17057,Mumbai CSMT Lingampalli Devgiri Express,Kalyan,22:38
+17057,Mumbai CSMT Lingampalli Devgiri Express,Igatpuri,00:17
+17057,Mumbai CSMT Lingampalli Devgiri Express,Nasik Road,01:02
+17057,Mumbai CSMT Lingampalli Devgiri Express,Manmad,02:15
+17057,Mumbai CSMT Lingampalli Devgiri Express,Chhatrapati Sambhaji Nagar,04:20
+17057,Mumbai CSMT Lingampalli Devgiri Express,Jalna,05:15
+17057,Mumbai CSMT Lingampalli Devgiri Express,Parbhani,07:35
+17057,Mumbai CSMT Lingampalli Devgiri Express,Purna,08:15
+17057,Mumbai CSMT Lingampalli Devgiri Express,Hazur Sahib Nanded,08:55
+17057,Mumbai CSMT Lingampalli Devgiri Express,Mudkhed,09:30
+17057,Mumbai CSMT Lingampalli Devgiri Express,Dharmabad,10:45
+17057,Mumbai CSMT Lingampalli Devgiri Express,Nizamabad,11:32
+17057,Mumbai CSMT Lingampalli Devgiri Express,Secunderabad,14:40
+17057,Mumbai CSMT Lingampalli Devgiri Express,Hyderabad,16:20
+12131,Dadar Sai Nagar Shirdi Express,Dadar,21:45
+12131,Dadar Sai Nagar Shirdi Express,Kalyan,22:25
+12131,Dadar Sai Nagar Shirdi Express,Igatpuri,00:05
+12131,Dadar Sai Nagar Shirdi Express,Nasik Road,00:50
+12131,Dadar Sai Nagar Shirdi Express,Manmad,01:43
+12131,Dadar Sai Nagar Shirdi Express,Sai Nagar Shirdi,03:45
+17629,Hadapsar Hazur Sahib Nanded Express,Pune,21:50
+17629,Hadapsar Hazur Sahib Nanded Express,Manmad,03:10
+17629,Hadapsar Hazur Sahib Nanded Express,Chhatrapati Sambhaji Nagar,05:10
+17629,Hadapsar Hazur Sahib Nanded Express,Jalna,06:00
+17629,Hadapsar Hazur Sahib Nanded Express,Parbhani,07:45
+17629,Hadapsar Hazur Sahib Nanded Express,Purna,08:55
+17629,Hadapsar Hazur Sahib Nanded Express,Hazur Sahib Nanded,10:20
+17013,Hadapsar Kazipet Ex­ press (via Kurduwadi),Pune,15:30
+17013,Hadapsar Kazipet Ex­ press (via Kurduwadi),Dharashiv,19:15
+17013,Hadapsar Kazipet Ex­ press (via Kurduwadi),Latur,20:55
+17013,Hadapsar Kazipet Ex­ press (via Kurduwadi),Bidar,23:20
+17013,Hadapsar Kazipet Ex­ press (via Kurduwadi),Vikarabad,00:50
+17013,Hadapsar Kazipet Ex­ press (via Kurduwadi),Secunderabad,03:10
+17013,Hadapsar Kazipet Ex­ press (via Kurduwadi),Kazipet,06:45
+19301,Indore Yesventpur Express,Akola,11:45
+19301,Indore Yesventpur Express,Hingoli,13:30
+19301,Indore Yesventpur Express,Purna,15:30
+19301,Indore Yesventpur Express,Hazur Sahib Nanded,16:10
+19301,Indore Yesventpur Express,Mudkhed,17:22
+19301,Indore Yesventpur Express,Nizamabad,18:30
+19301,Indore Yesventpur Express,Kacheguda,22:10
+17019,Hisar Hyderabad Express,Manmad,16:15
+17019,Hisar Hyderabad Express,Manmad,16:15
+17019,Hisar Hyderabad Express,Nagarsol,17:40
+17019,Hisar Hyderabad Express,Chhatrapati Sambhaji Nagar,19:00
+17019,Hisar Hyderabad Express,Jalna,19:55
+17019,Hisar Hyderabad Express,Parbhani,22:50
+17019,Hisar Hyderabad Express,Purna,23:25
+17019,Hisar Hyderabad Express,Hazur Sahib Nanded,00:30
+17019,Hisar Hyderabad Express,Nizamabad,02:50
+17019,Hisar Hyderabad Express,Hyderabad,07:30
+17009,Bidar Hyderabad Express,Bidar,06:15
+17009,Bidar Hyderabad Express,Vikarabad,08:10
+17009,Bidar Hyderabad Express,Hyderabad,10:00
+17410,Nanded Adilabad Express,Hazur Sahib Nanded,15:05
+17410,Nanded Adilabad Express,Mudkhed,15:30
+17410,Nanded Adilabad Express,Adilabad,18:55
+16004,Nagarsol Chennai Express,Nagarsol,13:30
+16004,Nagarsol Chennai Express,Chhatrapati Sambhaji,14:50
+16004,Nagarsol Chennai Express,Jalna,16:00
+16004,Nagarsol Chennai Express,Parbhani,18:00
+16004,Nagarsol Chennai Express,Purna,18:50
+16004,Nagarsol Chennai Express,Hazur Sahib Nanded,19:30
+16004,Nagarsol Chennai Express,Mudkhed,20:05
+16004,Nagarsol Chennai Express,Nizamabad,21:25
+16004,Nagarsol Chennai Express,Kacheguda,01:10
+22710,Amb An­ dura Hazur Sahib Nanded Express,Akola,17:10
+22710,Amb An­ dura Hazur Sahib Nanded Express,Hingoli,18:50
+22710,Amb An­ dura Hazur Sahib Nanded Express,Purna,20:40
+22710,Amb An­ dura Hazur Sahib Nanded Express,Hazur Sahib Nanded,21:40
+17619,Aurang­ abad Hazur Sahib Nanded Express,Chhatrapati Sambhaji,23:30
+17619,Aurang­ abad Hazur Sahib Nanded Express,Jalna,00:10
+17619,Aurang­ abad Hazur Sahib Nanded Express,Parbhani,02:10
+17619,Aurang­ abad Hazur Sahib Nanded Express,Purna,02:40
+17619,Aurang­ abad Hazur Sahib Nanded Express,Hazur Sahib Nanded,04:30
+17621,Aurang­ abad Tirupati Express,Chhatrapati Sambhaji,20:50
+17621,Aurang­ abad Tirupati Express,Jalna,21:45
+17621,Aurang­ abad Tirupati Express,Parbhani,00:05
+17621,Aurang­ abad Tirupati Express,Bidar,05:02
+17621,Aurang­ abad Tirupati Express,Vikarabad,07:40
+22107,Mumbai CSMT Latur Express,Mumbai CSMT,21:00
+22107,Mumbai CSMT Latur Express,Dadar,21:13
+22107,Mumbai CSMT Latur Express,Kalyan,21:55
+22107,Mumbai CSMT Latur Express,Pune,00:35
+22107,Mumbai CSMT Latur Express,Dharashiv,04:40
+22107,Mumbai CSMT Latur Express,Latur,06:30
+22143,Mumbai CSMT Bidar Express,Mumbai CSMT,21:00
+22143,Mumbai CSMT Bidar Express,Dadar,21:13
+22143,Mumbai CSMT Bidar Express,Kalyan,21:55
+22143,Mumbai CSMT Bidar Express,Pune,00:35
+22143,Mumbai CSMT Bidar Express,Dharashiv,04:40
+22143,Mumbai CSMT Bidar Express,Latur,06:30
+22143,Mumbai CSMT Bidar Express,Bidar,09:20
+22147,Dadar Sai Nagar Shirdi Express,Dadar,21:45
+22147,Dadar Sai Nagar Shirdi Express,Kalyan,22:25
+22147,Dadar Sai Nagar Shirdi Express,Igatpuri,00:10
+22147,Dadar Sai Nagar Shirdi Express,Nasik Road,00:50
+22147,Dadar Sai Nagar Shirdi Express,Manmad,01:43
+22147,Dadar Sai Nagar Shirdi Express,Sai Nagar Shirdi,03:45
+12750,Bidar Machili­ patnam Express,Bidar,19:35
+12750,Bidar Machili­ patnam Express,Vikarabad,20:55
+12750,Bidar Machili­ patnam Express,Secunderabad,22:15
+17648,Purna Hydrabad Express,Purna,07:40
+17648,Purna Hydrabad Express,Bidar,14:14
+17648,Purna Hydrabad Express,Vikarabad,16:17
+17648,Purna Hydrabad Express,Hyderabad,19:10
+17684,Purna Akola Express,Purna,23:50
+17684,Purna Akola Express,Hingoli,01:05
+17684,Purna Akola Express,Akola,04:20
+11041,Dadar Shirdi Express,Dadar,23:55
+11041,Dadar Shirdi Express,Kalyan,00:45
+11041,Dadar Shirdi Express,Pune,03:35
+11041,Dadar Shirdi Express,Sai Nagar Shirdi,08:40
+22223,Mumbai CSMT ­ Shirdi Vande Bharat Express,Mumbai CSMT,06:20
+22223,Mumbai CSMT ­ Shirdi Vande Bharat Express,Dadar,06:32
+22223,Mumbai CSMT ­ Shirdi Vande Bharat Express,Kalyan,07:13
+22223,Mumbai CSMT ­ Shirdi Vande Bharat Express,Nasik Road,08:59
+22223,Mumbai CSMT ­ Shirdi Vande Bharat Express,Sai Nagar Shirdi,11:30
+17666,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Lokmanya Tilak (T),16:35
+17666,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Kalyan,17:20
+17666,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Pune,20:40
+17666,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Manmad,22:00
+17666,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Akola,02:50
+17666,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Hingoli,04:55
+17666,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Purna,07:00
+17666,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Hazur Sahib Nanded,08:10
+17668,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Lokmanya Tilak (T),16:55
+17668,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Kalyan,17:40
+17668,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Nasik Road,20:53
+17668,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Manmad,22:10
+17668,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Akola,02:50
+17668,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Hingoli,04:55
+17668,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Purna,07:00
+17668,Lokmanya Tilak (T) Hazur Sahib Nanded Express,Hazur Sahib Nanded,09:00
+20706,Mumbai CSMT­ Hazur Sahib Nanded Vande Bharat Express,Mumbai CSMT,13:10
+20706,Mumbai CSMT­ Hazur Sahib Nanded Vande Bharat Express,Dadar,13:19
+20706,Mumbai CSMT­ Hazur Sahib Nanded Vande Bharat Express,Kalyan,14:06
+20706,Mumbai CSMT­ Hazur Sahib Nanded Vande Bharat Express,Nasik Road,16:20
+20706,Mumbai CSMT­ Hazur Sahib Nanded Vande Bharat Express,Manmad,17:20
+20706,Mumbai CSMT­ Hazur Sahib Nanded Vande Bharat Express,Chhatrapati Sambhaji,18:50
+20706,Mumbai CSMT­ Hazur Sahib Nanded Vande Bharat Express,Jalna,19:45
+20706,Mumbai CSMT­ Hazur Sahib Nanded Vande Bharat Express,Parbhani,21:35
+20706,Mumbai CSMT­ Hazur Sahib Nanded Vande Bharat Express,Hazur Sahib Nanded,22:50
+12768,Santraga­ chi Hazur Sahib Nanded Express,Nagpur,08:20
+12768,Santraga­ chi Hazur Sahib Nanded Express,Majri,10:20
+12768,Santraga­ chi Hazur Sahib Nanded Express,Adilabad,13:35
+12768,Santraga­ chi Hazur Sahib Nanded Express,Mudkhed,17:25
+12768,Santraga­ chi Hazur Sahib Nanded Express,Hazur Sahib Nanded,18:50
+11046,Dhanbad Shri Chhatra­ pati Shahu Maharaj (T) Deekshab­ hoomi Express,Nagpur,09:45
+11046,Dhanbad Shri Chhatra­ pati Shahu Maharaj (T) Deekshab­ hoomi Express,Majri,12:25
+11046,Dhanbad Shri Chhatra­ pati Shahu Maharaj (T) Deekshab­ hoomi Express,Adilabad,15:32
+11046,Dhanbad Shri Chhatra­ pati Shahu Maharaj (T) Deekshab­ hoomi Express,Hazur Sahib Nanded,19:50
+11046,Dhanbad Shri Chhatra­ pati Shahu Maharaj (T) Deekshab­ hoomi Express,Purna,20:40
+11046,Dhanbad Shri Chhatra­ pati Shahu Maharaj (T) Deekshab­ hoomi Express,Latur,02:45
+11046,Dhanbad Shri Chhatra­ pati Shahu Maharaj (T) Deekshab­ hoomi Express,Dharashiv,04:12
+11046,Dhanbad Shri Chhatra­ pati Shahu Maharaj (T) Deekshab­ hoomi Express,Parbhani,21:15
+12110,Manmad Mumbai CSMT Panchavati Express,Manmad,06:02
+12110,Manmad Mumbai CSMT Panchavati Express,Manmad,06:02
+12110,Manmad Mumbai CSMT Panchavati Express,Nasik Road,07:03
+12110,Manmad Mumbai CSMT Panchavati Express,Devlali,07:10
+12110,Manmad Mumbai CSMT Panchavati Express,Igatpuri,07:57
+12110,Manmad Mumbai CSMT Panchavati Express,Kalyan,09:35
+12110,Manmad Mumbai CSMT Panchavati Express,Dadar,10:22
+12110,Manmad Mumbai CSMT Panchavati Express,Mumbai CSMT,10:45
+12715,Hazur Sahib Nanded Amritsar Sach­ khand Express,Hazur Sahib Nanded,09:30
+12715,Hazur Sahib Nanded Amritsar Sach­ khand Express,Purna,10:02
+12715,Hazur Sahib Nanded Amritsar Sach­ khand Express,Parbhani,10:40
+12715,Hazur Sahib Nanded Amritsar Sach­ khand Express,Jalna,12:25
+12715,Hazur Sahib Nanded Amritsar Sach­ khand Express,Chhatrapati Sambhaji Nagar,13:30
+12715,Hazur Sahib Nanded Amritsar Sach­ khand Express,Manmad,16:35
+17618,Hazur Sahib Nanded Mumbai CSMT Tapovan Express,Hazur Sahib Nanded,10:05
+17618,Hazur Sahib Nanded Mumbai CSMT Tapovan Express,Purna,10:38
+17618,Hazur Sahib Nanded Mumbai CSMT Tapovan Express,Parbhani,11:15
+17618,Hazur Sahib Nanded Mumbai CSMT Tapovan Express,Jalna,13:10
+17618,Hazur Sahib Nanded Mumbai CSMT Tapovan Express,Chhatrapati Sambhaji Nagar,14:35
+17618,Hazur Sahib Nanded Mumbai CSMT Tapovan Express,Manmad,17:00
+17618,Hazur Sahib Nanded Mumbai CSMT Tapovan Express,Nasik Road,18:00
+17618,Hazur Sahib Nanded Mumbai CSMT Tapovan Express,Devlali,18:09
+17618,Hazur Sahib Nanded Mumbai CSMT Tapovan Express,Igatpuri,18:57
+17618,Hazur Sahib Nanded Mumbai CSMT Tapovan Express,Kalyan,20:49
+17618,Hazur Sahib Nanded Mumbai CSMT Tapovan Express,Dadar,21:38
+17618,Hazur Sahib Nanded Mumbai CSMT Tapovan Express,Mumbai CSMT,22:08
+11002,Balharshah Mumbai CSMT Nandigram Express,Ajni,09:15
+11002,Balharshah Mumbai CSMT Nandigram Express,Adilabad,12:40
+11002,Balharshah Mumbai CSMT Nandigram Express,Mudkhed,15:45
+11002,Balharshah Mumbai CSMT Nandigram Express,Hazur Sahib Nanded,16:30
+11002,Balharshah Mumbai CSMT Nandigram Express,Purna,17:15
+11002,Balharshah Mumbai CSMT Nandigram Express,Parbhani,17:55
+11002,Balharshah Mumbai CSMT Nandigram Express,Jalna,20:00
+11002,Balharshah Mumbai CSMT Nandigram Express,Chhatrapati Sambhaji Nagar,21:30
+11002,Balharshah Mumbai CSMT Nandigram Express,Manmad,00:25
+11002,Balharshah Mumbai CSMT Nandigram Express,Nasik Road,01:25
+11002,Balharshah Mumbai CSMT Nandigram Express,Igatpuri,02:32
+11002,Balharshah Mumbai CSMT Nandigram Express,Kalyan,04:15
+11002,Balharshah Mumbai CSMT Nandigram Express,Dadar,05:00
+11002,Balharshah Mumbai CSMT Nandigram Express,Mumbai CSMT,05:35
+17630,Hazur Sa­ hib Nanded Hadapsar Express,Hazur Sahib Nanded,15:30
+17630,Hazur Sa­ hib Nanded Hadapsar Express,Purna,16:00
+17630,Hazur Sa­ hib Nanded Hadapsar Express,Parbhani,16:30
+17630,Hazur Sa­ hib Nanded Hadapsar Express,Jalna,19:00
+17630,Hazur Sa­ hib Nanded Hadapsar Express,Chhatrapati Sambhaji Nagar,20:25
+17630,Hazur Sa­ hib Nanded Hadapsar Express,Manmad,22:45
+17630,Hazur Sa­ hib Nanded Hadapsar Express,Pune,04:35
+17609,Patna Purna Express,Nagpur,04:40
+17609,Patna Purna Express,Majri,06:55
+17609,Patna Purna Express,Adilabad,10:00
+17609,Patna Purna Express,Hazur Sahib Nanded,13:55
+17609,Patna Purna Express,Purna,15:15
+12072,Hingoli Mumbai CSMT Jan Shatabdi Express,Hingoli,04:20
+12072,Hingoli Mumbai CSMT Jan Shatabdi Express,Purna,05:45
+12072,Hingoli Mumbai CSMT Jan Shatabdi Express,Parbhani,06:25
+12072,Hingoli Mumbai CSMT Jan Shatabdi Express,Jalna,08:40
+12072,Hingoli Mumbai CSMT Jan Shatabdi Express,Chhatrapati Sambhaji Nagar,09:35
+12072,Hingoli Mumbai CSMT Jan Shatabdi Express,Manmad,11:50
+12072,Hingoli Mumbai CSMT Jan Shatabdi Express,Nasik Road,12:45
+12072,Hingoli Mumbai CSMT Jan Shatabdi Express,Igatpuri,13:52
+12072,Hingoli Mumbai CSMT Jan Shatabdi Express,Kalyan,15:40
+12072,Hingoli Mumbai CSMT Jan Shatabdi Express,Dadar,16:30
+12072,Hingoli Mumbai CSMT Jan Shatabdi Express,Mumbai CSMT,16:50
+"12485/
+12439",Hazur Sa­ hib Nanded Srigan­ ganagar Express,Hazur Sahib Nanded,11:05
+"12485/
+12439",Hazur Sa­ hib Nanded Srigan­ ganagar Express,Purna,11:50
+"12485/
+12439",Hazur Sa­ hib Nanded Srigan­ ganagar Express,Hingoli,13:00
+"12485/
+12439",Hazur Sa­ hib Nanded Srigan­ ganagar Express,Akola,16:00
+12132,Sai Nagar Shirdi Dadar Express,Sai Nagar Shirdi,22:20
+12132,Sai Nagar Shirdi Dadar Express,Manmad,23:55
+12132,Sai Nagar Shirdi Dadar Express,Nasik Road,00:55
+12132,Sai Nagar Shirdi Dadar Express,Igatpuri,01:45
+12132,Sai Nagar Shirdi Dadar Express,Kalyan,03:22
+12132,Sai Nagar Shirdi Dadar Express,Dadar,04:20
+19714,Kurnool City Jaipur Express,Kurnool City,16:20
+19714,Kurnool City Jaipur Express,Kacheguda,21:00
+19714,Kurnool City Jaipur Express,Nizamabad,00:20
+19714,Kurnool City Jaipur Express,Hazur Sahib Nanded,03:15
+19714,Kurnool City Jaipur Express,Purna,04:15
+19714,Kurnool City Jaipur Express,Hingoli,05:20
+19714,Kurnool City Jaipur Express,Akola,08:10
+19714,Kurnool City Jaipur Express,Badnera,09:20
+17417,Tirupathi Sai Nagar Shirdi Express,Secunderabad,20:45
+17417,Tirupathi Sai Nagar Shirdi Express,Vikarabad,18:20
+17417,Tirupathi Sai Nagar Shirdi Express,Nizamabad,23:05
+17417,Tirupathi Sai Nagar Shirdi Express,Hazur Sahib Nanded,01:45
+17417,Tirupathi Sai Nagar Shirdi Express,Purna,02:40
+17417,Tirupathi Sai Nagar Shirdi Express,Parbhani,03:10
+17417,Tirupathi Sai Nagar Shirdi Express,Jalna,05:00
+17417,Tirupathi Sai Nagar Shirdi Express,Chhatrapati Sambhaji Nagar,06:20
+17417,Tirupathi Sai Nagar Shirdi Express,Nagarsol,08:00
+17417,Tirupathi Sai Nagar Shirdi Express,Manmad,08:55
+17417,Tirupathi Sai Nagar Shirdi Express,Sai Nagar Shirdi,10:45
+18503,Vishakha­ patnam Sai Nagar Shirdi Express,Cherlapalli,20:20
+18503,Vishakha­ patnam Sai Nagar Shirdi Express,Nizamabad,23:05
+18503,Vishakha­ patnam Sai Nagar Shirdi Express,Hazur Sahib Nanded,01:45
+18503,Vishakha­ patnam Sai Nagar Shirdi Express,Purna,02:40
+18503,Vishakha­ patnam Sai Nagar Shirdi Express,Parbhani,03:10
+18503,Vishakha­ patnam Sai Nagar Shirdi Express,Jalna,05:00
+18503,Vishakha­ patnam Sai Nagar Shirdi Express,Chhatrapati Sambhaji Nagar,06:20
+18503,Vishakha­ patnam Sai Nagar Shirdi Express,Nagarsol,08:00
+18503,Vishakha­ patnam Sai Nagar Shirdi Express,Manmad,08:55
+18503,Vishakha­ patnam Sai Nagar Shirdi Express,Sai Nagar Shirdi,10:45
+17605,Ka­ cheguda Bhagat Ki Kothi Express,Kacheguda,23:50
+17605,Ka­ cheguda Bhagat Ki Kothi Express,Nizamabad,03:20
+17605,Ka­ cheguda Bhagat Ki Kothi Express,Hazur Sahib Nanded,07:00
+17605,Ka­ cheguda Bhagat Ki Kothi Express,Purna,08:05
+17605,Ka­ cheguda Bhagat Ki Kothi Express,Hingoli,09:30
+17605,Ka­ cheguda Bhagat Ki Kothi Express,Akola,12:55
+17012,Sirpurkag­ az nagar Bidar Express,Kacheguda,12:20
+17012,Sirpurkag­ az nagar Bidar Express,Secunderabad,18:25
+17012,Sirpurkag­ az nagar Bidar Express,Vikarabad,20:05
+17012,Sirpurkag­ az nagar Bidar Express,Bidar,22:55
+17409,Adilabad Hazur Sa­ hib Nanded Express,Adilabad,08:00
+17409,Adilabad Hazur Sa­ hib Nanded Express,Mudkhed,11:00
+17409,Adilabad Hazur Sa­ hib Nanded Express,Hazur Sahib Nanded,11:55
+22108,Latur Mumbai CSMT Express,Latur,22:30
+22108,Latur Mumbai CSMT Express,Dharashiv,23:35
+22108,Latur Mumbai CSMT Express,Pune,04:10
+22108,Latur Mumbai CSMT Express,Kalyan,06:40
+22108,Latur Mumbai CSMT Express,Dadar,07:25
+22108,Latur Mumbai CSMT Express,Mumbai CSMT,07:55
+22723,Hazur Sahib Nanded Sri Ganganagar Express,Hazur Sahib Nanded,06:50
+22723,Hazur Sahib Nanded Sri Ganganagar Express,Purna,07:45
+22723,Hazur Sahib Nanded Sri Ganganagar Express,Hingoli,09:10
+22723,Hazur Sahib Nanded Sri Ganganagar Express,Akola,11:50
+22144,Bidar Mumbai CSMT Express,Bidar,19:40
+22144,Bidar Mumbai CSMT Express,Latur,22:30
+22144,Bidar Mumbai CSMT Express,Dharashiv,23:35
+22144,Bidar Mumbai CSMT Express,Pune,04:10
+22144,Bidar Mumbai CSMT Express,Kalyan,06:40
+22144,Bidar Mumbai CSMT Express,Dadar,07:25
+22144,Bidar Mumbai CSMT Express,Mumbai CSMT,07:55
+22148,Sai Nagar Shirdi Dadar Express,Sai Nagar Shirdi,07:20
+22148,Sai Nagar Shirdi Dadar Express,Manmad,08:55
+22148,Sai Nagar Shirdi Dadar Express,Nasik Road,09:42
+22148,Sai Nagar Shirdi Dadar Express,Kalyan,12:25
+22148,Sai Nagar Shirdi Dadar Express,Dadar,13:25
+12751,H.S. Nanded Jamu Tawi Humsafar Express,Hazur Sahib Nanded,11:05
+12751,H.S. Nanded Jamu Tawi Humsafar Express,Purna,11:50
+12751,H.S. Nanded Jamu Tawi Humsafar Express,Hingoli,13:00
+12751,H.S. Nanded Jamu Tawi Humsafar Express,Akola,16:00
+12753,H.S. Nanded Ni­ zamudin Marathwa­ da Samprak Kranti Express,Hazur Sahib Nanded,09:00
+12753,H.S. Nanded Ni­ zamudin Marathwa­ da Samprak Kranti Express,Parbhani,09:55
+12753,H.S. Nanded Ni­ zamudin Marathwa­ da Samprak Kranti Express,Jalna,11:20
+12753,H.S. Nanded Ni­ zamudin Marathwa­ da Samprak Kranti Express,Chhatrapati Sambhaji Nagar,13:00
+12753,H.S. Nanded Ni­ zamudin Marathwa­ da Samprak Kranti Express,Manmad,15:25
+12749,Machili­ patnam Bidar Express,Secunderabad,04:10
+12749,Machili­ patnam Bidar Express,Vikarabad,05:40
+12749,Machili­ patnam Bidar Express,Bidar,07:38
+11413,Nizamaba andharpu Express,Nizamabad,12:45
+11413,Nizamaba andharpu Express,Mudkhed,14:50
+11413,Nizamaba andharpu Express,Hazur Sahib Nanded,15:35
+11413,Nizamaba andharpu Express,Purna,16:30
+11413,Nizamaba andharpu Express,Latur,23:00
+11413,Nizamaba andharpu Express,Dharashiv,01:22
+11413,Nizamaba andharpu Express,Nagarsol,04:30
+11410,Nizam­ abad­Pune Express,Nizamabad,23:40
+11410,Nizam­ abad­Pune Express,Mudkhed,01:50
+11410,Nizam­ abad­Pune Express,Hazur Sahib Nanded,02:30
+11410,Nizam­ abad­Pune Express,Purna,03:20
+11410,Nizam­ abad­Pune Express,Parbhani,03:50
+11410,Nizam­ abad­Pune Express,Jalna,06:30
+11410,Nizam­ abad­Pune Express,Chhatrapati Sambhaji Nagar,08:15
+11410,Nizam­ abad­Pune Express,Nagarsol,10:00
+11410,Nizam­ abad­Pune Express,Manmad,11:00
+11410,Nizam­ abad­Pune Express,Pune,19:00
+17661,Ka­ cheguda Nagarsol Express,Kacheguda,04:50
+17661,Ka­ cheguda Nagarsol Express,Nizamabad,09:25
+17661,Ka­ cheguda Nagarsol Express,Mudkhed,11:45
+17661,Ka­ cheguda Nagarsol Express,Hazur Sahib Nanded,12:35
+17661,Ka­ cheguda Nagarsol Express,Purna,13:15
+17661,Ka­ cheguda Nagarsol Express,Parbhani,14:10
+17661,Ka­ cheguda Nagarsol Express,Jalna,16:40
+17661,Ka­ cheguda Nagarsol Express,Chhatrapati Sambhaji Nagar,18:20
+17661,Ka­ cheguda Nagarsol Express,Nagarsol,21:05
+17663,Raichur Parbhani Express,Kacheguda,15:45
+17663,Raichur Parbhani Express,Tandur,19:10
+17663,Raichur Parbhani Express,Secunderabad,22:00
+17663,Raichur Parbhani Express,Nizamabad,01:20
+17663,Raichur Parbhani Express,Mudkhed,04:20
+17663,Raichur Parbhani Express,Hazur Sahib Nanded,05:00
+17663,Raichur Parbhani Express,Purna,05:30
+17663,Raichur Parbhani Express,Parbhani,06:40
+17647,Hydrabad Purna Express,Hyderabad,08:40
+17647,Hydrabad Purna Express,Vikarabad,10:15
+17647,Hydrabad Purna Express,Bidar,12:20
+17647,Hydrabad Purna Express,Purna,20:40
+17606,Bhagat Ki Kothi Ka­ cheguda Express,Kacheguda,15:40
+17606,Bhagat Ki Kothi Ka­ cheguda Express,Hazur Sahib Nanded,07:55
+17606,Bhagat Ki Kothi Ka­ cheguda Express,Purna,06:45
+17606,Bhagat Ki Kothi Ka­ cheguda Express,Hingoli,04:55
+17606,Bhagat Ki Kothi Ka­ cheguda Express,Akola,02:35
+14621,Nand­ ed­Firoz­ pur Express,Hazur Sahib Nanded,11:50
+14621,Nand­ ed­Firoz­ pur Express,Purna,12:30
+14621,Nand­ ed­Firoz­ pur Express,Parbhani,13:10
+14621,Nand­ ed­Firoz­ pur Express,Jalna,15:05
+14621,Nand­ ed­Firoz­ pur Express,Chhatrapati Sambhaji Nagar,16:30
+12765,Tirupati Amravati Express,Kacheguda,03:40
+12765,Tirupati Amravati Express,Nizamabad,06:30
+12765,Tirupati Amravati Express,Dharmabad,07:15
+12765,Tirupati Amravati Express,Mudkhed,08:10
+12765,Tirupati Amravati Express,Hazur Sahib Nanded,08:40
+12765,Tirupati Amravati Express,Purna,09:40
+12765,Tirupati Amravati Express,Hingoli,10:55
+12765,Tirupati Amravati Express,Akola,13:45
+12765,Tirupati Amravati Express,Badnera,14:45
+12765,Tirupati Amravati Express,Amravati,15:10
+17639,Kacheguda Akola Express,Kacheguda,07:10
+17639,Kacheguda Akola Express,Nizamabad,10:30
+17639,Kacheguda Akola Express,Dharmabad,11:20
+17639,Kacheguda Akola Express,Mudkhed,12:35
+17639,Kacheguda Akola Express,Hazur Sahib Nanded,13:05
+17639,Kacheguda Akola Express,Purna,14:15
+17639,Kacheguda Akola Express,Hingoli,15:40
+17639,Kacheguda Akola Express,Akola,18:30
+17641,Ka­ cheguda Narkher Express,Kacheguda,07:10
+17641,Ka­ cheguda Narkher Express,Nizamabad,10:30
+17641,Ka­ cheguda Narkher Express,Dharmabad,11:20
+17641,Ka­ cheguda Narkher Express,Mudkhed,12:35
+17641,Ka­ cheguda Narkher Express,Hazur Sahib Nanded,13:05
+17641,Ka­ cheguda Narkher Express,Purna,14:15
+17641,Ka­ cheguda Narkher Express,Hingoli,15:40
+17641,Ka­ cheguda Narkher Express,Akola,18:25
+17641,Ka­ cheguda Narkher Express,Badnera,19:50
+17641,Ka­ cheguda Narkher Express,Narkher,23:00
+16733,Rameswaram Okha Express,Kacheguda,23:30
+16733,Rameswaram Okha Express,Nizamabad,02:50
+16733,Rameswaram Okha Express,Mudkhed,05:10
+16733,Rameswaram Okha Express,Hazur Sahib Nanded,05:40
+16733,Rameswaram Okha Express,Purna,06:30
+16733,Rameswaram Okha Express,Parbhani,07:00
+16733,Rameswaram Okha Express,Jalna,09:00
+16733,Rameswaram Okha Express,Chhatrapati Sambhaji,10:00
+16733,Rameswaram Okha Express,Nagarsol,11:40
+16733,Rameswaram Okha Express,Manmad,12:40
+20809,Sambalpur Hazur Sa­ hib Nanded Express,Secunderabad,07:55
+20809,Sambalpur Hazur Sa­ hib Nanded Express,Nizamabad,10:40
+20809,Sambalpur Hazur Sa­ hib Nanded Express,Mudkhed,12:50
+20809,Sambalpur Hazur Sa­ hib Nanded Express,Hazur Sahib Nanded,13:45
+20811,Vishakapa­ tnam Hazur Sahib Nanded Express,Secunderabad,07:55
+20811,Vishakapa­ tnam Hazur Sahib Nanded Express,Nizamabad,10:40
+20811,Vishakapa­ tnam Hazur Sahib Nanded Express,Mudkhed,12:50
+20811,Vishakapa­ tnam Hazur Sahib Nanded Express,Hazur Sahib Nanded,13:45
+17058,Lingampalli Mumbai CSMT Devgiri Express,Lingampalli,12:25
+17058,Lingampalli Mumbai CSMT Devgiri Express,Secunderabad,13:10
+17058,Lingampalli Mumbai CSMT Devgiri Express,Nizamabad,15:57
+17058,Lingampalli Mumbai CSMT Devgiri Express,Dharmabad,16:45
+17058,Lingampalli Mumbai CSMT Devgiri Express,Mudkhed,18:15
+17058,Lingampalli Mumbai CSMT Devgiri Express,Hazur Sahib Nanded,18:50
+17058,Lingampalli Mumbai CSMT Devgiri Express,Purna,19:40
+17058,Lingampalli Mumbai CSMT Devgiri Express,Parbhani,20:22
+17058,Lingampalli Mumbai CSMT Devgiri Express,Jalna,22:15
+17058,Lingampalli Mumbai CSMT Devgiri Express,Chhatrapati Sambhaji,23:25
+17058,Lingampalli Mumbai CSMT Devgiri Express,Manmad,01:50
+17058,Lingampalli Mumbai CSMT Devgiri Express,Nasik Road,02:50
+17058,Lingampalli Mumbai CSMT Devgiri Express,Igatpuri,04:10
+17058,Lingampalli Mumbai CSMT Devgiri Express,Kalyan,05:45
+17058,Lingampalli Mumbai CSMT Devgiri Express,Dadar,06:32
+17058,Lingampalli Mumbai CSMT Devgiri Express,Mumbai CSMT,07:10
+17206,Kakinada Port Sai Nagar Shirdi Express,Secunderabad,16:45
+17206,Kakinada Port Sai Nagar Shirdi Express,Vikarabad,17:30
+17206,Kakinada Port Sai Nagar Shirdi Express,Bidar,19:05
+17206,Kakinada Port Sai Nagar Shirdi Express,Parbhani,01:45
+17206,Kakinada Port Sai Nagar Shirdi Express,Jalna,03:32
+17206,Kakinada Port Sai Nagar Shirdi Express,Chhatrapati Sambhaji,04:30
+17206,Kakinada Port Sai Nagar Shirdi Express,Nagarsol,06:20
+17206,Kakinada Port Sai Nagar Shirdi Express,Manmad,07:30
+17206,Kakinada Port Sai Nagar Shirdi Express,Sai Nagar Shirdi,09:10
+17208,Machli­ patnam Sai Nagar Shirdi Express,Secunderabad,16:45
+17208,Machli­ patnam Sai Nagar Shirdi Express,Vikarabad,17:30
+17208,Machli­ patnam Sai Nagar Shirdi Express,Bidar,19:05
+17208,Machli­ patnam Sai Nagar Shirdi Express,Parbhani,01:45
+17208,Machli­ patnam Sai Nagar Shirdi Express,Jalna,03:32
+17208,Machli­ patnam Sai Nagar Shirdi Express,Chhatrapati Sambhaji,04:30
+17208,Machli­ patnam Sai Nagar Shirdi Express,Nagarsol,06:20
+17208,Machli­ patnam Sai Nagar Shirdi Express,Manmad,07:30
+17208,Machli­ patnam Sai Nagar Shirdi Express,Sai Nagar Shirdi,09:10
+17002,Secun­ derabad Sai Nagar Shirdi Express,Secunderabad,16:10
+17002,Secun­ derabad Sai Nagar Shirdi Express,Vikarabad,17:30
+17002,Secun­ derabad Sai Nagar Shirdi Express,Bidar,19:05
+17002,Secun­ derabad Sai Nagar Shirdi Express,Parbhani,01:45
+17002,Secun­ derabad Sai Nagar Shirdi Express,Jalna,03:32
+17002,Secun­ derabad Sai Nagar Shirdi Express,Chhatrapati Sambhaji,04:30
+17002,Secun­ derabad Sai Nagar Shirdi Express,Nagarsol,06:20
+17002,Secun­ derabad Sai Nagar Shirdi Express,Manmad,07:30
+17002,Secun­ derabad Sai Nagar Shirdi Express,Sai Nagar Shirdi,09:10
+17064,Ka­ cheguda Manmad Ajanta Express,Kacheguda,18:40
+17064,Ka­ cheguda Manmad Ajanta Express,Nizamabad,21:30
+17064,Ka­ cheguda Manmad Ajanta Express,Dharmabad,22:15
+17064,Ka­ cheguda Manmad Ajanta Express,Mudkhed,23:40
+17064,Ka­ cheguda Manmad Ajanta Express,Hazur Sahib Nanded,00:10
+17064,Ka­ cheguda Manmad Ajanta Express,Purna,00:45
+17064,Ka­ cheguda Manmad Ajanta Express,Parbhani,01:30
+17064,Ka­ cheguda Manmad Ajanta Express,Jalna,03:15
+17064,Ka­ cheguda Manmad Ajanta Express,Chhatrapati Sambhaji,04:45
+17064,Ka­ cheguda Manmad Ajanta Express,Nagarsol,07:00
+17064,Ka­ cheguda Manmad Ajanta Express,Manmad,08:30
+17688,Dharm­ abad Manmad Express,Dharmabad,04:00
+17688,Dharm­ abad Manmad Express,Mudkhed,05:00
+17688,Dharm­ abad Manmad Express,Hazur Sahib Nanded,05:30
+17688,Dharm­ abad Manmad Express,Purna,06:05
+17688,Dharm­ abad Manmad Express,Parbhani,06:40
+17688,Dharm­ abad Manmad Express,Jalna,08:50
+17688,Dharm­ abad Manmad Express,Chhatrapati Sambhaji,09:50
+17688,Dharm­ abad Manmad Express,Nagarsol,12:21
+17688,Dharm­ abad Manmad Express,Manmad,13:20
+12787,Nar­ sapur Nagarsol Express,Nizamabad,22:20
+12787,Nar­ sapur Nagarsol Express,Mudkhed,00:25
+12787,Nar­ sapur Nagarsol Express,Hazur Sahib Nanded,00:55
+12787,Nar­ sapur Nagarsol Express,Purna,01:35
+12787,Nar­ sapur Nagarsol Express,Parbhani,02:10
+12787,Nar­ sapur Nagarsol Express,Jalna,03:55
+12787,Nar­ sapur Nagarsol Express,Chhatrapati Sambhaji,04:35
+12787,Nar­ sapur Nagarsol Express,Nagarsol,07:30
+17014,Kazipet Hadapsar Express,Kacheguda,18:10
+17014,Kazipet Hadapsar Express,Secunderabad,20:35
+17014,Kazipet Hadapsar Express,Vikarabad,22:00
+17014,Kazipet Hadapsar Express,Bidar,23:35
+17014,Kazipet Hadapsar Express,Latur,03:45
+17014,Kazipet Hadapsar Express,Dharashiv,05:10
+17014,Kazipet Hadapsar Express,Pune,10:50
+12720,Hyder­ abad Jaipur Express,Hyderabad,20:25
+12720,Hyder­ abad Jaipur Express,Secunderabad,20:55
+12720,Hyder­ abad Jaipur Express,Nizamabad,23:05
+12720,Hyder­ abad Jaipur Express,Mudkhed,00:50
+12720,Hyder­ abad Jaipur Express,Hazur Sahib Nanded,01:20
+12720,Hyder­ abad Jaipur Express,Purna,02:20
+12720,Hyder­ abad Jaipur Express,Hingoli,03:25
+12720,Hyder­ abad Jaipur Express,Akola,05:45
+7020,Hyder­ abad Jaipur Special,Hyderabad,19:50
+7020,Hyder­ abad Jaipur Special,Secunderabad,20:20
+7020,Hyder­ abad Jaipur Special,Nizamabad,23:05
+7020,Hyder­ abad Jaipur Special,Mudkhed,00:50
+7020,Hyder­ abad Jaipur Special,Hazur Sahib Nanded,01:20
+7020,Hyder­ abad Jaipur Special,Purna,02:20
+7020,Hyder­ abad Jaipur Special,Hingoli,03:25
+7020,Hyder­ abad Jaipur Special,Akola,05:45
+7053,Ka­ chegu­ da Bikner Special,Kacheguda,22:00
+7053,Ka­ chegu­ da Bikner Special,Nizamabad,00:40
+7053,Ka­ chegu­ da Bikner Special,Dharmabad,01:20
+7053,Ka­ chegu­ da Bikner Special,Mudkhed,03:15
+7053,Ka­ chegu­ da Bikner Special,Hazur Sahib Nanded,04:05
+7053,Ka­ chegu­ da Bikner Special,Purna,05:00
+7053,Ka­ chegu­ da Bikner Special,Hingoli,07:00
+7053,Ka­ chegu­ da Bikner Special,Akola,11:00
+19302,Yesvantpur Dr. Ambed­ kar nagar Express,Kacheguda,03:05
+19302,Yesvantpur Dr. Ambed­ kar nagar Express,Nizamabad,07:00
+19302,Yesvantpur Dr. Ambed­ kar nagar Express,Mudkhed,08:50
+19302,Yesvantpur Dr. Ambed­ kar nagar Express,Hazur Sahib Nanded,09:40
+19302,Yesvantpur Dr. Ambed­ kar nagar Express,Purna,10:40
+19302,Yesvantpur Dr. Ambed­ kar nagar Express,Hingoli,12:20
+19302,Yesvantpur Dr. Ambed­ kar nagar Express,Akola,15:10
+17020,Hyderabad Hisar Express,Hyderabad,15:10
+17020,Hyderabad Hisar Express,Secunderabad,15:40
+17020,Hyderabad Hisar Express,Nizamabad,18:10
+17020,Hyderabad Hisar Express,Hazur Sahib Nanded,21:00
+17020,Hyderabad Hisar Express,Purna,21:40
+17020,Hyderabad Hisar Express,Parbhani,22:15
+17020,Hyderabad Hisar Express,Jalna,00:05
+17020,Hyderabad Hisar Express,Chhatrapati Sambhaji Nagar,01:20
+17020,Hyderabad Hisar Express,Nagarsol,03:00
+17020,Hyderabad Hisar Express,Manmad,04:10
+12421,Hazur Sahib Nanded Amritsar Express,Hazur Sahib Nanded,11:05
+12421,Hazur Sahib Nanded Amritsar Express,Purna,11:50
+12421,Hazur Sahib Nanded Amritsar Express,Hingoli,13:00
+12421,Hazur Sahib Nanded Amritsar Express,Akola,16:00
+22709,Hazur Sahib Nanded Amb Andura Express,Hazur Sahib Nanded,11:05
+22709,Hazur Sahib Nanded Amb Andura Express,Purna,11:50
+22709,Hazur Sahib Nanded Amb Andura Express,Hingoli,13:00
+22709,Hazur Sahib Nanded Amb Andura Express,Akola,16:00
+17231,Narsapur Nagarsol Express,Nizamabad,00:20
+17231,Narsapur Nagarsol Express,Mudkhed,02:40
+17231,Narsapur Nagarsol Express,Hazur Sahib Nanded,03:10
+17231,Narsapur Nagarsol Express,Purna,04:00
+17231,Narsapur Nagarsol Express,Parbhani,04:35
+17231,Narsapur Nagarsol Express,Jalna,06:30
+17231,Narsapur Nagarsol Express,Chhatrapati Sambhaji Nagar,07:50
+17231,Narsapur Nagarsol Express,Nagarsol,09:45
+16003,Chennai Nagarsol Express,Kacheguda,23:00
+16003,Chennai Nagarsol Express,Nizamabad,02:50
+16003,Chennai Nagarsol Express,Mudkhed,05:10
+16003,Chennai Nagarsol Express,Hazur Sahib Nanded,05:40
+16003,Chennai Nagarsol Express,Purna,06:30
+16003,Chennai Nagarsol Express,Parbhani,07:00
+16003,Chennai Nagarsol Express,Jalna,09:00
+16003,Chennai Nagarsol Express,Chhatrapati Sambhaji Nagar,10:00
+16003,Chennai Nagarsol Express,Nagarsol,11:55
+17622,Tirupati Aurang­ abad Express,Vikarabad,09:40
+17622,Tirupati Aurang­ abad Express,Bidar,11:10
+17622,Tirupati Aurang­ abad Express,Parbhani,18:40
+17622,Tirupati Aurang­ abad Express,Jalna,20:20
+17622,Tirupati Aurang­ abad Express,Chhatrapati Sambhaji Nagar,22:40
+17620,Hazur Sahib Nanded Au­ rangabad Express,Hazur Sahib Nanded,11:50
+17620,Hazur Sahib Nanded Au­ rangabad Express,Purna,12:20
+17620,Hazur Sahib Nanded Au­ rangabad Express,Parbhani,13:00
+17620,Hazur Sahib Nanded Au­ rangabad Express,Jalna,15:00
+17620,Hazur Sahib Nanded Au­ rangabad Express,Chhatrapati Sambhaji Nagar,16:50
+17611,Nanded Mumbai CSMT Rajya Rani Express,Hazur Sahib Nanded,22:00
+17611,Nanded Mumbai CSMT Rajya Rani Express,Purna,22:30
+17611,Nanded Mumbai CSMT Rajya Rani Express,Parbhani,23:02
+17611,Nanded Mumbai CSMT Rajya Rani Express,Jalna,01:35
+17611,Nanded Mumbai CSMT Rajya Rani Express,Chhatrapati Sambhaji Nagar,02:55
+17611,Nanded Mumbai CSMT Rajya Rani Express,Manmad,05:20
+17611,Nanded Mumbai CSMT Rajya Rani Express,Nasik Road,06:15
+17611,Nanded Mumbai CSMT Rajya Rani Express,Igatpuri,07:13
+17611,Nanded Mumbai CSMT Rajya Rani Express,Kalyan,08:55
+17611,Nanded Mumbai CSMT Rajya Rani Express,Mumbai CSMT,10:07
+17253,Guntur Aurangab­ ad Express,Kacheguda,21:15
+17253,Guntur Aurangab­ ad Express,Secunderabad,22:10
+17253,Guntur Aurangab­ ad Express,Vikarabad,23:45
+17253,Guntur Aurangab­ ad Express,Bidar,01:10
+17253,Guntur Aurangab­ ad Express,Parbhani,09:30
+17253,Guntur Aurangab­ ad Express,Jalna,11:30
+17253,Guntur Aurangab­ ad Express,Chhatrapati Sambhaji Nagar,13:20
+17683,Akola Purna Express,Purna,02:00
+17683,Akola Purna Express,Hingoli,00:05
+17683,Akola Purna Express,Akola,22:15
+11042,Shirdi Dadar Express,Sai Nagar Shirdi,21:25
+11042,Shirdi Dadar Express,Pune,02:20
+11042,Shirdi Dadar Express,Kalyan,05:32
+22224,Shirdi Mumbai CSMT Vande Bharat Express,Sai Nagar Shirdi,17:45
+22224,Shirdi Mumbai CSMT Vande Bharat Express,Nasik Road,19:35
+22224,Shirdi Mumbai CSMT Vande Bharat Express,Kalyan,21:47
+22224,Shirdi Mumbai CSMT Vande Bharat Express,Dadar,22:30
+22224,Shirdi Mumbai CSMT Vande Bharat Express,Mumbai CSMT,22:50
+17665,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Hazur Sahib Nanded,21:15
+17665,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Purna,22:30
+17665,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Hingoli,00:15
+17665,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Akola,03:50
+17665,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Manmad,08:50
+17665,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Nasik Road,09:42
+17665,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Kalyan,13:25
+17665,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Lokmanya Tilak (T),13:40
+17667,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Hazur Sahib Nanded,21:15
+17667,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Purna,22:30
+17667,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Hingoli,00:15
+17667,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Akola,03:40
+17667,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Manmad,08:12
+17667,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Nasik Road,09:15
+17667,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Kalyan,11:55
+17667,Hazur Sa­ hib Nanded ­ Lokmanya Tilak (T) Express,Lokmanya Tilak (T),13:00
+20705,Hazur Sahib Nanded­ Mumbai CSMT Vande Bharat Express,Hazur Sahib Nanded,05:00
+20705,Hazur Sahib Nanded­ Mumbai CSMT Vande Bharat Express,Parbhani,05:42
+20705,Hazur Sahib Nanded­ Mumbai CSMT Vande Bharat Express,Jalna,07:22
+20705,Hazur Sahib Nanded­ Mumbai CSMT Vande Bharat Express,Chhatrapati Sambhaji Nagar,08:15
+20705,Hazur Sahib Nanded­ Mumbai CSMT Vande Bharat Express,Manmad,10:00
+20705,Hazur Sahib Nanded­ Mumbai CSMT Vande Bharat Express,Nasik Road,11:00
+20705,Hazur Sahib Nanded­ Mumbai CSMT Vande Bharat Express,Kalyan,13:10
+20705,Hazur Sahib Nanded­ Mumbai CSMT Vande Bharat Express,Dadar,13:50
+20705,Hazur Sahib Nanded­ Mumbai CSMT Vande Bharat Express,Mumbai CSMT,14:25

@@ -1,0 +1,859 @@
+train_num,train_name,halt_station_name,departure_time
+12165,Lokmanya Tilak (T) Gorakhpur Express,Lokmanya Tilak (T),06:00
+12165,Lokmanya Tilak (T) Gorakhpur Express,Thane,06:20
+12165,Lokmanya Tilak (T) Gorakhpur Express,Kalyan,06:40
+12165,Lokmanya Tilak (T) Gorakhpur Express,Nasik Road,09:45
+12165,Lokmanya Tilak (T) Gorakhpur Express,Manmad,10:55
+12165,Lokmanya Tilak (T) Gorakhpur Express,Jalgaon,12:30
+12165,Lokmanya Tilak (T) Gorakhpur Express,Bhusaval,13:10
+12165,Lokmanya Tilak (T) Gorakhpur Express,Itarsi,18:10
+12165,Lokmanya Tilak (T) Gorakhpur Express,Jabalpur,21:50
+12165,Lokmanya Tilak (T) Gorakhpur Express,Katni,23:10
+12165,Lokmanya Tilak (T) Gorakhpur Express,Satna,00:30
+12165,Lokmanya Tilak (T) Gorakhpur Express,Prayagraj,04:20
+12165,Lokmanya Tilak (T) Gorakhpur Express,Bhadohi,06:18
+12165,Lokmanya Tilak (T) Gorakhpur Express,Varanasi,07:20
+22183,Lokmanya Tilak (T) Ayodhya Cantt. Saket Express,Lokmanya Tilak (T),06:00
+22183,Lokmanya Tilak (T) Ayodhya Cantt. Saket Express,Thane,06:20
+22183,Lokmanya Tilak (T) Ayodhya Cantt. Saket Express,Kalyan,06:40
+22183,Lokmanya Tilak (T) Ayodhya Cantt. Saket Express,Nasik Road,09:45
+22183,Lokmanya Tilak (T) Ayodhya Cantt. Saket Express,Manmad,10:55
+22183,Lokmanya Tilak (T) Ayodhya Cantt. Saket Express,Bhusaval,13:10
+22183,Lokmanya Tilak (T) Ayodhya Cantt. Saket Express,Khandwa d ,15:15
+22183,Lokmanya Tilak (T) Ayodhya Cantt. Saket Express,Itarsi,18:10
+22183,Lokmanya Tilak (T) Ayodhya Cantt. Saket Express,Piparia d ,19:05
+22183,Lokmanya Tilak (T) Ayodhya Cantt. Saket Express,Jabalpur,21:50
+22183,Lokmanya Tilak (T) Ayodhya Cantt. Saket Express,Katni,23:10
+22183,Lokmanya Tilak (T) Ayodhya Cantt. Saket Express,Satna,00:30
+22183,Lokmanya Tilak (T) Ayodhya Cantt. Saket Express,Prayagraj,04:20
+22183,Lokmanya Tilak (T) Ayodhya Cantt. Saket Express,Ayodhya Cantt.,08:00
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Lokmanya Tilak (T),06:00
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Thane,06:20
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Kalyan,06:40
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Nasik Road,09:45
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Manmad,10:55
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Bhusaval,13:10
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Khandwa d ,15:15
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Harda d ,16:22
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Itarsi,17:40
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Bhopal,19:50
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Bina,21:50
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Prayagraj,09:00
+22129,Lokmanya Tilak (T) Ayodhya Cantt. Tulsi Express,Ayodhya Cantt.,12:15
+19045,Surat Thawe Tapti Ganga Express,Surat,10:10
+19045,Surat Thawe Tapti Ganga Express,Udhna,10:21
+19045,Surat Thawe Tapti Ganga Express,Nandurbar,12:25
+19045,Surat Thawe Tapti Ganga Express,Jalgaon,15:15
+19045,Surat Thawe Tapti Ganga Express,Bhusaval,15:45
+19045,Surat Thawe Tapti Ganga Express,Khandwa d ,17:45
+19045,Surat Thawe Tapti Ganga Express,Harda d ,18:52
+19045,Surat Thawe Tapti Ganga Express,Itarsi,20:25
+19045,Surat Thawe Tapti Ganga Express,Piparia d ,21:15
+19045,Surat Thawe Tapti Ganga Express,Jabalpur,23:59
+19045,Surat Thawe Tapti Ganga Express,Katni,01:15
+19045,Surat Thawe Tapti Ganga Express,Satna,02:50
+19045,Surat Thawe Tapti Ganga Express,Prayagraj Chheoki,06:40
+19045,Surat Thawe Tapti Ganga Express,Mirzapur,07:50
+19045,Surat Thawe Tapti Ganga Express,Varanasi,10:50
+15017,Lokmanya Tilak (T) Gorakhpur Express,Lokmanya Tilak (T),06:35
+15017,Lokmanya Tilak (T) Gorakhpur Express,Thane,07:00
+15017,Lokmanya Tilak (T) Gorakhpur Express,Kalyan,07:20
+15017,Lokmanya Tilak (T) Gorakhpur Express,Igatpuri,09:07
+15017,Lokmanya Tilak (T) Gorakhpur Express,Nasik Road,10:00
+15017,Lokmanya Tilak (T) Gorakhpur Express,Manmad,11:15
+15017,Lokmanya Tilak (T) Gorakhpur Express,Jalgaon,13:10
+15017,Lokmanya Tilak (T) Gorakhpur Express,Bhusaval,14:00
+15017,Lokmanya Tilak (T) Gorakhpur Express,Khandwa d ,16:30
+15017,Lokmanya Tilak (T) Gorakhpur Express,Harda d ,18:25
+15017,Lokmanya Tilak (T) Gorakhpur Express,Itarsi,20:50
+15017,Lokmanya Tilak (T) Gorakhpur Express,Piparia d ,21:48
+15017,Lokmanya Tilak (T) Gorakhpur Express,Jabalpur,00:40
+15017,Lokmanya Tilak (T) Gorakhpur Express,Katni,02:00
+15017,Lokmanya Tilak (T) Gorakhpur Express,Maihar d ,02:50
+15017,Lokmanya Tilak (T) Gorakhpur Express,Satna,03:30
+15017,Lokmanya Tilak (T) Gorakhpur Express,Prayagraj,08:10
+15017,Lokmanya Tilak (T) Gorakhpur Express,Bhadohi,10:51
+15017,Lokmanya Tilak (T) Gorakhpur Express,Varanasi,13:10
+11055/11059,Lokmanya Tilak (T) Gorakhpur/ Chhapra Godan Express,Lokmanya Tilak (T),10:55
+11055/11059,Lokmanya Tilak (T) Gorakhpur/ Chhapra Godan Express,Thane,11:15
+11055/11059,Lokmanya Tilak (T) Gorakhpur/ Chhapra Godan Express,Kalyan,11:40
+11055/11059,Lokmanya Tilak (T) Gorakhpur/ Chhapra Godan Express,Nasik Road,14:20
+11055/11059,Lokmanya Tilak (T) Gorakhpur/ Chhapra Godan Express,Bhusaval,17:35
+11055/11059,Lokmanya Tilak (T) Gorakhpur/ Chhapra Godan Express,Itarsi,22:10
+11055/11059,Lokmanya Tilak (T) Gorakhpur/ Chhapra Godan Express,Jabalpur,01:10
+11055/11059,Lokmanya Tilak (T) Gorakhpur/ Chhapra Godan Express,Satna,03:50
+11055/11059,Lokmanya Tilak (T) Gorakhpur/ Chhapra Godan Express,Prayagraj,08:35
+11061,Lokmanya Tilak (T) Jay Nagar Express,Lokmanya Tilak (T),11:30
+11061,Lokmanya Tilak (T) Jay Nagar Express,Thane,11:55
+11061,Lokmanya Tilak (T) Jay Nagar Express,Kalyan,12:15
+11061,Lokmanya Tilak (T) Jay Nagar Express,Nasik Road,14:55
+11061,Lokmanya Tilak (T) Jay Nagar Express,Manmad,16:05
+11061,Lokmanya Tilak (T) Jay Nagar Express,Jalgaon,18:15
+11061,Lokmanya Tilak (T) Jay Nagar Express,Bhusaval,18:50
+11061,Lokmanya Tilak (T) Jay Nagar Express,Khandwa d ,21:00
+11061,Lokmanya Tilak (T) Jay Nagar Express,Itarsi,23:30
+11061,Lokmanya Tilak (T) Jay Nagar Express,Piparia d ,00:20
+11061,Lokmanya Tilak (T) Jay Nagar Express,Jabalpur,02:50
+11061,Lokmanya Tilak (T) Jay Nagar Express,Katni,04:05
+11061,Lokmanya Tilak (T) Jay Nagar Express,Maihar d ,04:50
+11061,Lokmanya Tilak (T) Jay Nagar Express,Satna,05:30
+11061,Lokmanya Tilak (T) Jay Nagar Express,Prayagraj,09:55
+11061,Lokmanya Tilak (T) Jay Nagar Express,Gyanpur Road,11:10
+11061,Lokmanya Tilak (T) Jay Nagar Express,Varanasi,12:35
+11061,Lokmanya Tilak (T) Jay Nagar Express,Ballia,15:15
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Lokmanya Tilak (T),13:50
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Thane,14:10
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Kalyan,14:35
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Igatpuri,16:22
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Nasik Road,17:10
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Manmad,18:05
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Jalgaon,20:07
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Bhusaval,20:50
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Khandwa d ,23:20
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Harda d ,00:44
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Itarsi,02:20
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Bhopal,04:10
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Bina,06:20
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Maihar d ,11:20
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Satna,12:00
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Prayagraj,16:00
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Bhadohi,18:18
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Varanasi,19:55
+11071,Lokmanya Tilak (T) Ballia Kamayani Express,Ballia,22:35
+22131/11033,Pune Banaras / Darbhanga Express,Pune,16:15
+22131/11033,Pune Banaras / Darbhanga Express,Manmad,21:50
+22131/11033,Pune Banaras / Darbhanga Express,Bhusaval,00:15
+22131/11033,Pune Banaras / Darbhanga Express,Khandwa d ,02:15
+22131/11033,Pune Banaras / Darbhanga Express,Itarsi,05:30
+22131/11033,Pune Banaras / Darbhanga Express,Piparia d ,06:20
+22131/11033,Pune Banaras / Darbhanga Express,Jabalpur,08:45
+22131/11033,Pune Banaras / Darbhanga Express,Katni,10:05
+22131/11033,Pune Banaras / Darbhanga Express,Satna,11:50
+22131/11033,Pune Banaras / Darbhanga Express,Prayagraj,17:10
+22131/11033,Pune Banaras / Darbhanga Express,Gyanpur Road,18:35
+22131/11033,Pune Banaras / Darbhanga Express,Ayodhya Cantt.,20:00
+22131/11033,Pune Banaras / Darbhanga Express,Banaras,19:10
+22131/11033,Pune Banaras / Darbhanga Express,Varanasi,19:35
+18610,Lokmanya Tilak (T) Ranchi Express,Lokmanya Tilak (T),16:35
+18610,Lokmanya Tilak (T) Ranchi Express,Kalyan,17:20
+18610,Lokmanya Tilak (T) Ranchi Express,Nasik Road,20:40
+18610,Lokmanya Tilak (T) Ranchi Express,Manmad,22:00
+18610,Lokmanya Tilak (T) Ranchi Express,Bhusaval,00:25
+18610,Lokmanya Tilak (T) Ranchi Express,Khandwa d ,02:35
+18610,Lokmanya Tilak (T) Ranchi Express,Itarsi,05:10
+18610,Lokmanya Tilak (T) Ranchi Express,Piparia d ,06:00
+18610,Lokmanya Tilak (T) Ranchi Express,Jabalpur,08:35
+18610,Lokmanya Tilak (T) Ranchi Express,Katni,09:55
+18610,Lokmanya Tilak (T) Ranchi Express,Satna,11:40
+18610,Lokmanya Tilak (T) Ranchi Express,Prayagraj,16:40
+18610,Lokmanya Tilak (T) Ranchi Express,Varanasi,20:05
+18610,Lokmanya Tilak (T) Ranchi Express,Pt Deen Dayal Upadhyaya Jn.,21:20
+18610,Lokmanya Tilak (T) Ranchi Express,Gaya,00:15
+22360,CSMT Patna Express,Mumbai CSMT,11:05
+22360,CSMT Patna Express,Kalyan,12:02
+22360,CSMT Patna Express,Bhusaval,18:00
+22360,CSMT Patna Express,Itarsi,22:35
+22360,CSMT Patna Express,Jabalpur,01:35
+22360,CSMT Patna Express,Satna,04:30
+22360,CSMT Patna Express,Prayagraj Chheoki,07:50
+15268,Lokmanya Tilak (T) Raxaul Antyodaya Express,Lokmanya Tilak (T),16:35
+15268,Lokmanya Tilak (T) Raxaul Antyodaya Express,Kalyan,17:20
+15268,Lokmanya Tilak (T) Raxaul Antyodaya Express,Nasik Road,20:40
+15268,Lokmanya Tilak (T) Raxaul Antyodaya Express,Bhusaval,00:25
+15268,Lokmanya Tilak (T) Raxaul Antyodaya Express,Khandwa,02:35
+15268,Lokmanya Tilak (T) Raxaul Antyodaya Express,Piparia,06:00
+15268,Lokmanya Tilak (T) Raxaul Antyodaya Express,Jabalpur,08:35
+15268,Lokmanya Tilak (T) Raxaul Antyodaya Express,Katni,09:55
+15268,Lokmanya Tilak (T) Raxaul Antyodaya Express,Satna,11:40
+15268,Lokmanya Tilak (T) Raxaul Antyodaya Express,Prayagraj,16:40
+15268,Lokmanya Tilak (T) Raxaul Antyodaya Express,Gyanpur Road,17:48
+15268,Lokmanya Tilak (T) Raxaul Antyodaya Express,Varanasi,19:35
+12322,Mumbai CSMT Howrah Mail,Mumbai CSMT,22:15
+12322,Mumbai CSMT Howrah Mail,Dadar,22:30
+12322,Mumbai CSMT Howrah Mail,Kalyan,23:15
+12322,Mumbai CSMT Howrah Mail,Nasik Road,01:40
+12322,Mumbai CSMT Howrah Mail,Manmad,02:40
+12322,Mumbai CSMT Howrah Mail,Jalgaon,04:50
+12322,Mumbai CSMT Howrah Mail,Bhusaval,05:25
+12322,Mumbai CSMT Howrah Mail,Khandwa,07:25
+12322,Mumbai CSMT Howrah Mail,Harda,08:32
+12322,Mumbai CSMT Howrah Mail,Itarsi,10:00
+12322,Mumbai CSMT Howrah Mail,Piparia,10:48
+12322,Mumbai CSMT Howrah Mail,Jabalpur,13:30
+12322,Mumbai CSMT Howrah Mail,Katni,14:40
+12322,Mumbai CSMT Howrah Mail,Maihar,15:30
+12322,Mumbai CSMT Howrah Mail,Satna,16:25
+12322,Mumbai CSMT Howrah Mail,Prayagraj Chheoki,19:35
+12322,Mumbai CSMT Howrah Mail,Mirzapur,20:40
+12322,Mumbai CSMT Howrah Mail,Pt Deen Dayal Upadhyaya Jn.,22:55
+12322,Mumbai CSMT Howrah Mail,Gaya,02:10
+12322,Mumbai CSMT Howrah Mail,Asansol,07:45
+12322,Mumbai CSMT Howrah Mail,Howrah,11:10
+22177,Mumbai CSMT Varanasi Mahanagari Express,Mumbai CSMT,00:10
+22177,Mumbai CSMT Varanasi Mahanagari Express,Dadar,00:25
+22177,Mumbai CSMT Varanasi Mahanagari Express,Thane,00:50
+22177,Mumbai CSMT Varanasi Mahanagari Express,Kalyan,01:15
+22177,Mumbai CSMT Varanasi Mahanagari Express,Igatpuri,02:58
+22177,Mumbai CSMT Varanasi Mahanagari Express,Nasik Road,03:45
+22177,Mumbai CSMT Varanasi Mahanagari Express,Manmad,04:40
+22177,Mumbai CSMT Varanasi Mahanagari Express,Jalgaon,06:35
+22177,Mumbai CSMT Varanasi Mahanagari Express,Bhusaval,07:20
+22177,Mumbai CSMT Varanasi Mahanagari Express,Khandwa,09:50
+22177,Mumbai CSMT Varanasi Mahanagari Express,Itarsi,12:25
+22177,Mumbai CSMT Varanasi Mahanagari Express,Piparia,13:15
+22177,Mumbai CSMT Varanasi Mahanagari Express,Jabalpur,15:50
+22177,Mumbai CSMT Varanasi Mahanagari Express,Katni,17:00
+22177,Mumbai CSMT Varanasi Mahanagari Express,Maihar,17:50
+22177,Mumbai CSMT Varanasi Mahanagari Express,Satna,18:25
+22177,Mumbai CSMT Varanasi Mahanagari Express,Prayagraj Chheoki,22:40
+22177,Mumbai CSMT Varanasi Mahanagari Express,Mirzapur,00:35
+22177,Mumbai CSMT Varanasi Mahanagari Express,Varanasi,03:35
+12167,Lokmanya Tilak (T) Banaras Express,Lokmanya Tilak (T),22:45
+12167,Lokmanya Tilak (T) Banaras Express,Kalyan,23:30
+12167,Lokmanya Tilak (T) Banaras Express,Nasik Road,02:10
+12167,Lokmanya Tilak (T) Banaras Express,Bhusaval,05:35
+12167,Lokmanya Tilak (T) Banaras Express,Khandwa,08:10
+12167,Lokmanya Tilak (T) Banaras Express,Itarsi,10:50
+12167,Lokmanya Tilak (T) Banaras Express,Jabalpur,14:10
+12167,Lokmanya Tilak (T) Banaras Express,Katni,15:35
+12167,Lokmanya Tilak (T) Banaras Express,Maihar,16:20
+12167,Lokmanya Tilak (T) Banaras Express,Satna,17:05
+12167,Lokmanya Tilak (T) Banaras Express,Prayagraj Chheoki,21:12
+12167,Lokmanya Tilak (T) Banaras Express,Banaras,01:55
+12167,Lokmanya Tilak (T) Banaras Express,Varanasi,01:35
+17323,SSS Hubballi Banaras Express,Manmad,12:40
+17323,SSS Hubballi Banaras Express,Bhusaval,15:25
+17323,SSS Hubballi Banaras Express,Khandwa,17:30
+17323,SSS Hubballi Banaras Express,Itarsi,20:10
+17323,SSS Hubballi Banaras Express,Piparia,21:00
+17323,SSS Hubballi Banaras Express,Jabalpur,23:40
+17323,SSS Hubballi Banaras Express,Katni,00:50
+17323,SSS Hubballi Banaras Express,Maihar,01:40
+17323,SSS Hubballi Banaras Express,Satna,02:10
+17323,SSS Hubballi Banaras Express,Prayagraj Chheoki,05:35
+17323,SSS Hubballi Banaras Express,Mirzapur,06:33
+17323,SSS Hubballi Banaras Express,Varanasi,08:30
+20903,Ekta Nagar Varanasi Mahamana Express,Surat,22:42
+20903,Ekta Nagar Varanasi Mahamana Express,Nandurbar,01:00
+20903,Ekta Nagar Varanasi Mahamana Express,Bhusaval,04:20
+20903,Ekta Nagar Varanasi Mahamana Express,Itarsi,09:35
+20903,Ekta Nagar Varanasi Mahamana Express,Jabalpur,13:00
+20903,Ekta Nagar Varanasi Mahamana Express,Katni,14:20
+20903,Ekta Nagar Varanasi Mahamana Express,Satna,15:50
+20903,Ekta Nagar Varanasi Mahamana Express,Prayagraj Chheoki,19:02
+20903,Ekta Nagar Varanasi Mahamana Express,Varanasi,23:25
+20905,Ekta Nagar Rewa Mahamana Express,Surat,22:42
+20905,Ekta Nagar Rewa Mahamana Express,Jalgaon,03:45
+20905,Ekta Nagar Rewa Mahamana Express,Bhusaval,04:20
+20905,Ekta Nagar Rewa Mahamana Express,Khandwa,06:35
+20905,Ekta Nagar Rewa Mahamana Express,Itarsi,09:35
+20905,Ekta Nagar Rewa Mahamana Express,Piparia,10:25
+20905,Ekta Nagar Rewa Mahamana Express,Jabalpur,13:00
+20905,Ekta Nagar Rewa Mahamana Express,Katni,14:20
+20905,Ekta Nagar Rewa Mahamana Express,Maihar,15:10
+20905,Ekta Nagar Rewa Mahamana Express,Satna,15:50
+20905,Ekta Nagar Rewa Mahamana Express,Rewa,17:30
+1025,Dadar Ballia Special,Dadar,14:05
+1025,Dadar Ballia Special,Kalyan,14:57
+1025,Dadar Ballia Special,Nasik Road,17:31
+1025,Dadar Ballia Special,Bhusaval,21:10
+1025,Dadar Ballia Special,Harda,01:00
+1025,Dadar Ballia Special,Itarsi,02:35
+1025,Dadar Ballia Special,Bina,06:55
+1025,Dadar Ballia Special,Prayagraj,19:10
+1025,Dadar Ballia Special,Varanasi,21:55
+1025,Dadar Ballia Special,Ballia,01:45
+15590,adapsa zaffarp Expres,Pune,10:00
+15590,adapsa zaffarp Expres,Manmad,16:55
+15590,adapsa zaffarp Expres,Bhusaval,19:35
+15590,adapsa zaffarp Expres,Khandwa,22:05
+15590,adapsa zaffarp Expres,Itarsi,00:50
+15590,adapsa zaffarp Expres,Piparia,01:30
+15590,adapsa zaffarp Expres,Jabalpur,04:50
+15590,adapsa zaffarp Expres,Katni,06:00
+15590,adapsa zaffarp Expres,Maihar,06:50
+15590,adapsa zaffarp Expres,Satna,07:15
+15590,adapsa zaffarp Expres,Prayagraj Chheoki,11:10
+15590,adapsa zaffarp Expres,Pt Deen Dayal Upadhyaya Jn.,15:05
+15590,adapsa zaffarp Expres,Asansol,21:50
+12427,Rewa Anand Vihar (T) Express,Rewa,16:20
+12427,Rewa Anand Vihar (T) Express,Satna,17:25
+12427,Rewa Anand Vihar (T) Express,Prayagraj,21:05
+11037,Pune Barhni Express,Pune,16:15
+11037,Pune Barhni Express,Manmad,21:50
+11037,Pune Barhni Express,Jalgaon,23:40
+11037,Pune Barhni Express,Bhusaval,00:15
+11037,Pune Barhni Express,Khandwa,02:15
+11037,Pune Barhni Express,Itarsi,05:30
+11037,Pune Barhni Express,Jabalpur,08:45
+11037,Pune Barhni Express,Katni,10:05
+11037,Pune Barhni Express,Satna,11:50
+11037,Pune Barhni Express,Prayagraj,16:40
+11037,Pune Barhni Express,Varanasi,19:35
+12188,Mumbai CSMT Jabalpur Garib Rath Express,Mumbai CSMT,13:30
+12188,Mumbai CSMT Jabalpur Garib Rath Express,Dadar,13:45
+12188,Mumbai CSMT Jabalpur Garib Rath Express,Kalyan,14:25
+12188,Mumbai CSMT Jabalpur Garib Rath Express,Igatpuri,16:05
+12188,Mumbai CSMT Jabalpur Garib Rath Express,Nasik Road,17:00
+12188,Mumbai CSMT Jabalpur Garib Rath Express,Manmad,17:55
+12188,Mumbai CSMT Jabalpur Garib Rath Express,Jalgaon,19:40
+12188,Mumbai CSMT Jabalpur Garib Rath Express,Bhusaval,20:20
+12188,Mumbai CSMT Jabalpur Garib Rath Express,Khandwa,22:35
+12188,Mumbai CSMT Jabalpur Garib Rath Express,Harda d ,23:50
+12188,Mumbai CSMT Jabalpur Garib Rath Express,Itarsi,01:25
+12188,Mumbai CSMT Jabalpur Garib Rath Express,Piparia a d ,02:15
+12188,Mumbai CSMT Jabalpur Garib Rath Express,Jabalpur,05:05
+12362,Mumbai CSTM Asansol Express (Via Jasidih),Mumbai CSMT,11:05
+12362,Mumbai CSTM Asansol Express (Via Jasidih),Dadar,11:20
+12362,Mumbai CSTM Asansol Express (Via Jasidih),Kalyan,12:00
+12362,Mumbai CSTM Asansol Express (Via Jasidih),Manmad,15:35
+12362,Mumbai CSTM Asansol Express (Via Jasidih),Bhusaval,18:00
+12362,Mumbai CSTM Asansol Express (Via Jasidih),Khandwa,20:00
+12362,Mumbai CSTM Asansol Express (Via Jasidih),Itarsi,22:35
+12362,Mumbai CSTM Asansol Express (Via Jasidih),Jabalpur,01:35
+12362,Mumbai CSTM Asansol Express (Via Jasidih),Katni,03:00
+12362,Mumbai CSTM Asansol Express (Via Jasidih),Satna,04:30
+12362,Mumbai CSTM Asansol Express (Via Jasidih),Prayagraj Chheoki,07:50
+12362,Mumbai CSTM Asansol Express (Via Jasidih),Mirzapur,08:50
+12362,Mumbai CSTM Asansol Express (Via Jasidih),Pt Deen Dayal Upadhyaya Jn.,10:25
+12362,Mumbai CSTM Asansol Express (Via Jasidih),Asansol,20:45
+22103,Lokmanya Tilak (T) Ayodhya Cantt. Express,Lokmanya Tilak (T),13:35
+22103,Lokmanya Tilak (T) Ayodhya Cantt. Express,Kalyan,14:25
+22103,Lokmanya Tilak (T) Ayodhya Cantt. Express,Nasik Road,17:00
+22103,Lokmanya Tilak (T) Ayodhya Cantt. Express,Jalgaon,19:40
+22103,Lokmanya Tilak (T) Ayodhya Cantt. Express,Bhusaval,20:20
+22103,Lokmanya Tilak (T) Ayodhya Cantt. Express,Itarsi,01:25
+22103,Lokmanya Tilak (T) Ayodhya Cantt. Express,Jabalpur,04:50
+22103,Lokmanya Tilak (T) Ayodhya Cantt. Express,Katni,06:00
+22103,Lokmanya Tilak (T) Ayodhya Cantt. Express,Satna,07:15
+22103,Lokmanya Tilak (T) Ayodhya Cantt. Express,Prayagraj,11:35
+22103,Lokmanya Tilak (T) Ayodhya Cantt. Express,Ayodhya Cantt.,17:30
+20929,Udhna Banaras Express,Udhna,20:35
+20929,Udhna Banaras Express,Nandurbar,22:50
+20929,Udhna Banaras Express,Jalgaon,01:10
+20929,Udhna Banaras Express,Bhusaval,01:40
+20929,Udhna Banaras Express,Khandwa,03:50
+20929,Udhna Banaras Express,Itarsi,06:15
+20929,Udhna Banaras Express,Jabalpur,09:30
+20929,Udhna Banaras Express,Katni,10:50
+20929,Udhna Banaras Express,Satna,12:25
+20929,Udhna Banaras Express,Prayagraj Chheoki,16:15
+20929,Udhna Banaras Express,Banaras,21:00
+20929,Udhna Banaras Express,Varanasi,20:40
+22687,Mysore Varanasi Express,Manmad,12:40
+22687,Mysore Varanasi Express,Bhusaval,15:25
+22687,Mysore Varanasi Express,Khandwa,17:30
+22687,Mysore Varanasi Express,Itarsi,20:10
+22687,Mysore Varanasi Express,Piparia a d ,21:00
+22687,Mysore Varanasi Express,Jabalpur,23:40
+22687,Mysore Varanasi Express,Katni,00:50
+22687,Mysore Varanasi Express,Maihar,01:40
+22687,Mysore Varanasi Express,Satna,02:10
+22687,Mysore Varanasi Express,Prayagraj Chheoki,05:35
+22687,Mysore Varanasi Express,Mirzapur,06:33
+22687,Mysore Varanasi Express,Varanasi,08:25
+11081,Lokmanya Tilak (T) Gorakhpur Express,Lokmanya Tilak (T),16:35
+11081,Lokmanya Tilak (T) Gorakhpur Express,Kalyan,17:20
+11081,Lokmanya Tilak (T) Gorakhpur Express,Nasik Road,20:40
+11081,Lokmanya Tilak (T) Gorakhpur Express,Bhusaval,00:25
+11081,Lokmanya Tilak (T) Gorakhpur Express,Khandwa,02:35
+11081,Lokmanya Tilak (T) Gorakhpur Express,Piparia a d ,06:00
+11081,Lokmanya Tilak (T) Gorakhpur Express,Jabalpur,08:35
+11081,Lokmanya Tilak (T) Gorakhpur Express,Katni,09:55
+11081,Lokmanya Tilak (T) Gorakhpur Express,Maihar,10:45
+11081,Lokmanya Tilak (T) Gorakhpur Express,Satna,11:40
+11081,Lokmanya Tilak (T) Gorakhpur Express,Prayagraj Chheoki,15:42
+11081,Lokmanya Tilak (T) Gorakhpur Express,Mirzapur,16:58
+11081,Lokmanya Tilak (T) Gorakhpur Express,Varanasi,21:10
+22554,Lokmanya Tilak (T) Raxaul Antyodaya Express,Lokmanya Tilak (T),07:55
+22554,Lokmanya Tilak (T) Raxaul Antyodaya Express,Kalyan,08:35
+22554,Lokmanya Tilak (T) Raxaul Antyodaya Express,Manmad,11:50
+22554,Lokmanya Tilak (T) Raxaul Antyodaya Express,Bhusaval,14:15
+22554,Lokmanya Tilak (T) Raxaul Antyodaya Express,Khandwa,16:15
+22554,Lokmanya Tilak (T) Raxaul Antyodaya Express,Itarsi,18:50
+22554,Lokmanya Tilak (T) Raxaul Antyodaya Express,Jabalpur,22:40
+22554,Lokmanya Tilak (T) Raxaul Antyodaya Express,Katni,23:55
+22554,Lokmanya Tilak (T) Raxaul Antyodaya Express,Satna,01:10
+22554,Lokmanya Tilak (T) Raxaul Antyodaya Express,Prayagraj Chheoki,04:20
+22554,Lokmanya Tilak (T) Raxaul Antyodaya Express,Mirzapur,05:25
+22554,Lokmanya Tilak (T) Raxaul Antyodaya Express,Pt Deen Dayal Upadhyaya Jn.,07:05
+15560,Ahmedabad Darbhanga Antyodaya Express,Satna,16:45
+15560,Ahmedabad Darbhanga Antyodaya Express,Prayagraj,20:40
+15560,Ahmedabad Darbhanga Antyodaya Express,Gyanpur Road,21:58
+15560,Ahmedabad Darbhanga Antyodaya Express,Banaras,23:05
+15560,Ahmedabad Darbhanga Antyodaya Express,Varanasi,23:35
+22937,Rajkot Rewa Express,Surat,23:42
+22937,Rajkot Rewa Express,Nandurbar,01:00
+22937,Rajkot Rewa Express,Jalgaon,03:45
+22937,Rajkot Rewa Express,Bhusaval,04:20
+22937,Rajkot Rewa Express,Khandwa,06:35
+22937,Rajkot Rewa Express,Itarsi,09:35
+22937,Rajkot Rewa Express,Piparia a d ,10:25
+22937,Rajkot Rewa Express,Jabalpur,13:00
+22937,Rajkot Rewa Express,Katni,14:20
+22937,Rajkot Rewa Express,Maihar,15:10
+22937,Rajkot Rewa Express,Satna,15:50
+22937,Rajkot Rewa Express,Rewa,17:30
+12293,Lokmanya Tilak (T) Prayagraj Duronto Express,Lokmanya Tilak (T),17:20
+12293,Lokmanya Tilak (T) Prayagraj Duronto Express,Bhusaval,23:00
+12293,Lokmanya Tilak (T) Prayagraj Duronto Express,Itarsi,03:00
+12293,Lokmanya Tilak (T) Prayagraj Duronto Express,Jabalpur,06:10
+12293,Lokmanya Tilak (T) Prayagraj Duronto Express,Satna,08:30
+12293,Lokmanya Tilak (T) Prayagraj Duronto Express,Prayagraj,12:40
+11273,Itarsi Prayagraj Chheoki Express,Itarsi,17:15
+11273,Itarsi Prayagraj Chheoki Express,Piparia a d ,18:25
+11273,Itarsi Prayagraj Chheoki Express,Jabalpur,23:25
+11273,Itarsi Prayagraj Chheoki Express,Katni,01:40
+11273,Itarsi Prayagraj Chheoki Express,Maihar,03:00
+11273,Itarsi Prayagraj Chheoki Express,Satna,04:10
+11273,Itarsi Prayagraj Chheoki Express,Prayagraj Chheoki,09:55
+15182,Lokmanya Tilak (T) Mau Express,Lokmanya Tilak (T),11:10
+15182,Lokmanya Tilak (T) Mau Express,Kalyan,12:00
+15182,Lokmanya Tilak (T) Mau Express,Nasik Road,14:40
+15182,Lokmanya Tilak (T) Mau Express,Jalgaon,17:30
+15182,Lokmanya Tilak (T) Mau Express,Bhusaval,18:00
+15182,Lokmanya Tilak (T) Mau Express,Harda d ,21:07
+15182,Lokmanya Tilak (T) Mau Express,Itarsi,22:35
+15182,Lokmanya Tilak (T) Mau Express,Jabalpur,01:35
+15182,Lokmanya Tilak (T) Mau Express,Katni,03:00
+15182,Lokmanya Tilak (T) Mau Express,Satna,04:30
+15182,Lokmanya Tilak (T) Mau Express,Prayagraj,09:00
+2133,Bandra (T) Jabalpur Special,Bandra(T),17:15
+2133,Bandra (T) Jabalpur Special,Surat,21:18
+2133,Bandra (T) Jabalpur Special,Itarsi,11:15
+2133,Bandra (T) Jabalpur Special,Bhopal,09:10
+2133,Bandra (T) Jabalpur Special,Piparia a d ,12:25
+2133,Bandra (T) Jabalpur Special,Jabalpur,15:10
+2131,Pune Jabalpur Special,Pune,11:20
+2131,Pune Jabalpur Special,Manmad,17:25
+2131,Pune Jabalpur Special,Bhusaval,19:50
+2131,Pune Jabalpur Special,Harda d ,00:22
+2131,Pune Jabalpur Special,Itarsi,02:10
+2131,Pune Jabalpur Special,Piparia a d ,03:05
+2131,Pune Jabalpur Special,Jabalpur,06:00
+22104,Ayodhya Cantt. Lokmanya Tilak (T) Express,Ayodhya Cantt.,23:10
+22104,Ayodhya Cantt. Lokmanya Tilak (T) Express,Prayagraj,05:20
+22104,Ayodhya Cantt. Lokmanya Tilak (T) Express,Satna,08:25
+22104,Ayodhya Cantt. Lokmanya Tilak (T) Express,Katni,09:35
+22104,Ayodhya Cantt. Lokmanya Tilak (T) Express,Jabalpur,10:55
+22104,Ayodhya Cantt. Lokmanya Tilak (T) Express,Itarsi,14:50
+22104,Ayodhya Cantt. Lokmanya Tilak (T) Express,Bhusaval,19:15
+22104,Ayodhya Cantt. Lokmanya Tilak (T) Express,Jalgaon,19:45
+22104,Ayodhya Cantt. Lokmanya Tilak (T) Express,Nasik Road,22:42
+22104,Ayodhya Cantt. Lokmanya Tilak (T) Express,Kalyan,02:35
+22104,Ayodhya Cantt. Lokmanya Tilak (T) Express,Lokmanya Tilak (T),03:45
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Varanasi,03:25
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Gyanpur Road,04:23
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Prayagraj,07:10
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Satna,11:00
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Katni,12:30
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Jabalpur,14:10
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Piparia d ,16:05
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Khandwa d ,20:25
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Bhusaval,22:20
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Nasik Road,01:45
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Kalyan,04:45
+15267,Raxaul Lokmanya Tilak (T) Antyodaya Express,Lokmanya Tilak (T),05:50
+"22132/
+11034",Banaras/ Darbhanga Pune Express,Varanasi,03:25
+"22132/
+11034",Banaras/ Darbhanga Pune Express,Banaras,04:25
+"22132/
+11034",Banaras/ Darbhanga Pune Express,Ballia,03:30
+"22132/
+11034",Banaras/ Darbhanga Pune Express,Gyanpur Road,05:11
+"22132/
+11034",Banaras/ Darbhanga Pune Express,Prayagraj,07:10
+"22132/
+11034",Banaras/ Darbhanga Pune Express,Satna,11:00
+"22132/
+11034",Banaras/ Darbhanga Pune Express,Katni,12:30
+"22132/
+11034",Banaras/ Darbhanga Pune Express,Jabalpur,14:10
+"22132/
+11034",Banaras/ Darbhanga Pune Express,Piparia d ,16:05
+"22132/
+11034",Banaras/ Darbhanga Pune Express,Itarsi,17:50
+"22132/
+11034",Banaras/ Darbhanga Pune Express,Khandwa d ,20:25
+"22132/
+11034",Banaras/ Darbhanga Pune Express,Bhusaval,22:20
+"22132/
+11034",Banaras/ Darbhanga Pune Express,Manmad d ,00:55
+"22132/
+11034",Banaras/ Darbhanga Pune Express,Pune,07:15
+12321,Howrah Mumbai CSMT Mail,Howrah,23:40
+12321,Howrah Mumbai CSMT Mail,Asansol,02:15
+12321,Howrah Mumbai CSMT Mail,Gaya,06:50
+12321,Howrah Mumbai CSMT Mail,Pt Deen Dayal Upadhyaya,10:10
+12321,Howrah Mumbai CSMT Mail,Mirzapur,11:45
+12321,Howrah Mumbai CSMT Mail,Prayagraj Chheoki,13:15
+12321,Howrah Mumbai CSMT Mail,Satna,16:35
+12321,Howrah Mumbai CSMT Mail,Maihar d ,17:00
+12321,Howrah Mumbai CSMT Mail,Katni,17:50
+12321,Howrah Mumbai CSMT Mail,Jabalpur,19:15
+12321,Howrah Mumbai CSMT Mail,Piparia d ,21:40
+12321,Howrah Mumbai CSMT Mail,Itarsi,23:50
+12321,Howrah Mumbai CSMT Mail,Harda d ,00:37
+12321,Howrah Mumbai CSMT Mail,Khandwa d ,02:25
+12321,Howrah Mumbai CSMT Mail,Bhusaval,04:25
+12321,Howrah Mumbai CSMT Mail,Jalgaon,04:52
+12321,Howrah Mumbai CSMT Mail,Manmad d ,06:55
+12321,Howrah Mumbai CSMT Mail,Nasik Road,08:00
+12321,Howrah Mumbai CSMT Mail,Kalyan,11:40
+12321,Howrah Mumbai CSMT Mail,Dadar,12:43
+12321,Howrah Mumbai CSMT Mail,Mumbai CSMT,13:15
+18609,Ranchi Lokmanya Tilak (T) Express,Gaya,03:05
+18609,Ranchi Lokmanya Tilak (T) Express,Pt Deen Dayal Upadhyaya,06:15
+18609,Ranchi Lokmanya Tilak (T) Express,Varanasi,07:30
+18609,Ranchi Lokmanya Tilak (T) Express,Gyanpur Road,08:23
+18609,Ranchi Lokmanya Tilak (T) Express,Prayagraj,10:20
+18609,Ranchi Lokmanya Tilak (T) Express,Satna,13:15
+18609,Ranchi Lokmanya Tilak (T) Express,Katni,14:25
+18609,Ranchi Lokmanya Tilak (T) Express,Jabalpur,16:05
+18609,Ranchi Lokmanya Tilak (T) Express,Piparia d ,18:15
+18609,Ranchi Lokmanya Tilak (T) Express,Itarsi,20:00
+18609,Ranchi Lokmanya Tilak (T) Express,Khandwa d ,22:15
+18609,Ranchi Lokmanya Tilak (T) Express,Bhusaval,00:10
+18609,Ranchi Lokmanya Tilak (T) Express,Manmad d ,02:27
+18609,Ranchi Lokmanya Tilak (T) Express,Nasik Road,03:30
+18609,Ranchi Lokmanya Tilak (T) Express,Kalyan,06:20
+18609,Ranchi Lokmanya Tilak (T) Express,Lokmanya Tilak (T),07:25
+15018,Gorakhpur Lokmanya Tilak (T) Express,Varanasi,11:20
+15018,Gorakhpur Lokmanya Tilak (T) Express,Bhadohi,12:35
+15018,Gorakhpur Lokmanya Tilak (T) Express,Prayagraj,16:05
+15018,Gorakhpur Lokmanya Tilak (T) Express,Satna,19:30
+15018,Gorakhpur Lokmanya Tilak (T) Express,Maihar d ,19:55
+15018,Gorakhpur Lokmanya Tilak (T) Express,Katni,20:50
+15018,Gorakhpur Lokmanya Tilak (T) Express,Jabalpur,22:15
+15018,Gorakhpur Lokmanya Tilak (T) Express,Piparia d ,01:05
+15018,Gorakhpur Lokmanya Tilak (T) Express,Itarsi,03:05
+15018,Gorakhpur Lokmanya Tilak (T) Express,Harda d ,04:04
+15018,Gorakhpur Lokmanya Tilak (T) Express,Khandwa d ,07:35
+15018,Gorakhpur Lokmanya Tilak (T) Express,Bhusaval,09:30
+15018,Gorakhpur Lokmanya Tilak (T) Express,Jalgaon,09:55
+15018,Gorakhpur Lokmanya Tilak (T) Express,Manmad d ,12:10
+15018,Gorakhpur Lokmanya Tilak (T) Express,Nasik Road,13:20
+15018,Gorakhpur Lokmanya Tilak (T) Express,Igatpuri d ,14:37
+15018,Gorakhpur Lokmanya Tilak (T) Express,Kalyan,16:20
+15018,Gorakhpur Lokmanya Tilak (T) Express,Thane d ,16:45
+15018,Gorakhpur Lokmanya Tilak (T) Express,Lokmanya Tilak (T),17:30
+22178,Varanasi Mumbai CSMT Mahanagari Express,Varanasi,09:50
+22178,Varanasi Mumbai CSMT Mahanagari Express,Mirzapur,11:35
+22178,Varanasi Mumbai CSMT Mahanagari Express,Prayagraj Chheoki,13:00
+22178,Varanasi Mumbai CSMT Mahanagari Express,Satna,16:10
+22178,Varanasi Mumbai CSMT Mahanagari Express,Maihar d ,16:35
+22178,Varanasi Mumbai CSMT Mahanagari Express,Katni,17:30
+22178,Varanasi Mumbai CSMT Mahanagari Express,Jabalpur,19:00
+22178,Varanasi Mumbai CSMT Mahanagari Express,Piparia d ,21:15
+22178,Varanasi Mumbai CSMT Mahanagari Express,Itarsi,23:10
+22178,Varanasi Mumbai CSMT Mahanagari Express,Khandwa d ,01:40
+22178,Varanasi Mumbai CSMT Mahanagari Express,Bhusaval,03:35
+22178,Varanasi Mumbai CSMT Mahanagari Express,Jalgaon,04:02
+22178,Varanasi Mumbai CSMT Mahanagari Express,Manmad d ,06:10
+22178,Varanasi Mumbai CSMT Mahanagari Express,Nasik Road,07:15
+22178,Varanasi Mumbai CSMT Mahanagari Express,Igatpuri d ,08:25
+22178,Varanasi Mumbai CSMT Mahanagari Express,Kalyan,10:21
+22178,Varanasi Mumbai CSMT Mahanagari Express,Thane d ,10:45
+22178,Varanasi Mumbai CSMT Mahanagari Express,Dadar,11:09
+22178,Varanasi Mumbai CSMT Mahanagari Express,Mumbai CSMT,11:40
+"11056/
+11060",Gorakhpur/ Chhapra Lokmanya Tilak (T) Godan Express,Prayagraj,16:40
+"11056/
+11060",Gorakhpur/ Chhapra Lokmanya Tilak (T) Godan Express,Satna,20:00
+"11056/
+11060",Gorakhpur/ Chhapra Lokmanya Tilak (T) Godan Express,Jabalpur,22:45
+"11056/
+11060",Gorakhpur/ Chhapra Lokmanya Tilak (T) Godan Express,Itarsi,02:50
+"11056/
+11060",Gorakhpur/ Chhapra Lokmanya Tilak (T) Godan Express,Bhusaval,07:35
+"11056/
+11060",Gorakhpur/ Chhapra Lokmanya Tilak (T) Godan Express,Nasik Road,11:10
+"11056/
+11060",Gorakhpur/ Chhapra Lokmanya Tilak (T) Godan Express,Kalyan,14:00
+"11056/
+11060",Gorakhpur/ Chhapra Lokmanya Tilak (T) Godan Express,Thane d ,14:23
+"11056/
+11060",Gorakhpur/ Chhapra Lokmanya Tilak (T) Godan Express,Lokmanya Tilak (T),15:30
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Ayodhya Cantt.,14:50
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Prayagraj,18:20
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Bina,04:10
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Bhopal,06:10
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Itarsi,07:55
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Harda d ,09:35
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Khandwa d ,11:20
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Bhusaval,13:20
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Manmad d ,15:55
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Nasik Road,16:55
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Kalyan,19:50
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Thane d ,20:15
+22130,Ayodhya Cantt. Lokmanya Tilak (T) Tulsi Express,Lokmanya Tilak (T),20:50
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Varanasi,16:00
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Ballia,12:45
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Bhadohi,16:38
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Prayagraj,19:25
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Satna,22:40
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Maihar d ,23:05
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Bina,05:20
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Bhopal,07:30
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Itarsi,09:50
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Harda d ,10:37
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Khandwa d ,12:55
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Bhusaval,14:50
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Jalgaon,15:20
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Manmad d ,17:30
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Nasik Road,18:45
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Igatpuri d ,19:50
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Kalyan,21:50
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Thane d ,22:10
+11072,Ballia Lokmanya Tilak (T) Kamayani Express,Lokmanya Tilak (T),23:10
+22359,Patna CSMT Express,Pt Deen Dayal Upadhyaya,16:05
+22359,Patna CSMT Express,Prayagraj Chheoki,18:07
+22359,Patna CSMT Express,Satna,21:05
+22359,Patna CSMT Express,Jabalpur,23:50
+22359,Patna CSMT Express,Itarsi,03:45
+22359,Patna CSMT Express,Bhusaval,07:55
+22359,Patna CSMT Express,Kalyan,13:35
+22359,Patna CSMT Express,Mumbai CSMT,14:50
+12166,Gorakhpur Lokmanya Tilak (T) Express,Varanasi,20:20
+12166,Gorakhpur Lokmanya Tilak (T) Express,Bhadohi,21:00
+12166,Gorakhpur Lokmanya Tilak (T) Express,Prayagraj,23:25
+12166,Gorakhpur Lokmanya Tilak (T) Express,Satna,02:05
+12166,Gorakhpur Lokmanya Tilak (T) Express,Katni,03:30
+12166,Gorakhpur Lokmanya Tilak (T) Express,Jabalpur,05:00
+12166,Gorakhpur Lokmanya Tilak (T) Express,Itarsi,08:50
+12166,Gorakhpur Lokmanya Tilak (T) Express,Bhusaval,13:20
+12166,Gorakhpur Lokmanya Tilak (T) Express,Jalgaon d ,13:52
+12166,Gorakhpur Lokmanya Tilak (T) Express,Manmad,15:55
+12166,Gorakhpur Lokmanya Tilak (T) Express,Nasik Road,16:55
+12166,Gorakhpur Lokmanya Tilak (T) Express,Kalyan,19:50
+12166,Gorakhpur Lokmanya Tilak (T) Express,Thane,20:15
+12166,Gorakhpur Lokmanya Tilak (T) Express,Lokmanya Tilak (T),20:50
+11062,Jainagar Lokmanya Tilak (T) Express,Varanasi,00:15
+11062,Jainagar Lokmanya Tilak (T) Express,Ballia,21:25
+11062,Jainagar Lokmanya Tilak (T) Express,Gyanpur Road,01:12
+11062,Jainagar Lokmanya Tilak (T) Express,Prayagraj,03:15
+11062,Jainagar Lokmanya Tilak (T) Express,Satna,06:20
+11062,Jainagar Lokmanya Tilak (T) Express,Maihar d ,06:45
+11062,Jainagar Lokmanya Tilak (T) Express,Katni,07:40
+11062,Jainagar Lokmanya Tilak (T) Express,Jabalpur,09:10
+11062,Jainagar Lokmanya Tilak (T) Express,Piparia,11:20
+11062,Jainagar Lokmanya Tilak (T) Express,Itarsi,13:00
+11062,Jainagar Lokmanya Tilak (T) Express,Khandwa,15:15
+11062,Jainagar Lokmanya Tilak (T) Express,Bhusaval,17:10
+11062,Jainagar Lokmanya Tilak (T) Express,Jalgaon d ,17:40
+11062,Jainagar Lokmanya Tilak (T) Express,Manmad,19:50
+11062,Jainagar Lokmanya Tilak (T) Express,Nasik Road,20:45
+11062,Jainagar Lokmanya Tilak (T) Express,Kalyan,23:20
+11062,Jainagar Lokmanya Tilak (T) Express,Thane,23:45
+11062,Jainagar Lokmanya Tilak (T) Express,Lokmanya Tilak (T),00:30
+17324,Banaras Hubballi Express,Varanasi,21:10
+17324,Banaras Hubballi Express,Mirzapur,22:38
+17324,Banaras Hubballi Express,Prayagraj Chheoki,00:27
+17324,Banaras Hubballi Express,Satna,02:55
+17324,Banaras Hubballi Express,Maihar d ,03:25
+17324,Banaras Hubballi Express,Katni,04:20
+17324,Banaras Hubballi Express,Jabalpur,06:10
+17324,Banaras Hubballi Express,Piparia,08:00
+17324,Banaras Hubballi Express,Itarsi,10:10
+17324,Banaras Hubballi Express,Khandwa,12:45
+17324,Banaras Hubballi Express,Bhusaval,14:40
+17324,Banaras Hubballi Express,Manmad,17:40
+20904,Varanasi Ekta Nagar Mahamana Express,Varanasi,05:25
+20904,Varanasi Ekta Nagar Mahamana Express,Prayagraj Chheoki,08:20
+20904,Varanasi Ekta Nagar Mahamana Express,Satna,11:15
+20904,Varanasi Ekta Nagar Mahamana Express,Katni,12:45
+20904,Varanasi Ekta Nagar Mahamana Express,Jabalpur,14:30
+20904,Varanasi Ekta Nagar Mahamana Express,Itarsi,18:30
+20904,Varanasi Ekta Nagar Mahamana Express,Bhusaval,23:35
+20904,Varanasi Ekta Nagar Mahamana Express,Nandurbar,02:48
+20904,Varanasi Ekta Nagar Mahamana Express,Surat,05:15
+20906,Rewa Ekta Nagar Maha- mana Express,Rewa,20:45
+20906,Rewa Ekta Nagar Maha- mana Express,Satna,21:45
+20906,Rewa Ekta Nagar Maha- mana Express,Maihar d ,22:10
+20906,Rewa Ekta Nagar Maha- mana Express,Katni,23:10
+20906,Rewa Ekta Nagar Maha- mana Express,Jabalpur,00:25
+20906,Rewa Ekta Nagar Maha- mana Express,Piparia,02:30
+20906,Rewa Ekta Nagar Maha- mana Express,Itarsi,04:10
+20906,Rewa Ekta Nagar Maha- mana Express,Khandwa,06:25
+20906,Rewa Ekta Nagar Maha- mana Express,Bhusaval,08:20
+20906,Rewa Ekta Nagar Maha- mana Express,Jalgaon d ,08:52
+20906,Rewa Ekta Nagar Maha- mana Express,Surat,13:55
+11274,Prayagraj Chheoki Itarsi Express,Prayagraj Chheoki,20:15
+11274,Prayagraj Chheoki Itarsi Express,Satna,00:35
+11274,Prayagraj Chheoki Itarsi Express,Maihar d ,01:15
+11274,Prayagraj Chheoki Itarsi Express,Katni,03:00
+11274,Prayagraj Chheoki Itarsi Express,Jabalpur,05:35
+11274,Prayagraj Chheoki Itarsi Express,Piparia,09:00
+11274,Prayagraj Chheoki Itarsi Express,Itarsi,11:30
+1026,Ballia Dadar Special,Howrah,15:15
+1026,Ballia Dadar Special,Varanasi,18:55
+1026,Ballia Dadar Special,Prayagraj,21:40
+1026,Ballia Dadar Special,Bina,11:45
+1026,Ballia Dadar Special,Itarsi,15:35
+1026,Ballia Dadar Special,Harda d ,16:27
+1026,Ballia Dadar Special,Bhusaval,19:50
+1026,Ballia Dadar Special,Nasik Road,23:30
+1026,Ballia Dadar Special,Kalyan,02:43
+1026,Ballia Dadar Special,Dadar,03:35
+15589,Muzaffarpur Hadapsar Amrit Bharat Express,Howrah,19:25
+15589,Muzaffarpur Hadapsar Amrit Bharat Express,Pt Deen Dayal Upadhyaya Jn.,01:50
+15589,Muzaffarpur Hadapsar Amrit Bharat Express,Prayagraj Chheoki,03:52
+15589,Muzaffarpur Hadapsar Amrit Bharat Express,Satna,07:55
+15589,Muzaffarpur Hadapsar Amrit Bharat Express,Maihar d ,08:20
+15589,Muzaffarpur Hadapsar Amrit Bharat Express,Katni,09:10
+15589,Muzaffarpur Hadapsar Amrit Bharat Express,Jabalpur,10:45
+15589,Muzaffarpur Hadapsar Amrit Bharat Express,Piparia,12:32
+15589,Muzaffarpur Hadapsar Amrit Bharat Express,Itarsi,14:35
+15589,Muzaffarpur Hadapsar Amrit Bharat Express,Khandwa,17:02
+15589,Muzaffarpur Hadapsar Amrit Bharat Express,Bhusaval,19:05
+15589,Muzaffarpur Hadapsar Amrit Bharat Express,Manmad,21:40
+15589,Muzaffarpur Hadapsar Amrit Bharat Express,Pune,06:25
+12428,Anand Vihar (T) Rewa Express,Prayagraj,06:15
+12428,Anand Vihar (T) Rewa Express,Satna,09:55
+12428,Anand Vihar (T) Rewa Express,Rewa,11:10
+12168,Banaras Lokmanya Tilak (T) Express,Varanasi,10:35
+12168,Banaras Lokmanya Tilak (T) Express,Banaras,10:10
+12168,Banaras Lokmanya Tilak (T) Express,Prayagraj Chheoki,13:40
+12168,Banaras Lokmanya Tilak (T) Express,Satna,17:15
+12168,Banaras Lokmanya Tilak (T) Express,Maihar,17:40
+12168,Banaras Lokmanya Tilak (T) Express,Katni,18:35
+12168,Banaras Lokmanya Tilak (T) Express,Jabalpur,20:10
+12168,Banaras Lokmanya Tilak (T) Express,Itarsi,00:40
+12168,Banaras Lokmanya Tilak (T) Express,Khandwa,03:25
+12168,Banaras Lokmanya Tilak (T) Express,Bhusaval,05:10
+12168,Banaras Lokmanya Tilak (T) Express,Nasik Road,08:50
+12168,Banaras Lokmanya Tilak (T) Express,Kalyan,11:25
+12168,Banaras Lokmanya Tilak (T) Express,Lokmanya Tilak (T),12:45
+11038,Barhni Pune Express,Varanasi,21:05
+11038,Barhni Pune Express,Prayagraj,00:30
+11038,Barhni Pune Express,Satna,03:55
+11038,Barhni Pune Express,Katni,05:05
+11038,Barhni Pune Express,Jabalpur,07:05
+11038,Barhni Pune Express,Itarsi,11:10
+11038,Barhni Pune Express,Khandwa,14:00
+11038,Barhni Pune Express,Bhusaval,15:50
+11038,Barhni Pune Express,Jalgaon d ,16:20
+11038,Barhni Pune Express,Manmad a d ,18:35
+11038,Barhni Pune Express,Pune,02:15
+12187,Jabalpur Mumbai CSMT Garib Rath Express,Jabalpur,19:50
+12187,Jabalpur Mumbai CSMT Garib Rath Express,Piparia,21:55
+12187,Jabalpur Mumbai CSMT Garib Rath Express,Itarsi,23:30
+12187,Jabalpur Mumbai CSMT Garib Rath Express,Harda,00:24
+12187,Jabalpur Mumbai CSMT Garib Rath Express,Khandwa,02:05
+12187,Jabalpur Mumbai CSMT Garib Rath Express,Bhusaval,04:10
+12187,Jabalpur Mumbai CSMT Garib Rath Express,Jalgaon d ,04:37
+12187,Jabalpur Mumbai CSMT Garib Rath Express,Manmad a d ,06:40
+12187,Jabalpur Mumbai CSMT Garib Rath Express,Nasik Road,07:45
+12187,Jabalpur Mumbai CSMT Garib Rath Express,Igatpuri,09:15
+12187,Jabalpur Mumbai CSMT Garib Rath Express,Kalyan,11:00
+12187,Jabalpur Mumbai CSMT Garib Rath Express,Dadar,11:55
+12187,Jabalpur Mumbai CSMT Garib Rath Express,Mumbai CSMT,12:20
+12361,Asansol Mumbai CSMT Express (Via Jasidih),Asansol,19:40
+12361,Asansol Mumbai CSMT Express (Via Jasidih),P U t p a D d e h e y n a y D a a J y n a l,05:10
+12361,Asansol Mumbai CSMT Express (Via Jasidih),Mirzapur,06:20
+12361,Asansol Mumbai CSMT Express (Via Jasidih),Prayagraj Chheoki,08:05
+12361,Asansol Mumbai CSMT Express (Via Jasidih),Satna,11:00
+12361,Asansol Mumbai CSMT Express (Via Jasidih),Katni,12:30
+12361,Asansol Mumbai CSMT Express (Via Jasidih),Jabalpur,14:00
+12361,Asansol Mumbai CSMT Express (Via Jasidih),Itarsi,17:50
+12361,Asansol Mumbai CSMT Express (Via Jasidih),Khandwa,20:25
+12361,Asansol Mumbai CSMT Express (Via Jasidih),Bhusaval,22:20
+12361,Asansol Mumbai CSMT Express (Via Jasidih),Manmad a d ,00:45
+12361,Asansol Mumbai CSMT Express (Via Jasidih),Kalyan,04:45
+12361,Asansol Mumbai CSMT Express (Via Jasidih),Dadar,05:25
+12361,Asansol Mumbai CSMT Express (Via Jasidih),Mumbai CSMT,06:00
+20930,Banaras Udhna Express,Varanasi,05:05
+20930,Banaras Udhna Express,Banaras,04:55
+20930,Banaras Udhna Express,Prayagraj Chheoki,08:20
+20930,Banaras Udhna Express,Satna,11:15
+20930,Banaras Udhna Express,Katni,12:45
+20930,Banaras Udhna Express,Jabalpur,14:30
+20930,Banaras Udhna Express,Itarsi,18:30
+20930,Banaras Udhna Express,Khandwa,21:15
+20930,Banaras Udhna Express,Bhusaval,23:35
+20930,Banaras Udhna Express,Jalgaon d ,00:15
+20930,Banaras Udhna Express,Nandurbar,02:45
+20930,Banaras Udhna Express,Udhna,05:15
+22688,Varanasi Mysore Express,Varanasi,21:10
+22688,Varanasi Mysore Express,Mirzapur,22:38
+22688,Varanasi Mysore Express,Prayagraj Chheoki,00:27
+22688,Varanasi Mysore Express,Satna,02:55
+22688,Varanasi Mysore Express,Maihar,03:25
+22688,Varanasi Mysore Express,Katni,04:20
+22688,Varanasi Mysore Express,Jabalpur,06:10
+22688,Varanasi Mysore Express,Piparia,08:00
+22688,Varanasi Mysore Express,Itarsi,10:10
+22688,Varanasi Mysore Express,Khandwa,12:45
+22688,Varanasi Mysore Express,Bhusaval,14:40
+22688,Varanasi Mysore Express,Manmad a d ,17:40
+11082,Gorakhpur Lokmanya Tilak (T) Express,Varanasi,21:20
+11082,Gorakhpur Lokmanya Tilak (T) Express,Mirzapur,22:38
+11082,Gorakhpur Lokmanya Tilak (T) Express,Prayagraj Chheoki,00:27
+11082,Gorakhpur Lokmanya Tilak (T) Express,Satna,03:25
+11082,Gorakhpur Lokmanya Tilak (T) Express,Maihar,03:50
+11082,Gorakhpur Lokmanya Tilak (T) Express,Katni,04:40
+11082,Gorakhpur Lokmanya Tilak (T) Express,Jabalpur,06:20
+11082,Gorakhpur Lokmanya Tilak (T) Express,Piparia,08:35
+11082,Gorakhpur Lokmanya Tilak (T) Express,Khandwa,14:00
+11082,Gorakhpur Lokmanya Tilak (T) Express,Bhusaval,15:50
+11082,Gorakhpur Lokmanya Tilak (T) Express,Nasik Road,19:10
+11082,Gorakhpur Lokmanya Tilak (T) Express,Kalyan,22:35
+11082,Gorakhpur Lokmanya Tilak (T) Express,Lokmanya Tilak (T),23:55
+22553,Raxaul Lokmanya Tilak (T) Antyodaya Express,P U t p a D d e h e y n a y D a a J y n a l,05:10
+22553,Raxaul Lokmanya Tilak (T) Antyodaya Express,Mirzapur,06:20
+22553,Raxaul Lokmanya Tilak (T) Antyodaya Express,Prayagraj Chheoki,08:05
+22553,Raxaul Lokmanya Tilak (T) Antyodaya Express,Satna,11:00
+22553,Raxaul Lokmanya Tilak (T) Antyodaya Express,Katni,12:30
+22553,Raxaul Lokmanya Tilak (T) Antyodaya Express,Jabalpur,14:10
+22553,Raxaul Lokmanya Tilak (T) Antyodaya Express,Itarsi,17:50
+22553,Raxaul Lokmanya Tilak (T) Antyodaya Express,Khandwa,20:25
+22553,Raxaul Lokmanya Tilak (T) Antyodaya Express,Bhusaval,22:20
+22553,Raxaul Lokmanya Tilak (T) Antyodaya Express,Manmad a d ,00:45
+22553,Raxaul Lokmanya Tilak (T) Antyodaya Express,Kalyan,04:45
+22553,Raxaul Lokmanya Tilak (T) Antyodaya Express,Lokmanya Tilak (T),05:50
+15559,Darbhanga Ahmedabad Antyodaya Express,Varanasi,03:25
+15559,Darbhanga Ahmedabad Antyodaya Express,Banaras,03:25
+15559,Darbhanga Ahmedabad Antyodaya Express,Gyanpur Road,04:23
+15559,Darbhanga Ahmedabad Antyodaya Express,Prayagraj,07:10
+15559,Darbhanga Ahmedabad Antyodaya Express,Satna,11:00
+22938,Rewa Rajkot Express,Rewa,20:45
+22938,Rewa Rajkot Express,Satna,21:45
+22938,Rewa Rajkot Express,Maihar,22:10
+22938,Rewa Rajkot Express,Katni,23:10
+22938,Rewa Rajkot Express,Jabalpur,00:25
+22938,Rewa Rajkot Express,Piparia,02:30
+22938,Rewa Rajkot Express,Itarsi,04:10
+22938,Rewa Rajkot Express,Khandwa,06:25
+22938,Rewa Rajkot Express,Bhusaval,08:20
+22938,Rewa Rajkot Express,Jalgaon d ,08:52
+22938,Rewa Rajkot Express,Nandurbar,11:25
+22938,Rewa Rajkot Express,Surat,13:55
+12294,Prayagraj Lokmanya Tilak (T) Duronto Express,Prayagraj,18:10
+12294,Prayagraj Lokmanya Tilak (T) Duronto Express,Satna,21:00
+12294,Prayagraj Lokmanya Tilak (T) Duronto Express,Jabalpur,23:50
+12294,Prayagraj Lokmanya Tilak (T) Duronto Express,Itarsi,03:45
+12294,Prayagraj Lokmanya Tilak (T) Duronto Express,Bhusaval,07:55
+12294,Prayagraj Lokmanya Tilak (T) Duronto Express,Lokmanya Tilak (T),14:55
+15181,Mau Lokmanya Tilak (T) Express,Prayagraj,05:20
+15181,Mau Lokmanya Tilak (T) Express,Satna,08:30
+15181,Mau Lokmanya Tilak (T) Express,Katni,09:40
+15181,Mau Lokmanya Tilak (T) Express,Jabalpur,11:00
+15181,Mau Lokmanya Tilak (T) Express,Itarsi,14:50
+15181,Mau Lokmanya Tilak (T) Express,Harda,15:42
+15181,Mau Lokmanya Tilak (T) Express,Bhusaval,19:15
+15181,Mau Lokmanya Tilak (T) Express,Jalgaon d ,19:45
+15181,Mau Lokmanya Tilak (T) Express,Nasik Road,22:42
+15181,Mau Lokmanya Tilak (T) Express,Kalyan,02:35
+15181,Mau Lokmanya Tilak (T) Express,Lokmanya Tilak (T),03:45
+2134,Jabalpur Bandra (T) Special,Jabalpur,17:00
+2134,Jabalpur Bandra (T) Special,Piparia,19:06
+2134,Jabalpur Bandra (T) Special,Bhopal,22:35
+2134,Jabalpur Bandra (T) Special,Itarsi,20:45
+2132,Jabalpur Pune Special,Jabalpur,13:50
+2132,Jabalpur Pune Special,Piparia,15:50
+2132,Jabalpur Pune Special,Itarsi,17:40
+2132,Jabalpur Pune Special,Harda,18:34
+2132,Jabalpur Pune Special,Bhusaval,21:50
+2132,Jabalpur Pune Special,Manmad a d ,00:15
+2132,Jabalpur Pune Special,Pune,06:25

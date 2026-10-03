@@ -1,0 +1,482 @@
+train_num,train_name,halt_station_name,departure_time
+12197,Bhopal Gwalior Intercity Express,Bhopal,15:10
+12197,Bhopal Gwalior Intercity Express,Bina,17:30
+12197,Bhopal Gwalior Intercity Express,Guna,19:50
+12197,Bhopal Gwalior Intercity Express,Shivpuri,21:20
+12197,Bhopal Gwalior Intercity Express,Gwalior,23:55
+11077,Pune Jam- mu Tawi Jhelum Express,Pune,17:20
+11077,Pune Jam- mu Tawi Jhelum Express,Daund Chord,18:27
+11077,Pune Jam- mu Tawi Jhelum Express,Ahaliyanagar,19:45
+11077,Pune Jam- mu Tawi Jhelum Express,Manmad,23:15
+11077,Pune Jam- mu Tawi Jhelum Express,Bhusaval,01:50
+11077,Pune Jam- mu Tawi Jhelum Express,Khandwa,04:10
+11077,Pune Jam- mu Tawi Jhelum Express,Itarsi,06:55
+11077,Pune Jam- mu Tawi Jhelum Express,Bhopal,08:50
+11077,Pune Jam- mu Tawi Jhelum Express,Bina,11:20
+11077,Pune Jam- mu Tawi Jhelum Express,Bina d ,11:20
+11077,Pune Jam- mu Tawi Jhelum Express,V Jh ir a a n n s g i ana Lakshmibai,13:58
+11077,Pune Jam- mu Tawi Jhelum Express,Gwalior,15:26
+11077,Pune Jam- mu Tawi Jhelum Express,Agra Cantt.,17:25
+11077,Pune Jam- mu Tawi Jhelum Express,Mathura,18:20
+11077,Pune Jam- mu Tawi Jhelum Express,Nizamuddin,20:51
+11077,Pune Jam- mu Tawi Jhelum Express,New Delhi,21:35
+11077,Pune Jam- mu Tawi Jhelum Express,Kurukshetra,00:30
+11077,Pune Jam- mu Tawi Jhelum Express,Ambala Cantt.,01:48
+11077,Pune Jam- mu Tawi Jhelum Express,Ludhiana,04:09
+11077,Pune Jam- mu Tawi Jhelum Express,Jalandhar Cantt.,05:15
+11077,Pune Jam- mu Tawi Jhelum Express,Jammu Tawi,09:45
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Hazur Sahib Nanded,11:50
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Indore,12:15
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Ujjain,14:00
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Bhopal,17:30
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Bina,19:35
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Bina d ,19:35
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,V Jh ir a a n n s g i ana Lakshmibai,21:38
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Gwalior,22:56
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Agra Cantt.,00:45
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Mathura,01:23
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Nizamuddin,03:50
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,New Delhi,04:30
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Kurukshetra,06:30
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Ambala Cantt.,07:35
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Ludhiana,09:50
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Jalandhar Cantt.,10:36
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,Jammu Tawi,14:35
+12919,Dr. Ambedkar Nagar Shri Mata Vaishno Devi Katra Malwa Express,S D h e r v i i M K a a t t a ra Vaishno,16:30
+14317/14309,Lakshmibai Nagar Yognagri Rishikesh Ujjaini Express,LMNR,15:25
+14317/14309,Lakshmibai Nagar Yognagri Rishikesh Ujjaini Express,Ujjain,17:20
+14317/14309,Lakshmibai Nagar Yognagri Rishikesh Ujjaini Express,Guna,22:40
+14317/14309,Lakshmibai Nagar Yognagri Rishikesh Ujjaini Express,Shivpuri,23:56
+14317/14309,Lakshmibai Nagar Yognagri Rishikesh Ujjaini Express,Gwalior,03:10
+14317/14309,Lakshmibai Nagar Yognagri Rishikesh Ujjaini Express,Agra Cantt.,05:55
+14317/14309,Lakshmibai Nagar Yognagri Rishikesh Ujjaini Express,Mathura,06:50
+14317/14309,Lakshmibai Nagar Yognagri Rishikesh Ujjaini Express,Nizamuddin,09:50
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Hazur Sahib Nanded,09:30
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Manmad,16:35
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Bhusaval,19:15
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Khandwa,21:40
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Itarsi,00:10
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Bhopal,02:40
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Bina,04:32
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Bina d ,04:32
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,V Jh ir a a n n s g i ana Lakshmibai,06:28
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Gwalior,07:37
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Agra Cantt.,09:43
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Mathura,10:20
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Nizamuddin,12:37
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,New Delhi,13:20
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Kurukshetra,15:11
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Ambala Cantt.,16:30
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Ludhiana,19:08
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Jalandhar City,20:20
+12715,Hazur Sahib Nanded Amritsar Sachkhand Express,Amritsar,21:45
+12137,Mumbai CSMT Firozpur Punjab Mail,Mumbai CSMT,19:35
+12137,Mumbai CSMT Firozpur Punjab Mail,Dadar,19:50
+12137,Mumbai CSMT Firozpur Punjab Mail,Manmad,00:10
+12137,Mumbai CSMT Firozpur Punjab Mail,Bhusaval,02:45
+12137,Mumbai CSMT Firozpur Punjab Mail,Khandwa,04:55
+12137,Mumbai CSMT Firozpur Punjab Mail,Itarsi,07:40
+12137,Mumbai CSMT Firozpur Punjab Mail,Bhopal,09:50
+12137,Mumbai CSMT Firozpur Punjab Mail,Bina,12:05
+12137,Mumbai CSMT Firozpur Punjab Mail,Bina d ,12:05
+12137,Mumbai CSMT Firozpur Punjab Mail,V Jh ir a a n n s g i ana Lakshmibai,14:23
+12137,Mumbai CSMT Firozpur Punjab Mail,Gwalior,15:42
+12137,Mumbai CSMT Firozpur Punjab Mail,Agra Cantt.,18:05
+12137,Mumbai CSMT Firozpur Punjab Mail,Mathura,18:50
+12137,Mumbai CSMT Firozpur Punjab Mail,Nizamuddin,20:57
+12137,Mumbai CSMT Firozpur Punjab Mail,New Delhi,21:40
+12137,Mumbai CSMT Firozpur Punjab Mail,Firozpur,05:15
+11057,Mumbai CSMT Amritsar Express,Mumbai CSMT,23:30
+11057,Mumbai CSMT Amritsar Express,Dadar,23:40
+11057,Mumbai CSMT Amritsar Express,Manmad,04:05
+11057,Mumbai CSMT Amritsar Express,Bhusaval,06:50
+11057,Mumbai CSMT Amritsar Express,Khandwa,09:20
+11057,Mumbai CSMT Amritsar Express,Itarsi,12:35
+11057,Mumbai CSMT Amritsar Express,Bhopal,15:30
+11057,Mumbai CSMT Amritsar Express,Bina,17:55
+11057,Mumbai CSMT Amritsar Express,Bina d ,17:55
+11057,Mumbai CSMT Amritsar Express,V Jh ir a a n n s g i ana Lakshmibai,20:28
+11057,Mumbai CSMT Amritsar Express,Gwalior,21:53
+11057,Mumbai CSMT Amritsar Express,Agra Cantt.,23:50
+11057,Mumbai CSMT Amritsar Express,Mathura,00:35
+11057,Mumbai CSMT Amritsar Express,Nizamuddin,03:09
+11057,Mumbai CSMT Amritsar Express,New Delhi,03:45
+11057,Mumbai CSMT Amritsar Express,Kurukshetra,06:14
+11057,Mumbai CSMT Amritsar Express,Ambala Cantt.,07:58
+11057,Mumbai CSMT Amritsar Express,Ludhiana,12:55
+11057,Mumbai CSMT Amritsar Express,Jalandhar Cantt.,14:08
+11057,Mumbai CSMT Amritsar Express,Jalandhar City,14:21
+11057,Mumbai CSMT Amritsar Express,Amritsar,16:15
+19325,Indore Amritsar Express,Indore,20:15
+19325,Indore Amritsar Express,Guna,01:35
+19325,Indore Amritsar Express,Shivpuri,02:45
+19325,Indore Amritsar Express,Gwalior,06:15
+19325,Indore Amritsar Express,Agra Cantt.,08:20
+19325,Indore Amritsar Express,Mathura,09:00
+19325,Indore Amritsar Express,Nizamuddin,11:40
+19325,Indore Amritsar Express,Ambala Cantt.,16:55
+19325,Indore Amritsar Express,Ludhiana,19:20
+19325,Indore Amritsar Express,Jalandhar City,20:35
+19325,Indore Amritsar Express,Amritsar,22:05
+22196,Bandra (T) Virangna Laxmibai Jhansi SF Express,Bandra (T),05:10
+22196,Bandra (T) Virangna Laxmibai Jhansi SF Express,Surat,08:35
+22196,Bandra (T) Virangna Laxmibai Jhansi SF Express,Vadodara,10:50
+22196,Bandra (T) Virangna Laxmibai Jhansi SF Express,Ratlam,14:40
+22196,Bandra (T) Virangna Laxmibai Jhansi SF Express,Nagda,15:45
+22196,Bandra (T) Virangna Laxmibai Jhansi SF Express,Ujjain,16:55
+22196,Bandra (T) Virangna Laxmibai Jhansi SF Express,Guna,22:10
+22196,Bandra (T) Virangna Laxmibai Jhansi SF Express,Shivpuri,23:20
+22196,Bandra (T) Virangna Laxmibai Jhansi SF Express,Gwalior,02:40
+22196,Bandra (T) Virangna Laxmibai Jhansi SF Express,V Jh ir a a n n s g i ana Lakshmibai,05:00
+22829,Bhuj Shalimar Express,Lonavla,15:15
+22829,Bhuj Shalimar Express,Ahmedabad,21:40
+22829,Bhuj Shalimar Express,Chhayapuri,23:40
+22829,Bhuj Shalimar Express,Ratlam,03:25
+22829,Bhuj Shalimar Express,Nagda,04:15
+22829,Bhuj Shalimar Express,Ujjain,05:15
+22829,Bhuj Shalimar Express,Bina,11:05
+20847,Durg Martyr Captain Tushar Mahajan Express,V Jh ir a a n n s g i ana Lakshmibai,01:35
+20847,Durg Martyr Captain Tushar Mahajan Express,Gwalior,02:36
+20847,Durg Martyr Captain Tushar Mahajan Express,Agra Cantt.,04:05
+20847,Durg Martyr Captain Tushar Mahajan Express,New Delhi,07:45
+20847,Durg Martyr Captain Tushar Mahajan Express,Ambala Cantt.,10:50
+20847,Durg Martyr Captain Tushar Mahajan Express,Ludhiana,12:45
+20847,Durg Martyr Captain Tushar Mahajan Express,Jalandhar Cantt.,13:35
+20847,Durg Martyr Captain Tushar Mahajan Express,Jammu Tawi,17:50
+20847,Durg Martyr Captain Tushar Mahajan Express,S D h e r v i i M K a a t t a ra Vaishno,19:40
+19307,Indore Una Himachal Express,Indore,05:30
+19307,Indore Una Himachal Express,Ujjain,07:40
+19307,Indore Una Himachal Express,Guna,12:20
+19307,Indore Una Himachal Express,Shivpuri,13:45
+19307,Indore Una Himachal Express,Gwalior,18:10
+19307,Indore Una Himachal Express,Agra Cantt.,19:50
+19307,Indore Una Himachal Express,Mathura,20:50
+19307,Indore Una Himachal Express,Nizamuddin,23:20
+19307,Indore Una Himachal Express,Ambala Cantt.,04:15
+20155,Dr. Ambedkar Nagar-New Delhi Express,Nagda,18:40
+20155,Dr. Ambedkar Nagar-New Delhi Express,Kota,21:40
+20155,Dr. Ambedkar Nagar-New Delhi Express,Hazur Sahib Nanded,15:30
+20155,Dr. Ambedkar Nagar-New Delhi Express,Indore,16:00
+20155,Dr. Ambedkar Nagar-New Delhi Express,Ujjain,17:20
+20155,Dr. Ambedkar Nagar-New Delhi Express,Mathura,01:55
+20155,Dr. Ambedkar Nagar-New Delhi Express,Nizamuddin,04:00
+20155,Dr. Ambedkar Nagar-New Delhi Express,New Delhi,04:25
+22193,Daund Gwalior Express,Mumbai Central d Daund Dep,23:10
+22193,Daund Gwalior Express,Pune,00:25
+22193,Daund Gwalior Express,Surat,07:35
+22193,Daund Gwalior Express,Vadodara,09:20
+22193,Daund Gwalior Express,Ratlam,13:05
+22193,Daund Gwalior Express,Nagda,13:55
+22193,Daund Gwalior Express,Ujjain,15:15
+22193,Daund Gwalior Express,Guna,20:15
+22193,Daund Gwalior Express,Shivpuri,21:55
+22193,Daund Gwalior Express,Gwalior,00:55
+12493,Miraj Nizamuddin Darshan Express,Miraj,05:25
+12493,Miraj Nizamuddin Darshan Express,Pune,11:05
+12493,Miraj Nizamuddin Darshan Express,Lonavla d ,12:05
+12493,Miraj Nizamuddin Darshan Express,Surat,16:55
+12493,Miraj Nizamuddin Darshan Express,Vadodara,18:35
+12493,Miraj Nizamuddin Darshan Express,Ratlam,22:00
+12493,Miraj Nizamuddin Darshan Express,Kota,01:05
+12493,Miraj Nizamuddin Darshan Express,Nizamuddin,07:00
+14319,Indore Bareilly Express,Indore,16:45
+14319,Indore Bareilly Express,Ujjain,18:25
+14319,Indore Bareilly Express,Bina,00:15
+14319,Indore Bareilly Express,Bina,00:15
+14319,Indore Bareilly Express,Virangana Lakshmibai Jhansi,03:13
+14319,Indore Bareilly Express,Gwalior,04:27
+14319,Indore Bareilly Express,Agra Cantt.,06:30
+22199,Gwalior Balrampur Sushasan Express,Gwalior,14:45
+22199,Gwalior Balrampur Sushasan Express,Agra Cantt.,16:10
+22199,Gwalior Balrampur Sushasan Express,Mathura d ,16:50
+22199,Gwalior Balrampur Sushasan Express,Nizamuddin,19:25
+12263,Pune Nizamuddin Duronto Express,Pune,11:10
+12263,Pune Nizamuddin Duronto Express,Surat,16:55
+12263,Pune Nizamuddin Duronto Express,Vadodara,18:35
+12263,Pune Nizamuddin Duronto Express,Ratlam,22:00
+12263,Pune Nizamuddin Duronto Express,Kota,01:05
+12263,Pune Nizamuddin Duronto Express,Nizamuddin,07:00
+12751,H.S. Nanded Jammu Tawi Humsafar Express,Hazur Sahib Nanded,11:05
+12751,H.S. Nanded Jammu Tawi Humsafar Express,Khandwa,20:15
+12751,H.S. Nanded Jammu Tawi Humsafar Express,Itarsi,22:45
+12751,H.S. Nanded Jammu Tawi Humsafar Express,Bina,02:18
+12751,H.S. Nanded Jammu Tawi Humsafar Express,Virangana Lakshmibai Jhansi,04:09
+12751,H.S. Nanded Jammu Tawi Humsafar Express,Gwalior,05:11
+12751,H.S. Nanded Jammu Tawi Humsafar Express,Agra Cantt.,06:50
+12751,H.S. Nanded Jammu Tawi Humsafar Express,Mathura d ,07:28
+12751,H.S. Nanded Jammu Tawi Humsafar Express,New Delhi,10:25
+12751,H.S. Nanded Jammu Tawi Humsafar Express,Ambala Cantt.,13:25
+12751,H.S. Nanded Jammu Tawi Humsafar Express,Ludhiana,18:14
+12751,H.S. Nanded Jammu Tawi Humsafar Express,Jalandhar Cantt.,19:41
+12751,H.S. Nanded Jammu Tawi Humsafar Express,Jammu Tawi,23:25
+12753,H.S. Nanded Nizamuddin Marathwada S. Kranti Express,Hazur Sahib Nanded,09:00
+12753,H.S. Nanded Nizamuddin Marathwada S. Kranti Express,Manmad,15:25
+12753,H.S. Nanded Nizamuddin Marathwada S. Kranti Express,Bhusaval,17:50
+12753,H.S. Nanded Nizamuddin Marathwada S. Kranti Express,Bhopal,00:10
+12753,H.S. Nanded Nizamuddin Marathwada S. Kranti Express,Virangana Lakshmibai Jhansi,04:23
+12753,H.S. Nanded Nizamuddin Marathwada S. Kranti Express,Agra Cantt.,07:50
+12753,H.S. Nanded Nizamuddin Marathwada S. Kranti Express,Nizamuddin,10:30
+11115,Bhusaval Itarsi Express,Bhusaval,20:40
+11115,Bhusaval Itarsi Express,Khandwa,00:07
+11115,Bhusaval Itarsi Express,Itarsi,05:50
+22477,New Delhi Shri Mata Vaishno Devi Katra Vande Bharat Express,New Delhi,15:00
+22477,New Delhi Shri Mata Vaishno Devi Katra Vande Bharat Express,Ambala Cantt.,17:14
+22477,New Delhi Shri Mata Vaishno Devi Katra Vande Bharat Express,Ludhiana,18:26
+22477,New Delhi Shri Mata Vaishno Devi Katra Vande Bharat Express,Jammu Tawi,21:47
+22477,New Delhi Shri Mata Vaishno Devi Katra Vande Bharat Express,Shri Mata Vaishno Devi Katra,23:20
+22487,Delhi Amritsar Vande Bharat Express,New Delhi,15:15
+22487,Delhi Amritsar Vande Bharat Express,Ambala Cantt.,17:29
+22487,Delhi Amritsar Vande Bharat Express,Ludhiana,18:38
+22487,Delhi Amritsar Vande Bharat Express,Jalandhar Cantt.,19:26
+22487,Delhi Amritsar Vande Bharat Express,Amritsar,20:45
+11085,Smvt Bengaluru- Gwalior Express,Bhopal,00:10
+11085,Smvt Bengaluru- Gwalior Express,Bina,02:35
+11085,Smvt Bengaluru- Gwalior Express,Guna,05:30
+11085,Smvt Bengaluru- Gwalior Express,Shivpuri,07:22
+11085,Smvt Bengaluru- Gwalior Express,Bina,02:35
+11085,Smvt Bengaluru- Gwalior Express,Gwalior,10:25
+14621,Nanded- Firozpur Express,Hazur Sahib Nanded,11:50
+14621,Nanded- Firozpur Express,Manmad,21:25
+14621,Nanded- Firozpur Express,Bhusaval,23:50
+14621,Nanded- Firozpur Express,Khandwa,02:15
+14621,Nanded- Firozpur Express,Itarsi,04:40
+14621,Nanded- Firozpur Express,Bhopal,06:35
+14621,Nanded- Firozpur Express,Bina,09:32
+14621,Nanded- Firozpur Express,Virangana Lakshmibai Jhansi,12:48
+14621,Nanded- Firozpur Express,Gwalior,14:02
+14621,Nanded- Firozpur Express,Agra Cantt.,16:10
+14621,Nanded- Firozpur Express,Mathura d ,16:52
+14621,Nanded- Firozpur Express,Delhi Safdarjung,19:42
+14621,Nanded- Firozpur Express,Firozpur,04:40
+12198,Gwalior Bhopal Intercity Express,Gwalior,06:20
+12198,Gwalior Bhopal Intercity Express,Bina,12:05
+12198,Gwalior Bhopal Intercity Express,Shivpuri,07:55
+12198,Gwalior Bhopal Intercity Express,Guna,09:55
+12198,Gwalior Bhopal Intercity Express,Bina,12:05
+12198,Gwalior Bhopal Intercity Express,Bhopal,14:35
+19326,Amritsar Indore Express (via Guna),Amritsar,01:50
+19326,Amritsar Indore Express (via Guna),Jalandhar City,03:05
+19326,Amritsar Indore Express (via Guna),Ludhiana,04:05
+19326,Amritsar Indore Express (via Guna),Ambala Cantt.,06:05
+19326,Amritsar Indore Express (via Guna),Nizamuddin,11:25
+19326,Amritsar Indore Express (via Guna),Mathura,13:08
+19326,Amritsar Indore Express (via Guna),Agra Cantt.,14:00
+19326,Amritsar Indore Express (via Guna),Gwalior,16:00
+19326,Amritsar Indore Express (via Guna),Shivpuri,17:40
+19326,Amritsar Indore Express (via Guna),Guna,19:15
+19326,Amritsar Indore Express (via Guna),Indore,00:55
+14318/14310,Yognagri Rishikesh Lakshmibai Nagar Express,Nizamuddin,13:50
+14318/14310,Yognagri Rishikesh Lakshmibai Nagar Express,Mathura,15:30
+14318/14310,Yognagri Rishikesh Lakshmibai Nagar Express,Agra Cantt.,16:30
+14318/14310,Yognagri Rishikesh Lakshmibai Nagar Express,Gwalior,18:50
+14318/14310,Yognagri Rishikesh Lakshmibai Nagar Express,Shivpuri,20:25
+14318/14310,Yognagri Rishikesh Lakshmibai Nagar Express,Guna,22:10
+14318/14310,Yognagri Rishikesh Lakshmibai Nagar Express,Ujjain,04:10
+14318/14310,Yognagri Rishikesh Lakshmibai Nagar Express,LMNR,06:05
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Amritsar,05:30
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Jalandhar City,06:40
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Ludhiana,07:45
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Ambala Cantt.,09:50
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Kurukshetra,10:20
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,New Delhi,13:00
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Mathura,14:31
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Agra Cantt.,15:15
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Gwalior,17:08
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,V Jh ir a a n n s g i ana Lakshmibai,18:45
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Bina,21:05
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Bina,21:05
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Bhopal,22:45
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Itarsi,00:20
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Khandwa,02:40
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Bhusaval,04:35
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Manmad,07:35
+12716,Amritsar Hazur Sahib Nanded Sachkhand Express,Hazur Sahib Nanded,15:10
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,S D h e r v i i M K a a t t a ra Vaishno,08:25
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,Jammu Tawi,10:30
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,Jalandhar Cantt.,14:18
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,Ludhiana,15:15
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,Ambala Cantt.,17:05
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,Kurukshetra,17:35
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,New Delhi,20:30
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,Mathura,22:38
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,Agra Cantt.,23:20
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,Gwalior,01:22
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,V Jh ir a a n n s g i ana Lakshmibai,03:13
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,Bina,05:35
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,Bina,05:35
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,Bhopal,07:45
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,Ujjain,11:35
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,Indore,13:45
+12920,Shri Mata Vaishno Devi Katra Dr. Ambedkar Nagar Malwa Express,Itarsi,14:25
+11058,Amritsar Mumbai CSMT Express,Amritsar,08:50
+11058,Amritsar Mumbai CSMT Express,Jalandhar City,10:15
+11058,Amritsar Mumbai CSMT Express,Jalandhar Cantt.,10:26
+11058,Amritsar Mumbai CSMT Express,Ludhiana,11:40
+11058,Amritsar Mumbai CSMT Express,Ambala Cantt.,16:23
+11058,Amritsar Mumbai CSMT Express,Kurukshetra,16:55
+11058,Amritsar Mumbai CSMT Express,New Delhi,20:40
+11058,Amritsar Mumbai CSMT Express,Nizamuddin,20:53
+11058,Amritsar Mumbai CSMT Express,Mathura,22:55
+11058,Amritsar Mumbai CSMT Express,Agra Cantt.,23:50
+11058,Amritsar Mumbai CSMT Express,Gwalior,01:51
+11058,Amritsar Mumbai CSMT Express,V Jh ir a a n n s g i ana Lakshmibai,04:10
+11058,Amritsar Mumbai CSMT Express,Bina,07:10
+11058,Amritsar Mumbai CSMT Express,Bina,07:10
+11058,Amritsar Mumbai CSMT Express,Bhopal,09:20
+11058,Amritsar Mumbai CSMT Express,Itarsi,11:25
+11058,Amritsar Mumbai CSMT Express,Khandwa,14:25
+11058,Amritsar Mumbai CSMT Express,Bhusaval,16:35
+11058,Amritsar Mumbai CSMT Express,Manmad,19:15
+11058,Amritsar Mumbai CSMT Express,Dadar,23:40
+11058,Amritsar Mumbai CSMT Express,Mumbai CSMT,00:05
+12138,Firozpur Mumbai CSMT Punjab Mail,Firozpur,21:50
+12138,Firozpur Mumbai CSMT Punjab Mail,New Delhi,05:10
+12138,Firozpur Mumbai CSMT Punjab Mail,Mathura,07:28
+12138,Firozpur Mumbai CSMT Punjab Mail,Agra Cantt.,08:15
+12138,Firozpur Mumbai CSMT Punjab Mail,Gwalior,10:21
+12138,Firozpur Mumbai CSMT Punjab Mail,V Jh ir a a n n s g i ana Lakshmibai,12:23
+12138,Firozpur Mumbai CSMT Punjab Mail,Bina,14:40
+12138,Firozpur Mumbai CSMT Punjab Mail,Bina,14:40
+12138,Firozpur Mumbai CSMT Punjab Mail,Bhopal,16:40
+12138,Firozpur Mumbai CSMT Punjab Mail,Itarsi,18:45
+12138,Firozpur Mumbai CSMT Punjab Mail,Khandwa,21:40
+12138,Firozpur Mumbai CSMT Punjab Mail,Bhusaval,23:30
+12138,Firozpur Mumbai CSMT Punjab Mail,Manmad,02:00
+12138,Firozpur Mumbai CSMT Punjab Mail,Dadar,07:05
+12138,Firozpur Mumbai CSMT Punjab Mail,Mumbai CSMT,07:35
+11078,Jammu Tawi Pune Jhelum Express,Jammu Tawi,23:35
+11078,Jammu Tawi Pune Jhelum Express,Jalandhar Cantt.,03:30
+11078,Jammu Tawi Pune Jhelum Express,Ludhiana,04:30
+11078,Jammu Tawi Pune Jhelum Express,Ambala Cantt.,06:50
+11078,Jammu Tawi Pune Jhelum Express,Kurukshetra,07:25
+11078,Jammu Tawi Pune Jhelum Express,New Delhi,11:30
+11078,Jammu Tawi Pune Jhelum Express,Mathura,13:20
+11078,Jammu Tawi Pune Jhelum Express,Agra Cantt.,14:10
+11078,Jammu Tawi Pune Jhelum Express,Gwalior,16:24
+11078,Jammu Tawi Pune Jhelum Express,V Jh ir a a n n s g i ana Lakshmibai,18:23
+11078,Jammu Tawi Pune Jhelum Express,Bina,21:35
+11078,Jammu Tawi Pune Jhelum Express,Bina,21:35
+11078,Jammu Tawi Pune Jhelum Express,Bhopal,00:05
+11078,Jammu Tawi Pune Jhelum Express,Itarsi,02:10
+11078,Jammu Tawi Pune Jhelum Express,Khandwa,04:40
+11078,Jammu Tawi Pune Jhelum Express,Bhusaval,06:40
+11078,Jammu Tawi Pune Jhelum Express,Manmad,09:30
+11078,Jammu Tawi Pune Jhelum Express,Ahaliyanagar,12:40
+11078,Jammu Tawi Pune Jhelum Express,Daund Chord,14:23
+11078,Jammu Tawi Pune Jhelum Express,Pune,16:00
+22830,Shalimar Bhuj SF Express,Bina,17:45
+22830,Shalimar Bhuj SF Express,Bina,17:45
+22830,Shalimar Bhuj SF Express,Ujjain,23:10
+22830,Shalimar Bhuj SF Express,Nagda,00:07
+22830,Shalimar Bhuj SF Express,Ratlam,00:50
+22830,Shalimar Bhuj SF Express,Chhayapuri,04:43
+22830,Shalimar Bhuj SF Express,Ahmedabad,07:55
+22830,Shalimar Bhuj SF Express,Surat,14:45
+22195,Virangna Laxmibai Jhansi Bandra (T) Express,V Jh ir a a n n s g i ana Lakshmibai,16:50
+22195,Virangna Laxmibai Jhansi Bandra (T) Express,Gwalior,18:50
+22195,Virangna Laxmibai Jhansi Bandra (T) Express,Shivpuri,20:25
+22195,Virangna Laxmibai Jhansi Bandra (T) Express,Guna,22:10
+22195,Virangna Laxmibai Jhansi Bandra (T) Express,Ujjain,04:00
+22195,Virangna Laxmibai Jhansi Bandra (T) Express,Nagda,05:10
+22195,Virangna Laxmibai Jhansi Bandra (T) Express,Ratlam,06:15
+22195,Virangna Laxmibai Jhansi Bandra (T) Express,Vadodara,10:15
+22195,Virangna Laxmibai Jhansi Bandra (T) Express,Surat,12:30
+22195,Virangna Laxmibai Jhansi Bandra (T) Express,Bandra (T),16:10
+20848,Martyr Captain Tushar Mahajan Durg Express,S D h e r v i i M K a a t t a ra Vaishno,00:10
+20848,Martyr Captain Tushar Mahajan Durg Express,Jammu Tawi,01:20
+20848,Martyr Captain Tushar Mahajan Durg Express,Jalandhar Cantt.,05:10
+20848,Martyr Captain Tushar Mahajan Durg Express,Ludhiana,06:15
+20848,Martyr Captain Tushar Mahajan Durg Express,Ambala Cantt.,08:10
+20848,Martyr Captain Tushar Mahajan Durg Express,New Delhi,11:15
+20848,Martyr Captain Tushar Mahajan Durg Express,Agra Cantt.,14:00
+20848,Martyr Captain Tushar Mahajan Durg Express,Gwalior,15:52
+20848,Martyr Captain Tushar Mahajan Durg Express,V Jh ir a a n n s g i ana Lakshmibai,17:28
+20156,New Delhi- Dr. Ambedkar Nagar SF,New Delhi,23:25
+20156,New Delhi- Dr. Ambedkar Nagar SF,Nizamuddin,23:38
+20156,New Delhi- Dr. Ambedkar Nagar SF,Mathura,01:15
+20156,New Delhi- Dr. Ambedkar Nagar SF,Ujjain,10:25
+20156,New Delhi- Dr. Ambedkar Nagar SF,Indore,12:10
+20156,New Delhi- Dr. Ambedkar Nagar SF,Itarsi,12:50
+20156,New Delhi- Dr. Ambedkar Nagar SF,Kota,05:30
+20156,New Delhi- Dr. Ambedkar Nagar SF,Nagda,09:15
+12494,Nizamuddin Miraj Darshan Express,Nizamuddin,21:40
+12494,Nizamuddin Miraj Darshan Express,Kota,02:30
+12494,Nizamuddin Miraj Darshan Express,Ratlam,05:55
+12494,Nizamuddin Miraj Darshan Express,Vadodara,09:32
+12494,Nizamuddin Miraj Darshan Express,Surat,11:22
+12494,Nizamuddin Miraj Darshan Express,Lonavla d ,17:00
+12494,Nizamuddin Miraj Darshan Express,Pune,18:40
+12494,Nizamuddin Miraj Darshan Express,Miraj,00:40
+14320,Bareilly Indore Express,Agra Cantt.,18:55
+14320,Bareilly Indore Express,Gwalior,20:40
+14320,Bareilly Indore Express,Virangana Lakshmibai Jhansi,22:28
+14320,Bareilly Indore Express,Bina,01:00
+14320,Bareilly Indore Express,Bina,01:00
+14320,Bareilly Indore Express,Ujjain,07:05
+14320,Bareilly Indore Express,Indore,08:55
+22200,Balrampur Gwalior Sushasan Express,Nizamuddin,01:00
+22200,Balrampur Gwalior Sushasan Express,Mathura,02:20
+22200,Balrampur Gwalior Sushasan Express,Agra Cantt.,03:10
+22200,Balrampur Gwalior Sushasan Express,Gwalior,05:10
+12264,Nizamuddin Pune Duronto Express,Nizamuddin,06:16
+12264,Nizamuddin Pune Duronto Express,Kota,10:55
+12264,Nizamuddin Pune Duronto Express,Ratlam,14:05
+12264,Nizamuddin Pune Duronto Express,Vadodara,17:37
+12264,Nizamuddin Pune Duronto Express,Pune,02:10
+12752,Jammu Tawi H. S. Nanded Humsafar Express,Jammu Tawi,05:45
+12752,Jammu Tawi H. S. Nanded Humsafar Express,Jalandhar Cantt.,09:20
+12752,Jammu Tawi H. S. Nanded Humsafar Express,Ludhiana,11:00
+12752,Jammu Tawi H. S. Nanded Humsafar Express,Ambala Cantt.,14:05
+12752,Jammu Tawi H. S. Nanded Humsafar Express,New Delhi,17:20
+12752,Jammu Tawi H. S. Nanded Humsafar Express,Mathura,18:53
+12752,Jammu Tawi H. S. Nanded Humsafar Express,Agra Cantt.,19:40
+12752,Jammu Tawi H. S. Nanded Humsafar Express,Gwalior,21:18
+12752,Jammu Tawi H. S. Nanded Humsafar Express,Virangana Lakshmibai Jhansi,22:58
+12752,Jammu Tawi H. S. Nanded Humsafar Express,Bina,00:53
+12752,Jammu Tawi H. S. Nanded Humsafar Express,Itarsi,04:20
+12752,Jammu Tawi H. S. Nanded Humsafar Express,Khandwa,06:45
+12752,Jammu Tawi H. S. Nanded Humsafar Express,Hazur Sahib Nanded,15:55
+12754,Nizamuddin H. S. Nanded Marathwada S. Kranti Express,Nizamuddin,22:40
+12754,Nizamuddin H. S. Nanded Marathwada S. Kranti Express,Agra Cantt.,00:55
+12754,Nizamuddin H. S. Nanded Marathwada S. Kranti Express,Virangana Lakshmibai Jhansi,03:55
+12754,Nizamuddin H. S. Nanded Marathwada S. Kranti Express,Bhopal,07:50
+12754,Nizamuddin H. S. Nanded Marathwada S. Kranti Express,Bhusaval,14:20
+12754,Nizamuddin H. S. Nanded Marathwada S. Kranti Express,Manmad,17:05
+12754,Nizamuddin H. S. Nanded Marathwada S. Kranti Express,Hazur Sahib Nanded,00:35
+11116,Itarsi Bhusaval Express,Itarsi,20:30
+11116,Itarsi Bhusaval Express,Khandwa,00:30
+11116,Itarsi Bhusaval Express,Bhusaval,04:25
+22478,Shri Mata Vaishno Devi Katra New Delhi Vande Bharat Express,S D h e r v i i M K a a t t a ra Vaishno,05:45
+22478,Shri Mata Vaishno Devi Katra New Delhi Vande Bharat Express,Jammu Tawi,07:12
+22478,Shri Mata Vaishno Devi Katra New Delhi Vande Bharat Express,Ludhiana,10:32
+22478,Shri Mata Vaishno Devi Katra New Delhi Vande Bharat Express,Ambala Cantt.,11:50
+22478,Shri Mata Vaishno Devi Katra New Delhi Vande Bharat Express,New Delhi,14:00
+22488,Amritsar Delhi Vande Bharat Express,Amritsar,08:20
+22488,Amritsar Delhi Vande Bharat Express,Jalandhar Cantt.,09:30
+22488,Amritsar Delhi Vande Bharat Express,Ludhiana,10:18
+22488,Amritsar Delhi Vande Bharat Express,Ambala Cantt.,11:36
+22488,Amritsar Delhi Vande Bharat Express,New Delhi,13:50
+11086,Gwalior- Smvt Bengaluru Express,Gwalior,15:00
+11086,Gwalior- Smvt Bengaluru Express,Shivpuri,16:32
+11086,Gwalior- Smvt Bengaluru Express,Guna,18:55
+11086,Gwalior- Smvt Bengaluru Express,Bina,21:20
+11086,Gwalior- Smvt Bengaluru Express,Bhopal,23:15
+11086,Gwalior- Smvt Bengaluru Express,Khandwa,00:10
+11086,Gwalior- Smvt Bengaluru Express,Bhusaval,02:35
+11086,Gwalior- Smvt Bengaluru Express,Manmad,05:30
+11086,Gwalior- Smvt Bengaluru Express,Hazur Sahib Nanded,07:22
+11086,Gwalior- Smvt Bengaluru Express,Ahaliyanagar,02:35
+11086,Gwalior- Smvt Bengaluru Express,Daund Chord,10:25
+14622,Firozpur Nanded Express,Firozpur,13:25
+14622,Firozpur Nanded Express,Delhi Safdarjung,20:25
+14622,Firozpur Nanded Express,Mathura,23:10
+14622,Firozpur Nanded Express,Agra Cantt.,23:55
+14622,Firozpur Nanded Express,Gwalior,02:07
+14622,Firozpur Nanded Express,Virangana Lakshmibai Jhansi,03:43
+14622,Firozpur Nanded Express,Bina,06:20
+14622,Firozpur Nanded Express,Bhopal,08:10
+14622,Firozpur Nanded Express,Itarsi,10:00
+14622,Firozpur Nanded Express,Khandwa,12:45
+14622,Firozpur Nanded Express,Bhusaval,14:50
+14622,Firozpur Nanded Express,Manmad,17:40
+14622,Firozpur Nanded Express,Hazur Sahib Nanded,03:30

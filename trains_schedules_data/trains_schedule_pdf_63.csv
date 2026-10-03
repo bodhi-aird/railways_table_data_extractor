@@ -1,0 +1,330 @@
+train_num,train_name,halt_station_name,departure_time
+14111,Muzaffarpur Prayagraj Bapudham Express,Gorakhpur,01:50
+14111,Muzaffarpur Prayagraj Bapudham Express,Deoria sadar,02:44
+14111,Muzaffarpur Prayagraj Bapudham Express,Mau,04:00
+14111,Muzaffarpur Prayagraj Bapudham Express,Banaras,05:45
+14111,Muzaffarpur Prayagraj Bapudham Express,Prayagraj Rambagh,08:25
+14111,Muzaffarpur Prayagraj Bapudham Express,Prayagraj,08:55
+15018,Gorakhpur Lokmanya Ti- lak (T) Kashi Express,Gorakhpur,05:45
+15018,Gorakhpur Lokmanya Ti- lak (T) Kashi Express,Deoria sadar,06:48
+15018,Gorakhpur Lokmanya Ti- lak (T) Kashi Express,Bhatni,07:10
+15018,Gorakhpur Lokmanya Ti- lak (T) Kashi Express,Salempur,07:25
+15018,Gorakhpur Lokmanya Ti- lak (T) Kashi Express,Belthara Road,07:55
+15018,Gorakhpur Lokmanya Ti- lak (T) Kashi Express,Indara,08:18
+15018,Gorakhpur Lokmanya Ti- lak (T) Kashi Express,Mau,08:30
+15018,Gorakhpur Lokmanya Ti- lak (T) Kashi Express,Aunrihar,09:55
+15018,Gorakhpur Lokmanya Ti- lak (T) Kashi Express,Varanasi City,10:50
+15018,Gorakhpur Lokmanya Ti- lak (T) Kashi Express,Varanasi,11:20
+15018,Gorakhpur Lokmanya Ti- lak (T) Kashi Express,Prayagraj,16:05
+15008,Lucknow Varanasi City Krishak Express,Gorakhpur,06:15
+15008,Lucknow Varanasi City Krishak Express,Deoria sadar,07:40
+15008,Lucknow Varanasi City Krishak Express,Bhatni,08:08
+15008,Lucknow Varanasi City Krishak Express,Salempur,08:23
+15008,Lucknow Varanasi City Krishak Express,Belthara Road,08:55
+15008,Lucknow Varanasi City Krishak Express,Indara,09:28
+15008,Lucknow Varanasi City Krishak Express,Mau,09:45
+15008,Lucknow Varanasi City Krishak Express,Aunrihar,11:10
+15008,Lucknow Varanasi City Krishak Express,Varanasi City,12:20
+26505,Khajuraho Banaras Vande Bharat Exprees,Varanasi,23:00
+26505,Khajuraho Banaras Vande Bharat Exprees,Banaras,23:15
+11056,Gorakhpur Lokmanya Ti- lak (T) Godaan Express,Gorakhpur,06:40
+11056,Gorakhpur Lokmanya Ti- lak (T) Godaan Express,Deoria sadar,07:38
+11056,Gorakhpur Lokmanya Ti- lak (T) Godaan Express,Belthara Road,08:28
+11056,Gorakhpur Lokmanya Ti- lak (T) Godaan Express,Mau,09:10
+11056,Gorakhpur Lokmanya Ti- lak (T) Godaan Express,Azamgarh,10:05
+11056,Gorakhpur Lokmanya Ti- lak (T) Godaan Express,Shahganj,12:10
+11056,Gorakhpur Lokmanya Ti- lak (T) Godaan Express,Jaunpur Jn/ Jaunpur City,12:45
+11056,Gorakhpur Lokmanya Ti- lak (T) Godaan Express,Prayagraj,16:40
+15050,Gora- khpur Kolkata Express,Gorakhpur,08:40
+15050,Gora- khpur Kolkata Express,Deoria sadar,09:38
+15050,Gora- khpur Kolkata Express,Bhatni,10:05
+15050,Gora- khpur Kolkata Express,Salempur,10:28
+15050,Gora- khpur Kolkata Express,Belthara Road,10:50
+15050,Gora- khpur Kolkata Express,Mau,11:45
+15050,Gora- khpur Kolkata Express,Indara,12:07
+15129,Gorakhpur Varansi City Express,Gorakhpur,10:30
+15129,Gorakhpur Varansi City Express,Deoria sadar,11:15
+15129,Gorakhpur Varansi City Express,Bhatni,11:40
+15129,Gorakhpur Varansi City Express,Salempur,11:56
+15129,Gorakhpur Varansi City Express,Belthara Road,12:31
+15129,Gorakhpur Varansi City Express,Indara,12:59
+15129,Gorakhpur Varansi City Express,Mau,13:15
+15129,Gorakhpur Varansi City Express,Aunrihar,14:38
+15129,Gorakhpur Varansi City Express,Varanasi City,16:05
+15022,Gorakhpur Shalimar Express,Gorakhpur,11:00
+15022,Gorakhpur Shalimar Express,Deoria sadar,11:57
+15022,Gorakhpur Shalimar Express,Bhatni,12:22
+15022,Gorakhpur Shalimar Express,Mau,13:40
+15022,Gorakhpur Shalimar Express,Aunrihar,14:50
+15022,Gorakhpur Shalimar Express,Varanasi,17:45
+15022,Gorakhpur Shalimar Express,Jaunpur Jn/ Jaunpur City,16:15
+11038,Barhni Pune Express,Gorakhpur,15:50
+11038,Barhni Pune Express,Deoria sadar,16:50
+11038,Barhni Pune Express,Salempur,17:30
+11038,Barhni Pune Express,Belthara Road,17:53
+11038,Barhni Pune Express,Mau,18:35
+11038,Barhni Pune Express,Varanasi,21:05
+11038,Barhni Pune Express,Prayagraj,00:35
+15103,Gorakhpur Banaras Express,Gorakhpur,16:15
+15103,Gorakhpur Banaras Express,Deoria sadar,17:16
+15103,Gorakhpur Banaras Express,Bhatni,17:37
+15103,Gorakhpur Banaras Express,Salempur,17:53
+15103,Gorakhpur Banaras Express,Belthara Road,18:25
+15103,Gorakhpur Banaras Express,Indara,18:58
+15103,Gorakhpur Banaras Express,Mau,19:10
+15103,Gorakhpur Banaras Express,Aunrihar,20:26
+15103,Gorakhpur Banaras Express,Varanasi City,21:18
+15103,Gorakhpur Banaras Express,Varanasi,21:40
+15103,Gorakhpur Banaras Express,Banaras,22:00
+15131,Naipal Ganj Road Varansi City Express,Gorakhpur,22:45
+15131,Naipal Ganj Road Varansi City Express,Deoria sadar,00:15
+15131,Naipal Ganj Road Varansi City Express,Bhatni,00:36
+15131,Naipal Ganj Road Varansi City Express,Salempur,00:52
+15131,Naipal Ganj Road Varansi City Express,Belthara Road,01:21
+15131,Naipal Ganj Road Varansi City Express,Mau,02:05
+15131,Naipal Ganj Road Varansi City Express,Aunrihar,03:50
+15131,Naipal Ganj Road Varansi City Express,Varanasi City,05:05
+15004,Gorakhpur Kan- pur Anwarganj Chauri Chaura Express,Gorakhpur,23:15
+15004,Gorakhpur Kan- pur Anwarganj Chauri Chaura Express,Deoria sadar,00:25
+15004,Gorakhpur Kan- pur Anwarganj Chauri Chaura Express,Bhatni,00:47
+15004,Gorakhpur Kan- pur Anwarganj Chauri Chaura Express,Salempur,01:06
+15004,Gorakhpur Kan- pur Anwarganj Chauri Chaura Express,Belthara Road,01:37
+15004,Gorakhpur Kan- pur Anwarganj Chauri Chaura Express,Indara,02:04
+15004,Gorakhpur Kan- pur Anwarganj Chauri Chaura Express,Mau,02:20
+15004,Gorakhpur Kan- pur Anwarganj Chauri Chaura Express,Aunrihar,03:18
+15004,Gorakhpur Kan- pur Anwarganj Chauri Chaura Express,Varanasi City,03:55
+15004,Gorakhpur Kan- pur Anwarganj Chauri Chaura Express,Varanasi,04:35
+15004,Gorakhpur Kan- pur Anwarganj Chauri Chaura Express,Banaras,04:45
+15004,Gorakhpur Kan- pur Anwarganj Chauri Chaura Express,Prayagraj,08:15
+15004,Gorakhpur Kan- pur Anwarganj Chauri Chaura Express,Kanpur Central,11:35
+15004,Gorakhpur Kan- pur Anwarganj Chauri Chaura Express,Kanpur Anwar- ganj,12:20
+11060,Chhapra Lok- manya Tilak (T) Godaan Express,Bhatni,07:35
+11060,Chhapra Lok- manya Tilak (T) Godaan Express,Salempur,07:55
+11060,Chhapra Lok- manya Tilak (T) Godaan Express,Belthara Road,08:28
+11060,Chhapra Lok- manya Tilak (T) Godaan Express,Mau,09:10
+11060,Chhapra Lok- manya Tilak (T) Godaan Express,Azamgarh,10:05
+11060,Chhapra Lok- manya Tilak (T) Godaan Express,Shahganj,12:10
+11060,Chhapra Lok- manya Tilak (T) Godaan Express,Jaunpur Jn/ Jaunpur City,12:45
+11060,Chhapra Lok- manya Tilak (T) Godaan Express,Prayagraj,16:40
+14005,Sitamarhi Anand Vihar (T) Lichchavi Express,Bhatni,11:05
+14005,Sitamarhi Anand Vihar (T) Lichchavi Express,Salempur,11:38
+14005,Sitamarhi Anand Vihar (T) Lichchavi Express,Belthara Road,12:08
+14005,Sitamarhi Anand Vihar (T) Lichchavi Express,Mau,12:45
+14005,Sitamarhi Anand Vihar (T) Lichchavi Express,Varanasi,15:20
+14005,Sitamarhi Anand Vihar (T) Lichchavi Express,Prayagraj,18:05
+14005,Sitamarhi Anand Vihar (T) Lichchavi Express,Kanpur Central,20:55
+15111,Chhapra Varanasi City Intercity Express,Indara,07:22
+15111,Chhapra Varanasi City Intercity Express,Mau,07:38
+15111,Chhapra Varanasi City Intercity Express,Aunrihar,08:48
+15111,Chhapra Varanasi City Intercity Express,Varanasi City,09:55
+11082,Gorakhpur Lokmanya Tilak (T) Express,Gorakhpur,14:20
+11082,Gorakhpur Lokmanya Tilak (T) Express,Deoria sadar,15:20
+11082,Gorakhpur Lokmanya Tilak (T) Express,Bhatni,15:42
+11082,Gorakhpur Lokmanya Tilak (T) Express,Mau,17:15
+11082,Gorakhpur Lokmanya Tilak (T) Express,Aunrihar,18:13
+11082,Gorakhpur Lokmanya Tilak (T) Express,Varanasi,21:20
+11082,Gorakhpur Lokmanya Tilak (T) Express,Jaunpur Jn/ Jaunpur City,19:45
+11082,Gorakhpur Lokmanya Tilak (T) Express,Prayagraj Chheoki,00:27
+19092,Gorakhpur Bandra (T) Humsafar Express,Gorakhpur,21:20
+19092,Gorakhpur Bandra (T) Humsafar Express,Deoria sadar,22:18
+19092,Gorakhpur Bandra (T) Humsafar Express,Bhatni,22:41
+19092,Gorakhpur Bandra (T) Humsafar Express,Mau,23:45
+19092,Gorakhpur Bandra (T) Humsafar Express,Varanasi,02:35
+19092,Gorakhpur Bandra (T) Humsafar Express,Prayagraj Chheoki,05:30
+12166,Gorakhpur Lokmanya Tilak (T) Express,Gorakhpur,15:25
+12166,Gorakhpur Lokmanya Tilak (T) Express,Deoria sadar,16:25
+12166,Gorakhpur Lokmanya Tilak (T) Express,Mau,17:55
+12166,Gorakhpur Lokmanya Tilak (T) Express,Varanasi,20:20
+19490,Gorakhpur Ahmedabad Express,Gorakhpur,21:20
+19490,Gorakhpur Ahmedabad Express,Deoria sadar,22:18
+19490,Gorakhpur Ahmedabad Express,Bhatni,22:41
+19490,Gorakhpur Ahmedabad Express,Mau,23:45
+19490,Gorakhpur Ahmedabad Express,Varanasi,02:35
+19490,Gorakhpur Ahmedabad Express,Prayagraj Chheoki,05:30
+15181,Mau Lokmanya Tilak(T) Express,Mau,22:15
+15181,Mau Lokmanya Tilak(T) Express,Azamgarh,23:10
+15181,Mau Lokmanya Tilak(T) Express,Shahganj,01:00
+15181,Mau Lokmanya Tilak(T) Express,Jaunpur Jn/ Jaunpur City,01:40
+15181,Mau Lokmanya Tilak(T) Express,Prayagraj,05:20
+1028,Gorakh- pur Dadar Special,Gorakhpur,14:20
+1028,Gorakh- pur Dadar Special,Deoria sadar,15:25
+1028,Gorakh- pur Dadar Special,Bhatni,15:48
+1028,Gorakh- pur Dadar Special,Belthara Road,16:29
+1028,Gorakh- pur Dadar Special,Mau,17:00
+1028,Gorakh- pur Dadar Special,Aunrihar,18:09
+1028,Gorakh- pur Dadar Special,Varanasi,19:01
+1028,Gorakh- pur Dadar Special,Banaras,19:15
+1028,Gorakh- pur Dadar Special,Prayagraj,21:40
+1026,Ballia Dadar Special,Salempur,15:15
+1026,Ballia Dadar Special,Mau,16:55
+1026,Ballia Dadar Special,Aunrihar,18:02
+1026,Ballia Dadar Special,Varanasi,18:55
+1026,Ballia Dadar Special,Banaras,19:15
+1026,Ballia Dadar Special,Prayagraj,21:40
+11037,A Pune Barhni Express,Prayagraj,16:40
+11037,A Pune Barhni Express,Varanasi,19:35
+11037,A Pune Barhni Express,Mau,21:30
+11037,A Pune Barhni Express,Belthara Road,22:05
+11037,A Pune Barhni Express,Salempur,22:30
+11037,A Pune Barhni Express,Deoriasadar,23:15
+11037,A Pune Barhni Express,Gorakhpur,00:40
+15003,Kanpur Anwarganj Gorakhpur Chauri Chaura Express,Kanpur Anwarganj,16:40
+15003,Kanpur Anwarganj Gorakhpur Chauri Chaura Express,Kanpur,17:00
+15003,Kanpur Anwarganj Gorakhpur Chauri Chaura Express,Prayagraj,20:50
+15003,Kanpur Anwarganj Gorakhpur Chauri Chaura Express,Banaras,23:45
+15003,Kanpur Anwarganj Gorakhpur Chauri Chaura Express,Varanasi,00:15
+15003,Kanpur Anwarganj Gorakhpur Chauri Chaura Express,Varanasi City,00:28
+15003,Kanpur Anwarganj Gorakhpur Chauri Chaura Express,Aunrihar,01:01
+15003,Kanpur Anwarganj Gorakhpur Chauri Chaura Express,Mau,02:00
+15003,Kanpur Anwarganj Gorakhpur Chauri Chaura Express,Indara,02:15
+15003,Kanpur Anwarganj Gorakhpur Chauri Chaura Express,Belthara Road,02:40
+15003,Kanpur Anwarganj Gorakhpur Chauri Chaura Express,Salempur,03:10
+15003,Kanpur Anwarganj Gorakhpur Chauri Chaura Express,Bhatni,03:35
+15003,Kanpur Anwarganj Gorakhpur Chauri Chaura Express,Deoriasadar,04:05
+15003,Kanpur Anwarganj Gorakhpur Chauri Chaura Express,Gorakhpur,06:10
+15049,Kolkata Gorakhpur Express,Indara,04:51
+15049,Kolkata Gorakhpur Express,Mau,05:35
+15049,Kolkata Gorakhpur Express,Belthara Road,06:17
+15049,Kolkata Gorakhpur Express,Salempur,06:42
+15049,Kolkata Gorakhpur Express,Bhatni,07:05
+15049,Kolkata Gorakhpur Express,Deoriasadar,07:30
+15049,Kolkata Gorakhpur Express,Gorakhpur,09:15
+15104,Banaras Gorakhpur Express.,Banaras,05:25
+15104,Banaras Gorakhpur Express.,Varanasi,05:45
+15104,Banaras Gorakhpur Express.,Varanasi City,05:58
+15104,Banaras Gorakhpur Express.,Aunrihar,06:27
+15104,Banaras Gorakhpur Express.,Mau,07:35
+15104,Banaras Gorakhpur Express.,Indara,07:48
+15104,Banaras Gorakhpur Express.,Belthara Road,08:20
+15104,Banaras Gorakhpur Express.,Salempur,08:50
+15104,Banaras Gorakhpur Express.,Bhatni,09:12
+15104,Banaras Gorakhpur Express.,Deoriasadar,10:37
+15104,Banaras Gorakhpur Express.,Gorakhpur,11:05
+14112,Prayagraj uzaffarpu Bapudham Express,Prayagraj,04:50
+14112,Prayagraj uzaffarpu Bapudham Express,Prayagraj Chheoki,05:05
+14112,Prayagraj uzaffarpu Bapudham Express,Banaras,07:25
+14112,Prayagraj uzaffarpu Bapudham Express,Varanasi,07:45
+14112,Prayagraj uzaffarpu Bapudham Express,Mau,09:10
+14112,Prayagraj uzaffarpu Bapudham Express,Belthara Road,09:41
+14112,Prayagraj uzaffarpu Bapudham Express,Deoriasadar,10:30
+14112,Prayagraj uzaffarpu Bapudham Express,Gorakhpur,12:00
+26506,Banaras Khajuraho Vande Bharat Exprees,Banaras,05:15
+15130,aransi Cit Gorakhpur Express,Varanasi City,11:45
+15130,aransi Cit Gorakhpur Express,Aunrihar,12:18
+15130,aransi Cit Gorakhpur Express,Mau,13:25
+15130,aransi Cit Gorakhpur Express,Indara,13:38
+15130,aransi Cit Gorakhpur Express,Belthara Road,14:07
+15130,aransi Cit Gorakhpur Express,Salempur,14:32
+15130,aransi Cit Gorakhpur Express,Bhatni,14:55
+15130,aransi Cit Gorakhpur Express,Deoriasadar,15:20
+15130,aransi Cit Gorakhpur Express,Gorakhpur,17:25
+15021,Shalimar Gorakhpur Express,Jaunpur Jn/ Jaunpur City,13:55
+15021,Shalimar Gorakhpur Express,Varanasi,11:55
+15021,Shalimar Gorakhpur Express,Aunrihar,14:46
+15021,Shalimar Gorakhpur Express,Mau,15:50
+15021,Shalimar Gorakhpur Express,Belthara Road,16:38
+15021,Shalimar Gorakhpur Express,Salempur,17:00
+15021,Shalimar Gorakhpur Express,Bhatni,17:25
+15021,Shalimar Gorakhpur Express,Deoriasadar,17:55
+15021,Shalimar Gorakhpur Express,Gorakhpur,19:50
+19489,Ahmedabad Gorakhpur Express,Prayagraj Chheoki,08:47
+19489,Ahmedabad Gorakhpur Express,Varanasi,12:50
+19489,Ahmedabad Gorakhpur Express,Mau,14:25
+19489,Ahmedabad Gorakhpur Express,Bhatni,15:54
+19489,Ahmedabad Gorakhpur Express,Deoriasadar,16:20
+19489,Ahmedabad Gorakhpur Express,Gorakhpur,18:15
+15017,Lokmanya Tilak (T) Gorakhpur Kashi Express,Prayagraj,08:10
+15017,Lokmanya Tilak (T) Gorakhpur Kashi Express,Varanasi,13:10
+15017,Lokmanya Tilak (T) Gorakhpur Kashi Express,Varanasi City,13:30
+15017,Lokmanya Tilak (T) Gorakhpur Kashi Express,Aunrihar,13:58
+15017,Lokmanya Tilak (T) Gorakhpur Kashi Express,Mau,15:15
+15017,Lokmanya Tilak (T) Gorakhpur Kashi Express,Indara,15:30
+15017,Lokmanya Tilak (T) Gorakhpur Kashi Express,Belthara Road,16:07
+15017,Lokmanya Tilak (T) Gorakhpur Kashi Express,Salempur,16:42
+15017,Lokmanya Tilak (T) Gorakhpur Kashi Express,Bhatni,17:03
+15017,Lokmanya Tilak (T) Gorakhpur Kashi Express,Deoriasadar,17:28
+15017,Lokmanya Tilak (T) Gorakhpur Kashi Express,Gorakhpur,18:55
+11055,Lokmanya Tilak (T) Gorakhpur Godaan Express,Prayagraj,08:35
+11055,Lokmanya Tilak (T) Gorakhpur Godaan Express,Jaunpur Jn/ Jaunpur City,13:16
+11055,Lokmanya Tilak (T) Gorakhpur Godaan Express,Shahganj,14:55
+11055,Lokmanya Tilak (T) Gorakhpur Godaan Express,Azamgarh,15:55
+11055,Lokmanya Tilak (T) Gorakhpur Godaan Express,Mau,16:45
+11055,Lokmanya Tilak (T) Gorakhpur Godaan Express,Belthara Road,17:23
+11055,Lokmanya Tilak (T) Gorakhpur Godaan Express,Deoriasadar,18:50
+11055,Lokmanya Tilak (T) Gorakhpur Godaan Express,Gorakhpur,20:35
+15007,Varanasi City Lucknow Krishak Express,Varanasi City,17:00
+15007,Varanasi City Lucknow Krishak Express,Aunrihar,17:38
+15007,Varanasi City Lucknow Krishak Express,Mau,18:55
+15007,Varanasi City Lucknow Krishak Express,Indara,19:05
+15007,Varanasi City Lucknow Krishak Express,Belthara Road,19:38
+15007,Varanasi City Lucknow Krishak Express,Salempur,20:13
+15007,Varanasi City Lucknow Krishak Express,Bhatni,20:35
+15007,Varanasi City Lucknow Krishak Express,Deoriasadar,21:05
+15007,Varanasi City Lucknow Krishak Express,Gorakhpur,23:05
+11059,Lokmanya Tilak (T) Chhapra Godaan Express,Prayagraj,08:35
+11059,Lokmanya Tilak (T) Chhapra Godaan Express,Jaunpur Jn/ Jaunpur City,13:16
+11059,Lokmanya Tilak (T) Chhapra Godaan Express,Shahganj,14:55
+11059,Lokmanya Tilak (T) Chhapra Godaan Express,Azamgarh,15:55
+11059,Lokmanya Tilak (T) Chhapra Godaan Express,Mau,16:45
+11059,Lokmanya Tilak (T) Chhapra Godaan Express,Belthara Road,17:23
+11059,Lokmanya Tilak (T) Chhapra Godaan Express,Salempur,18:05
+11059,Lokmanya Tilak (T) Chhapra Godaan Express,Bhatni,18:40
+14006,Anand Vihar (T) Sitamarhi Lichchavi Express.,Kanpur,00:20
+14006,Anand Vihar (T) Sitamarhi Lichchavi Express.,Prayagraj,03:20
+14006,Anand Vihar (T) Sitamarhi Lichchavi Express.,Varanasi,06:10
+14006,Anand Vihar (T) Sitamarhi Lichchavi Express.,Mau,08:05
+14006,Anand Vihar (T) Sitamarhi Lichchavi Express.,Belthara Road,08:55
+14006,Anand Vihar (T) Sitamarhi Lichchavi Express.,Salempur,09:30
+14006,Anand Vihar (T) Sitamarhi Lichchavi Express.,Bhatni,10:05
+15112,Varanasi City Chhapra Intercity Express,Varanasi City,18:45
+15112,Varanasi City Chhapra Intercity Express,Aunrihar,19:18
+15112,Varanasi City Chhapra Intercity Express,Mau,20:25
+15112,Varanasi City Chhapra Intercity Express,Indara,20:41
+11081,Lokmanya Tilak (T) Gorakhpur Express,Prayagraj Chheoki,15:42
+11081,Lokmanya Tilak (T) Gorakhpur Express,Jaunpur Jn/ Jaunpur City,23:30
+11081,Lokmanya Tilak (T) Gorakhpur Express,Varanasi,21:10
+11081,Lokmanya Tilak (T) Gorakhpur Express,Aunrihar,00:20
+11081,Lokmanya Tilak (T) Gorakhpur Express,Mau,01:30
+11081,Lokmanya Tilak (T) Gorakhpur Express,Belthara Road,02:00
+11081,Lokmanya Tilak (T) Gorakhpur Express,Bhatni,03:12
+11081,Lokmanya Tilak (T) Gorakhpur Express,Deoriasadar,03:40
+11081,Lokmanya Tilak (T) Gorakhpur Express,Gorakhpur,05:40
+15132,Varansi City Nepalganj Road Express,Varanasi City,22:30
+15132,Varansi City Nepalganj Road Express,Aunrihar,23:08
+15132,Varansi City Nepalganj Road Express,Mau,00:40
+15132,Varansi City Nepalganj Road Express,Belthara Road,01:16
+15132,Varansi City Nepalganj Road Express,Salempur,01:48
+15132,Varansi City Nepalganj Road Express,Bhatni,02:15
+15132,Varansi City Nepalganj Road Express,Deoriasadar,03:10
+15132,Varansi City Nepalganj Road Express,Gorakhpur,04:30
+19091,Bandra (T) Gorakhpur Humsafar Express,Prayagraj Chheoki,08:47
+19091,Bandra (T) Gorakhpur Humsafar Express,Varanasi,12:50
+19091,Bandra (T) Gorakhpur Humsafar Express,Mau,14:25
+19091,Bandra (T) Gorakhpur Humsafar Express,Bhatni,15:50
+19091,Bandra (T) Gorakhpur Humsafar Express,Deoriasadar,16:20
+19091,Bandra (T) Gorakhpur Humsafar Express,Gorakhpur,18:15
+12165,Lokmanya Tilak Gorakhpur Express,Prayagraj,04:20
+12165,Lokmanya Tilak Gorakhpur Express,Varanasi,07:20
+12165,Lokmanya Tilak Gorakhpur Express,Mau,08:55
+12165,Lokmanya Tilak Gorakhpur Express,Deoriasadar,10:35
+12165,Lokmanya Tilak Gorakhpur Express,Gorakhpur,11:55
+15182,6 Lokmanya Tilak (T) Mau Express,Prayagraj,09:00
+15182,6 Lokmanya Tilak (T) Mau Express,Jaunpur Jn/ Jaunpur City,13:45
+15182,6 Lokmanya Tilak (T) Mau Express,Shahganj,15:30
+15182,6 Lokmanya Tilak (T) Mau Express,Azamgarh,17:10
+15182,6 Lokmanya Tilak (T) Mau Express,Mau,18:30
+1027,3 Dadar Gorakhpur Special,Prayagraj,19:10
+1027,3 Dadar Gorakhpur Special,Banaras,21:25
+1027,3 Dadar Gorakhpur Special,Varanasi,21:55
+1027,3 Dadar Gorakhpur Special,Aunrihar,22:42
+1027,3 Dadar Gorakhpur Special,Mau,23:50
+1027,3 Dadar Gorakhpur Special,Belthara Road,00:22
+1027,3 Dadar Gorakhpur Special,Bhatni,00:58
+1027,3 Dadar Gorakhpur Special,Deoriasadar,01:32
+1027,3 Dadar Gorakhpur Special,Gorakhpur,02:50
+1025,A Dadar Ballia Special,Prayagraj,19:10
+1025,A Dadar Ballia Special,Banaras,21:25
+1025,A Dadar Ballia Special,Varanasi,21:55
+1025,A Dadar Ballia Special,Aunrihar,22:42
+1025,A Dadar Ballia Special,Mau,23:50
+1025,A Dadar Ballia Special,Belthara Road,01:45

@@ -1,0 +1,312 @@
+train_num,train_name,halt_station_name,departure_time
+22867,Durg Nizamud- din Humsafar Express,Durg,11:00
+22867,Durg Nizamud- din Humsafar Express,Raipur,11:40
+22867,Durg Nizamud- din Humsafar Express,Bhatapara,12:30
+22867,Durg Nizamud- din Humsafar Express,Uslapur,13:50
+22867,Durg Nizamud- din Humsafar Express,Anuppur,16:02
+22867,Durg Nizamud- din Humsafar Express,Katni Murwara,19:30
+14213,Varanasi city Bahraich Inter City Express,Varanasi,14:00
+14213,Varanasi city Bahraich Inter City Express,Jaunpur,15:00
+14213,Varanasi city Bahraich Inter City Express,Mankapur,19:35
+14213,Varanasi city Bahraich Inter City Express,Gonda,20:32
+14213,Varanasi city Bahraich Inter City Express,Bahraich,21:50
+20847,Durg Martyr Captain Tushar Mahajan Express,Durg,11:00
+20847,Durg Martyr Captain Tushar Mahajan Express,Raipur,11:40
+20847,Durg Martyr Captain Tushar Mahajan Express,Bhatapara,12:35
+20847,Durg Martyr Captain Tushar Mahajan Express,Uslapur,13:55
+20847,Durg Martyr Captain Tushar Mahajan Express,Anuppur,16:02
+20847,Durg Martyr Captain Tushar Mahajan Express,Katni Murwara,19:30
+12823,Durg Nizamuddin Chhattis garh Sampark Kranti Express,Durg,12:15
+12823,Durg Nizamuddin Chhattis garh Sampark Kranti Express,Raipur,12:55
+12823,Durg Nizamuddin Chhattis garh Sampark Kranti Express,Bhatapara,13:45
+12823,Durg Nizamuddin Chhattis garh Sampark Kranti Express,Uslapur,15:00
+12823,Durg Nizamuddin Chhattis garh Sampark Kranti Express,Anuppur,17:07
+12823,Durg Nizamuddin Chhattis garh Sampark Kranti Express,Katni Murwara,20:30
+12549,Durg Martyr Captain Tushar Mahajan Express,Durg,12:15
+12549,Durg Martyr Captain Tushar Mahajan Express,Raipur,12:55
+12549,Durg Martyr Captain Tushar Mahajan Express,Bhatapara,13:45
+12549,Durg Martyr Captain Tushar Mahajan Express,Uslapur,15:00
+12549,Durg Martyr Captain Tushar Mahajan Express,Anuppur,17:07
+12549,Durg Martyr Captain Tushar Mahajan Express,Katni Murwara,20:30
+12536,Raipur Lucknow Garib Rath Express,Raipur,12:05
+12536,Raipur Lucknow Garib Rath Express,Bhatapara,12:55
+12536,Raipur Lucknow Garib Rath Express,Uslapur,14:15
+12536,Raipur Lucknow Garib Rath Express,Anuppur,16:26
+12536,Raipur Lucknow Garib Rath Express,Katni,19:45
+12536,Raipur Lucknow Garib Rath Express,Satna,21:00
+12536,Raipur Lucknow Garib Rath Express,Chitrakoot a Dham Karvi,23:13
+12536,Raipur Lucknow Garib Rath Express,Banda,00:25
+12536,Raipur Lucknow Garib Rath Express,Kanpur,03:20
+12536,Raipur Lucknow Garib Rath Express,Lucknow Jn.,05:10
+18247,Bilaspur Rewa Express,Bilaspur,19:20
+18247,Bilaspur Rewa Express,Uslapur,19:35
+18247,Bilaspur Rewa Express,Anuppur,22:23
+18247,Bilaspur Rewa Express,Katni,02:30
+18247,Bilaspur Rewa Express,Satna,04:40
+18247,Bilaspur Rewa Express,Manikpur,06:05
+18207,Durg Ajmer Express,Durg,16:00
+18207,Durg Ajmer Express,Raipur,16:40
+18207,Durg Ajmer Express,Bhatapara,17:35
+18207,Durg Ajmer Express,Uslapur,19:00
+18207,Durg Ajmer Express,Anuppur,21:20
+18207,Durg Ajmer Express,Katni Murwara,00:50
+18573,Visakha patnam Bhagat Ki Kothi (Jodhpur) Express,Raipur,15:15
+18573,Visakha patnam Bhagat Ki Kothi (Jodhpur) Express,Bhatapara,16:10
+18573,Visakha patnam Bhagat Ki Kothi (Jodhpur) Express,Uslapur,17:35
+18573,Visakha patnam Bhagat Ki Kothi (Jodhpur) Express,Anuppur,19:42
+18573,Visakha patnam Bhagat Ki Kothi (Jodhpur) Express,Katni Murwara,23:25
+18213,Durg Ajmer Express,Durg,16:00
+18213,Durg Ajmer Express,Raipur,16:40
+18213,Durg Ajmer Express,Bhatapara,17:35
+18213,Durg Ajmer Express,Uslapur,19:00
+18213,Durg Ajmer Express,Anuppur,21:20
+18213,Durg Ajmer Express,Katni Murwara,00:50
+18203,Durg Kanpur Betwa Express,Durg,20:05
+18203,Durg Kanpur Betwa Express,Raipur,20:50
+18203,Durg Kanpur Betwa Express,Bhatapara,21:45
+18203,Durg Kanpur Betwa Express,Uslapur,23:15
+18203,Durg Kanpur Betwa Express,Anuppur,01:20
+18203,Durg Kanpur Betwa Express,Katni,04:50
+18203,Durg Kanpur Betwa Express,Satna,06:15
+18203,Durg Kanpur Betwa Express,Chitrakoot Dham Karvi,08:34
+18203,Durg Kanpur Betwa Express,Banda,09:50
+18203,Durg Kanpur Betwa Express,Kanpur,13:20
+18205,Durg Nautanwa Express (via Ayodhya Cantt Gorakhpur),Durg,20:05
+18205,Durg Nautanwa Express (via Ayodhya Cantt Gorakhpur),Raipur,20:50
+18205,Durg Nautanwa Express (via Ayodhya Cantt Gorakhpur),Bhatapara,21:45
+18205,Durg Nautanwa Express (via Ayodhya Cantt Gorakhpur),Uslapur,23:15
+18205,Durg Nautanwa Express (via Ayodhya Cantt Gorakhpur),Anuppur,01:20
+18205,Durg Nautanwa Express (via Ayodhya Cantt Gorakhpur),Katni,04:50
+18205,Durg Nautanwa Express (via Ayodhya Cantt Gorakhpur),Satna,06:15
+18205,Durg Nautanwa Express (via Ayodhya Cantt Gorakhpur),Manikpur,08:20
+18205,Durg Nautanwa Express (via Ayodhya Cantt Gorakhpur),Prayagraj,11:00
+18205,Durg Nautanwa Express (via Ayodhya Cantt Gorakhpur),Ayodhya Cantt,15:10
+18205,Durg Nautanwa Express (via Ayodhya Cantt Gorakhpur),Mankapur,17:12
+18205,Durg Nautanwa Express (via Ayodhya Cantt Gorakhpur),Basti,18:03
+18205,Durg Nautanwa Express (via Ayodhya Cantt Gorakhpur),,20:10
+18201,Durg Nautanwa Express (via Gorakhpur),Durg,20:05
+18201,Durg Nautanwa Express (via Gorakhpur),Raipur,20:50
+18201,Durg Nautanwa Express (via Gorakhpur),Bhatapara,21:45
+18201,Durg Nautanwa Express (via Gorakhpur),Uslapur,23:15
+18201,Durg Nautanwa Express (via Gorakhpur),Anuppur,01:20
+18201,Durg Nautanwa Express (via Gorakhpur),Katni,04:50
+18201,Durg Nautanwa Express (via Gorakhpur),Satna,06:15
+18201,Durg Nautanwa Express (via Gorakhpur),Manikpur,08:20
+18201,Durg Nautanwa Express (via Gorakhpur),Prayagraj Chheoki,10:05
+18201,Durg Nautanwa Express (via Gorakhpur),Varanasi,14:05
+18201,Durg Nautanwa Express (via Gorakhpur),Mau,15:45
+18201,Durg Nautanwa Express (via Gorakhpur),Bhatni,17:30
+18201,Durg Nautanwa Express (via Gorakhpur),Deoriasadar,17:50
+18201,Durg Nautanwa Express (via Gorakhpur),,20:00
+18241,Durg Ambikapur Express,Durg,21:05
+18241,Durg Ambikapur Express,Raipur,21:50
+18241,Durg Ambikapur Express,Bhatapara,22:45
+18241,Durg Ambikapur Express,Uslapur,00:20
+18241,Durg Ambikapur Express,Anuppur,03:00
+18241,Durg Ambikapur Express,Ambikapur,08:00
+15160,Durg Chhapra Sarnath Express,Durg,20:30
+15160,Durg Chhapra Sarnath Express,Raipur,21:15
+15160,Durg Chhapra Sarnath Express,Bhatapara,22:10
+15160,Durg Chhapra Sarnath Express,Uslapur,23:40
+15160,Durg Chhapra Sarnath Express,Anuppur,01:57
+15160,Durg Chhapra Sarnath Express,Katni,06:15
+15160,Durg Chhapra Sarnath Express,Satna,07:50
+15160,Durg Chhapra Sarnath Express,Manikpur,09:40
+15160,Durg Chhapra Sarnath Express,Prayagraj,12:35
+15160,Durg Chhapra Sarnath Express,Varanasi,16:25
+15160,Durg Chhapra Sarnath Express,Aunrihar,17:23
+15160,Durg Chhapra Sarnath Express,Ghazipur City,18:05
+15160,Durg Chhapra Sarnath Express,Ballia,19:25
+15160,Durg Chhapra Sarnath Express,Chhapra,21:35
+11266,Ambikapur Jabalpur Express,Ambikapur,06:15
+11266,Ambikapur Jabalpur Express,Anuppur,09:30
+11266,Ambikapur Jabalpur Express,Katni South,13:10
+11266,Ambikapur Jabalpur Express,Satna,15:05
+15232,Gondia Barauni Express,Durg,23:45
+15232,Gondia Barauni Express,Raipur,00:25
+15232,Gondia Barauni Express,Bhatapara,01:15
+15232,Gondia Barauni Express,Uslapur,02:40
+15232,Gondia Barauni Express,Anuppur,04:40
+15232,Gondia Barauni Express,Katni,09:40
+15232,Gondia Barauni Express,Satna,11:30
+15232,Gondia Barauni Express,Manikpur,13:37
+15232,Gondia Barauni Express,Prayagraj Chheoki,15:27
+15232,Gondia Barauni Express,Varanasi,19:30
+15232,Gondia Barauni Express,Jaunpur,21:10
+15232,Gondia Barauni Express,Aunrihar,21:50
+15232,Gondia Barauni Express,Ghazipur City,22:35
+15232,Gondia Barauni Express,Ballia,23:35
+15232,Gondia Barauni Express,Chhapra,02:40
+15232,Gondia Barauni Express,Hajipur,04:05
+15232,Gondia Barauni Express,Muzaffarpur,05:00
+15232,Gondia Barauni Express,Barauni,08:30
+14233,Praygraj San- gam Mankapur Express,Prayagraj Chheoki,18:30
+14233,Praygraj San- gam Mankapur Express,Ayodhya Cantt,23:25
+14233,Praygraj San- gam Mankapur Express,Mankapur,00:55
+14231,Praygraj Sangam Basti Manwar Sangam Express,Prayagraj Chheoki,04:50
+14231,Praygraj Sangam Basti Manwar Sangam Express,Ayodhya Cantt,08:50
+14231,Praygraj Sangam Basti Manwar Sangam Express,Mankapur,10:13
+14231,Praygraj Sangam Basti Manwar Sangam Express,Basti,11:35
+18756,Ambikapur Shahdol Express,Ambikapur,09:00
+18756,Ambikapur Shahdol Express,Anuppur,12:22
+18756,Ambikapur Shahdol Express,Ambikapur,13:30
+11752,Chirimiri Rewa Express,Bilaspur,19:00
+11752,Chirimiri Rewa Express,Anuppur,21:37
+11752,Chirimiri Rewa Express,Katni,01:30
+11752,Chirimiri Rewa Express,Satna,03:10
+11752,Chirimiri Rewa Express,Manikpur,04:45
+22868,Nizamuddin Durg Humsafar Express,Katni Murwara,23:40
+22868,Nizamuddin Durg Humsafar Express,Anuppur,03:03
+22868,Nizamuddin Durg Humsafar Express,Uslapur,06:15
+22868,Nizamuddin Durg Humsafar Express,Bhatapara,07:03
+22868,Nizamuddin Durg Humsafar Express,Raipur,08:05
+22868,Nizamuddin Durg Humsafar Express,Durg,09:10
+14214,Bahraich Varanasi intercity Express,Bahraich,05:10
+14214,Bahraich Varanasi intercity Express,Gonda,06:20
+14214,Bahraich Varanasi intercity Express,Mankapur,07:20
+14214,Bahraich Varanasi intercity Express,Varanasi,13:35
+18242,Ambikapur Durg Express,Ambikapur,22:30
+18242,Ambikapur Durg Express,Anuppur,01:55
+18242,Ambikapur Durg Express,Uslapur,06:45
+18242,Ambikapur Durg Express,Bhatapara,07:33
+18242,Ambikapur Durg Express,Raipur,08:40
+18242,Ambikapur Durg Express,Durg,09:55
+15159,Chhapra Durg Sarnath Express,Chhapra,07:10
+15159,Chhapra Durg Sarnath Express,Ballia,08:30
+15159,Chhapra Durg Sarnath Express,Ghazipur City,09:45
+15159,Chhapra Durg Sarnath Express,Aunrihar,10:40
+15159,Chhapra Durg Sarnath Express,Varanasi,12:30
+15159,Chhapra Durg Sarnath Express,Prayagraj,15:35
+15159,Chhapra Durg Sarnath Express,Manikpur,17:40
+15159,Chhapra Durg Sarnath Express,Satna,18:50
+15159,Chhapra Durg Sarnath Express,Katni,20:45
+15159,Chhapra Durg Sarnath Express,Anuppur,00:11
+15159,Chhapra Durg Sarnath Express,Uslapur,03:40
+15159,Chhapra Durg Sarnath Express,Bhatapara,04:31
+15159,Chhapra Durg Sarnath Express,Raipur,05:50
+15159,Chhapra Durg Sarnath Express,Durg,07:05
+12535,Lucknow Jn. Raipur Garib Rath Express,Lucknow Jn.,14:10
+12535,Lucknow Jn. Raipur Garib Rath Express,Kanpur,15:45
+12535,Lucknow Jn. Raipur Garib Rath Express,Banda,18:05
+12535,Lucknow Jn. Raipur Garib Rath Express,Chitrakoot Dham Karvi,19:12
+12535,Lucknow Jn. Raipur Garib Rath Express,Satna,21:20
+12535,Lucknow Jn. Raipur Garib Rath Express,Katni,23:00
+12535,Lucknow Jn. Raipur Garib Rath Express,Anuppur,02:38
+12535,Lucknow Jn. Raipur Garib Rath Express,Uslapur,05:25
+12535,Lucknow Jn. Raipur Garib Rath Express,Bhatapara,06:08
+12535,Lucknow Jn. Raipur Garib Rath Express,Raipur,07:15
+11265,Jabalpur Ambikapur Express,Satna,12:45
+11265,Jabalpur Ambikapur Express,Katni South,14:05
+11265,Jabalpur Ambikapur Express,Anuppur,18:15
+11265,Jabalpur Ambikapur Express,Ambikapur,23:00
+15231,Barauni Gondia Express,Barauni,10:10
+15231,Barauni Gondia Express,Muzaffarpur,12:15
+15231,Barauni Gondia Express,Hajipur,13:10
+15231,Barauni Gondia Express,Chhapra,15:00
+15231,Barauni Gondia Express,Ballia,16:20
+15231,Barauni Gondia Express,Ghazipur City,17:25
+15231,Barauni Gondia Express,Aunrihar,18:20
+15231,Barauni Gondia Express,Jaunpur,20:10
+15231,Barauni Gondia Express,Varanasi,21:35
+15231,Barauni Gondia Express,Prayagraj Chheoki,01:30
+15231,Barauni Gondia Express,Manikpur,03:10
+15231,Barauni Gondia Express,Satna,04:10
+15231,Barauni Gondia Express,Katni,06:25
+15231,Barauni Gondia Express,Anuppur,09:46
+15231,Barauni Gondia Express,Uslapur,12:35
+15231,Barauni Gondia Express,Bhatapara,13:23
+15231,Barauni Gondia Express,Raipur,14:25
+15231,Barauni Gondia Express,Durg,15:30
+20848,Martyr Captain Tushar Mahajan Durg Express,Katni Murwara,23:40
+20848,Martyr Captain Tushar Mahajan Durg Express,Anuppur,03:03
+20848,Martyr Captain Tushar Mahajan Durg Express,Uslapur,06:15
+20848,Martyr Captain Tushar Mahajan Durg Express,Bhatapara,07:03
+20848,Martyr Captain Tushar Mahajan Durg Express,Raipur,08:05
+20848,Martyr Captain Tushar Mahajan Durg Express,Durg,09:10
+18208,Ajmer Durg Express,Katni Murwara,12:15
+18208,Ajmer Durg Express,Anuppur,15:40
+18208,Ajmer Durg Express,Uslapur,19:05
+18208,Ajmer Durg Express,Bhatapara,19:51
+18208,Ajmer Durg Express,Raipur,21:10
+18208,Ajmer Durg Express,Durg,22:10
+18214,Ajmer Durg Express,Katni Murwara,12:15
+18214,Ajmer Durg Express,Anuppur,15:40
+18214,Ajmer Durg Express,Uslapur,19:05
+18214,Ajmer Durg Express,Bhatapara,19:51
+18214,Ajmer Durg Express,Raipur,21:10
+18214,Ajmer Durg Express,Durg,22:10
+18574,Bhagat Ki Kothi (Jodhpur) Visakhapatnam Express,Katni Murwara,15:30
+18574,Bhagat Ki Kothi (Jodhpur) Visakhapatnam Express,Anuppur,19:00
+18574,Bhagat Ki Kothi (Jodhpur) Visakhapatnam Express,Uslapur,21:40
+18574,Bhagat Ki Kothi (Jodhpur) Visakhapatnam Express,Bhatapara,22:26
+18574,Bhagat Ki Kothi (Jodhpur) Visakhapatnam Express,Raipur,23:55
+12824,Nizamuddin Durg Chhattisgarh Sampark Kranti Express,Katni Murwara,05:50
+12824,Nizamuddin Durg Chhattisgarh Sampark Kranti Express,Anuppur,09:00
+12824,Nizamuddin Durg Chhattisgarh Sampark Kranti Express,Uslapur,12:00
+12824,Nizamuddin Durg Chhattisgarh Sampark Kranti Express,Bhatapara,12:46
+12824,Nizamuddin Durg Chhattisgarh Sampark Kranti Express,Raipur,13:55
+12824,Nizamuddin Durg Chhattisgarh Sampark Kranti Express,Durg,14:55
+12550,Martyr Captain Tushar Mahajan Durg Express,Katni Murwara,02:00
+12550,Martyr Captain Tushar Mahajan Durg Express,Anuppur,05:14
+12550,Martyr Captain Tushar Mahajan Durg Express,Uslapur,08:10
+12550,Martyr Captain Tushar Mahajan Durg Express,Bhatapara,08:55
+12550,Martyr Captain Tushar Mahajan Durg Express,Raipur,10:00
+12550,Martyr Captain Tushar Mahajan Durg Express,Durg,11:05
+18202,Nautanwa Durg Express,/ a Gorakhpur,13:30
+18202,Nautanwa Durg Express,Deoriasadar,14:25
+18202,Nautanwa Durg Express,Bhatni,15:52
+18202,Nautanwa Durg Express,Mau,16:20
+18202,Nautanwa Durg Express,Varanasi,19:00
+18202,Nautanwa Durg Express,Prayagraj Chheoki,21:55
+18202,Nautanwa Durg Express,Manikpur,00:20
+18202,Nautanwa Durg Express,Satna,01:30
+18202,Nautanwa Durg Express,Katni,03:30
+18202,Nautanwa Durg Express,Anuppur,06:55
+18202,Nautanwa Durg Express,Uslapur,09:45
+18202,Nautanwa Durg Express,Bhatapara,10:28
+18202,Nautanwa Durg Express,Raipur,12:00
+18202,Nautanwa Durg Express,Durg,13:00
+18248,Rewa Bilaspur Express,Manikpur,22:05
+18248,Rewa Bilaspur Express,Satna,23:10
+18248,Rewa Bilaspur Express,Katni,01:15
+18248,Rewa Bilaspur Express,Anuppur,04:55
+18248,Rewa Bilaspur Express,Uslapur,08:10
+18248,Rewa Bilaspur Express,Bilaspur,09:20
+18204,Kanpur Durg Betwa Express,Kanpur,17:40
+18204,Kanpur Durg Betwa Express,Banda,20:50
+18204,Kanpur Durg Betwa Express,Chitrakoot Dham Karvi,21:52
+18204,Kanpur Durg Betwa Express,Satna,00:15
+18204,Kanpur Durg Betwa Express,Katni,02:20
+18204,Kanpur Durg Betwa Express,Anuppur,06:20
+18204,Kanpur Durg Betwa Express,Uslapur,09:45
+18204,Kanpur Durg Betwa Express,Bhatapara,10:28
+18204,Kanpur Durg Betwa Express,Raipur,12:05
+18204,Kanpur Durg Betwa Express,Durg,13:00
+18206,Nauatanwa Durg Express (via Ayodhya Cantt),/ a Gorakhpur,11:25
+18206,Nauatanwa Durg Express (via Ayodhya Cantt),Basti,12:17
+18206,Nauatanwa Durg Express (via Ayodhya Cantt),Mankapur,13:44
+18206,Nauatanwa Durg Express (via Ayodhya Cantt),Ayodhya Cantt,15:15
+18206,Nauatanwa Durg Express (via Ayodhya Cantt),Prayagraj,20:20
+18206,Nauatanwa Durg Express (via Ayodhya Cantt),Manikpur,22:50
+18206,Nauatanwa Durg Express (via Ayodhya Cantt),Satna,00:15
+18206,Nauatanwa Durg Express (via Ayodhya Cantt),Katni,02:20
+18206,Nauatanwa Durg Express (via Ayodhya Cantt),Anuppur,06:20
+18206,Nauatanwa Durg Express (via Ayodhya Cantt),Uslapur,09:45
+18206,Nauatanwa Durg Express (via Ayodhya Cantt),Bhatapara,10:28
+18206,Nauatanwa Durg Express (via Ayodhya Cantt),Raipur,12:00
+18206,Nauatanwa Durg Express (via Ayodhya Cantt),Durg,13:00
+14234,Mankapur Praygraj Sangam Express,Mankapur,02:50
+14234,Mankapur Praygraj Sangam Express,Ayodhya Cantt,04:10
+14234,Mankapur Praygraj Sangam Express,Jaunpur,08:25
+14232,Basti Praygraj Sangam Manwar Sangam Express,Basti,13:45
+14232,Basti Praygraj Sangam Manwar Sangam Express,Mankapur,15:07
+14232,Basti Praygraj Sangam Manwar Sangam Express,Ayodhya Cantt,16:25
+14232,Basti Praygraj Sangam Manwar Sangam Express,Jaunpur,20:15
+18755,Shahdol Ambikapur Express,Katni South,14:30
+18755,Shahdol Ambikapur Express,Anuppur,15:20
+18755,Shahdol Ambikapur Express,Ambikapur,20:15
+11751,Rewa Chirimiri Express,Manikpur,19:10
+11751,Rewa Chirimiri Express,Satna,20:20
+11751,Rewa Chirimiri Express,Katni,22:05
+11751,Rewa Chirimiri Express,Anuppur,01:41
+11751,Rewa Chirimiri Express,Ambikapur,04:35
